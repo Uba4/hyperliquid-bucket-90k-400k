@@ -4,7 +4,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": null,
-    "last_bar_collected": 5,
+    "last_bar_collected": 8,
     "tracking_until": null,
     "entry_volume": 448960.4789769998
   },
@@ -13,7 +13,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": null,
-    "last_bar_collected": 5,
+    "last_bar_collected": 8,
     "tracking_until": null,
     "entry_volume": 462605.2266190001
   },
@@ -22,7 +22,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": null,
-    "last_bar_collected": 5,
+    "last_bar_collected": 8,
     "tracking_until": null,
     "entry_volume": 728180.2812549998
   },
@@ -31,7 +31,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": null,
-    "last_bar_collected": 4,
+    "last_bar_collected": 8,
     "tracking_until": null,
     "entry_volume": 822266.3618099998
   },
@@ -40,7 +40,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": "2026-01-01T12:59:41.850208",
-    "last_bar_collected": 5,
+    "last_bar_collected": 8,
     "tracking_until": "2026-01-11T12:59:41.850208",
     "entry_volume": 499498.119421
   },
@@ -49,7 +49,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-01T11:47:18.625191",
     "exit_time": "2026-01-01T11:59:04.711007",
-    "last_bar_collected": 5,
+    "last_bar_collected": 8,
     "tracking_until": "2026-01-11T11:59:04.711007",
     "entry_volume": 914380.991075
   },
@@ -58,7 +58,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-01T11:59:04.711007",
     "exit_time": null,
-    "last_bar_collected": 5,
+    "last_bar_collected": 8,
     "tracking_until": null,
     "entry_volume": 892100.9873710003
   },
@@ -67,7 +67,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-01T12:59:41.850208",
     "exit_time": null,
-    "last_bar_collected": 0,
+    "last_bar_collected": 4,
     "tracking_until": null,
     "entry_volume": 421527.0875659999
   }

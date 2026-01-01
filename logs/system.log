@@ -226,3 +226,71 @@
 ======================================================================
 2026-01-01 12:59:41,851 [INFO] ✅ DETECTOR COMPLETE - 2026-01-01 12:59 UTC
 2026-01-01 12:59:41,851 [INFO] ======================================================================
+2026-01-01 13:34:18,657 [INFO] ✅ Directories initialized
+2026-01-01 13:34:18,657 [INFO] ======================================================================
+2026-01-01 13:34:18,657 [INFO] 🚀 Hyperliquid Data Collection System - Bucket 400k-1.2m
+2026-01-01 13:34:18,658 [INFO] ======================================================================
+2026-01-01 13:34:18,658 [INFO] Volume Range: $400,000 - $1,200,000
+2026-01-01 13:34:18,658 [INFO] Timeframe: 15m
+2026-01-01 13:34:18,658 [INFO] Post-exit tracking: 10 days
+2026-01-01 13:34:18,658 [INFO] Data retention: 365 days
+2026-01-01 13:34:18,658 [INFO] ======================================================================
+2026-01-01 13:34:18,658 [INFO] ======================================================================
+2026-01-01 13:34:18,658 [INFO] 📦 COLLECTOR START - 2026-01-01 13:34 UTC
+2026-01-01 13:34:18,658 [INFO] ======================================================================
+2026-01-01 13:34:18,658 [INFO] 📊 Active tracking: 8 tokens
+2026-01-01 13:34:18,658 [INFO] 
+📡 Fetching market data...
+2026-01-01 13:34:19,327 [INFO] ✅ Fetched volume data for 224 tokens
+2026-01-01 13:34:19,328 [INFO] 📊 Fetching BTC reference data...
+2026-01-01 13:34:19,600 [INFO] 
+🔄 Collecting data for active tokens...
+2026-01-01 13:34:19,600 [INFO] 
+[1/8] Processing WCT (Run 1, in_top6)
+2026-01-01 13:34:19,631 [INFO] 📂 Loaded existing data for WCT: 5 bars
+2026-01-01 13:34:19,632 [INFO] 📥 WCT: Fetching 2 bars from 2026-01-01 13:00 UTC
+2026-01-01 13:34:19,823 [INFO] ✅ WCT: Collected 3 bars (total: 8 bars)
+2026-01-01 13:34:19,923 [INFO] 
+[2/8] Processing ZEN (Run 1, in_top6)
+2026-01-01 13:34:19,925 [INFO] 📂 Loaded existing data for ZEN: 5 bars
+2026-01-01 13:34:19,926 [INFO] 📥 ZEN: Fetching 2 bars from 2026-01-01 13:00 UTC
+2026-01-01 13:34:20,109 [INFO] ✅ ZEN: Collected 3 bars (total: 8 bars)
+2026-01-01 13:34:20,210 [INFO] 
+[3/8] Processing BERA (Run 1, in_top6)
+2026-01-01 13:34:20,211 [INFO] 📂 Loaded existing data for BERA: 5 bars
+2026-01-01 13:34:20,212 [INFO] 📥 BERA: Fetching 2 bars from 2026-01-01 13:00 UTC
+2026-01-01 13:34:20,475 [INFO] ✅ BERA: Collected 3 bars (total: 8 bars)
+2026-01-01 13:34:20,575 [INFO] 
+[4/8] Processing ICP (Run 1, in_top6)
+2026-01-01 13:34:20,577 [INFO] 📂 Loaded existing data for ICP: 4 bars
+2026-01-01 13:34:20,578 [INFO] 📥 ICP: Fetching 3 bars from 2026-01-01 12:45 UTC
+2026-01-01 13:34:20,738 [INFO] ✅ ICP: Collected 4 bars (total: 8 bars)
+2026-01-01 13:34:20,839 [INFO] 
+[5/8] Processing MOODENG (Run 1, post_exit)
+2026-01-01 13:34:20,840 [INFO] 📂 Loaded existing data for MOODENG: 5 bars
+2026-01-01 13:34:20,841 [INFO] 📥 MOODENG: Fetching 2 bars from 2026-01-01 13:00 UTC
+2026-01-01 13:34:21,167 [INFO] ✅ MOODENG: Collected 3 bars (total: 8 bars)
+2026-01-01 13:34:21,267 [INFO] 
+[6/8] Processing EIGEN (Run 1, post_exit)
+2026-01-01 13:34:21,269 [INFO] 📂 Loaded existing data for EIGEN: 5 bars
+2026-01-01 13:34:21,269 [INFO] 📥 EIGEN: Fetching 2 bars from 2026-01-01 13:00 UTC
+2026-01-01 13:34:21,467 [INFO] ✅ EIGEN: Collected 3 bars (total: 8 bars)
+2026-01-01 13:34:21,567 [INFO] 
+[7/8] Processing MAVIA (Run 1, in_top6)
+2026-01-01 13:34:21,570 [INFO] 📂 Loaded existing data for MAVIA: 5 bars
+2026-01-01 13:34:21,570 [INFO] 📥 MAVIA: Fetching 2 bars from 2026-01-01 13:00 UTC
+2026-01-01 13:34:21,744 [INFO] ✅ MAVIA: Collected 3 bars (total: 8 bars)
+2026-01-01 13:34:21,844 [INFO] 
+[8/8] Processing NIL (Run 1, in_top6)
+2026-01-01 13:34:21,847 [INFO] 🆕 Initialized new Parquet for NIL
+2026-01-01 13:34:21,847 [INFO] 📥 NIL: Fetching 3 bars from 2026-01-01 12:45 UTC
+2026-01-01 13:34:22,077 [INFO] ✅ NIL: Collected 4 bars (total: 4 bars)
+2026-01-01 13:34:22,177 [INFO] 
+======================================================================
+2026-01-01 13:34:22,177 [INFO] 📊 COLLECTION SUMMARY
+2026-01-01 13:34:22,178 [INFO] ======================================================================
+2026-01-01 13:34:22,178 [INFO] ✅ Successful: 8/8
+2026-01-01 13:34:22,178 [INFO] 
+======================================================================
+2026-01-01 13:34:22,178 [INFO] ✅ COLLECTOR COMPLETE - 2026-01-01 13:34 UTC
+2026-01-01 13:34:22,178 [INFO] ======================================================================
