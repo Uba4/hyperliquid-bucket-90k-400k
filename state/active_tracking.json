@@ -28,11 +28,11 @@
   },
   "ICP": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T11:47:18.625191",
-    "exit_time": null,
+    "exit_time": "2026-01-01T13:42:57.827833",
     "last_bar_collected": 8,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T13:42:57.827833",
     "entry_volume": 822266.3618099998
   },
   "MOODENG": {
@@ -64,11 +64,29 @@
   },
   "NIL": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-01T12:59:41.850208",
-    "exit_time": null,
+    "exit_time": "2026-01-01T13:42:57.827833",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-11T13:42:57.827833",
     "entry_volume": 421527.0875659999
+  },
+  "AR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T13:42:57.827833",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 361383.027327
+  },
+  "SYRUP": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-01T13:42:57.827833",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 371443.48168
   }
 }
