@@ -4,9 +4,9 @@ Bucket: 400k - 1.2M Volume Range
 """
 
 # ===================== VOLUME BUCKET =====================
-BUCKET_NAME = "400k-1.2m"
-MIN_VOLUME = 400_000
-MAX_VOLUME = 1_200_000
+BUCKET_NAME = "90k-400k"
+MIN_VOLUME = 90_000
+MAX_VOLUME = 400_000
 
 # ===================== API CONFIGURATION =====================
 HYPERLIQUID_API = "https://api.hyperliquid.xyz/info"
