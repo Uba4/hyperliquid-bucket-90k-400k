@@ -154,11 +154,11 @@
   },
   "IOTA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T17:31:55.530060",
-    "exit_time": null,
+    "exit_time": "2026-01-02T21:18:36.563339",
     "last_bar_collected": 12,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T21:18:36.563339",
     "entry_volume": 116356.93873
   },
   "MINA": {
@@ -250,5 +250,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 337773.9554050001
+  },
+  "REZ": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T21:18:36.563339",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 227794.337361
   }
 }
