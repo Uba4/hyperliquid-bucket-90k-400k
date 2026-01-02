@@ -19,7 +19,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 1
-        lfs: true  # Enable Git LFS for Parquet files
+        lfs: false  # Enable Git LFS for Parquet files
     
     - name: Pull latest changes
       run: |
