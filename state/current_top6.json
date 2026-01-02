@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VVV",
-    "FOGO",
-    "ZEREBRO",
     "IOTA",
-    "MINA",
-    "ZRO"
+    "JTO",
+    "ZEREBRO",
+    "FOGO",
+    "MINA"
   ],
   "scores": [
     146,
     144,
-    142,
     140,
-    138,
+    140,
+    140,
     136
   ],
-  "timestamp": "2026-01-02T17:45:00.057470",
+  "timestamp": "2026-01-02T17:47:51.677900",
   "bucket": "90k-400k"
 }

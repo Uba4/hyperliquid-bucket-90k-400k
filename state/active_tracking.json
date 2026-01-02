@@ -190,11 +190,20 @@
   },
   "ZRO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T17:31:55.530060",
+    "exit_time": "2026-01-02T17:47:51.677712",
+    "last_bar_collected": 0,
+    "tracking_until": "2026-01-12T17:47:51.677712",
+    "entry_volume": 417769.62372
+  },
+  "JTO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T17:47:51.677712",
     "exit_time": null,
     "last_bar_collected": 0,
     "tracking_until": null,
-    "entry_volume": 417769.62372
+    "entry_volume": 370048.89375
   }
 }
