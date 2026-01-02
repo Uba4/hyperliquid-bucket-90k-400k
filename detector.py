@@ -31,7 +31,6 @@ def calculate_top6_scores(tokens: List[str], data_cache: Dict) -> List[Tuple[str
                 scores[winner] += 1
                 successful_comparisons += 1
             
-            time.sleep(config.API_DELAY)
     
     success_rate = (successful_comparisons / total_comparisons * 100) if total_comparisons > 0 else 0
     utils.logger.info(f"✅ Completed: {successful_comparisons:,}/{total_comparisons:,} successful ({success_rate:.1f}%)")
