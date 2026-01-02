@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "VVV",
     "SUSHI",
+    "VVV",
+    "LINEA",
+    "DYDX",
     "FET",
-    "USTC",
-    "REZ",
-    "LINEA"
+    "REZ"
   ],
   "scores": [
     136,
@@ -15,6 +15,6 @@
     128,
     126
   ],
-  "timestamp": "2026-01-02T21:56:13.176574",
+  "timestamp": "2026-01-02T22:23:42.189302",
   "bucket": "90k-400k"
 }
