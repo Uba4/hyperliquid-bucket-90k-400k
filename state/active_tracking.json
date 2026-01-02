@@ -289,11 +289,20 @@
   },
   "ZETA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T23:22:35.986952",
+    "exit_time": "2026-01-02T23:38:51.960079",
+    "last_bar_collected": 0,
+    "tracking_until": "2026-01-12T23:38:51.960079",
+    "entry_volume": 325015.499276
+  },
+  "DYM": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T23:38:51.960079",
     "exit_time": null,
     "last_bar_collected": 0,
     "tracking_until": null,
-    "entry_volume": 325015.499276
+    "entry_volume": 97071.155674
   }
 }
