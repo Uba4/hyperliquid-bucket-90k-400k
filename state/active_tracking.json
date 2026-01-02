@@ -235,11 +235,11 @@
   },
   "FET": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T19:43:49.804285",
-    "exit_time": null,
+    "exit_time": "2026-01-02T23:50:28.097500",
     "last_bar_collected": 16,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T23:50:28.097500",
     "entry_volume": 325001.1910400002
   },
   "SUSHI": {
@@ -304,5 +304,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 97071.155674
+  },
+  "BOME": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T23:50:28.097500",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 125380.528329
   }
 }
