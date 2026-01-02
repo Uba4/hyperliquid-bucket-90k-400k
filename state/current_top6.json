@@ -3,18 +3,18 @@
     "SUSHI",
     "DYDX",
     "LINEA",
+    "ZEREBRO",
     "FET",
-    "USTC",
-    "REZ"
+    "ZETA"
   ],
   "scores": [
     136,
     134,
     132,
     130,
-    127,
-    127
+    128,
+    124
   ],
-  "timestamp": "2026-01-02T22:56:15.375661",
+  "timestamp": "2026-01-02T23:22:35.987281",
   "bucket": "90k-400k"
 }
