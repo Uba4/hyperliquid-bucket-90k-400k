@@ -17,7 +17,7 @@ API_DELAY = 0.05  # Delay between API calls (seconds)
 RSI_PERIOD = 14
 MA_PERIOD = 14
 SIGNAL_LINE = 50
-LOOKBACK_PERIODS = 150  # Number of 15min bars to fetch for RSI calculation
+LOOKBACK_PERIODS = 100  # Number of 15min bars to fetch for RSI calculation
 
 # ===================== TRACKING CONFIGURATION =====================
 TIMEFRAME = "15m"
