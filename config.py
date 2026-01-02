@@ -11,7 +11,7 @@ MAX_VOLUME = 400_000
 # ===================== API CONFIGURATION =====================
 HYPERLIQUID_API = "https://api.hyperliquid.xyz/info"
 API_TIMEOUT = 10
-API_DELAY = 0.1  # Delay between API calls (seconds)
+API_DELAY = 0.05  # Delay between API calls (seconds)
 
 # ===================== TECHNICAL ANALYSIS =====================
 RSI_PERIOD = 14
