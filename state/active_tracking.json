@@ -172,11 +172,11 @@
   },
   "VVV": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T17:31:55.530060",
-    "exit_time": null,
+    "exit_time": "2026-01-02T22:44:16.914863",
     "last_bar_collected": 20,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T22:44:16.914863",
     "entry_volume": 222981.544146
   },
   "ZEREBRO": {
@@ -261,13 +261,13 @@
     "entry_volume": 227794.337361
   },
   "USTC": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T21:32:07.039963",
-    "exit_time": "2026-01-02T22:23:42.189127",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T22:44:16.914863",
+    "exit_time": null,
     "last_bar_collected": 4,
-    "tracking_until": "2026-01-12T22:23:42.189127",
-    "entry_volume": 234050.8599299999
+    "tracking_until": null,
+    "entry_volume": 312589.4198599998
   },
   "LINEA": {
     "current_run": 1,
