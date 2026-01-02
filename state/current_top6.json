@@ -2,9 +2,9 @@
   "tokens": [
     "VVV",
     "IOTA",
+    "GALA",
     "ZEREBRO",
-    "FOGO",
-    "JTO",
+    "MEW",
     "MINA"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     138,
     136
   ],
-  "timestamp": "2026-01-02T17:59:09.348053",
+  "timestamp": "2026-01-02T18:41:20.900858",
   "bucket": "90k-400k"
 }

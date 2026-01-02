@@ -145,11 +145,11 @@
   },
   "FOGO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T17:31:55.530060",
-    "exit_time": null,
+    "exit_time": "2026-01-02T18:41:20.900570",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T18:41:20.900570",
     "entry_volume": 84823.98654
   },
   "IOTA": {
@@ -199,11 +199,29 @@
   },
   "JTO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T17:47:51.677712",
-    "exit_time": null,
+    "exit_time": "2026-01-02T18:41:20.900570",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T18:41:20.900570",
     "entry_volume": 370048.89375
+  },
+  "GALA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T18:41:20.900570",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 149749.478632
+  },
+  "MEW": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T18:41:20.900570",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 167207.424839
   }
 }
