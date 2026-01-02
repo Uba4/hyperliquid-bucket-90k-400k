@@ -226,11 +226,11 @@
   },
   "STX": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T19:20:02.770422",
-    "exit_time": null,
+    "exit_time": "2026-01-02T21:32:07.039963",
     "last_bar_collected": 9,
-    "tracking_until": null,
+    "tracking_until": "2026-01-12T21:32:07.039963",
     "entry_volume": 238909.553046
   },
   "FET": {
@@ -259,5 +259,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 227794.337361
+  },
+  "USTC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-02T21:32:07.039963",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 234050.8599299999
   }
 }
