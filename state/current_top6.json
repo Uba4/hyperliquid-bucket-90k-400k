@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "FIL",
-    "AR",
-    "SYRUP",
-    "DOT",
-    "AERO",
-    "INJ"
+    "VVV",
+    "FOGO",
+    "ZEREBRO",
+    "IOTA",
+    "MINA",
+    "ZRO"
   ],
   "scores": [
-    90,
-    88,
-    86,
-    84,
-    82,
-    80
+    144,
+    142,
+    140,
+    138,
+    136,
+    134
   ],
-  "timestamp": "2026-01-01T16:04:03.494573",
-  "bucket": "400k-1.2m"
+  "timestamp": "2026-01-02T17:31:55.530865",
+  "bucket": "90k-400k"
 }
