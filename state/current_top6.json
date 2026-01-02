@@ -3,9 +3,9 @@
     "VVV",
     "SUSHI",
     "FET",
-    "REZ",
     "USTC",
-    "GALA"
+    "REZ",
+    "LINEA"
   ],
   "scores": [
     136,
@@ -15,6 +15,6 @@
     128,
     126
   ],
-  "timestamp": "2026-01-02T21:45:10.813045",
+  "timestamp": "2026-01-02T21:56:13.176574",
   "bucket": "90k-400k"
 }
