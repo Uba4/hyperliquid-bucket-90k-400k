@@ -171,13 +171,13 @@
     "entry_volume": 110154.370526
   },
   "VVV": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T17:31:55.530060",
-    "exit_time": "2026-01-02T22:44:16.914863",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T09:50:06.466064",
+    "exit_time": null,
     "last_bar_collected": 64,
-    "tracking_until": "2026-01-12T22:44:16.914863",
-    "entry_volume": 222981.544146
+    "tracking_until": null,
+    "entry_volume": 430153.3793309999
   },
   "ZEREBRO": {
     "current_run": 3,
@@ -226,11 +226,11 @@
   },
   "STX": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T04:20:38.783936",
-    "exit_time": null,
+    "exit_time": "2026-01-03T09:50:06.466064",
     "last_bar_collected": 21,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T09:50:06.466064",
     "entry_volume": 272810.2237769999
   },
   "FET": {
