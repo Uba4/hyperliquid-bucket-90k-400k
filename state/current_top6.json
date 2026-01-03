@@ -3,18 +3,18 @@
     "ZEREBRO",
     "MEGA",
     "GOAT",
-    "SOPH",
-    "CHILLGUY",
-    "USTC"
+    "IO",
+    "RENDER",
+    "FOGO"
   ],
   "scores": [
+    149,
     148,
     146,
     144,
     142,
-    138,
-    137
+    141
   ],
-  "timestamp": "2026-01-03T16:28:28.582392",
+  "timestamp": "2026-01-03T16:50:35.751757",
   "bucket": "90k-400k"
 }
