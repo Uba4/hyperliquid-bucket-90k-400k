@@ -424,21 +424,21 @@
   },
   "SOPH": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T13:02:56.184060",
-    "exit_time": null,
+    "exit_time": "2026-01-03T14:34:47.034323",
     "last_bar_collected": 6,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T14:34:47.034323",
     "entry_volume": 109670.917814
   },
   "MOVE": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T13:51:22.144302",
-    "exit_time": "2026-01-03T14:11:09.266857",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T14:34:47.034323",
+    "exit_time": null,
     "last_bar_collected": 3,
-    "tracking_until": "2026-01-13T14:11:09.266857",
-    "entry_volume": 225265.870245
+    "tracking_until": null,
+    "entry_volume": 226178.327504
   },
   "MEGA": {
     "current_run": 1,
