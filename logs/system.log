@@ -7058,3 +7058,311 @@
 ======================================================================
 2026-01-03 10:01:27,474 [INFO] ✅ DETECTOR COMPLETE - 2026-01-03 10:01 UTC
 2026-01-03 10:01:27,474 [INFO] ======================================================================
+2026-01-03 10:27:10,879 [INFO] ✅ Directories initialized
+2026-01-03 10:27:10,879 [INFO] ======================================================================
+2026-01-03 10:27:10,880 [INFO] 🚀 Hyperliquid Data Collection System - Bucket 90k-400k
+2026-01-03 10:27:10,880 [INFO] ======================================================================
+2026-01-03 10:27:10,880 [INFO] Volume Range: $90,000 - $400,000
+2026-01-03 10:27:10,880 [INFO] Timeframe: 15m
+2026-01-03 10:27:10,880 [INFO] Post-exit tracking: 10 days
+2026-01-03 10:27:10,880 [INFO] Data retention: 365 days
+2026-01-03 10:27:10,880 [INFO] ======================================================================
+2026-01-03 10:27:10,880 [INFO] ======================================================================
+2026-01-03 10:27:10,880 [INFO] 📦 COLLECTOR START - 2026-01-03 10:27 UTC
+2026-01-03 10:27:10,880 [INFO] ======================================================================
+2026-01-03 10:27:10,880 [INFO] 📊 Active tracking: 44 tokens
+2026-01-03 10:27:10,880 [INFO] 
+📡 Fetching market data...
+2026-01-03 10:27:11,364 [INFO] ✅ Fetched volume data for 224 tokens
+2026-01-03 10:27:11,365 [INFO] 📊 Fetching BTC reference data...
+2026-01-03 10:27:11,588 [INFO] 
+🔄 Collecting data for active tokens...
+2026-01-03 10:27:11,588 [INFO] 
+[1/44] Processing WCT (Run 2, post_exit)
+2026-01-03 10:27:11,624 [ERROR] ❌ Error loading data/WCT.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:11,627 [INFO] 🆕 Initialized new Parquet for WCT
+2026-01-03 10:27:11,627 [WARNING] ⚠️  WCT: Large gap detected (173 bars). Collecting last 100.
+2026-01-03 10:27:11,627 [INFO] 📥 WCT: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:11,960 [INFO] ✅ WCT: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:12,010 [INFO] 
+[2/44] Processing ZEN (Run 1, post_exit)
+2026-01-03 10:27:12,011 [ERROR] ❌ Error loading data/ZEN.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:12,013 [INFO] 🆕 Initialized new Parquet for ZEN
+2026-01-03 10:27:12,013 [WARNING] ⚠️  ZEN: Large gap detected (186 bars). Collecting last 100.
+2026-01-03 10:27:12,013 [INFO] 📥 ZEN: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:12,203 [INFO] ✅ ZEN: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:12,253 [INFO] 
+[3/44] Processing BERA (Run 1, post_exit)
+2026-01-03 10:27:12,253 [ERROR] ❌ Error loading data/BERA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:12,255 [INFO] 🆕 Initialized new Parquet for BERA
+2026-01-03 10:27:12,256 [WARNING] ⚠️  BERA: Large gap detected (186 bars). Collecting last 100.
+2026-01-03 10:27:12,256 [INFO] 📥 BERA: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:12,504 [INFO] ✅ BERA: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:12,555 [INFO] 
+[4/44] Processing ICP (Run 1, post_exit)
+2026-01-03 10:27:12,555 [ERROR] ❌ Error loading data/ICP.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:12,558 [INFO] 🆕 Initialized new Parquet for ICP
+2026-01-03 10:27:12,558 [WARNING] ⚠️  ICP: Large gap detected (186 bars). Collecting last 100.
+2026-01-03 10:27:12,558 [INFO] 📥 ICP: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:12,779 [INFO] ✅ ICP: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:12,829 [INFO] 
+[5/44] Processing MOODENG (Run 1, post_exit)
+2026-01-03 10:27:12,829 [ERROR] ❌ Error loading data/MOODENG.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:12,832 [INFO] 🆕 Initialized new Parquet for MOODENG
+2026-01-03 10:27:12,832 [WARNING] ⚠️  MOODENG: Large gap detected (186 bars). Collecting last 100.
+2026-01-03 10:27:12,832 [INFO] 📥 MOODENG: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:13,164 [INFO] ✅ MOODENG: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:13,214 [INFO] 
+[6/44] Processing EIGEN (Run 1, post_exit)
+2026-01-03 10:27:13,215 [ERROR] ❌ Error loading data/EIGEN.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:13,217 [INFO] 🆕 Initialized new Parquet for EIGEN
+2026-01-03 10:27:13,217 [WARNING] ⚠️  EIGEN: Large gap detected (186 bars). Collecting last 100.
+2026-01-03 10:27:13,217 [INFO] 📥 EIGEN: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:13,397 [INFO] ✅ EIGEN: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:13,448 [INFO] 
+[7/44] Processing MAVIA (Run 1, post_exit)
+2026-01-03 10:27:13,448 [ERROR] ❌ Error loading data/MAVIA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:13,450 [INFO] 🆕 Initialized new Parquet for MAVIA
+2026-01-03 10:27:13,450 [WARNING] ⚠️  MAVIA: Large gap detected (186 bars). Collecting last 100.
+2026-01-03 10:27:13,450 [INFO] 📥 MAVIA: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:13,654 [INFO] ✅ MAVIA: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:13,705 [INFO] 
+[8/44] Processing NIL (Run 1, post_exit)
+2026-01-03 10:27:13,705 [ERROR] ❌ Error loading data/NIL.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:13,708 [INFO] 🆕 Initialized new Parquet for NIL
+2026-01-03 10:27:13,708 [WARNING] ⚠️  NIL: Large gap detected (182 bars). Collecting last 100.
+2026-01-03 10:27:13,708 [INFO] 📥 NIL: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:13,923 [INFO] ✅ NIL: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:13,973 [INFO] 
+[9/44] Processing AR (Run 2, post_exit)
+2026-01-03 10:27:13,974 [ERROR] ❌ Error loading data/AR.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:13,976 [INFO] 🆕 Initialized new Parquet for AR
+2026-01-03 10:27:13,976 [WARNING] ⚠️  AR: Large gap detected (174 bars). Collecting last 100.
+2026-01-03 10:27:13,976 [INFO] 📥 AR: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:14,162 [INFO] ✅ AR: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:14,212 [INFO] 
+[10/44] Processing SYRUP (Run 1, post_exit)
+2026-01-03 10:27:14,213 [ERROR] ❌ Error loading data/SYRUP.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:14,215 [INFO] 🆕 Initialized new Parquet for SYRUP
+2026-01-03 10:27:14,215 [WARNING] ⚠️  SYRUP: Large gap detected (179 bars). Collecting last 100.
+2026-01-03 10:27:14,215 [INFO] 📥 SYRUP: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:14,547 [INFO] ✅ SYRUP: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:14,597 [INFO] 
+[11/44] Processing FIL (Run 1, post_exit)
+2026-01-03 10:27:14,598 [ERROR] ❌ Error loading data/FIL.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:14,600 [INFO] 🆕 Initialized new Parquet for FIL
+2026-01-03 10:27:14,600 [WARNING] ⚠️  FIL: Large gap detected (178 bars). Collecting last 100.
+2026-01-03 10:27:14,600 [INFO] 📥 FIL: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:14,801 [INFO] ✅ FIL: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:14,851 [INFO] 
+[12/44] Processing APT (Run 1, post_exit)
+2026-01-03 10:27:14,852 [ERROR] ❌ Error loading data/APT.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:14,854 [INFO] 🆕 Initialized new Parquet for APT
+2026-01-03 10:27:14,854 [WARNING] ⚠️  APT: Large gap detected (176 bars). Collecting last 100.
+2026-01-03 10:27:14,854 [INFO] 📥 APT: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:15,071 [INFO] ✅ APT: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:15,122 [INFO] 
+[13/44] Processing TIA (Run 1, post_exit)
+2026-01-03 10:27:15,122 [ERROR] ❌ Error loading data/TIA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:15,124 [INFO] 🆕 Initialized new Parquet for TIA
+2026-01-03 10:27:15,124 [WARNING] ⚠️  TIA: Large gap detected (174 bars). Collecting last 100.
+2026-01-03 10:27:15,124 [INFO] 📥 TIA: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:15,326 [INFO] ✅ TIA: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:15,376 [INFO] 
+[14/44] Processing DOT (Run 1, post_exit)
+2026-01-03 10:27:15,377 [ERROR] ❌ Error loading data/DOT.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:15,379 [INFO] 🆕 Initialized new Parquet for DOT
+2026-01-03 10:27:15,379 [WARNING] ⚠️  DOT: Large gap detected (171 bars). Collecting last 100.
+2026-01-03 10:27:15,379 [INFO] 📥 DOT: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:15,626 [INFO] ✅ DOT: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:15,677 [INFO] 
+[15/44] Processing AERO (Run 1, post_exit)
+2026-01-03 10:27:15,677 [ERROR] ❌ Error loading data/AERO.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:15,679 [INFO] 🆕 Initialized new Parquet for AERO
+2026-01-03 10:27:15,679 [WARNING] ⚠️  AERO: Large gap detected (170 bars). Collecting last 100.
+2026-01-03 10:27:15,679 [INFO] 📥 AERO: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:15,866 [INFO] ✅ AERO: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:15,916 [INFO] 
+[16/44] Processing INJ (Run 1, post_exit)
+2026-01-03 10:27:15,917 [ERROR] ❌ Error loading data/INJ.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:15,919 [INFO] 🆕 Initialized new Parquet for INJ
+2026-01-03 10:27:15,919 [WARNING] ⚠️  INJ: Large gap detected (170 bars). Collecting last 100.
+2026-01-03 10:27:15,919 [INFO] 📥 INJ: Fetching 100 bars from 2026-01-02 09:27 UTC
+2026-01-03 10:27:16,204 [INFO] ✅ INJ: Collected 101 bars (total: 101 bars)
+2026-01-03 10:27:16,254 [INFO] 
+[17/44] Processing FOGO (Run 1, post_exit)
+2026-01-03 10:27:16,255 [ERROR] ❌ Error loading data/FOGO.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:16,256 [INFO] 🆕 Initialized new Parquet for FOGO
+2026-01-03 10:27:16,256 [INFO] 📥 FOGO: Fetching 67 bars from 2026-01-02 17:30 UTC
+2026-01-03 10:27:16,466 [INFO] ✅ FOGO: Collected 68 bars (total: 68 bars)
+2026-01-03 10:27:16,516 [INFO] 
+[18/44] Processing IOTA (Run 1, post_exit)
+2026-01-03 10:27:16,517 [ERROR] ❌ Error loading data/IOTA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:16,519 [INFO] 🆕 Initialized new Parquet for IOTA
+2026-01-03 10:27:16,519 [INFO] 📥 IOTA: Fetching 67 bars from 2026-01-02 17:30 UTC
+2026-01-03 10:27:16,737 [INFO] ✅ IOTA: Collected 68 bars (total: 68 bars)
+2026-01-03 10:27:16,787 [INFO] 
+[19/44] Processing MINA (Run 1, post_exit)
+2026-01-03 10:27:16,788 [ERROR] ❌ Error loading data/MINA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:16,790 [INFO] 🆕 Initialized new Parquet for MINA
+2026-01-03 10:27:16,790 [INFO] 📥 MINA: Fetching 67 bars from 2026-01-02 17:30 UTC
+2026-01-03 10:27:16,976 [INFO] ✅ MINA: Collected 68 bars (total: 68 bars)
+2026-01-03 10:27:17,027 [INFO] 
+[20/44] Processing VVV (Run 2, in_top6)
+2026-01-03 10:27:17,028 [ERROR] ❌ Error loading data/VVV.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:17,030 [INFO] 🆕 Initialized new Parquet for VVV
+2026-01-03 10:27:17,030 [INFO] 📥 VVV: Fetching 2 bars from 2026-01-03 09:45 UTC
+2026-01-03 10:27:17,220 [INFO] ✅ VVV: Collected 3 bars (total: 3 bars)
+2026-01-03 10:27:17,271 [INFO] 
+[21/44] Processing ZEREBRO (Run 3, post_exit)
+2026-01-03 10:27:17,271 [ERROR] ❌ Error loading data/ZEREBRO.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:17,273 [INFO] 🆕 Initialized new Parquet for ZEREBRO
+2026-01-03 10:27:17,273 [INFO] 📥 ZEREBRO: Fetching 32 bars from 2026-01-03 02:15 UTC
+2026-01-03 10:27:17,460 [INFO] ✅ ZEREBRO: Collected 33 bars (total: 33 bars)
+2026-01-03 10:27:17,510 [INFO] 
+[22/44] Processing ZRO (Run 1, post_exit)
+2026-01-03 10:27:17,511 [ERROR] ❌ Error loading data/ZRO.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:17,513 [INFO] 🆕 Initialized new Parquet for ZRO
+2026-01-03 10:27:17,513 [INFO] 📥 ZRO: Fetching 67 bars from 2026-01-02 17:30 UTC
+2026-01-03 10:27:17,694 [INFO] ✅ ZRO: Collected 68 bars (total: 68 bars)
+2026-01-03 10:27:17,744 [INFO] 
+[23/44] Processing JTO (Run 1, post_exit)
+2026-01-03 10:27:17,745 [ERROR] ❌ Error loading data/JTO.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:17,747 [INFO] 🆕 Initialized new Parquet for JTO
+2026-01-03 10:27:17,747 [INFO] 📥 JTO: Fetching 66 bars from 2026-01-02 17:45 UTC
+2026-01-03 10:27:17,950 [INFO] ✅ JTO: Collected 67 bars (total: 67 bars)
+2026-01-03 10:27:18,000 [INFO] 
+[24/44] Processing GALA (Run 2, post_exit)
+2026-01-03 10:27:18,001 [ERROR] ❌ Error loading data/GALA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:18,003 [INFO] 🆕 Initialized new Parquet for GALA
+2026-01-03 10:27:18,003 [INFO] 📥 GALA: Fetching 14 bars from 2026-01-03 06:45 UTC
+2026-01-03 10:27:18,241 [INFO] ✅ GALA: Collected 15 bars (total: 15 bars)
+2026-01-03 10:27:18,291 [INFO] 
+[25/44] Processing MEW (Run 2, post_exit)
+2026-01-03 10:27:18,292 [ERROR] ❌ Error loading data/MEW.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:18,294 [INFO] 🆕 Initialized new Parquet for MEW
+2026-01-03 10:27:18,294 [INFO] 📥 MEW: Fetching 32 bars from 2026-01-03 02:15 UTC
+2026-01-03 10:27:18,476 [INFO] ✅ MEW: Collected 33 bars (total: 33 bars)
+2026-01-03 10:27:18,526 [INFO] 
+[26/44] Processing STX (Run 2, post_exit)
+2026-01-03 10:27:18,527 [ERROR] ❌ Error loading data/STX.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:18,529 [INFO] 🆕 Initialized new Parquet for STX
+2026-01-03 10:27:18,529 [INFO] 📥 STX: Fetching 24 bars from 2026-01-03 04:15 UTC
+2026-01-03 10:27:18,725 [INFO] ✅ STX: Collected 25 bars (total: 25 bars)
+2026-01-03 10:27:18,776 [INFO] 
+[27/44] Processing FET (Run 2, post_exit)
+2026-01-03 10:27:18,776 [ERROR] ❌ Error loading data/FET.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:18,779 [INFO] 🆕 Initialized new Parquet for FET
+2026-01-03 10:27:18,779 [INFO] 📥 FET: Fetching 14 bars from 2026-01-03 06:45 UTC
+2026-01-03 10:27:18,966 [INFO] ✅ FET: Collected 15 bars (total: 15 bars)
+2026-01-03 10:27:19,016 [INFO] 
+[28/44] Processing SUSHI (Run 1, post_exit)
+2026-01-03 10:27:19,017 [ERROR] ❌ Error loading data/SUSHI.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:19,019 [INFO] 🆕 Initialized new Parquet for SUSHI
+2026-01-03 10:27:19,019 [INFO] 📥 SUSHI: Fetching 56 bars from 2026-01-02 20:15 UTC
+2026-01-03 10:27:19,210 [INFO] ✅ SUSHI: Collected 57 bars (total: 57 bars)
+2026-01-03 10:27:19,260 [INFO] 
+[29/44] Processing REZ (Run 1, post_exit)
+2026-01-03 10:27:19,261 [ERROR] ❌ Error loading data/REZ.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:19,263 [INFO] 🆕 Initialized new Parquet for REZ
+2026-01-03 10:27:19,263 [INFO] 📥 REZ: Fetching 52 bars from 2026-01-02 21:15 UTC
+2026-01-03 10:27:19,465 [INFO] ✅ REZ: Collected 53 bars (total: 53 bars)
+2026-01-03 10:27:19,515 [INFO] 
+[30/44] Processing USTC (Run 3, post_exit)
+2026-01-03 10:27:19,516 [ERROR] ❌ Error loading data/USTC.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:19,518 [INFO] 🆕 Initialized new Parquet for USTC
+2026-01-03 10:27:19,518 [INFO] 📥 USTC: Fetching 26 bars from 2026-01-03 03:45 UTC
+2026-01-03 10:27:19,700 [INFO] ✅ USTC: Collected 27 bars (total: 27 bars)
+2026-01-03 10:27:19,751 [INFO] 
+[31/44] Processing LINEA (Run 1, post_exit)
+2026-01-03 10:27:19,751 [ERROR] ❌ Error loading data/LINEA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:19,753 [INFO] 🆕 Initialized new Parquet for LINEA
+2026-01-03 10:27:19,753 [INFO] 📥 LINEA: Fetching 50 bars from 2026-01-02 21:45 UTC
+2026-01-03 10:27:19,931 [INFO] ✅ LINEA: Collected 51 bars (total: 51 bars)
+2026-01-03 10:27:19,981 [INFO] 
+[32/44] Processing DYDX (Run 1, post_exit)
+2026-01-03 10:27:19,982 [ERROR] ❌ Error loading data/DYDX.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:19,984 [INFO] 🆕 Initialized new Parquet for DYDX
+2026-01-03 10:27:19,984 [INFO] 📥 DYDX: Fetching 48 bars from 2026-01-02 22:15 UTC
+2026-01-03 10:27:20,180 [INFO] ✅ DYDX: Collected 49 bars (total: 49 bars)
+2026-01-03 10:27:20,231 [INFO] 
+[33/44] Processing ZETA (Run 1, post_exit)
+2026-01-03 10:27:20,231 [ERROR] ❌ Error loading data/ZETA.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:20,234 [INFO] 🆕 Initialized new Parquet for ZETA
+2026-01-03 10:27:20,234 [INFO] 📥 ZETA: Fetching 44 bars from 2026-01-02 23:15 UTC
+2026-01-03 10:27:20,430 [INFO] ✅ ZETA: Collected 45 bars (total: 45 bars)
+2026-01-03 10:27:20,480 [INFO] 
+[34/44] Processing DYM (Run 2, post_exit)
+2026-01-03 10:27:20,481 [ERROR] ❌ Error loading data/DYM.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:20,483 [INFO] 🆕 Initialized new Parquet for DYM
+2026-01-03 10:27:20,483 [INFO] 📥 DYM: Fetching 32 bars from 2026-01-03 02:15 UTC
+2026-01-03 10:27:20,665 [INFO] ✅ DYM: Collected 33 bars (total: 33 bars)
+2026-01-03 10:27:20,715 [INFO] 
+[35/44] Processing BOME (Run 1, post_exit)
+2026-01-03 10:27:20,715 [ERROR] ❌ Error loading data/BOME.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:20,717 [INFO] 🆕 Initialized new Parquet for BOME
+2026-01-03 10:27:20,717 [INFO] 📥 BOME: Fetching 42 bars from 2026-01-02 23:45 UTC
+2026-01-03 10:27:20,904 [INFO] ✅ BOME: Collected 42 bars (total: 42 bars)
+2026-01-03 10:27:20,955 [INFO] 
+[36/44] Processing FTT (Run 1, post_exit)
+2026-01-03 10:27:20,955 [ERROR] ❌ Error loading data/FTT.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:20,957 [INFO] 🆕 Initialized new Parquet for FTT
+2026-01-03 10:27:20,957 [INFO] 📥 FTT: Fetching 39 bars from 2026-01-03 00:30 UTC
+2026-01-03 10:27:21,149 [INFO] ✅ FTT: Collected 39 bars (total: 39 bars)
+2026-01-03 10:27:21,199 [INFO] 
+[37/44] Processing GOAT (Run 1, post_exit)
+2026-01-03 10:27:21,200 [ERROR] ❌ Error loading data/GOAT.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:21,202 [INFO] 🆕 Initialized new Parquet for GOAT
+2026-01-03 10:27:21,202 [INFO] 📥 GOAT: Fetching 39 bars from 2026-01-03 00:30 UTC
+2026-01-03 10:27:21,382 [INFO] ✅ GOAT: Collected 40 bars (total: 40 bars)
+2026-01-03 10:27:21,432 [INFO] 
+[38/44] Processing PURR (Run 2, in_top6)
+2026-01-03 10:27:21,433 [ERROR] ❌ Error loading data/PURR.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:21,435 [INFO] 🆕 Initialized new Parquet for PURR
+2026-01-03 10:27:21,435 [INFO] 📥 PURR: Fetching 22 bars from 2026-01-03 04:45 UTC
+2026-01-03 10:27:21,619 [INFO] ✅ PURR: Collected 23 bars (total: 23 bars)
+2026-01-03 10:27:21,670 [INFO] 
+[39/44] Processing RESOLV (Run 1, post_exit)
+2026-01-03 10:27:21,670 [ERROR] ❌ Error loading data/RESOLV.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:21,673 [INFO] 🆕 Initialized new Parquet for RESOLV
+2026-01-03 10:27:21,673 [INFO] 📥 RESOLV: Fetching 26 bars from 2026-01-03 03:45 UTC
+2026-01-03 10:27:21,862 [INFO] ✅ RESOLV: Collected 27 bars (total: 27 bars)
+2026-01-03 10:27:21,912 [INFO] 
+[40/44] Processing CELO (Run 3, in_top6)
+2026-01-03 10:27:21,913 [ERROR] ❌ Error loading data/CELO.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:21,915 [INFO] 🆕 Initialized new Parquet for CELO
+2026-01-03 10:27:21,915 [INFO] 📥 CELO: Fetching 7 bars from 2026-01-03 08:30 UTC
+2026-01-03 10:27:22,100 [INFO] ✅ CELO: Collected 8 bars (total: 8 bars)
+2026-01-03 10:27:22,151 [INFO] 
+[41/44] Processing FXS (Run 2, in_top6)
+2026-01-03 10:27:22,151 [ERROR] ❌ Error loading data/FXS.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:22,153 [INFO] 🆕 Initialized new Parquet for FXS
+2026-01-03 10:27:22,153 [INFO] 📥 FXS: Fetching 12 bars from 2026-01-03 07:15 UTC
+2026-01-03 10:27:22,342 [INFO] ✅ FXS: Collected 13 bars (total: 13 bars)
+2026-01-03 10:27:22,392 [INFO] 
+[42/44] Processing PYTH (Run 1, post_exit)
+2026-01-03 10:27:22,392 [ERROR] ❌ Error loading data/PYTH.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:22,394 [INFO] 🆕 Initialized new Parquet for PYTH
+2026-01-03 10:27:22,394 [INFO] 📥 PYTH: Fetching 18 bars from 2026-01-03 05:45 UTC
+2026-01-03 10:27:22,684 [INFO] ✅ PYTH: Collected 19 bars (total: 19 bars)
+2026-01-03 10:27:22,734 [INFO] 
+[43/44] Processing GAS (Run 1, in_top6)
+2026-01-03 10:27:22,735 [ERROR] ❌ Error loading data/GAS.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:22,737 [INFO] 🆕 Initialized new Parquet for GAS
+2026-01-03 10:27:22,737 [INFO] 📥 GAS: Fetching 7 bars from 2026-01-03 08:30 UTC
+2026-01-03 10:27:22,921 [INFO] ✅ GAS: Collected 8 bars (total: 8 bars)
+2026-01-03 10:27:22,972 [INFO] 
+[44/44] Processing COMP (Run 1, in_top6)
+2026-01-03 10:27:22,972 [ERROR] ❌ Error loading data/COMP.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2026-01-03 10:27:22,974 [INFO] 🆕 Initialized new Parquet for COMP
+2026-01-03 10:27:22,974 [INFO] 📥 COMP: Fetching 6 bars from 2026-01-03 08:45 UTC
+2026-01-03 10:27:23,159 [INFO] ✅ COMP: Collected 7 bars (total: 7 bars)
+2026-01-03 10:27:23,210 [INFO] 
+======================================================================
+2026-01-03 10:27:23,210 [INFO] 📊 COLLECTION SUMMARY
+2026-01-03 10:27:23,210 [INFO] ======================================================================
+2026-01-03 10:27:23,210 [INFO] ✅ Successful: 44/44
+2026-01-03 10:27:23,210 [INFO] 
+======================================================================
+2026-01-03 10:27:23,210 [INFO] ✅ COLLECTOR COMPLETE - 2026-01-03 10:27 UTC
+2026-01-03 10:27:23,210 [INFO] ======================================================================
