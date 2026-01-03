@@ -379,11 +379,11 @@
   },
   "GAS": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T11:39:03.731816",
-    "exit_time": null,
+    "exit_time": "2026-01-03T11:50:17.515775",
     "last_bar_collected": 12,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T11:50:17.515775",
     "entry_volume": 108220.21037
   },
   "COMP": {
@@ -412,5 +412,14 @@
     "last_bar_collected": 3,
     "tracking_until": "2026-01-13T11:39:03.731816",
     "entry_volume": 133763.115707
+  },
+  "LAYER": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T11:50:17.515775",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 112909.82791
   }
 }
