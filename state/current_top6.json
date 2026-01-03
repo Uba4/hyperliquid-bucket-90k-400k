@@ -2,19 +2,19 @@
   "tokens": [
     "APEX",
     "IO",
-    "POLYX",
-    "SUSHI",
     "CHILLGUY",
-    "USUAL"
+    "INIT",
+    "POLYX",
+    "RESOLV"
   ],
   "scores": [
     150,
     148,
-    146,
+    144,
     144,
     142,
-    138
+    142
   ],
-  "timestamp": "2026-01-03T20:53:32.282366",
+  "timestamp": "2026-01-03T21:15:25.634351",
   "bucket": "90k-400k"
 }
