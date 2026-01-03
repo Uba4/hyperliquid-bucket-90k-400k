@@ -145,11 +145,11 @@
   },
   "FOGO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T16:50:35.751421",
-    "exit_time": null,
+    "exit_time": "2026-01-03T17:31:46.353019",
     "last_bar_collected": 2,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T17:31:46.353019",
     "entry_volume": 92317.77218
   },
   "IOTA": {
@@ -181,11 +181,11 @@
   },
   "ZEREBRO": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T12:16:27.212427",
-    "exit_time": null,
+    "exit_time": "2026-01-03T17:31:46.353019",
     "last_bar_collected": 21,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T17:31:46.353019",
     "entry_volume": 247666.322077
   },
   "ZRO": {
@@ -306,13 +306,13 @@
     "entry_volume": 114872.388913
   },
   "BOME": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T23:50:28.097500",
-    "exit_time": "2026-01-03T04:20:38.783936",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T17:31:46.353019",
+    "exit_time": null,
     "last_bar_collected": 69,
-    "tracking_until": "2026-01-13T04:20:38.783936",
-    "entry_volume": 125380.528329
+    "tracking_until": null,
+    "entry_volume": 148190.145178
   },
   "FTT": {
     "current_run": 1,
@@ -475,5 +475,14 @@
     "last_bar_collected": 3,
     "tracking_until": null,
     "entry_volume": 374477.4454799999
+  },
+  "MEME": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T17:31:46.353019",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 423496.232675
   }
 }
