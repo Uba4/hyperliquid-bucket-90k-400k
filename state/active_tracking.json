@@ -64,11 +64,11 @@
   },
   "NIL": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T11:25:06.131980",
-    "exit_time": null,
+    "exit_time": "2026-01-03T13:51:22.144302",
     "last_bar_collected": 10,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T13:51:22.144302",
     "entry_volume": 102927.1546199999
   },
   "AR": {
@@ -430,5 +430,14 @@
     "last_bar_collected": 3,
     "tracking_until": null,
     "entry_volume": 109670.917814
+  },
+  "MOVE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T13:51:22.144302",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 225265.870245
   }
 }
