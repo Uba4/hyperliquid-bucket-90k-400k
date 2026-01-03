@@ -334,11 +334,11 @@
   },
   "PURR": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T04:50:09.014895",
-    "exit_time": null,
+    "exit_time": "2026-01-03T10:32:42.858726",
     "last_bar_collected": 23,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T10:32:42.858726",
     "entry_volume": 338582.852035
   },
   "RESOLV": {
@@ -394,5 +394,14 @@
     "last_bar_collected": 7,
     "tracking_until": null,
     "entry_volume": 111921.64161
+  },
+  "ACE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T10:32:42.858726",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 196806.6189709999
   }
 }

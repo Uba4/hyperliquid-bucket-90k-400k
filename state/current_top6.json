@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PURR",
     "CELO",
     "FXS",
-    "VVV",
     "GAS",
-    "COMP"
+    "VVV",
+    "COMP",
+    "ACE"
   ],
   "scores": [
     144,
     142,
     140,
     136,
-    134,
+    132,
     132
   ],
-  "timestamp": "2026-01-03T10:01:27.473322",
+  "timestamp": "2026-01-03T10:32:42.858891",
   "bucket": "90k-400k"
 }
