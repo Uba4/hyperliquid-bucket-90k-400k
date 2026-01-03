@@ -2,9 +2,9 @@
   "tokens": [
     "ZEREBRO",
     "MEGA",
-    "SOPH",
     "GOAT",
-    "ACE",
+    "SOPH",
+    "CHILLGUY",
     "USTC"
   ],
   "scores": [
@@ -12,9 +12,9 @@
     146,
     144,
     142,
-    140,
-    138
+    138,
+    137
   ],
-  "timestamp": "2026-01-03T15:55:57.257777",
+  "timestamp": "2026-01-03T16:28:28.582392",
   "bucket": "90k-400k"
 }
