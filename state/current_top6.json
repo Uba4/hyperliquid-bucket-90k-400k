@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "FTT",
-    "BOME",
-    "SUSHI",
+    "USTC",
     "MEW",
-    "ZEREBRO",
-    "DYM"
+    "DYM",
+    "BOME",
+    "RESOLV",
+    "PURR"
   ],
   "scores": [
-    154,
-    152,
     150,
     148,
     146,
-    144
+    143,
+    143,
+    140
   ],
-  "timestamp": "2026-01-03T02:29:56.714254",
+  "timestamp": "2026-01-03T03:45:26.206322",
   "bucket": "90k-400k"
 }

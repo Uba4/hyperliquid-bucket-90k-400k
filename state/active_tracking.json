@@ -181,11 +181,11 @@
   },
   "ZEREBRO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T02:29:56.713840",
-    "exit_time": null,
+    "exit_time": "2026-01-03T03:45:26.205876",
     "last_bar_collected": 12,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T03:45:26.205876",
     "entry_volume": 214491.293033
   },
   "ZRO": {
@@ -244,11 +244,11 @@
   },
   "SUSHI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-02T20:22:32.645606",
-    "exit_time": null,
+    "exit_time": "2026-01-03T03:45:26.205876",
     "last_bar_collected": 24,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T03:45:26.205876",
     "entry_volume": 337773.9554050001
   },
   "REZ": {
@@ -261,13 +261,13 @@
     "entry_volume": 227794.337361
   },
   "USTC": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T22:44:16.914863",
-    "exit_time": "2026-01-02T23:22:35.986952",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T03:45:26.205876",
+    "exit_time": null,
     "last_bar_collected": 15,
-    "tracking_until": "2026-01-12T23:22:35.986952",
-    "entry_volume": 312589.4198599998
+    "tracking_until": null,
+    "entry_volume": 437983.363287
   },
   "LINEA": {
     "current_run": 1,
@@ -316,11 +316,11 @@
   },
   "FTT": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T00:44:30.897069",
-    "exit_time": null,
+    "exit_time": "2026-01-03T03:45:26.205876",
     "last_bar_collected": 7,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T03:45:26.205876",
     "entry_volume": 311842.5800669999
   },
   "GOAT": {
@@ -331,5 +331,23 @@
     "last_bar_collected": 7,
     "tracking_until": "2026-01-13T02:29:56.713840",
     "entry_volume": 436239.3007170001
+  },
+  "PURR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T03:45:26.205876",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 249325.954562
+  },
+  "RESOLV": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T03:45:26.205876",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 414556.0699240001
   }
 }
