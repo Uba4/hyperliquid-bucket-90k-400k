@@ -478,11 +478,20 @@
   },
   "MEME": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T17:31:46.353019",
+    "exit_time": "2026-01-03T18:36:14.888492",
+    "last_bar_collected": 0,
+    "tracking_until": "2026-01-13T18:36:14.888492",
+    "entry_volume": 423496.232675
+  },
+  "GRIFFAIN": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T18:36:14.888492",
     "exit_time": null,
     "last_bar_collected": 0,
     "tracking_until": null,
-    "entry_volume": 423496.232675
+    "entry_volume": 427486.9021610001
   }
 }
