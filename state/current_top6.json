@@ -3,18 +3,18 @@
     "APEX",
     "IO",
     "POLYX",
-    "MAVIA",
-    "BOME",
-    "SUSHI"
+    "SUSHI",
+    "CHILLGUY",
+    "USUAL"
   ],
   "scores": [
     150,
     148,
-    144,
+    146,
     144,
     142,
-    140
+    138
   ],
-  "timestamp": "2026-01-03T20:41:09.080158",
+  "timestamp": "2026-01-03T20:53:32.282366",
   "bucket": "90k-400k"
 }

@@ -55,11 +55,11 @@
   },
   "MAVIA": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T19:43:27.948723",
-    "exit_time": null,
+    "exit_time": "2026-01-03T20:53:32.282067",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T20:53:32.282067",
     "entry_volume": 332865.6789639999
   },
   "NIL": {
@@ -307,11 +307,11 @@
   },
   "BOME": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T17:31:46.353019",
-    "exit_time": null,
+    "exit_time": "2026-01-03T20:53:32.282067",
     "last_bar_collected": 11,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T20:53:32.282067",
     "entry_volume": 148190.145178
   },
   "FTT": {
@@ -450,13 +450,13 @@
     "entry_volume": 82384.27861
   },
   "CHILLGUY": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T16:28:28.582221",
-    "exit_time": "2026-01-03T16:50:35.751421",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T20:53:32.282067",
+    "exit_time": null,
     "last_bar_collected": 17,
-    "tracking_until": "2026-01-13T16:50:35.751421",
-    "entry_volume": 420813.0028050001
+    "tracking_until": null,
+    "entry_volume": 358171.265891
   },
   "IO": {
     "current_run": 1,
@@ -511,5 +511,14 @@
     "last_bar_collected": 3,
     "tracking_until": null,
     "entry_volume": 294564.1676199998
+  },
+  "USUAL": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T20:53:32.282067",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 169719.9796369999
   }
 }
