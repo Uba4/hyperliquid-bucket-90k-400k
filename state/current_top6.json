@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZEREBRO",
     "MEGA",
     "GOAT",
+    "ZEREBRO",
     "IO",
     "RENDER",
     "FOGO"
   ],
   "scores": [
-    149,
-    148,
+    150,
+    146,
     146,
     144,
     142,
-    141
+    142
   ],
-  "timestamp": "2026-01-03T16:50:35.751757",
+  "timestamp": "2026-01-03T17:08:27.124683",
   "bucket": "90k-400k"
 }
