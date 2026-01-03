@@ -217,11 +217,11 @@
   },
   "MEW": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T02:29:56.713840",
-    "exit_time": null,
+    "exit_time": "2026-01-03T05:11:51.371425",
     "last_bar_collected": 10,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T05:11:51.371425",
     "entry_volume": 200645.0947900001
   },
   "STX": {
@@ -351,12 +351,12 @@
     "entry_volume": 414556.0699240001
   },
   "CELO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T04:20:38.783936",
-    "exit_time": "2026-01-03T04:50:09.014895",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T05:11:51.371425",
+    "exit_time": null,
     "last_bar_collected": 2,
-    "tracking_until": "2026-01-13T04:50:09.014895",
-    "entry_volume": 133323.80428
+    "tracking_until": null,
+    "entry_volume": 148254.0781399999
   }
 }

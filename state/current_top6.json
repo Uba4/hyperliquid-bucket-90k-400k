@@ -2,10 +2,10 @@
   "tokens": [
     "DYM",
     "USTC",
-    "RESOLV",
     "STX",
+    "RESOLV",
     "PURR",
-    "MEW"
+    "CELO"
   ],
   "scores": [
     152,
@@ -15,6 +15,6 @@
     144,
     142
   ],
-  "timestamp": "2026-01-03T04:50:09.015062",
+  "timestamp": "2026-01-03T05:11:51.371598",
   "bucket": "90k-400k"
 }
