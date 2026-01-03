@@ -352,11 +352,20 @@
   },
   "CELO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T05:11:51.371425",
-    "exit_time": null,
+    "exit_time": "2026-01-03T05:39:07.791555",
     "last_bar_collected": 2,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T05:39:07.791555",
     "entry_volume": 148254.0781399999
+  },
+  "FXS": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T05:39:07.791555",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 139431.96412
   }
 }
