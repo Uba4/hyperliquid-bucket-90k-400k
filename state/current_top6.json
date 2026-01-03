@@ -2,19 +2,19 @@
   "tokens": [
     "APEX",
     "INIT",
-    "CFX",
-    "BOME",
+    "UMA",
     "RESOLV",
-    "USTC"
+    "BOME",
+    "ANIME"
   ],
   "scores": [
     154,
     152,
+    150,
     148,
     146,
-    146,
-    145
+    144
   ],
-  "timestamp": "2026-01-03T21:57:01.276666",
+  "timestamp": "2026-01-03T22:24:44.684810",
   "bucket": "90k-400k"
 }
