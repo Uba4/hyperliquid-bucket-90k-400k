@@ -343,11 +343,11 @@
   },
   "RESOLV": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T03:45:26.205876",
-    "exit_time": null,
+    "exit_time": "2026-01-03T05:53:20.411479",
     "last_bar_collected": 7,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T05:53:20.411479",
     "entry_volume": 414556.0699240001
   },
   "CELO": {
@@ -367,5 +367,14 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 139431.96412
+  },
+  "PYTH": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T05:53:20.411479",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 376116.740105
   }
 }

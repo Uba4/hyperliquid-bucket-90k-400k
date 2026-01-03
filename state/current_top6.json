@@ -2,19 +2,19 @@
   "tokens": [
     "DYM",
     "STX",
-    "USTC",
     "PURR",
-    "RESOLV",
-    "FXS"
+    "USTC",
+    "FXS",
+    "PYTH"
   ],
   "scores": [
+    156,
     154,
     152,
     150,
-    148,
     146,
-    144
+    146
   ],
-  "timestamp": "2026-01-03T05:39:07.791720",
+  "timestamp": "2026-01-03T05:53:20.411648",
   "bucket": "90k-400k"
 }
