@@ -1,20 +1,20 @@
 {
   "tokens": [
     "APEX",
-    "IO",
-    "CHILLGUY",
     "INIT",
-    "POLYX",
-    "RESOLV"
+    "IO",
+    "RESOLV",
+    "CFX",
+    "BOME"
   ],
   "scores": [
+    152,
     150,
     148,
+    146,
     144,
-    144,
-    142,
     142
   ],
-  "timestamp": "2026-01-03T21:15:25.634351",
+  "timestamp": "2026-01-03T21:33:21.509192",
   "bucket": "90k-400k"
 }
