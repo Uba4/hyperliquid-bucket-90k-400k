@@ -325,11 +325,11 @@
   },
   "GOAT": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T15:28:58.718884",
-    "exit_time": null,
+    "exit_time": "2026-01-03T19:31:01.537585",
     "last_bar_collected": 17,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T19:31:01.537585",
     "entry_volume": 245520.6412299999
   },
   "PURR": {
@@ -493,5 +493,14 @@
     "last_bar_collected": 4,
     "tracking_until": null,
     "entry_volume": 427486.9021610001
+  },
+  "POLYX": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T19:31:01.537585",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 246258.829515
   }
 }

@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "GRIFFAIN",
     "RENDER",
+    "GRIFFAIN",
     "IO",
     "BOME",
     "MEGA",
-    "GOAT"
+    "POLYX"
   ],
   "scores": [
-    156,
     154,
     152,
     150,
-    147,
-    146
+    148,
+    146,
+    142
   ],
-  "timestamp": "2026-01-03T19:16:54.784608",
+  "timestamp": "2026-01-03T19:31:01.537776",
   "bucket": "90k-400k"
 }
