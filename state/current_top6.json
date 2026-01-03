@@ -3,18 +3,18 @@
     "APEX",
     "INIT",
     "UMA",
+    "ANIME",
     "RESOLV",
-    "MANTA",
-    "BOME"
+    "MANTA"
   ],
   "scores": [
     156,
     154,
     152,
-    150,
-    146,
+    148,
+    148,
     146
   ],
-  "timestamp": "2026-01-03T22:43:38.618236",
+  "timestamp": "2026-01-03T22:55:02.689591",
   "bucket": "90k-400k"
 }
