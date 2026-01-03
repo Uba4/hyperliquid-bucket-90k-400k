@@ -2,10 +2,10 @@
   "tokens": [
     "PURR",
     "STX",
-    "DYM",
-    "FET",
+    "CELO",
     "FXS",
-    "GALA"
+    "FET",
+    "GAS"
   ],
   "scores": [
     146,
@@ -15,6 +15,6 @@
     138,
     136
   ],
-  "timestamp": "2026-01-03T07:57:12.234954",
+  "timestamp": "2026-01-03T08:34:11.674806",
   "bucket": "90k-400k"
 }
