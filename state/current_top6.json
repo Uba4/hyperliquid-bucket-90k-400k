@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "RENDER",
     "APEX",
     "IO",
+    "POLYX",
     "MAVIA",
-    "GRIFFAIN",
-    "BOME"
+    "BOME",
+    "SUSHI"
   ],
   "scores": [
-    152,
     150,
     148,
-    145,
-    145,
-    142
+    144,
+    144,
+    142,
+    140
   ],
-  "timestamp": "2026-01-03T20:20:31.052695",
+  "timestamp": "2026-01-03T20:41:09.080158",
   "bucket": "90k-400k"
 }
