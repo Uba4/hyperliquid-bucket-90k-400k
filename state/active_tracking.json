@@ -360,21 +360,21 @@
     "entry_volume": 148254.0781399999
   },
   "FXS": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T05:39:07.791555",
-    "exit_time": "2026-01-03T06:54:02.134444",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-03T07:17:47.426702",
+    "exit_time": null,
     "last_bar_collected": 5,
-    "tracking_until": "2026-01-13T06:54:02.134444",
-    "entry_volume": 139431.96412
+    "tracking_until": null,
+    "entry_volume": 134699.252793
   },
   "PYTH": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T05:53:20.411479",
-    "exit_time": null,
+    "exit_time": "2026-01-03T07:17:47.426702",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-13T07:17:47.426702",
     "entry_volume": 376116.740105
   }
 }
