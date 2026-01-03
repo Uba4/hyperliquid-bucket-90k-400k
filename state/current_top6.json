@@ -3,18 +3,18 @@
     "ZEREBRO",
     "REZ",
     "MEGA",
+    "SOPH",
     "MOVE",
-    "LAYER",
-    "SOPH"
+    "LAYER"
   ],
   "scores": [
+    148,
     146,
     144,
     142,
     138,
-    138,
-    136
+    138
   ],
-  "timestamp": "2026-01-03T14:48:48.047661",
+  "timestamp": "2026-01-03T14:59:38.344986",
   "bucket": "90k-400k"
 }
