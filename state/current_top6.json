@@ -2,19 +2,19 @@
   "tokens": [
     "KAS",
     "FOGO",
-    "IOTA",
-    "BRETT",
     "ALGO",
-    "VVV"
+    "BRETT",
+    "VVV",
+    "MEME"
   ],
   "scores": [
-    161,
+    163,
+    162,
     161,
     158,
     156,
-    154,
-    152
+    154
   ],
-  "timestamp": "2026-01-04T08:00:24.206541",
+  "timestamp": "2026-01-04T08:39:04.678918",
   "bucket": "90k-400k"
 }
