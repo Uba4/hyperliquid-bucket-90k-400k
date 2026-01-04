@@ -55,11 +55,11 @@
   },
   "MAVIA": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T23:44:36.917825",
-    "exit_time": null,
+    "exit_time": "2026-01-04T23:56:10.973580",
     "last_bar_collected": 44,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T23:56:10.973580",
     "entry_volume": 362486.104404
   },
   "NIL": {
@@ -144,13 +144,13 @@
     "entry_volume": 567634.3398600002
   },
   "FOGO": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T06:51:24.755396",
-    "exit_time": "2026-01-04T10:38:24.131979",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T23:56:10.973580",
+    "exit_time": null,
     "last_bar_collected": 65,
-    "tracking_until": "2026-01-14T10:38:24.131979",
-    "entry_volume": 160686.68653
+    "tracking_until": null,
+    "entry_volume": 171447.69307
   },
   "IOTA": {
     "current_run": 2,
