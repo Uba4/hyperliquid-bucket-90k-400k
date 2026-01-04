@@ -54,13 +54,13 @@
     "entry_volume": 914380.991075
   },
   "MAVIA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T12:39:12.723646",
-    "exit_time": "2026-01-04T19:54:54.338612",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T23:44:36.917825",
+    "exit_time": null,
     "last_bar_collected": 44,
-    "tracking_until": "2026-01-14T19:54:54.338612",
-    "entry_volume": 301201.8599489999
+    "tracking_until": null,
+    "entry_volume": 362486.104404
   },
   "NIL": {
     "current_run": 2,
@@ -712,11 +712,11 @@
   },
   "TNSR": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T20:43:25.959013",
-    "exit_time": null,
+    "exit_time": "2026-01-04T23:44:36.917825",
     "last_bar_collected": 11,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T23:44:36.917825",
     "entry_volume": 376850.7839490001
   },
   "SKY": {
