@@ -370,11 +370,11 @@
   },
   "PYTH": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T13:19:29.829863",
-    "exit_time": null,
+    "exit_time": "2026-01-04T14:19:10.619645",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T14:19:10.619645",
     "entry_volume": 214985.915356
   },
   "GAS": {
@@ -628,5 +628,14 @@
     "last_bar_collected": 16,
     "tracking_until": null,
     "entry_volume": 176373.712293
+  },
+  "PROVE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T14:19:10.619645",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 127328.20699
   }
 }
