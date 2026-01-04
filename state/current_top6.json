@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "KAS",
-    "FOGO",
     "ALGO",
+    "FOGO",
+    "KAS",
     "BRETT",
-    "VVV",
-    "MEME"
+    "MEME",
+    "VVV"
   ],
   "scores": [
     163,
-    162,
-    161,
+    163,
+    160,
     158,
     156,
     154
   ],
-  "timestamp": "2026-01-04T08:39:04.678918",
+  "timestamp": "2026-01-04T08:56:25.509914",
   "bucket": "90k-400k"
 }
