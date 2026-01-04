@@ -1,20 +1,20 @@
 {
   "tokens": [
     "DOOD",
-    "BOME",
     "CHILLGUY",
-    "TURBO",
     "MAVIA",
-    "BRETT"
+    "REZ",
+    "TURBO",
+    "PYTH"
   ],
   "scores": [
+    154,
     152,
     150,
     148,
     146,
-    144,
-    142
+    144
   ],
-  "timestamp": "2026-01-04T12:39:12.724051",
+  "timestamp": "2026-01-04T13:19:29.830224",
   "bucket": "90k-400k"
 }
