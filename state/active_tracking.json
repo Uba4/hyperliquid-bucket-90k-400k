@@ -496,11 +496,11 @@
   },
   "POLYX": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T22:30:34.836614",
-    "exit_time": null,
+    "exit_time": "2026-01-04T23:28:19.805205",
     "last_bar_collected": 108,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T23:28:19.805205",
     "entry_volume": 143895.422933
   },
   "APEX": {
@@ -718,5 +718,14 @@
     "last_bar_collected": 11,
     "tracking_until": null,
     "entry_volume": 376850.7839490001
+  },
+  "SKY": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T23:28:19.805205",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 283642.000511
   }
 }

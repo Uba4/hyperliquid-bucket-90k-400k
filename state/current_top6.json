@@ -3,9 +3,9 @@
     "TST",
     "BANANA",
     "ALT",
-    "TNSR",
     "USTC",
-    "POLYX"
+    "TNSR",
+    "SKY"
   ],
   "scores": [
     144,
@@ -15,6 +15,6 @@
     136,
     134
   ],
-  "timestamp": "2026-01-04T22:59:06.544453",
+  "timestamp": "2026-01-04T23:28:19.805401",
   "bucket": "90k-400k"
 }
