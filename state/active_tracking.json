@@ -445,7 +445,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-03T14:11:09.266857",
     "exit_time": "2026-01-03T19:43:27.948723",
-    "last_bar_collected": 85,
+    "last_bar_collected": 86,
     "tracking_until": "2026-01-13T19:43:27.948723",
     "entry_volume": 82384.27861
   },
