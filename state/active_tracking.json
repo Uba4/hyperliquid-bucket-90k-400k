@@ -622,11 +622,11 @@
   },
   "DOOD": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T10:38:24.131979",
-    "exit_time": null,
+    "exit_time": "2026-01-04T15:33:10.319337",
     "last_bar_collected": 20,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T15:33:10.319337",
     "entry_volume": 176373.712293
   },
   "PROVE": {
@@ -649,11 +649,11 @@
   },
   "SAGA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T15:11:29.976738",
-    "exit_time": null,
+    "exit_time": "2026-01-04T15:33:10.319337",
     "last_bar_collected": 2,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T15:33:10.319337",
     "entry_volume": 122885.165042
   },
   "TST": {
@@ -664,5 +664,23 @@
     "last_bar_collected": 2,
     "tracking_until": null,
     "entry_volume": 142025.383534
+  },
+  "BIO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T15:33:10.319337",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 186824.835922
+  },
+  "ME": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T15:33:10.319337",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 97878.499953
   }
 }
