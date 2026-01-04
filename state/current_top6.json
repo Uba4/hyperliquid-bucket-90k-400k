@@ -3,9 +3,9 @@
     "MAVIA",
     "TST",
     "BIO",
-    "ME",
     "BANANA",
-    "GALA"
+    "GALA",
+    "MEW"
   ],
   "scores": [
     146,
@@ -15,6 +15,6 @@
     138,
     136
   ],
-  "timestamp": "2026-01-04T17:58:29.724621",
+  "timestamp": "2026-01-04T18:04:03.941117",
   "bucket": "90k-400k"
 }
