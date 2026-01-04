@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MAVIA",
     "TST",
+    "MAVIA",
     "BIO",
-    "BANANA",
     "GALA",
+    "BANANA",
     "MEW"
   ],
   "scores": [
-    146,
     144,
     142,
     140,
     138,
-    136
+    136,
+    134
   ],
-  "timestamp": "2026-01-04T18:04:03.941117",
+  "timestamp": "2026-01-04T18:39:43.498246",
   "bucket": "90k-400k"
 }
