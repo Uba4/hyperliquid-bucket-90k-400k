@@ -1,11 +1,11 @@
 {
   "tokens": [
     "TST",
-    "ALT",
     "BANANA",
+    "ALT",
     "TNSR",
     "USTC",
-    "MEGA"
+    "POLYX"
   ],
   "scores": [
     144,
@@ -15,6 +15,6 @@
     136,
     134
   ],
-  "timestamp": "2026-01-04T22:00:19.571759",
+  "timestamp": "2026-01-04T22:30:34.836762",
   "bucket": "90k-400k"
 }
