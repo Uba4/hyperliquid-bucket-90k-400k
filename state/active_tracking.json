@@ -54,13 +54,13 @@
     "entry_volume": 914380.991075
   },
   "MAVIA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T19:43:27.948723",
-    "exit_time": "2026-01-03T20:53:32.282067",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T12:39:12.723646",
+    "exit_time": null,
     "last_bar_collected": 69,
-    "tracking_until": "2026-01-13T20:53:32.282067",
-    "entry_volume": 332865.6789639999
+    "tracking_until": null,
+    "entry_volume": 301201.8599489999
   },
   "NIL": {
     "current_run": 2,
@@ -217,11 +217,11 @@
   },
   "MEW": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T11:26:17.040480",
-    "exit_time": null,
+    "exit_time": "2026-01-04T12:39:12.723646",
     "last_bar_collected": 6,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T12:39:12.723646",
     "entry_volume": 99426.091923
   },
   "STX": {
@@ -325,11 +325,11 @@
   },
   "GOAT": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T10:38:24.131979",
-    "exit_time": null,
+    "exit_time": "2026-01-04T12:39:12.723646",
     "last_bar_collected": 9,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T12:39:12.723646",
     "entry_volume": 233984.405276
   },
   "PURR": {
@@ -450,13 +450,13 @@
     "entry_volume": 82384.27861
   },
   "CHILLGUY": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T20:53:32.282067",
-    "exit_time": "2026-01-03T21:33:21.508910",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T12:39:12.723646",
+    "exit_time": null,
     "last_bar_collected": 64,
-    "tracking_until": "2026-01-13T21:33:21.508910",
-    "entry_volume": 358171.265891
+    "tracking_until": null,
+    "entry_volume": 373572.8214600001
   },
   "IO": {
     "current_run": 2,
@@ -585,13 +585,13 @@
     "entry_volume": 396049.0054970002
   },
   "TURBO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T02:36:33.579866",
-    "exit_time": "2026-01-04T04:56:16.462359",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T12:39:12.723646",
+    "exit_time": null,
     "last_bar_collected": 41,
-    "tracking_until": "2026-01-14T04:56:16.462359",
-    "entry_volume": 345383.248954
+    "tracking_until": null,
+    "entry_volume": 316797.5916819999
   },
   "KAS": {
     "current_run": 1,
@@ -613,11 +613,11 @@
   },
   "kNEIRO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T09:23:18.333498",
-    "exit_time": null,
+    "exit_time": "2026-01-04T12:39:12.723646",
     "last_bar_collected": 14,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T12:39:12.723646",
     "entry_volume": 381778.3132350001
   },
   "DOOD": {
