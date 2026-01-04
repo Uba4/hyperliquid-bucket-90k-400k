@@ -217,11 +217,11 @@
   },
   "MEW": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T18:04:03.940897",
-    "exit_time": null,
+    "exit_time": "2026-01-04T19:20:23.723872",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T19:20:23.723872",
     "entry_volume": 192592.5546740001
   },
   "STX": {
@@ -685,11 +685,29 @@
   },
   "BANANA": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T17:33:57.384920",
-    "exit_time": null,
+    "exit_time": "2026-01-04T19:20:23.723872",
     "last_bar_collected": 7,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T19:20:23.723872",
     "entry_volume": 97411.37836
+  },
+  "ALT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T19:20:23.723872",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 179982.653046
+  },
+  "PEOPLE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T19:20:23.723872",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 337455.378544
   }
 }
