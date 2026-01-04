@@ -46,5 +46,25 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add data/*.parquet state/*.json logs/*.log
-        git diff --quiet && git diff --staged --quiet || \
-        (git commit -m "📦 Collector: Update token data - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+        
+        # Only proceed if there are changes
+        if ! git diff --quiet || ! git diff --staged --quiet; then
+          git commit -m "📦 Collector: Update token data - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          
+          # Retry logic: Pull and push up to 3 times
+          for i in 1 2 3; do
+            git pull --rebase origin main || git pull --rebase origin master || true
+            if git push; then
+              echo "✅ Push successful on attempt $i"
+              break
+            else
+              echo "⚠️  Push failed on attempt $i, retrying..."
+              sleep 5
+            fi
+            
+            if [ $i -eq 3 ]; then
+              echo "❌ Push failed after 3 attempts"
+              exit 1
+            fi
+          done
+        fi
