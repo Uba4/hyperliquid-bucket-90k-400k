@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "DOOD",
     "MAVIA",
-    "REZ",
+    "DOOD",
     "PROVE",
-    "WCT",
-    "BOME"
+    "REZ",
+    "VINE",
+    "WCT"
   ],
   "scores": [
     148,
     146,
     144,
-    142,
     140,
-    134
+    140,
+    138
   ],
-  "timestamp": "2026-01-04T14:39:16.355020",
+  "timestamp": "2026-01-04T14:51:28.433744",
   "bucket": "90k-400k"
 }
