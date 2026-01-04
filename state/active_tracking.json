@@ -220,7 +220,7 @@
     "status": "in_top6",
     "entry_time": "2026-01-04T18:04:03.940897",
     "exit_time": null,
-    "last_bar_collected": 4,
+    "last_bar_collected": 2,
     "tracking_until": null,
     "entry_volume": 192592.5546740001
   },
@@ -445,7 +445,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-03T14:11:09.266857",
     "exit_time": "2026-01-03T19:43:27.948723",
-    "last_bar_collected": 97,
+    "last_bar_collected": 101,
     "tracking_until": "2026-01-13T19:43:27.948723",
     "entry_volume": 82384.27861
   },
@@ -571,7 +571,7 @@
     "status": "post_exit",
     "entry_time": "2026-01-04T00:00:20.728823",
     "exit_time": "2026-01-04T04:04:50.213570",
-    "last_bar_collected": 72,
+    "last_bar_collected": 74,
     "tracking_until": "2026-01-14T04:04:50.213570",
     "entry_volume": 282424.874441
   },
