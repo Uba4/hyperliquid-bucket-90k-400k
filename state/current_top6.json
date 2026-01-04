@@ -1,20 +1,20 @@
 {
   "tokens": [
     "DOOD",
-    "kNEIRO",
-    "GOAT",
     "BOME",
-    "BRETT",
-    "MEW"
+    "MEW",
+    "GOAT",
+    "kNEIRO",
+    "BRETT"
   ],
   "scores": [
     154,
     152,
-    150,
     148,
-    146,
-    144
+    148,
+    147,
+    145
   ],
-  "timestamp": "2026-01-04T11:29:46.612757",
+  "timestamp": "2026-01-04T11:43:24.459790",
   "bucket": "90k-400k"
 }
