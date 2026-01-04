@@ -1,11 +1,11 @@
 {
   "tokens": [
     "TST",
-    "GALA",
     "ALT",
-    "PEOPLE",
+    "GALA",
     "BANANA",
-    "MAVIA"
+    "PEOPLE",
+    "ZETA"
   ],
   "scores": [
     148,
@@ -13,8 +13,8 @@
     144,
     142,
     140,
-    137
+    138
   ],
-  "timestamp": "2026-01-04T19:44:10.113665",
+  "timestamp": "2026-01-04T19:54:54.338779",
   "bucket": "90k-400k"
 }
