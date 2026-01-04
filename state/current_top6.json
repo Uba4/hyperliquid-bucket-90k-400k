@@ -1,11 +1,11 @@
 {
   "tokens": [
+    "DOOD",
     "kNEIRO",
     "BRETT",
-    "ALGO",
     "GOAT",
     "CELO",
-    "DOOD"
+    "MEW"
   ],
   "scores": [
     154,
@@ -15,6 +15,6 @@
     146,
     144
   ],
-  "timestamp": "2026-01-04T10:38:24.132329",
+  "timestamp": "2026-01-04T10:52:27.329207",
   "bucket": "90k-400k"
 }
