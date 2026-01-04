@@ -208,11 +208,11 @@
   },
   "GALA": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T17:47:17.926408",
-    "exit_time": null,
+    "exit_time": "2026-01-04T21:20:26.732955",
     "last_bar_collected": 15,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T21:20:26.732955",
     "entry_volume": 89909.035182
   },
   "MEW": {
@@ -261,13 +261,13 @@
     "entry_volume": 132057.011553
   },
   "USTC": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T21:57:01.276485",
-    "exit_time": "2026-01-03T22:24:44.684474",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T21:20:26.732955",
+    "exit_time": null,
     "last_bar_collected": 95,
-    "tracking_until": "2026-01-13T22:24:44.684474",
-    "entry_volume": 417407.5291509998
+    "tracking_until": null,
+    "entry_volume": 197013.2612840001
   },
   "LINEA": {
     "current_run": 1,

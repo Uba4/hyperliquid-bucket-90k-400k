@@ -4,8 +4,8 @@
     "ALT",
     "BANANA",
     "TNSR",
-    "GALA",
-    "ZETA"
+    "ZETA",
+    "USTC"
   ],
   "scores": [
     148,
@@ -15,6 +15,6 @@
     140,
     138
   ],
-  "timestamp": "2026-01-04T20:55:29.776984",
+  "timestamp": "2026-01-04T21:20:26.733154",
   "bucket": "90k-400k"
 }
