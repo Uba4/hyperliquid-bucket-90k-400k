@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SOPH",
     "VVV",
-    "FTT",
     "MEW",
     "JTO",
-    "BOME"
+    "BOME",
+    "FTT",
+    "SOPH"
   ],
   "scores": [
     152,
     150,
     148,
     146,
-    144,
+    142,
     142
   ],
-  "timestamp": "2026-01-04T04:56:16.462507",
+  "timestamp": "2026-01-04T05:28:57.778221",
   "bucket": "90k-400k"
 }
