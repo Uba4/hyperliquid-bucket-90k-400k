@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ALGO",
     "FOGO",
-    "KAS",
-    "BRETT",
+    "ALGO",
     "MEME",
-    "VVV"
+    "BRETT",
+    "CFX",
+    "kNEIRO"
   ],
   "scores": [
-    163,
-    163,
     160,
     158,
     156,
-    154
+    154,
+    150,
+    150
   ],
-  "timestamp": "2026-01-04T08:56:25.509914",
+  "timestamp": "2026-01-04T09:23:18.333853",
   "bucket": "90k-400k"
 }

@@ -172,11 +172,11 @@
   },
   "VVV": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T02:36:33.579866",
-    "exit_time": null,
+    "exit_time": "2026-01-04T09:23:18.333498",
     "last_bar_collected": 25,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T09:23:18.333498",
     "entry_volume": 350961.411003
   },
   "ZEREBRO": {
@@ -531,13 +531,13 @@
     "entry_volume": 150930.3768030001
   },
   "CFX": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T21:33:21.508910",
-    "exit_time": "2026-01-03T22:24:44.684474",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T09:23:18.333498",
+    "exit_time": null,
     "last_bar_collected": 45,
-    "tracking_until": "2026-01-13T22:24:44.684474",
-    "entry_volume": 228477.7763929999
+    "tracking_until": null,
+    "entry_volume": 229755.1812820001
   },
   "ANIME": {
     "current_run": 2,
@@ -595,11 +595,11 @@
   },
   "KAS": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T05:51:10.183934",
-    "exit_time": null,
+    "exit_time": "2026-01-04T09:23:18.333498",
     "last_bar_collected": 12,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T09:23:18.333498",
     "entry_volume": 214260.523117
   },
   "ALGO": {
@@ -610,5 +610,14 @@
     "last_bar_collected": 5,
     "tracking_until": null,
     "entry_volume": 220634.72493
+  },
+  "kNEIRO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T09:23:18.333498",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 381778.3132350001
   }
 }
