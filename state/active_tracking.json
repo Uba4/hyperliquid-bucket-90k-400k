@@ -307,11 +307,11 @@
   },
   "BOME": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-03T23:19:41.467319",
-    "exit_time": null,
+    "exit_time": "2026-01-04T00:00:20.728823",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T00:00:20.728823",
     "entry_volume": 131656.33155
   },
   "FTT": {
@@ -565,5 +565,14 @@
     "last_bar_collected": 4,
     "tracking_until": null,
     "entry_volume": 89763.487872
+  },
+  "NOT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T00:00:20.728823",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 282424.874441
   }
 }
