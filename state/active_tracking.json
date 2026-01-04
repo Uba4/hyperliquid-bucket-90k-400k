@@ -703,11 +703,20 @@
   },
   "PEOPLE": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T19:20:23.723872",
-    "exit_time": null,
+    "exit_time": "2026-01-04T20:43:25.959013",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T20:43:25.959013",
     "entry_volume": 337455.378544
+  },
+  "TNSR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T20:43:25.959013",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 376850.7839490001
   }
 }
