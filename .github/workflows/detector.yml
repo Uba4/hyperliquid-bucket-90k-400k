@@ -44,26 +44,25 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add state/*.json logs/*.log
         
-        # Only proceed if there are changes
-        if ! git diff --quiet || ! git diff --staged --quiet; then
+        # Stage changes
+        git add state/*.json logs/*.log .gitattributes 2>/dev/null || true
+        
+        # Only commit if changes exist
+        if ! git diff --quiet HEAD 2>/dev/null; then
           git commit -m "🔍 Detector: Update Top 6 state - $(date -u +'%Y-%m-%d %H:%M UTC')"
           
-          # Retry logic: Pull and push up to 3 times
+          # Pull and push (NO REBASE)
           for i in 1 2 3; do
-            git pull --rebase origin main || git pull --rebase origin master || true
+            git pull --no-rebase origin main || git pull --no-rebase origin master || true
+            
             if git push; then
-              echo "✅ Push successful on attempt $i"
-              break
-            else
-              echo "⚠️  Push failed on attempt $i, retrying..."
-              sleep 2
+              echo "✅ Push successful"
+              exit 0
             fi
             
-            if [ $i -eq 3 ]; then
-              echo "❌ Push failed after 3 attempts"
-              exit 1
-            fi
+            sleep $((i * 3))
           done
+          
+          exit 1
         fi
