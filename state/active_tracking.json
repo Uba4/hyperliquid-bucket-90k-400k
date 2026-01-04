@@ -145,11 +145,11 @@
   },
   "FOGO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T06:51:24.755396",
-    "exit_time": null,
+    "exit_time": "2026-01-04T10:38:24.131979",
     "last_bar_collected": 15,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T10:38:24.131979",
     "entry_volume": 160686.68653
   },
   "IOTA": {
@@ -324,13 +324,13 @@
     "entry_volume": 143152.4410399999
   },
   "GOAT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T15:28:58.718884",
-    "exit_time": "2026-01-03T19:31:01.537585",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T10:38:24.131979",
+    "exit_time": null,
     "last_bar_collected": 77,
-    "tracking_until": "2026-01-13T19:31:01.537585",
-    "entry_volume": 245520.6412299999
+    "tracking_until": null,
+    "entry_volume": 233984.405276
   },
   "PURR": {
     "current_run": 2,
@@ -478,11 +478,11 @@
   },
   "MEME": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T08:39:04.678719",
-    "exit_time": null,
+    "exit_time": "2026-01-04T10:38:24.131979",
     "last_bar_collected": 8,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T10:38:24.131979",
     "entry_volume": 359238.574809
   },
   "GRIFFAIN": {
@@ -619,5 +619,14 @@
     "last_bar_collected": 5,
     "tracking_until": null,
     "entry_volume": 381778.3132350001
+  },
+  "DOOD": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T10:38:24.131979",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 176373.712293
   }
 }
