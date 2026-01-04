@@ -1,11 +1,11 @@
 {
   "WCT": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T13:44:23.911871",
-    "exit_time": null,
+    "exit_time": "2026-01-04T15:11:29.976738",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T15:11:29.976738",
     "entry_volume": 170297.9828430001
   },
   "ZEN": {
@@ -253,11 +253,11 @@
   },
   "REZ": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-04T13:19:29.829863",
-    "exit_time": null,
+    "exit_time": "2026-01-04T15:11:29.976738",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-14T15:11:29.976738",
     "entry_volume": 132057.011553
   },
   "USTC": {
@@ -646,5 +646,23 @@
     "last_bar_collected": 0,
     "tracking_until": null,
     "entry_volume": 202916.370816
+  },
+  "SAGA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T15:11:29.976738",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 122885.165042
+  },
+  "TST": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-04T15:11:29.976738",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 142025.383534
   }
 }
