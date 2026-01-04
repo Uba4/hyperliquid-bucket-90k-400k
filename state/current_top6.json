@@ -2,19 +2,19 @@
   "tokens": [
     "DOOD",
     "kNEIRO",
-    "BRETT",
     "GOAT",
+    "BRETT",
     "CELO",
-    "MEW"
+    "BOME"
   ],
   "scores": [
+    156,
     154,
     152,
     150,
     148,
-    146,
-    144
+    146
   ],
-  "timestamp": "2026-01-04T10:52:27.329207",
+  "timestamp": "2026-01-04T11:12:15.406732",
   "bucket": "90k-400k"
 }
