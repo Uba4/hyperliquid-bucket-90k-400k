@@ -703,11 +703,11 @@
   },
   "PEOPLE": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T13:31:02.472527",
-    "exit_time": null,
+    "exit_time": "2026-01-05T16:17:33.518646",
     "last_bar_collected": 78,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T16:17:33.518646",
     "entry_volume": 212824.5645319999
   },
   "TNSR": {
@@ -802,11 +802,11 @@
   },
   "W": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T11:42:53.576094",
-    "exit_time": null,
+    "exit_time": "2026-01-05T16:17:33.518646",
     "last_bar_collected": 16,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T16:17:33.518646",
     "entry_volume": 331250.1937189999
   },
   "OM": {
@@ -826,5 +826,23 @@
     "last_bar_collected": 7,
     "tracking_until": "2026-01-15T14:36:13.995139",
     "entry_volume": 121024.20861
+  },
+  "ATOM": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T16:17:33.518646",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 422160.516272
+  },
+  "ZK": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T16:17:33.518646",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 248968.7860460001
   }
 }
