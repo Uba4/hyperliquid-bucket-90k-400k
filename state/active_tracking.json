@@ -279,13 +279,13 @@
     "entry_volume": 222785.9492599999
   },
   "DYDX": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-02T22:23:42.189127",
-    "exit_time": "2026-01-03T02:29:56.713840",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T18:36:23.728670",
+    "exit_time": null,
     "last_bar_collected": 198,
-    "tracking_until": "2026-01-13T02:29:56.713840",
-    "entry_volume": 387105.5073500001
+    "tracking_until": null,
+    "entry_volume": 382992.1801830001
   },
   "ZETA": {
     "current_run": 2,
@@ -829,11 +829,11 @@
   },
   "ATOM": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T16:17:33.518646",
-    "exit_time": null,
+    "exit_time": "2026-01-05T18:36:23.728670",
     "last_bar_collected": 10,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T18:36:23.728670",
     "entry_volume": 422160.516272
   },
   "ZK": {
