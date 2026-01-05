@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TST",
-    "BANANA",
-    "ALT",
-    "FOGO",
-    "SKY",
-    "USTC"
+    "ZEREBRO",
+    "BIGTIME",
+    "BSV",
+    "LINEA",
+    "ENS",
+    "APE"
   ],
   "scores": [
     142,
     140,
-    136,
+    138,
     136,
     134,
     132
   ],
-  "timestamp": "2026-01-04T23:56:10.973769",
+  "timestamp": "2026-01-05T02:03:58.311500",
   "bucket": "90k-400k"
 }
