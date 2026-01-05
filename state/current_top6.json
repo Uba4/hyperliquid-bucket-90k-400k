@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PYTH",
     "BIO",
     "ZK",
-    "ATOM",
     "MINA",
+    "ATOM",
+    "PYTH",
     "PEOPLE"
   ],
   "scores": [
-    162,
     160,
     158,
     156,
     154,
-    152
+    152,
+    150
   ],
-  "timestamp": "2026-01-05T17:12:39.511663",
+  "timestamp": "2026-01-05T17:41:02.769376",
   "bucket": "90k-400k"
 }
