@@ -4,8 +4,8 @@
     "TURBO",
     "PEOPLE",
     "MINA",
-    "ZK",
-    "DYDX"
+    "SAND",
+    "BLUR"
   ],
   "scores": [
     160,
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-05T18:36:23.728867",
+  "timestamp": "2026-01-05T19:00:53.763113",
   "bucket": "90k-400k"
 }

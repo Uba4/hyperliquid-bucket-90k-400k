@@ -280,11 +280,11 @@
   },
   "DYDX": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T18:36:23.728670",
-    "exit_time": null,
+    "exit_time": "2026-01-05T19:00:53.762764",
     "last_bar_collected": 198,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T19:00:53.762764",
     "entry_volume": 382992.1801830001
   },
   "ZETA": {
@@ -838,11 +838,29 @@
   },
   "ZK": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T16:17:33.518646",
-    "exit_time": null,
+    "exit_time": "2026-01-05T19:00:53.762764",
     "last_bar_collected": 10,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T19:00:53.762764",
     "entry_volume": 248968.7860460001
+  },
+  "BLUR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T19:00:53.762764",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 188332.368742
+  },
+  "SAND": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T19:00:53.762764",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 191360.3872100001
   }
 }
