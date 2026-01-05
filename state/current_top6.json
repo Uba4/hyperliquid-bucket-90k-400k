@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BSV",
-    "ENS",
     "W",
-    "FXS",
-    "GRIFFAIN",
-    "ZEN"
+    "PYTH",
+    "PEOPLE",
+    "OM",
+    "ZEN",
+    "GRIFFAIN"
   ],
   "scores": [
+    152,
     150,
-    148,
     146,
     144,
     142,
-    140
+    142
   ],
-  "timestamp": "2026-01-05T12:42:03.808575",
+  "timestamp": "2026-01-05T13:31:02.473078",
   "bucket": "90k-400k"
 }
