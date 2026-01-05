@@ -2,10 +2,10 @@
   "tokens": [
     "MINA",
     "MEGA",
-    "REZ",
     "SYRUP",
-    "SCR",
-    "IO"
+    "IO",
+    "REZ",
+    "MANTA"
   ],
   "scores": [
     166,
@@ -15,6 +15,6 @@
     158,
     156
   ],
-  "timestamp": "2026-01-05T21:58:51.292201",
+  "timestamp": "2026-01-05T22:31:02.185870",
   "bucket": "90k-400k"
 }
