@@ -397,11 +397,11 @@
   },
   "ACE": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T14:36:13.995139",
-    "exit_time": null,
+    "exit_time": "2026-01-05T17:12:39.511457",
     "last_bar_collected": 190,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T17:12:39.511457",
     "entry_volume": 225952.6814019999
   },
   "BLAST": {
@@ -702,13 +702,13 @@
     "entry_volume": 179982.653046
   },
   "PEOPLE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T13:31:02.472527",
-    "exit_time": "2026-01-05T16:17:33.518646",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T17:12:39.511457",
+    "exit_time": null,
     "last_bar_collected": 82,
-    "tracking_until": "2026-01-15T16:17:33.518646",
-    "entry_volume": 212824.5645319999
+    "tracking_until": null,
+    "entry_volume": 169386.906675
   },
   "TNSR": {
     "current_run": 1,
