@@ -865,11 +865,20 @@
   },
   "2Z": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T19:28:59.171152",
-    "exit_time": null,
+    "exit_time": "2026-01-05T20:28:37.029264",
     "last_bar_collected": 5,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T20:28:37.029264",
     "entry_volume": 182610.4145
+  },
+  "SCR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T20:28:37.029264",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 308566.0484660001
   }
 }
