@@ -595,11 +595,11 @@
   },
   "KAS": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T10:37:56.769767",
-    "exit_time": null,
+    "exit_time": "2026-01-05T11:42:53.576094",
     "last_bar_collected": 119,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T11:42:53.576094",
     "entry_volume": 355480.702069
   },
   "ALGO": {
@@ -799,5 +799,14 @@
     "last_bar_collected": 12,
     "tracking_until": "2026-01-15T09:01:06.070345",
     "entry_volume": 341918.5496700002
+  },
+  "W": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T11:42:53.576094",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 331250.1937189999
   }
 }
