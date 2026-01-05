@@ -441,13 +441,13 @@
     "entry_volume": 237833.6065300001
   },
   "MEGA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T13:59:31.779021",
-    "exit_time": "2026-01-05T14:57:26.913758",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T19:28:59.171152",
+    "exit_time": null,
     "last_bar_collected": 201,
-    "tracking_until": "2026-01-15T14:57:26.913758",
-    "entry_volume": 131735.32574
+    "tracking_until": null,
+    "entry_volume": 298599.5641499999
   },
   "CHILLGUY": {
     "current_run": 3,
@@ -847,20 +847,29 @@
   },
   "BLUR": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T19:00:53.762764",
-    "exit_time": null,
+    "exit_time": "2026-01-05T19:28:59.171152",
     "last_bar_collected": 2,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T19:28:59.171152",
     "entry_volume": 188332.368742
   },
   "SAND": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T19:00:53.762764",
-    "exit_time": null,
+    "exit_time": "2026-01-05T19:28:59.171152",
     "last_bar_collected": 2,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T19:28:59.171152",
     "entry_volume": 191360.3872100001
+  },
+  "2Z": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T19:28:59.171152",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 182610.4145
   }
 }
