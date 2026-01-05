@@ -3,9 +3,9 @@
     "BIO",
     "ZK",
     "MINA",
-    "ATOM",
-    "PYTH",
-    "PEOPLE"
+    "PEOPLE",
+    "TURBO",
+    "ATOM"
   ],
   "scores": [
     160,
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-05T17:41:02.769376",
+  "timestamp": "2026-01-05T17:55:58.574751",
   "bucket": "90k-400k"
 }
