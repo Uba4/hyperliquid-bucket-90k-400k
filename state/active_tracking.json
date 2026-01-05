@@ -262,11 +262,11 @@
   },
   "USTC": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T05:03:13.776401",
-    "exit_time": null,
+    "exit_time": "2026-01-05T08:34:16.688130",
     "last_bar_collected": 141,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T08:34:16.688130",
     "entry_volume": 200896.683112
   },
   "LINEA": {
@@ -790,5 +790,14 @@
     "last_bar_collected": 5,
     "tracking_until": null,
     "entry_volume": 149102.0863340001
+  },
+  "ETC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T08:34:16.688130",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 341918.5496700002
   }
 }
