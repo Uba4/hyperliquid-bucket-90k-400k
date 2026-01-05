@@ -406,11 +406,11 @@
   },
   "BLAST": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T09:01:06.070345",
-    "exit_time": null,
+    "exit_time": "2026-01-05T11:25:27.886505",
     "last_bar_collected": 168,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T11:25:27.886505",
     "entry_volume": 101534.055169
   },
   "LAYER": {
@@ -486,13 +486,13 @@
     "entry_volume": 359238.574809
   },
   "GRIFFAIN": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T18:36:14.888492",
-    "exit_time": "2026-01-03T20:41:09.079799",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T11:25:27.886505",
+    "exit_time": null,
     "last_bar_collected": 164,
-    "tracking_until": "2026-01-13T20:41:09.079799",
-    "entry_volume": 427486.9021610001
+    "tracking_until": null,
+    "entry_volume": 373156.7591360002
   },
   "POLYX": {
     "current_run": 3,
