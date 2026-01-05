@@ -163,11 +163,11 @@
   },
   "MINA": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T16:48:10.259053",
-    "exit_time": null,
+    "exit_time": "2026-01-05T23:46:26.788134",
     "last_bar_collected": 217,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T23:46:26.788134",
     "entry_volume": 92667.327112
   },
   "VVV": {
@@ -270,13 +270,13 @@
     "entry_volume": 200896.683112
   },
   "LINEA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T02:03:58.310596",
-    "exit_time": "2026-01-05T05:03:13.776401",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T23:46:26.788134",
+    "exit_time": null,
     "last_bar_collected": 218,
-    "tracking_until": "2026-01-15T05:03:13.776401",
-    "entry_volume": 222785.9492599999
+    "tracking_until": null,
+    "entry_volume": 421586.312396
   },
   "DYDX": {
     "current_run": 2,
