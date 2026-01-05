@@ -325,11 +325,11 @@
   },
   "GOAT": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T14:36:13.995139",
-    "exit_time": null,
+    "exit_time": "2026-01-05T15:51:32.378108",
     "last_bar_collected": 116,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T15:51:32.378108",
     "entry_volume": 351833.7057829999
   },
   "PURR": {
@@ -666,13 +666,13 @@
     "entry_volume": 428379.1474640001
   },
   "BIO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T15:33:10.319337",
-    "exit_time": "2026-01-04T19:32:15.617654",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T15:51:32.378108",
+    "exit_time": null,
     "last_bar_collected": 96,
-    "tracking_until": "2026-01-14T19:32:15.617654",
-    "entry_volume": 186824.835922
+    "tracking_until": null,
+    "entry_volume": 171110.8096299999
   },
   "ME": {
     "current_run": 1,

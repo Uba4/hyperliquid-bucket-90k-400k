@@ -2,19 +2,19 @@
   "tokens": [
     "PYTH",
     "ACE",
-    "PEOPLE",
+    "BIO",
     "SAGA",
-    "W",
-    "GOAT"
+    "PEOPLE",
+    "W"
   ],
   "scores": [
     154,
     152,
-    148,
+    150,
     148,
     146,
     144
   ],
-  "timestamp": "2026-01-05T15:31:31.143090",
+  "timestamp": "2026-01-05T15:51:32.378348",
   "bucket": "90k-400k"
 }
