@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TURBO",
+    "MINA",
     "PEOPLE",
     "BIO",
-    "MINA",
+    "MEGA",
     "2Z",
-    "MEGA"
+    "MEME"
   ],
   "scores": [
-    164,
     162,
     160,
     158,
     156,
-    154
+    154,
+    150
   ],
-  "timestamp": "2026-01-05T19:28:59.171563",
+  "timestamp": "2026-01-05T19:44:36.092395",
   "bucket": "90k-400k"
 }

@@ -477,13 +477,13 @@
     "entry_volume": 374477.4454799999
   },
   "MEME": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T08:39:04.678719",
-    "exit_time": "2026-01-04T10:38:24.131979",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T19:44:36.092208",
+    "exit_time": null,
     "last_bar_collected": 140,
-    "tracking_until": "2026-01-14T10:38:24.131979",
-    "entry_volume": 359238.574809
+    "tracking_until": null,
+    "entry_volume": 304214.505251
   },
   "GRIFFAIN": {
     "current_run": 2,
@@ -586,11 +586,11 @@
   },
   "TURBO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T17:55:58.574549",
-    "exit_time": null,
+    "exit_time": "2026-01-05T19:44:36.092208",
     "last_bar_collected": 123,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T19:44:36.092208",
     "entry_volume": 400234.688434
   },
   "KAS": {
