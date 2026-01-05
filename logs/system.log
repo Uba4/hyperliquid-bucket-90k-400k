@@ -33271,3 +33271,476 @@
 ======================================================================
 2026-01-05 10:57:15,618 [INFO] ✅ DETECTOR COMPLETE - 2026-01-05 10:57 UTC
 2026-01-05 10:57:15,618 [INFO] ======================================================================
+2026-01-05 11:18:29,559 [INFO] ✅ Directories initialized
+2026-01-05 11:18:29,559 [INFO] ======================================================================
+2026-01-05 11:18:29,559 [INFO] 🚀 Hyperliquid Data Collection System - Bucket 90k-400k
+2026-01-05 11:18:29,559 [INFO] ======================================================================
+2026-01-05 11:18:29,559 [INFO] Volume Range: $90,000 - $400,000
+2026-01-05 11:18:29,559 [INFO] Timeframe: 15m
+2026-01-05 11:18:29,559 [INFO] Post-exit tracking: 10 days
+2026-01-05 11:18:29,559 [INFO] Data retention: 365 days
+2026-01-05 11:18:29,559 [INFO] ======================================================================
+2026-01-05 11:18:29,559 [INFO] ======================================================================
+2026-01-05 11:18:29,559 [INFO] 📦 COLLECTOR START - 2026-01-05 11:18 UTC
+2026-01-05 11:18:29,559 [INFO] ======================================================================
+2026-01-05 11:18:29,560 [INFO] 📊 Active tracking: 89 tokens
+2026-01-05 11:18:29,560 [INFO] 
+📡 Fetching market data...
+2026-01-05 11:18:30,110 [INFO] ✅ Fetched volume data for 224 tokens
+2026-01-05 11:18:30,111 [INFO] 📊 Fetching BTC reference data...
+2026-01-05 11:18:30,464 [INFO] 
+🔄 Collecting data for active tokens...
+2026-01-05 11:18:30,464 [INFO] 
+[1/89] Processing WCT (Run 3, post_exit)
+2026-01-05 11:18:30,508 [INFO] 📂 Loaded existing data for WCT: 84 bars
+2026-01-05 11:18:30,509 [INFO] 📥 WCT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:30,718 [INFO] ✅ WCT: Collected 4 bars (total: 88 bars)
+2026-01-05 11:18:30,768 [INFO] 
+[2/89] Processing ZEN (Run 1, post_exit)
+2026-01-05 11:18:30,770 [INFO] 📂 Loaded existing data for ZEN: 166 bars
+2026-01-05 11:18:30,771 [INFO] 📥 ZEN: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:30,993 [INFO] ✅ ZEN: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:31,043 [INFO] 
+[3/89] Processing BERA (Run 1, post_exit)
+2026-01-05 11:18:31,045 [INFO] 📂 Loaded existing data for BERA: 166 bars
+2026-01-05 11:18:31,046 [INFO] 📥 BERA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:31,265 [INFO] ✅ BERA: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:31,315 [INFO] 
+[4/89] Processing ICP (Run 1, post_exit)
+2026-01-05 11:18:31,317 [INFO] 📂 Loaded existing data for ICP: 166 bars
+2026-01-05 11:18:31,318 [INFO] 📥 ICP: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:31,529 [INFO] ✅ ICP: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:31,580 [INFO] 
+[5/89] Processing MOODENG (Run 1, post_exit)
+2026-01-05 11:18:31,582 [INFO] 📂 Loaded existing data for MOODENG: 166 bars
+2026-01-05 11:18:31,582 [INFO] 📥 MOODENG: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:31,804 [INFO] ✅ MOODENG: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:31,855 [INFO] 
+[6/89] Processing EIGEN (Run 1, post_exit)
+2026-01-05 11:18:31,856 [INFO] 📂 Loaded existing data for EIGEN: 166 bars
+2026-01-05 11:18:31,857 [INFO] 📥 EIGEN: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:32,076 [INFO] ✅ EIGEN: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:32,126 [INFO] 
+[7/89] Processing MAVIA (Run 4, post_exit)
+2026-01-05 11:18:32,128 [INFO] 📂 Loaded existing data for MAVIA: 88 bars
+2026-01-05 11:18:32,129 [INFO] 📥 MAVIA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:32,341 [INFO] ✅ MAVIA: Collected 4 bars (total: 92 bars)
+2026-01-05 11:18:32,391 [INFO] 
+[8/89] Processing NIL (Run 2, post_exit)
+2026-01-05 11:18:32,393 [INFO] 📂 Loaded existing data for NIL: 166 bars
+2026-01-05 11:18:32,394 [INFO] 📥 NIL: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:32,608 [INFO] ✅ NIL: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:32,659 [INFO] 
+[9/89] Processing AR (Run 2, post_exit)
+2026-01-05 11:18:32,661 [INFO] 📂 Loaded existing data for AR: 166 bars
+2026-01-05 11:18:32,661 [INFO] 📥 AR: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:32,881 [INFO] ✅ AR: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:32,932 [INFO] 
+[10/89] Processing SYRUP (Run 1, post_exit)
+2026-01-05 11:18:32,934 [INFO] 📂 Loaded existing data for SYRUP: 166 bars
+2026-01-05 11:18:32,934 [INFO] 📥 SYRUP: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:33,148 [INFO] ✅ SYRUP: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:33,198 [INFO] 
+[11/89] Processing FIL (Run 1, post_exit)
+2026-01-05 11:18:33,200 [INFO] 📂 Loaded existing data for FIL: 166 bars
+2026-01-05 11:18:33,200 [INFO] 📥 FIL: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:33,415 [INFO] ✅ FIL: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:33,466 [INFO] 
+[12/89] Processing APT (Run 1, post_exit)
+2026-01-05 11:18:33,467 [INFO] 📂 Loaded existing data for APT: 166 bars
+2026-01-05 11:18:33,468 [INFO] 📥 APT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:33,675 [INFO] ✅ APT: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:33,725 [INFO] 
+[13/89] Processing TIA (Run 1, post_exit)
+2026-01-05 11:18:33,727 [INFO] 📂 Loaded existing data for TIA: 166 bars
+2026-01-05 11:18:33,728 [INFO] 📥 TIA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:33,936 [INFO] ✅ TIA: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:33,987 [INFO] 
+[14/89] Processing DOT (Run 1, post_exit)
+2026-01-05 11:18:33,988 [INFO] 📂 Loaded existing data for DOT: 166 bars
+2026-01-05 11:18:33,989 [INFO] 📥 DOT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:34,196 [INFO] ✅ DOT: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:34,247 [INFO] 
+[15/89] Processing AERO (Run 1, post_exit)
+2026-01-05 11:18:34,249 [INFO] 📂 Loaded existing data for AERO: 166 bars
+2026-01-05 11:18:34,250 [INFO] 📥 AERO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:34,459 [INFO] ✅ AERO: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:34,509 [INFO] 
+[16/89] Processing INJ (Run 1, post_exit)
+2026-01-05 11:18:34,511 [INFO] 📂 Loaded existing data for INJ: 166 bars
+2026-01-05 11:18:34,512 [INFO] 📥 INJ: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:34,726 [INFO] ✅ INJ: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:34,777 [INFO] 
+[17/89] Processing FOGO (Run 5, post_exit)
+2026-01-05 11:18:34,779 [INFO] 📂 Loaded existing data for FOGO: 107 bars
+2026-01-05 11:18:34,780 [INFO] 📥 FOGO: Fetching 4 bars from 2026-01-05 10:15 UTC
+2026-01-05 11:18:35,000 [INFO] ✅ FOGO: Collected 5 bars (total: 112 bars)
+2026-01-05 11:18:35,051 [INFO] 
+[18/89] Processing IOTA (Run 2, post_exit)
+2026-01-05 11:18:35,053 [INFO] 📂 Loaded existing data for IOTA: 115 bars
+2026-01-05 11:18:35,053 [INFO] 📥 IOTA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:35,269 [INFO] ✅ IOTA: Collected 4 bars (total: 119 bars)
+2026-01-05 11:18:35,320 [INFO] 
+[19/89] Processing MINA (Run 1, post_exit)
+2026-01-05 11:18:35,322 [INFO] 📂 Loaded existing data for MINA: 166 bars
+2026-01-05 11:18:35,322 [INFO] 📥 MINA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:35,538 [INFO] ✅ MINA: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:35,588 [INFO] 
+[20/89] Processing VVV (Run 3, post_exit)
+2026-01-05 11:18:35,590 [INFO] 📂 Loaded existing data for VVV: 128 bars
+2026-01-05 11:18:35,591 [INFO] 📥 VVV: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:35,801 [INFO] ✅ VVV: Collected 4 bars (total: 132 bars)
+2026-01-05 11:18:35,852 [INFO] 
+[21/89] Processing ZEREBRO (Run 6, post_exit)
+2026-01-05 11:18:35,854 [INFO] 📂 Loaded existing data for ZEREBRO: 164 bars
+2026-01-05 11:18:35,854 [INFO] 📥 ZEREBRO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:36,074 [INFO] ✅ ZEREBRO: Collected 4 bars (total: 168 bars)
+2026-01-05 11:18:36,124 [INFO] 
+[22/89] Processing ZRO (Run 1, post_exit)
+2026-01-05 11:18:36,126 [INFO] 📂 Loaded existing data for ZRO: 166 bars
+2026-01-05 11:18:36,126 [INFO] 📥 ZRO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:36,342 [INFO] ✅ ZRO: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:36,392 [INFO] 
+[23/89] Processing JTO (Run 2, post_exit)
+2026-01-05 11:18:36,394 [INFO] 📂 Loaded existing data for JTO: 122 bars
+2026-01-05 11:18:36,395 [INFO] 📥 JTO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:36,604 [INFO] ✅ JTO: Collected 4 bars (total: 126 bars)
+2026-01-05 11:18:36,655 [INFO] 
+[24/89] Processing GALA (Run 3, post_exit)
+2026-01-05 11:18:36,657 [INFO] 📂 Loaded existing data for GALA: 67 bars
+2026-01-05 11:18:36,657 [INFO] 📥 GALA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:36,871 [INFO] ✅ GALA: Collected 4 bars (total: 71 bars)
+2026-01-05 11:18:36,921 [INFO] 
+[25/89] Processing MEW (Run 7, post_exit)
+2026-01-05 11:18:36,923 [INFO] 📂 Loaded existing data for MEW: 66 bars
+2026-01-05 11:18:36,923 [INFO] 📥 MEW: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:37,130 [INFO] ✅ MEW: Collected 4 bars (total: 70 bars)
+2026-01-05 11:18:37,180 [INFO] 
+[26/89] Processing STX (Run 2, post_exit)
+2026-01-05 11:18:37,182 [INFO] 📂 Loaded existing data for STX: 166 bars
+2026-01-05 11:18:37,183 [INFO] 📥 STX: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:37,390 [INFO] ✅ STX: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:37,440 [INFO] 
+[27/89] Processing FET (Run 2, post_exit)
+2026-01-05 11:18:37,442 [INFO] 📂 Loaded existing data for FET: 166 bars
+2026-01-05 11:18:37,442 [INFO] 📥 FET: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:37,648 [INFO] ✅ FET: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:37,699 [INFO] 
+[28/89] Processing SUSHI (Run 3, post_exit)
+2026-01-05 11:18:37,701 [INFO] 📂 Loaded existing data for SUSHI: 152 bars
+2026-01-05 11:18:37,701 [INFO] 📥 SUSHI: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:37,919 [INFO] ✅ SUSHI: Collected 4 bars (total: 156 bars)
+2026-01-05 11:18:37,970 [INFO] 
+[29/89] Processing REZ (Run 3, post_exit)
+2026-01-05 11:18:37,972 [INFO] 📂 Loaded existing data for REZ: 85 bars
+2026-01-05 11:18:37,973 [INFO] 📥 REZ: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:38,184 [INFO] ✅ REZ: Collected 4 bars (total: 89 bars)
+2026-01-05 11:18:38,234 [INFO] 
+[30/89] Processing USTC (Run 7, post_exit)
+2026-01-05 11:18:38,236 [INFO] 📂 Loaded existing data for USTC: 148 bars
+2026-01-05 11:18:38,237 [INFO] 📥 USTC: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:38,454 [INFO] ✅ USTC: Collected 4 bars (total: 152 bars)
+2026-01-05 11:18:38,504 [INFO] 
+[31/89] Processing LINEA (Run 2, post_exit)
+2026-01-05 11:18:38,506 [INFO] 📂 Loaded existing data for LINEA: 166 bars
+2026-01-05 11:18:38,507 [INFO] 📥 LINEA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:38,714 [INFO] ✅ LINEA: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:38,764 [INFO] 
+[32/89] Processing DYDX (Run 1, post_exit)
+2026-01-05 11:18:38,766 [INFO] 📂 Loaded existing data for DYDX: 166 bars
+2026-01-05 11:18:38,767 [INFO] 📥 DYDX: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:38,993 [INFO] ✅ DYDX: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:39,043 [INFO] 
+[33/89] Processing ZETA (Run 2, post_exit)
+2026-01-05 11:18:39,045 [INFO] 📂 Loaded existing data for ZETA: 164 bars
+2026-01-05 11:18:39,046 [INFO] 📥 ZETA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:39,266 [INFO] ✅ ZETA: Collected 4 bars (total: 168 bars)
+2026-01-05 11:18:39,316 [INFO] 
+[34/89] Processing DYM (Run 2, post_exit)
+2026-01-05 11:18:39,319 [INFO] 📂 Loaded existing data for DYM: 166 bars
+2026-01-05 11:18:39,319 [INFO] 📥 DYM: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:39,534 [INFO] ✅ DYM: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:39,584 [INFO] 
+[35/89] Processing BOME (Run 7, post_exit)
+2026-01-05 11:18:39,586 [INFO] 📂 Loaded existing data for BOME: 80 bars
+2026-01-05 11:18:39,587 [INFO] 📥 BOME: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:39,801 [INFO] ✅ BOME: Collected 4 bars (total: 84 bars)
+2026-01-05 11:18:39,851 [INFO] 
+[36/89] Processing FTT (Run 2, post_exit)
+2026-01-05 11:18:39,853 [INFO] 📂 Loaded existing data for FTT: 122 bars
+2026-01-05 11:18:39,854 [INFO] 📥 FTT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:40,067 [INFO] ✅ FTT: Collected 3 bars (total: 125 bars)
+2026-01-05 11:18:40,117 [INFO] 
+[37/89] Processing GOAT (Run 3, post_exit)
+2026-01-05 11:18:40,119 [INFO] 📂 Loaded existing data for GOAT: 96 bars
+2026-01-05 11:18:40,120 [INFO] 📥 GOAT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:40,332 [INFO] ✅ GOAT: Collected 4 bars (total: 100 bars)
+2026-01-05 11:18:40,383 [INFO] 
+[38/89] Processing PURR (Run 2, post_exit)
+2026-01-05 11:18:40,384 [INFO] 📂 Loaded existing data for PURR: 166 bars
+2026-01-05 11:18:40,385 [INFO] 📥 PURR: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:40,604 [INFO] ✅ PURR: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:40,654 [INFO] 
+[39/89] Processing RESOLV (Run 2, post_exit)
+2026-01-05 11:18:40,657 [INFO] 📂 Loaded existing data for RESOLV: 149 bars
+2026-01-05 11:18:40,657 [INFO] 📥 RESOLV: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:40,867 [INFO] ✅ RESOLV: Collected 4 bars (total: 153 bars)
+2026-01-05 11:18:40,917 [INFO] 
+[40/89] Processing CELO (Run 4, post_exit)
+2026-01-05 11:18:40,919 [INFO] 📂 Loaded existing data for CELO: 98 bars
+2026-01-05 11:18:40,920 [INFO] 📥 CELO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:41,134 [INFO] ✅ CELO: Collected 4 bars (total: 102 bars)
+2026-01-05 11:18:41,184 [INFO] 
+[41/89] Processing FXS (Run 3, in_top6)
+2026-01-05 11:18:41,186 [INFO] 📂 Loaded existing data for FXS: 166 bars
+2026-01-05 11:18:41,187 [INFO] 📥 FXS: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:41,408 [INFO] ✅ FXS: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:41,458 [INFO] 
+[42/89] Processing PYTH (Run 2, post_exit)
+2026-01-05 11:18:41,460 [INFO] 📂 Loaded existing data for PYTH: 85 bars
+2026-01-05 11:18:41,461 [INFO] 📥 PYTH: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:41,717 [INFO] ✅ PYTH: Collected 4 bars (total: 89 bars)
+2026-01-05 11:18:41,767 [INFO] 
+[43/89] Processing GAS (Run 2, post_exit)
+2026-01-05 11:18:41,769 [INFO] 📂 Loaded existing data for GAS: 166 bars
+2026-01-05 11:18:41,770 [INFO] 📥 GAS: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:41,981 [INFO] ✅ GAS: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:42,032 [INFO] 
+[44/89] Processing COMP (Run 1, post_exit)
+2026-01-05 11:18:42,034 [INFO] 📂 Loaded existing data for COMP: 166 bars
+2026-01-05 11:18:42,034 [INFO] 📥 COMP: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:42,286 [INFO] ✅ COMP: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:42,337 [INFO] 
+[45/89] Processing ACE (Run 2, post_exit)
+2026-01-05 11:18:42,339 [INFO] 📂 Loaded existing data for ACE: 166 bars
+2026-01-05 11:18:42,340 [INFO] 📥 ACE: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:42,545 [INFO] ✅ ACE: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:42,595 [INFO] 
+[46/89] Processing BLAST (Run 2, in_top6)
+2026-01-05 11:18:42,597 [INFO] 📂 Loaded existing data for BLAST: 164 bars
+2026-01-05 11:18:42,598 [INFO] 📥 BLAST: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:42,803 [INFO] ✅ BLAST: Collected 4 bars (total: 168 bars)
+2026-01-05 11:18:42,854 [INFO] 
+[47/89] Processing LAYER (Run 1, post_exit)
+2026-01-05 11:18:42,856 [INFO] 📂 Loaded existing data for LAYER: 166 bars
+2026-01-05 11:18:42,856 [INFO] 📥 LAYER: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:43,067 [INFO] ✅ LAYER: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:43,117 [INFO] 
+[48/89] Processing SOPH (Run 3, post_exit)
+2026-01-05 11:18:43,119 [INFO] 📂 Loaded existing data for SOPH: 128 bars
+2026-01-05 11:18:43,119 [INFO] 📥 SOPH: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:43,335 [INFO] ✅ SOPH: Collected 4 bars (total: 132 bars)
+2026-01-05 11:18:43,386 [INFO] 
+[49/89] Processing MOVE (Run 3, post_exit)
+2026-01-05 11:18:43,388 [INFO] 📂 Loaded existing data for MOVE: 166 bars
+2026-01-05 11:18:43,389 [INFO] 📥 MOVE: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:43,681 [INFO] ✅ MOVE: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:43,732 [INFO] 
+[50/89] Processing MEGA (Run 2, post_exit)
+2026-01-05 11:18:43,733 [INFO] 📂 Loaded existing data for MEGA: 165 bars
+2026-01-05 11:18:43,734 [INFO] 📥 MEGA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:43,950 [INFO] ✅ MEGA: Collected 4 bars (total: 169 bars)
+2026-01-05 11:18:44,000 [INFO] 
+[51/89] Processing CHILLGUY (Run 3, post_exit)
+2026-01-05 11:18:44,002 [INFO] 📂 Loaded existing data for CHILLGUY: 88 bars
+2026-01-05 11:18:44,003 [INFO] 📥 CHILLGUY: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:44,250 [INFO] ✅ CHILLGUY: Collected 4 bars (total: 92 bars)
+2026-01-05 11:18:44,300 [INFO] 
+[52/89] Processing IO (Run 2, post_exit)
+2026-01-05 11:18:44,302 [INFO] 📂 Loaded existing data for IO: 141 bars
+2026-01-05 11:18:44,303 [INFO] 📥 IO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:44,515 [INFO] ✅ IO: Collected 4 bars (total: 145 bars)
+2026-01-05 11:18:44,565 [INFO] 
+[53/89] Processing RENDER (Run 1, post_exit)
+2026-01-05 11:18:44,567 [INFO] 📂 Loaded existing data for RENDER: 166 bars
+2026-01-05 11:18:44,567 [INFO] 📥 RENDER: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:45,365 [INFO] ✅ RENDER: Collected 4 bars (total: 170 bars)
+2026-01-05 11:18:45,416 [INFO] 
+[54/89] Processing MEME (Run 2, post_exit)
+2026-01-05 11:18:45,417 [INFO] 📂 Loaded existing data for MEME: 104 bars
+2026-01-05 11:18:45,418 [INFO] 📥 MEME: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:45,634 [INFO] ✅ MEME: Collected 4 bars (total: 108 bars)
+2026-01-05 11:18:45,684 [INFO] 
+[55/89] Processing GRIFFAIN (Run 1, post_exit)
+2026-01-05 11:18:45,686 [INFO] 📂 Loaded existing data for GRIFFAIN: 160 bars
+2026-01-05 11:18:45,687 [INFO] 📥 GRIFFAIN: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:45,962 [INFO] ✅ GRIFFAIN: Collected 4 bars (total: 164 bars)
+2026-01-05 11:18:46,012 [INFO] 
+[56/89] Processing POLYX (Run 3, post_exit)
+2026-01-05 11:18:46,014 [INFO] 📂 Loaded existing data for POLYX: 152 bars
+2026-01-05 11:18:46,015 [INFO] 📥 POLYX: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:46,226 [INFO] ✅ POLYX: Collected 4 bars (total: 156 bars)
+2026-01-05 11:18:46,276 [INFO] 
+[57/89] Processing APEX (Run 1, post_exit)
+2026-01-05 11:18:46,278 [INFO] 📂 Loaded existing data for APEX: 155 bars
+2026-01-05 11:18:46,279 [INFO] 📥 APEX: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:46,527 [INFO] ✅ APEX: Collected 4 bars (total: 159 bars)
+2026-01-05 11:18:46,578 [INFO] 
+[58/89] Processing USUAL (Run 2, post_exit)
+2026-01-05 11:18:46,580 [INFO] 📂 Loaded existing data for USUAL: 150 bars
+2026-01-05 11:18:46,581 [INFO] 📥 USUAL: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:46,795 [INFO] ✅ USUAL: Collected 4 bars (total: 154 bars)
+2026-01-05 11:18:46,845 [INFO] 
+[59/89] Processing INIT (Run 1, post_exit)
+2026-01-05 11:18:46,847 [INFO] 📂 Loaded existing data for INIT: 149 bars
+2026-01-05 11:18:46,848 [INFO] 📥 INIT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:47,055 [INFO] ✅ INIT: Collected 4 bars (total: 153 bars)
+2026-01-05 11:18:47,105 [INFO] 
+[60/89] Processing CFX (Run 2, post_exit)
+2026-01-05 11:18:47,107 [INFO] 📂 Loaded existing data for CFX: 101 bars
+2026-01-05 11:18:47,108 [INFO] 📥 CFX: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:47,470 [INFO] ✅ CFX: Collected 4 bars (total: 105 bars)
+2026-01-05 11:18:47,520 [INFO] 
+[61/89] Processing ANIME (Run 2, post_exit)
+2026-01-05 11:18:47,522 [INFO] 📂 Loaded existing data for ANIME: 143 bars
+2026-01-05 11:18:47,523 [INFO] 📥 ANIME: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:47,733 [INFO] ✅ ANIME: Collected 4 bars (total: 147 bars)
+2026-01-05 11:18:47,783 [INFO] 
+[62/89] Processing UMA (Run 1, post_exit)
+2026-01-05 11:18:47,785 [INFO] 📂 Loaded existing data for UMA: 145 bars
+2026-01-05 11:18:47,786 [INFO] 📥 UMA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:48,000 [INFO] ✅ UMA: Collected 4 bars (total: 149 bars)
+2026-01-05 11:18:48,050 [INFO] 
+[63/89] Processing MANTA (Run 1, post_exit)
+2026-01-05 11:18:48,052 [INFO] 📂 Loaded existing data for MANTA: 144 bars
+2026-01-05 11:18:48,053 [INFO] 📥 MANTA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:48,276 [INFO] ✅ MANTA: Collected 4 bars (total: 148 bars)
+2026-01-05 11:18:48,326 [INFO] 
+[64/89] Processing NOT (Run 1, post_exit)
+2026-01-05 11:18:48,328 [INFO] 📂 Loaded existing data for NOT: 135 bars
+2026-01-05 11:18:48,329 [INFO] 📥 NOT: Fetching 6 bars from 2026-01-05 09:45 UTC
+2026-01-05 11:18:48,542 [INFO] ✅ NOT: Collected 4 bars (total: 139 bars)
+2026-01-05 11:18:48,592 [INFO] 
+[65/89] Processing BRETT (Run 2, post_exit)
+2026-01-05 11:18:48,594 [INFO] 📂 Loaded existing data for BRETT: 110 bars
+2026-01-05 11:18:48,595 [INFO] 📥 BRETT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:48,805 [INFO] ✅ BRETT: Collected 4 bars (total: 114 bars)
+2026-01-05 11:18:48,855 [INFO] 
+[66/89] Processing TURBO (Run 2, post_exit)
+2026-01-05 11:18:48,857 [INFO] 📂 Loaded existing data for TURBO: 88 bars
+2026-01-05 11:18:48,858 [INFO] 📥 TURBO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:49,072 [INFO] ✅ TURBO: Collected 4 bars (total: 92 bars)
+2026-01-05 11:18:49,122 [INFO] 
+[67/89] Processing KAS (Run 2, in_top6)
+2026-01-05 11:18:49,124 [INFO] 📂 Loaded existing data for KAS: 115 bars
+2026-01-05 11:18:49,124 [INFO] 📥 KAS: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:49,336 [INFO] ✅ KAS: Collected 4 bars (total: 119 bars)
+2026-01-05 11:18:49,386 [INFO] 
+[68/89] Processing ALGO (Run 1, post_exit)
+2026-01-05 11:18:49,388 [INFO] 📂 Loaded existing data for ALGO: 108 bars
+2026-01-05 11:18:49,389 [INFO] 📥 ALGO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:49,609 [INFO] ✅ ALGO: Collected 4 bars (total: 112 bars)
+2026-01-05 11:18:49,659 [INFO] 
+[69/89] Processing kNEIRO (Run 1, post_exit)
+2026-01-05 11:18:49,661 [INFO] 📂 Loaded existing data for kNEIRO: 101 bars
+2026-01-05 11:18:49,662 [INFO] 📥 kNEIRO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:49,884 [INFO] ✅ kNEIRO: Collected 4 bars (total: 105 bars)
+2026-01-05 11:18:49,934 [INFO] 
+[70/89] Processing DOOD (Run 1, post_exit)
+2026-01-05 11:18:49,937 [INFO] 📂 Loaded existing data for DOOD: 96 bars
+2026-01-05 11:18:49,937 [INFO] 📥 DOOD: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:50,153 [INFO] ✅ DOOD: Collected 4 bars (total: 100 bars)
+2026-01-05 11:18:50,203 [INFO] 
+[71/89] Processing PROVE (Run 1, post_exit)
+2026-01-05 11:18:50,205 [INFO] 📂 Loaded existing data for PROVE: 81 bars
+2026-01-05 11:18:50,206 [INFO] 📥 PROVE: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:50,418 [INFO] ✅ PROVE: Collected 3 bars (total: 84 bars)
+2026-01-05 11:18:50,468 [INFO] 
+[72/89] Processing VINE (Run 1, post_exit)
+2026-01-05 11:18:50,470 [INFO] 📂 Loaded existing data for VINE: 79 bars
+2026-01-05 11:18:50,471 [INFO] 📥 VINE: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:50,679 [INFO] ✅ VINE: Collected 4 bars (total: 83 bars)
+2026-01-05 11:18:50,730 [INFO] 
+[73/89] Processing SAGA (Run 2, post_exit)
+2026-01-05 11:18:50,731 [INFO] 📂 Loaded existing data for SAGA: 71 bars
+2026-01-05 11:18:50,732 [INFO] 📥 SAGA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:50,944 [INFO] ✅ SAGA: Collected 4 bars (total: 75 bars)
+2026-01-05 11:18:50,995 [INFO] 
+[74/89] Processing TST (Run 2, in_top6)
+2026-01-05 11:18:50,997 [INFO] 📂 Loaded existing data for TST: 78 bars
+2026-01-05 11:18:50,997 [INFO] 📥 TST: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:51,292 [INFO] ✅ TST: Collected 4 bars (total: 82 bars)
+2026-01-05 11:18:51,342 [INFO] 
+[75/89] Processing BIO (Run 1, post_exit)
+2026-01-05 11:18:51,345 [INFO] 📂 Loaded existing data for BIO: 76 bars
+2026-01-05 11:18:51,345 [INFO] 📥 BIO: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:51,553 [INFO] ✅ BIO: Collected 4 bars (total: 80 bars)
+2026-01-05 11:18:51,603 [INFO] 
+[76/89] Processing ME (Run 1, post_exit)
+2026-01-05 11:18:51,605 [INFO] 📂 Loaded existing data for ME: 76 bars
+2026-01-05 11:18:51,606 [INFO] 📥 ME: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:51,811 [INFO] ✅ ME: Collected 4 bars (total: 80 bars)
+2026-01-05 11:18:51,862 [INFO] 
+[77/89] Processing BANANA (Run 2, post_exit)
+2026-01-05 11:18:51,864 [INFO] 📂 Loaded existing data for BANANA: 67 bars
+2026-01-05 11:18:51,865 [INFO] 📥 BANANA: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:52,069 [INFO] ✅ BANANA: Collected 4 bars (total: 71 bars)
+2026-01-05 11:18:52,119 [INFO] 
+[78/89] Processing ALT (Run 1, post_exit)
+2026-01-05 11:18:52,121 [INFO] 📂 Loaded existing data for ALT: 61 bars
+2026-01-05 11:18:52,122 [INFO] 📥 ALT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:52,335 [INFO] ✅ ALT: Collected 4 bars (total: 65 bars)
+2026-01-05 11:18:52,386 [INFO] 
+[79/89] Processing PEOPLE (Run 1, post_exit)
+2026-01-05 11:18:52,388 [INFO] 📂 Loaded existing data for PEOPLE: 61 bars
+2026-01-05 11:18:52,389 [INFO] 📥 PEOPLE: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:52,606 [INFO] ✅ PEOPLE: Collected 4 bars (total: 65 bars)
+2026-01-05 11:18:52,656 [INFO] 
+[80/89] Processing TNSR (Run 1, post_exit)
+2026-01-05 11:18:52,658 [INFO] 📂 Loaded existing data for TNSR: 56 bars
+2026-01-05 11:18:52,659 [INFO] 📥 TNSR: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:52,873 [INFO] ✅ TNSR: Collected 4 bars (total: 60 bars)
+2026-01-05 11:18:52,923 [INFO] 
+[81/89] Processing SKY (Run 1, post_exit)
+2026-01-05 11:18:52,925 [INFO] 📂 Loaded existing data for SKY: 45 bars
+2026-01-05 11:18:52,926 [INFO] 📥 SKY: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:53,131 [INFO] ✅ SKY: Collected 4 bars (total: 49 bars)
+2026-01-05 11:18:53,181 [INFO] 
+[82/89] Processing APE (Run 1, post_exit)
+2026-01-05 11:18:53,183 [INFO] 📂 Loaded existing data for APE: 34 bars
+2026-01-05 11:18:53,184 [INFO] 📥 APE: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:53,394 [INFO] ✅ APE: Collected 4 bars (total: 38 bars)
+2026-01-05 11:18:53,444 [INFO] 
+[83/89] Processing BIGTIME (Run 1, post_exit)
+2026-01-05 11:18:53,446 [INFO] 📂 Loaded existing data for BIGTIME: 34 bars
+2026-01-05 11:18:53,447 [INFO] 📥 BIGTIME: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:53,656 [INFO] ✅ BIGTIME: Collected 4 bars (total: 38 bars)
+2026-01-05 11:18:53,707 [INFO] 
+[84/89] Processing BSV (Run 1, in_top6)
+2026-01-05 11:18:53,708 [INFO] 📂 Loaded existing data for BSV: 34 bars
+2026-01-05 11:18:53,709 [INFO] 📥 BSV: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:53,912 [INFO] ✅ BSV: Collected 4 bars (total: 38 bars)
+2026-01-05 11:18:53,963 [INFO] 
+[85/89] Processing ENS (Run 1, in_top6)
+2026-01-05 11:18:53,965 [INFO] 📂 Loaded existing data for ENS: 34 bars
+2026-01-05 11:18:53,965 [INFO] 📥 ENS: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:54,181 [INFO] ✅ ENS: Collected 4 bars (total: 38 bars)
+2026-01-05 11:18:54,231 [INFO] 
+[86/89] Processing RUNE (Run 1, post_exit)
+2026-01-05 11:18:54,233 [INFO] 📂 Loaded existing data for RUNE: 26 bars
+2026-01-05 11:18:54,234 [INFO] 📥 RUNE: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:54,440 [INFO] ✅ RUNE: Collected 4 bars (total: 30 bars)
+2026-01-05 11:18:54,490 [INFO] 
+[87/89] Processing AIXBT (Run 1, post_exit)
+2026-01-05 11:18:54,492 [INFO] 📂 Loaded existing data for AIXBT: 22 bars
+2026-01-05 11:18:54,493 [INFO] 📥 AIXBT: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:54,732 [INFO] ✅ AIXBT: Collected 4 bars (total: 26 bars)
+2026-01-05 11:18:54,782 [INFO] 
+[88/89] Processing BABY (Run 1, post_exit)
+2026-01-05 11:18:54,784 [INFO] 📂 Loaded existing data for BABY: 12 bars
+2026-01-05 11:18:54,785 [INFO] 📥 BABY: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:55,888 [INFO] ✅ BABY: Collected 4 bars (total: 16 bars)
+2026-01-05 11:18:55,938 [INFO] 
+[89/89] Processing ETC (Run 1, post_exit)
+2026-01-05 11:18:55,940 [INFO] 📂 Loaded existing data for ETC: 8 bars
+2026-01-05 11:18:55,941 [INFO] 📥 ETC: Fetching 3 bars from 2026-01-05 10:30 UTC
+2026-01-05 11:18:56,153 [INFO] ✅ ETC: Collected 4 bars (total: 12 bars)
+2026-01-05 11:18:56,204 [INFO] 
+======================================================================
+2026-01-05 11:18:56,204 [INFO] 📊 COLLECTION SUMMARY
+2026-01-05 11:18:56,204 [INFO] ======================================================================
+2026-01-05 11:18:56,204 [INFO] ✅ Successful: 89/89
+2026-01-05 11:18:56,204 [INFO] 
+======================================================================
+2026-01-05 11:18:56,204 [INFO] ✅ COLLECTOR COMPLETE - 2026-01-05 11:18 UTC
+2026-01-05 11:18:56,204 [INFO] ======================================================================
