@@ -433,11 +433,11 @@
   },
   "MOVE": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T05:03:13.776401",
-    "exit_time": null,
+    "exit_time": "2026-01-05T07:37:40.051544",
     "last_bar_collected": 154,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T07:37:40.051544",
     "entry_volume": 237833.6065300001
   },
   "MEGA": {
@@ -781,5 +781,14 @@
     "last_bar_collected": 10,
     "tracking_until": "2026-01-15T06:20:11.290422",
     "entry_volume": 423282.482789
+  },
+  "BABY": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T07:37:40.051544",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 149102.0863340001
   }
 }
