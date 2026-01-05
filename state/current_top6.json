@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BSV",
-    "LINEA",
+    "AIXBT",
     "ENS",
-    "APE",
-    "BIGTIME",
-    "RUNE"
+    "MOVE",
+    "RUNE",
+    "USTC"
   ],
   "scores": [
+    140,
+    138,
     136,
     134,
     132,
-    130,
-    128,
-    126
+    130
   ],
-  "timestamp": "2026-01-05T04:02:53.138203",
+  "timestamp": "2026-01-05T05:03:13.776832",
   "bucket": "90k-400k"
 }
