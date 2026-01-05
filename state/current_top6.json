@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZEREBRO",
-    "BIGTIME",
     "BSV",
     "LINEA",
     "ENS",
-    "APE"
+    "APE",
+    "BIGTIME",
+    "RUNE"
   ],
   "scores": [
-    142,
-    140,
-    138,
     136,
     134,
-    132
+    132,
+    130,
+    128,
+    126
   ],
-  "timestamp": "2026-01-05T02:03:58.311500",
+  "timestamp": "2026-01-05T04:02:53.138203",
   "bucket": "90k-400k"
 }
