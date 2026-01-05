@@ -180,13 +180,13 @@
     "entry_volume": 350961.411003
   },
   "ZEREBRO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T02:03:58.310596",
-    "exit_time": "2026-01-05T04:02:53.138008",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T06:20:11.290422",
+    "exit_time": null,
     "last_bar_collected": 147,
-    "tracking_until": "2026-01-15T04:02:53.138008",
-    "entry_volume": 254015.2880210001
+    "tracking_until": null,
+    "entry_volume": 244358.7421200001
   },
   "ZRO": {
     "current_run": 1,
@@ -775,11 +775,11 @@
   },
   "AIXBT": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T05:03:13.776401",
-    "exit_time": null,
+    "exit_time": "2026-01-05T06:20:11.290422",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T06:20:11.290422",
     "entry_volume": 423282.482789
   }
 }

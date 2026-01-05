@@ -2,19 +2,19 @@
   "tokens": [
     "FOGO",
     "BSV",
-    "AIXBT",
     "USTC",
     "ENS",
-    "MOVE"
+    "MOVE",
+    "ZEREBRO"
   ],
   "scores": [
-    136,
     134,
     132,
     130,
     128,
-    126
+    126,
+    124
   ],
-  "timestamp": "2026-01-05T05:47:35.474862",
+  "timestamp": "2026-01-05T06:20:11.290614",
   "bucket": "90k-400k"
 }
