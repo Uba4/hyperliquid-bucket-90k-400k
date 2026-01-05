@@ -252,13 +252,13 @@
     "entry_volume": 155005.430471
   },
   "REZ": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T13:19:29.829863",
-    "exit_time": "2026-01-04T15:11:29.976738",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T19:55:48.359619",
+    "exit_time": null,
     "last_bar_collected": 121,
-    "tracking_until": "2026-01-14T15:11:29.976738",
-    "entry_volume": 132057.011553
+    "tracking_until": null,
+    "entry_volume": 168501.037079
   },
   "USTC": {
     "current_run": 7,
@@ -478,11 +478,11 @@
   },
   "MEME": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T19:44:36.092208",
-    "exit_time": null,
+    "exit_time": "2026-01-05T19:55:48.359619",
     "last_bar_collected": 140,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T19:55:48.359619",
     "entry_volume": 304214.505251
   },
   "GRIFFAIN": {
