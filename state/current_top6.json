@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MINA",
-    "MEGA",
+    "SYRUP",
     "MANTA",
-    "IO",
     "SNX",
-    "REZ"
+    "MINA",
+    "IO",
+    "BOME"
   ],
   "scores": [
     162,
     160,
     158,
-    156,
-    154,
+    155,
+    155,
     152
   ],
-  "timestamp": "2026-01-05T23:02:04.033866",
+  "timestamp": "2026-01-05T23:30:05.567024",
   "bucket": "90k-400k"
 }
