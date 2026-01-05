@@ -3,8 +3,8 @@
     "MINA",
     "REZ",
     "MEGA",
-    "PEOPLE",
     "SCR",
+    "PEOPLE",
     "BIO"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-05T20:28:37.029462",
+  "timestamp": "2026-01-05T20:49:49.206110",
   "bucket": "90k-400k"
 }
