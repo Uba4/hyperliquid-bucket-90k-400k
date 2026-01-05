@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "MEGA",
     "W",
     "PYTH",
     "PEOPLE",
     "OM",
-    "ZEN",
-    "GRIFFAIN"
+    "TRB"
   ],
   "scores": [
     152,
     150,
+    148,
     146,
     144,
-    142,
     142
   ],
-  "timestamp": "2026-01-05T13:31:02.473078",
+  "timestamp": "2026-01-05T13:59:31.779316",
   "bucket": "90k-400k"
 }
