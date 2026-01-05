@@ -82,11 +82,11 @@
   },
   "SYRUP": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T21:31:44.241718",
-    "exit_time": null,
+    "exit_time": "2026-01-05T23:02:04.033676",
     "last_bar_collected": 214,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T23:02:04.033676",
     "entry_volume": 422507.5128800001
   },
   "FIL": {
@@ -880,5 +880,14 @@
     "last_bar_collected": 9,
     "tracking_until": "2026-01-15T22:31:02.185673",
     "entry_volume": 308566.0484660001
+  },
+  "SNX": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T23:02:04.033676",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 282959.545866
   }
 }
