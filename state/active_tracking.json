@@ -81,13 +81,13 @@
     "entry_volume": 425829.5436380001
   },
   "SYRUP": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T13:42:57.827833",
-    "exit_time": "2026-01-02T17:31:55.530060",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-05T21:31:44.241718",
+    "exit_time": null,
     "last_bar_collected": 210,
-    "tracking_until": "2026-01-12T17:31:55.530060",
-    "entry_volume": 371443.48168
+    "tracking_until": null,
+    "entry_volume": 422507.5128800001
   },
   "FIL": {
     "current_run": 1,
@@ -703,11 +703,11 @@
   },
   "PEOPLE": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-05T17:12:39.511457",
-    "exit_time": null,
+    "exit_time": "2026-01-05T21:31:44.241718",
     "last_bar_collected": 100,
-    "tracking_until": null,
+    "tracking_until": "2026-01-15T21:31:44.241718",
     "entry_volume": 169386.906675
   },
   "TNSR": {
