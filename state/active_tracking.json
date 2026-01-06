@@ -388,11 +388,11 @@
   },
   "COMP": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T08:50:25.081999",
-    "exit_time": null,
+    "exit_time": "2026-01-06T09:58:23.222900",
     "last_bar_collected": 257,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T09:58:23.222900",
     "entry_volume": 140772.4797800001
   },
   "ACE": {
@@ -898,5 +898,14 @@
     "last_bar_collected": 23,
     "tracking_until": "2026-01-16T07:00:57.518421",
     "entry_volume": 318248.3977819998
+  },
+  "0G": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T09:58:23.222900",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 233827.6560399999
   }
 }
