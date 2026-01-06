@@ -2,10 +2,10 @@
   "tokens": [
     "FXS",
     "DYDX",
-    "SOPH",
-    "ETHFI",
     "CELO",
-    "YGG"
+    "MOVE",
+    "ETHFI",
+    "BLAST"
   ],
   "scores": [
     138,
@@ -15,6 +15,6 @@
     130,
     128
   ],
-  "timestamp": "2026-01-06T23:34:24.523336",
+  "timestamp": "2026-01-06T23:47:02.362054",
   "bucket": "90k-400k"
 }
