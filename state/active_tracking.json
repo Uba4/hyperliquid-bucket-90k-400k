@@ -1,11 +1,11 @@
 {
   "WCT": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T22:31:27.828806",
-    "exit_time": null,
+    "exit_time": "2026-01-06T23:11:41.142602",
     "last_bar_collected": 228,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T23:11:41.142602",
     "entry_volume": 112261.963203
   },
   "ZEN": {
@@ -144,13 +144,13 @@
     "entry_volume": 567634.3398600002
   },
   "FOGO": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T02:12:28.309369",
-    "exit_time": "2026-01-06T05:54:04.027498",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T23:11:41.142602",
+    "exit_time": null,
     "last_bar_collected": 250,
-    "tracking_until": "2026-01-16T05:54:04.027498",
-    "entry_volume": 104736.0825
+    "tracking_until": null,
+    "entry_volume": 395377.0735800003
   },
   "IOTA": {
     "current_run": 4,

@@ -1,11 +1,11 @@
 {
   "tokens": [
     "FXS",
-    "HEMI",
     "DYDX",
+    "FOGO",
+    "HEMI",
     "SOPH",
-    "YGG",
-    "WCT"
+    "YGG"
   ],
   "scores": [
     142,
@@ -15,6 +15,6 @@
     134,
     132
   ],
-  "timestamp": "2026-01-06T22:51:04.182972",
+  "timestamp": "2026-01-06T23:11:41.142828",
   "bucket": "90k-400k"
 }
