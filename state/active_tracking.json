@@ -262,11 +262,11 @@
   },
   "USTC": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T08:50:25.081999",
-    "exit_time": null,
+    "exit_time": "2026-01-06T14:01:49.847062",
     "last_bar_collected": 255,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T14:01:49.847062",
     "entry_volume": 106212.096205
   },
   "LINEA": {
@@ -612,13 +612,13 @@
     "entry_volume": 220634.72493
   },
   "kNEIRO": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T05:00:25.824516",
-    "exit_time": "2026-01-06T06:30:15.358972",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T14:01:49.847062",
+    "exit_time": null,
     "last_bar_collected": 209,
-    "tracking_until": "2026-01-16T06:30:15.358972",
-    "entry_volume": 322598.2550669999
+    "tracking_until": null,
+    "entry_volume": 404739.7205159999
   },
   "DOOD": {
     "current_run": 2,
