@@ -684,13 +684,13 @@
     "entry_volume": 97878.499953
   },
   "BANANA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T19:32:15.617654",
-    "exit_time": "2026-01-05T02:03:58.310596",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T10:34:38.856425",
+    "exit_time": null,
     "last_bar_collected": 163,
-    "tracking_until": "2026-01-15T02:03:58.310596",
-    "entry_volume": 134267.9854799999
+    "tracking_until": null,
+    "entry_volume": 138048.00693
   },
   "ALT": {
     "current_run": 1,
@@ -901,11 +901,11 @@
   },
   "0G": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T09:58:23.222900",
-    "exit_time": null,
+    "exit_time": "2026-01-06T10:34:38.856425",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T10:34:38.856425",
     "entry_volume": 233827.6560399999
   }
 }

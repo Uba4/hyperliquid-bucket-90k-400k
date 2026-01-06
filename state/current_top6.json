@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "USTC",
-    "FXS",
-    "ZEREBRO",
     "TST",
-    "ZETA",
-    "0G"
+    "FXS",
+    "USTC",
+    "ZEREBRO",
+    "BANANA",
+    "ZETA"
   ],
   "scores": [
     162,
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-06T09:58:23.223088",
+  "timestamp": "2026-01-06T10:34:38.856647",
   "bucket": "90k-400k"
 }
