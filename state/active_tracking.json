@@ -145,11 +145,11 @@
   },
   "FOGO": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T23:11:41.142602",
-    "exit_time": null,
+    "exit_time": "2026-01-06T23:34:24.523089",
     "last_bar_collected": 252,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T23:34:24.523089",
     "entry_volume": 395377.0735800003
   },
   "IOTA": {
@@ -351,13 +351,13 @@
     "entry_volume": 376608.9273999999
   },
   "CELO": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T10:12:36.017009",
-    "exit_time": "2026-01-04T11:26:17.040480",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T23:34:24.523089",
+    "exit_time": null,
     "last_bar_collected": 246,
-    "tracking_until": "2026-01-14T11:26:17.040480",
-    "entry_volume": 199928.04636
+    "tracking_until": null,
+    "entry_volume": 200019.6534400002
   },
   "FXS": {
     "current_run": 4,
@@ -892,11 +892,11 @@
   },
   "HEMI": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T18:23:24.926018",
-    "exit_time": null,
+    "exit_time": "2026-01-06T23:34:24.523089",
     "last_bar_collected": 76,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T23:34:24.523089",
     "entry_volume": 380552.3109259999
   },
   "0G": {
@@ -952,5 +952,14 @@
     "last_bar_collected": 4,
     "tracking_until": null,
     "entry_volume": 136467.271698
+  },
+  "ETHFI": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T23:34:24.523089",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 428067.191221
   }
 }
