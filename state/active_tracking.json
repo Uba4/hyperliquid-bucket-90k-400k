@@ -153,13 +153,13 @@
     "entry_volume": 104736.0825
   },
   "IOTA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T02:12:28.309369",
-    "exit_time": "2026-01-06T07:35:33.964611",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T14:35:53.306717",
+    "exit_time": null,
     "last_bar_collected": 225,
-    "tracking_until": "2026-01-16T07:35:33.964611",
-    "entry_volume": 82158.92044
+    "tracking_until": null,
+    "entry_volume": 155260.7459
   },
   "MINA": {
     "current_run": 2,
@@ -613,11 +613,11 @@
   },
   "kNEIRO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T14:01:49.847062",
-    "exit_time": null,
+    "exit_time": "2026-01-06T14:35:53.306717",
     "last_bar_collected": 211,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T14:35:53.306717",
     "entry_volume": 404739.7205159999
   },
   "DOOD": {
