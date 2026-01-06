@@ -154,11 +154,11 @@
   },
   "IOTA": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T02:12:28.309369",
-    "exit_time": null,
+    "exit_time": "2026-01-06T07:35:33.964611",
     "last_bar_collected": 197,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T07:35:33.964611",
     "entry_volume": 82158.92044
   },
   "MINA": {
@@ -360,13 +360,13 @@
     "entry_volume": 199928.04636
   },
   "FXS": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T10:37:56.769767",
-    "exit_time": "2026-01-05T13:31:02.472527",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T07:35:33.964611",
+    "exit_time": null,
     "last_bar_collected": 250,
-    "tracking_until": "2026-01-15T13:31:02.472527",
-    "entry_volume": 128829.172572
+    "tracking_until": null,
+    "entry_volume": 305125.6624579999
   },
   "PYTH": {
     "current_run": 3,
@@ -495,13 +495,13 @@
     "entry_volume": 373156.7591360002
   },
   "POLYX": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T22:30:34.836614",
-    "exit_time": "2026-01-04T23:28:19.805205",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T07:35:33.964611",
+    "exit_time": null,
     "last_bar_collected": 236,
-    "tracking_until": "2026-01-14T23:28:19.805205",
-    "entry_volume": 143895.422933
+    "tracking_until": null,
+    "entry_volume": 427062.534123
   },
   "APEX": {
     "current_run": 1,
@@ -874,11 +874,11 @@
   },
   "SCR": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T06:30:15.358972",
-    "exit_time": null,
+    "exit_time": "2026-01-06T07:35:33.964611",
     "last_bar_collected": 41,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T07:35:33.964611",
     "entry_volume": 320229.1419389999
   },
   "SNX": {
