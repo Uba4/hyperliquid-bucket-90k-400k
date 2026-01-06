@@ -541,11 +541,11 @@
   },
   "ANIME": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T18:52:57.655423",
-    "exit_time": null,
+    "exit_time": "2026-01-06T19:13:24.802298",
     "last_bar_collected": 271,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T19:13:24.802298",
     "entry_volume": 339378.215175
   },
   "UMA": {
@@ -657,13 +657,13 @@
     "entry_volume": 216381.858551
   },
   "TST": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T09:44:29.964225",
-    "exit_time": "2026-01-06T13:03:55.318698",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T19:13:24.802298",
+    "exit_time": null,
     "last_bar_collected": 206,
-    "tracking_until": "2026-01-16T13:03:55.318698",
-    "entry_volume": 320777.141156
+    "tracking_until": null,
+    "entry_volume": 364496.1922550001
   },
   "BIO": {
     "current_run": 2,
