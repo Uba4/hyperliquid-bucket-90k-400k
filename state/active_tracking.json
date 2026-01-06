@@ -217,11 +217,11 @@
   },
   "MEW": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T03:47:39.447088",
-    "exit_time": null,
+    "exit_time": "2026-01-06T05:00:25.824516",
     "last_bar_collected": 138,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T05:00:25.824516",
     "entry_volume": 295142.486858
   },
   "STX": {
@@ -612,13 +612,13 @@
     "entry_volume": 220634.72493
   },
   "kNEIRO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T09:23:18.333498",
-    "exit_time": "2026-01-04T12:39:12.723646",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T05:00:25.824516",
+    "exit_time": null,
     "last_bar_collected": 174,
-    "tracking_until": "2026-01-14T12:39:12.723646",
-    "entry_volume": 381778.3132350001
+    "tracking_until": null,
+    "entry_volume": 322598.2550669999
   },
   "DOOD": {
     "current_run": 2,
