@@ -2,10 +2,10 @@
   "tokens": [
     "IOTA",
     "VVV",
-    "FOGO",
     "HEMI",
-    "MEW",
-    "DOOD"
+    "FOGO",
+    "DOOD",
+    "MEW"
   ],
   "scores": [
     168,
@@ -15,6 +15,6 @@
     160,
     158
   ],
-  "timestamp": "2026-01-06T03:47:39.447557",
+  "timestamp": "2026-01-06T04:29:27.738390",
   "bucket": "90k-400k"
 }
