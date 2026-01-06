@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TST",
-    "FXS",
     "USTC",
-    "ZEREBRO",
+    "SNX",
+    "FXS",
     "GRIFFAIN",
-    "TNSR"
+    "RSR",
+    "USUAL"
   ],
   "scores": [
-    158,
     156,
-    156,
-    156,
+    154,
+    154,
     152,
-    150
+    148,
+    148
   ],
-  "timestamp": "2026-01-06T12:01:13.763789",
+  "timestamp": "2026-01-06T13:03:55.319117",
   "bucket": "90k-400k"
 }
