@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "USTC",
     "SNX",
     "FXS",
-    "GRIFFAIN",
     "RSR",
-    "USUAL"
+    "USUAL",
+    "BOME",
+    "USTC"
   ],
   "scores": [
-    156,
-    154,
-    154,
     152,
+    152,
+    150,
     148,
-    148
+    146,
+    144
   ],
-  "timestamp": "2026-01-06T13:03:55.319117",
+  "timestamp": "2026-01-06T13:48:14.100749",
   "bucket": "90k-400k"
 }

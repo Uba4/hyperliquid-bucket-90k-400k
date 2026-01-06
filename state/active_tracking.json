@@ -306,13 +306,13 @@
     "entry_volume": 114872.388913
   },
   "BOME": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T05:54:04.027498",
-    "exit_time": "2026-01-06T08:50:25.081999",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T13:48:14.100550",
+    "exit_time": null,
     "last_bar_collected": 188,
-    "tracking_until": "2026-01-16T08:50:25.081999",
-    "entry_volume": 220119.3497510001
+    "tracking_until": null,
+    "entry_volume": 218716.4417020001
   },
   "FTT": {
     "current_run": 2,
@@ -487,11 +487,11 @@
   },
   "GRIFFAIN": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T11:49:55.786305",
-    "exit_time": null,
+    "exit_time": "2026-01-06T13:48:14.100550",
     "last_bar_collected": 269,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T13:48:14.100550",
     "entry_volume": 253595.0615940001
   },
   "POLYX": {
