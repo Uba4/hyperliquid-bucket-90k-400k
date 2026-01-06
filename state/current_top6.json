@@ -2,19 +2,19 @@
   "tokens": [
     "ZEREBRO",
     "FXS",
-    "ZETA",
     "USTC",
-    "COMP",
-    "ZEN"
+    "TST",
+    "ZETA",
+    "COMP"
   ],
   "scores": [
-    166,
-    162,
-    162,
+    164,
+    160,
     160,
     158,
+    156,
     154
   ],
-  "timestamp": "2026-01-06T09:15:59.643690",
+  "timestamp": "2026-01-06T09:44:29.964446",
   "bucket": "90k-400k"
 }
