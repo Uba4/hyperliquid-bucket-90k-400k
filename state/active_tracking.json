@@ -613,11 +613,11 @@
   },
   "kNEIRO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T05:00:25.824516",
-    "exit_time": null,
+    "exit_time": "2026-01-06T06:30:15.358972",
     "last_bar_collected": 176,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T06:30:15.358972",
     "entry_volume": 322598.2550669999
   },
   "DOOD": {
@@ -873,13 +873,13 @@
     "entry_volume": 182610.4145
   },
   "SCR": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T20:28:37.029264",
-    "exit_time": "2026-01-05T22:31:02.185673",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T06:30:15.358972",
+    "exit_time": null,
     "last_bar_collected": 37,
-    "tracking_until": "2026-01-15T22:31:02.185673",
-    "entry_volume": 308566.0484660001
+    "tracking_until": null,
+    "entry_volume": 320229.1419389999
   },
   "SNX": {
     "current_run": 1,
