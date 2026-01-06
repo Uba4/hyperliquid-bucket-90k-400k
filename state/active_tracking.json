@@ -540,21 +540,21 @@
     "entry_volume": 229755.1812820001
   },
   "ANIME": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T22:55:02.689391",
-    "exit_time": "2026-01-03T23:19:41.467319",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T18:52:57.655423",
+    "exit_time": null,
     "last_bar_collected": 271,
-    "tracking_until": "2026-01-13T23:19:41.467319",
-    "entry_volume": 333076.8482530001
+    "tracking_until": null,
+    "entry_volume": 339378.215175
   },
   "UMA": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T15:48:32.578476",
-    "exit_time": null,
+    "exit_time": "2026-01-06T18:52:57.655423",
     "last_bar_collected": 272,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T18:52:57.655423",
     "entry_volume": 196688.973867
   },
   "MANTA": {
