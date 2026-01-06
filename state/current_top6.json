@@ -1,20 +1,20 @@
 {
   "tokens": [
     "FXS",
-    "VINE",
     "UMA",
-    "ATOM",
     "POL",
-    "RSR"
+    "ATOM",
+    "VINE",
+    "MAV"
   ],
   "scores": [
     142,
     142,
     140,
     138,
-    136,
+    135,
     134
   ],
-  "timestamp": "2026-01-06T17:03:01.010493",
+  "timestamp": "2026-01-06T17:35:08.845472",
   "bucket": "90k-400k"
 }
