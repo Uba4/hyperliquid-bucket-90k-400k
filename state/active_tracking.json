@@ -154,11 +154,11 @@
   },
   "IOTA": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T14:35:53.306717",
-    "exit_time": null,
+    "exit_time": "2026-01-06T15:48:32.578476",
     "last_bar_collected": 229,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T15:48:32.578476",
     "entry_volume": 155260.7459
   },
   "MINA": {
@@ -514,11 +514,11 @@
   },
   "USUAL": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T13:03:55.318698",
-    "exit_time": null,
+    "exit_time": "2026-01-06T15:48:32.578476",
     "last_bar_collected": 265,
-    "tracking_until": null,
+    "tracking_until": "2026-01-16T15:48:32.578476",
     "entry_volume": 121424.155632
   },
   "INIT": {
@@ -549,13 +549,13 @@
     "entry_volume": 333076.8482530001
   },
   "UMA": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T22:24:44.684474",
-    "exit_time": "2026-01-04T02:36:33.579866",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T15:48:32.578476",
+    "exit_time": null,
     "last_bar_collected": 261,
-    "tracking_until": "2026-01-14T02:36:33.579866",
-    "entry_volume": 237079.034272
+    "tracking_until": null,
+    "entry_volume": 196688.973867
   },
   "MANTA": {
     "current_run": 2,
@@ -828,13 +828,13 @@
     "entry_volume": 121024.20861
   },
   "ATOM": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T16:17:33.518646",
-    "exit_time": "2026-01-05T18:36:23.728670",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-06T15:48:32.578476",
+    "exit_time": null,
     "last_bar_collected": 93,
-    "tracking_until": "2026-01-15T18:36:23.728670",
-    "entry_volume": 422160.516272
+    "tracking_until": null,
+    "entry_volume": 310358.1446850001
   },
   "ZK": {
     "current_run": 1,
