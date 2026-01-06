@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ZEREBRO",
-    "VVV",
     "BOME",
-    "IOTA",
+    "VVV",
+    "ZEN",
     "SCR",
-    "HEMI"
+    "IOTA"
   ],
   "scores": [
     170,
@@ -13,8 +13,8 @@
     166,
     164,
     162,
-    160
+    158
   ],
-  "timestamp": "2026-01-06T06:30:15.359140",
+  "timestamp": "2026-01-06T07:00:57.518617",
   "bucket": "90k-400k"
 }
