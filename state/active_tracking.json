@@ -261,13 +261,13 @@
     "entry_volume": 168501.037079
   },
   "USTC": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T08:50:25.081999",
-    "exit_time": "2026-01-06T14:01:49.847062",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T02:23:14.416018",
+    "exit_time": null,
     "last_bar_collected": 303,
-    "tracking_until": "2026-01-16T14:01:49.847062",
-    "entry_volume": 106212.096205
+    "tracking_until": null,
+    "entry_volume": 111680.707513
   },
   "LINEA": {
     "current_run": 3,
@@ -280,11 +280,11 @@
   },
   "DYDX": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T22:31:27.828806",
-    "exit_time": null,
+    "exit_time": "2026-01-07T02:23:14.416018",
     "last_bar_collected": 322,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T02:23:14.416018",
     "entry_volume": 373462.753917
   },
   "ZETA": {
@@ -378,13 +378,13 @@
     "entry_volume": 305941.5457860002
   },
   "GAS": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T11:39:03.731816",
-    "exit_time": "2026-01-03T11:50:17.515775",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T02:23:14.416018",
+    "exit_time": null,
     "last_bar_collected": 322,
-    "tracking_until": "2026-01-13T11:50:17.515775",
-    "entry_volume": 108220.21037
+    "tracking_until": null,
+    "entry_volume": 113012.54962
   },
   "COMP": {
     "current_run": 2,
@@ -433,11 +433,11 @@
   },
   "MOVE": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T23:47:02.361708",
-    "exit_time": null,
+    "exit_time": "2026-01-07T02:23:14.416018",
     "last_bar_collected": 321,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T02:23:14.416018",
     "entry_volume": 317625.486452
   },
   "MEGA": {
@@ -936,13 +936,13 @@
     "entry_volume": 181567.2105159999
   },
   "GMX": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T17:52:54.160190",
-    "exit_time": "2026-01-06T18:23:24.926018",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T02:23:14.416018",
+    "exit_time": null,
     "last_bar_collected": 31,
-    "tracking_until": "2026-01-16T18:23:24.926018",
-    "entry_volume": 163861.789654
+    "tracking_until": null,
+    "entry_volume": 128307.460022
   },
   "YGG": {
     "current_run": 1,
@@ -955,11 +955,11 @@
   },
   "ETHFI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T23:34:24.523089",
-    "exit_time": null,
+    "exit_time": "2026-01-07T02:23:14.416018",
     "last_bar_collected": 8,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T02:23:14.416018",
     "entry_volume": 428067.191221
   }
 }
