@@ -180,13 +180,13 @@
     "entry_volume": 343939.92055
   },
   "ZEREBRO": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T13:22:11.532085",
-    "exit_time": "2026-01-07T15:14:52.648381",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T22:41:18.452440",
+    "exit_time": null,
     "last_bar_collected": 402,
-    "tracking_until": "2026-01-17T15:14:52.648381",
-    "entry_volume": 252662.4357489999
+    "tracking_until": null,
+    "entry_volume": 281529.9587059998
   },
   "ZRO": {
     "current_run": 1,
@@ -405,13 +405,13 @@
     "entry_volume": 232624.802621
   },
   "BLAST": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T14:25:00.071604",
-    "exit_time": "2026-01-07T16:00:57.971589",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T22:41:18.452440",
+    "exit_time": null,
     "last_bar_collected": 404,
-    "tracking_until": "2026-01-17T16:00:57.971589",
-    "entry_volume": 141644.280854
+    "tracking_until": null,
+    "entry_volume": 108189.65853
   },
   "LAYER": {
     "current_run": 1,
@@ -694,11 +694,11 @@
   },
   "ALT": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T22:14:02.223417",
-    "exit_time": null,
+    "exit_time": "2026-01-07T22:41:18.452440",
     "last_bar_collected": 295,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T22:41:18.452440",
     "entry_volume": 115691.022561
   },
   "PEOPLE": {
@@ -874,11 +874,11 @@
   },
   "SCR": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T21:39:04.527678",
-    "exit_time": null,
+    "exit_time": "2026-01-07T22:41:18.452440",
     "last_bar_collected": 193,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T22:41:18.452440",
     "entry_volume": 386891.5828750001
   },
   "SNX": {
@@ -928,11 +928,11 @@
   },
   "MAV": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T20:54:29.983301",
-    "exit_time": null,
+    "exit_time": "2026-01-07T22:41:18.452440",
     "last_bar_collected": 115,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T22:41:18.452440",
     "entry_volume": 178672.0488429999
   },
   "GMX": {
@@ -988,5 +988,14 @@
     "last_bar_collected": 15,
     "tracking_until": "2026-01-17T21:39:04.527678",
     "entry_volume": 346339.96368
+  },
+  "CAKE": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T22:41:18.452440",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 316008.1519999999
   }
 }
