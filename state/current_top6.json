@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BLAST",
-    "USUAL",
     "VVV",
-    "KAS",
+    "ZEREBRO",
     "CAKE",
-    "ZEREBRO"
+    "USUAL",
+    "KAS"
   ],
   "scores": [
+    170,
+    168,
     166,
-    166,
-    166,
-    160,
-    160,
+    164,
+    162,
     160
   ],
-  "timestamp": "2026-01-07T22:41:18.452884",
+  "timestamp": "2026-01-07T22:55:49.589484",
   "bucket": "90k-400k"
 }
