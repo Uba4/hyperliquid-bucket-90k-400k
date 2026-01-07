@@ -306,13 +306,13 @@
     "entry_volume": 114872.388913
   },
   "BOME": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T09:17:52.760678",
-    "exit_time": "2026-01-07T12:26:11.264842",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T17:45:17.430637",
+    "exit_time": null,
     "last_bar_collected": 295,
-    "tracking_until": "2026-01-17T12:26:11.264842",
-    "entry_volume": 144801.323445
+    "tracking_until": null,
+    "entry_volume": 104989.131329
   },
   "FTT": {
     "current_run": 2,
@@ -766,11 +766,11 @@
   },
   "RUNE": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T17:13:08.368261",
-    "exit_time": null,
+    "exit_time": "2026-01-07T17:45:17.430637",
     "last_bar_collected": 244,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T17:45:17.430637",
     "entry_volume": 104989.86371
   },
   "AIXBT": {
