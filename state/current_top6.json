@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BLAST",
-    "GAS",
-    "GMX",
     "PROVE",
-    "TST",
-    "SKY"
+    "GMX",
+    "GAS",
+    "RESOLV",
+    "BIGTIME"
   ],
   "scores": [
+    130,
     128,
     126,
     124,
     122,
-    120,
-    118
+    120
   ],
-  "timestamp": "2026-01-07T05:01:50.535198",
+  "timestamp": "2026-01-07T05:37:21.107154",
   "bucket": "90k-400k"
 }
