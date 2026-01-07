@@ -3,18 +3,18 @@
     "PROVE",
     "BLAST",
     "AIXBT",
-    "USUAL",
     "BIGTIME",
+    "USUAL",
     "HYPER"
   ],
   "scores": [
+    138,
     136,
     134,
     132,
     130,
-    128,
-    126
+    128
   ],
-  "timestamp": "2026-01-07T06:32:19.155815",
+  "timestamp": "2026-01-07T07:00:34.280922",
   "bucket": "90k-400k"
 }
