@@ -271,11 +271,11 @@
   },
   "LINEA": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T20:35:29.546356",
-    "exit_time": null,
+    "exit_time": "2026-01-07T20:54:29.983301",
     "last_bar_collected": 397,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T20:54:29.983301",
     "entry_volume": 204848.1141250001
   },
   "DYDX": {
@@ -927,13 +927,13 @@
     "entry_volume": 382814.37245
   },
   "MAV": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T17:35:08.845281",
-    "exit_time": "2026-01-06T22:31:27.828806",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T20:54:29.983301",
+    "exit_time": null,
     "last_bar_collected": 108,
-    "tracking_until": "2026-01-16T22:31:27.828806",
-    "entry_volume": 181567.2105159999
+    "tracking_until": null,
+    "entry_volume": 178672.0488429999
   },
   "GMX": {
     "current_run": 3,
