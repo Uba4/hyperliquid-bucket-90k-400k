@@ -1,11 +1,11 @@
 {
   "WCT": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T19:32:41.088094",
-    "exit_time": null,
+    "exit_time": "2026-01-07T19:47:12.027966",
     "last_bar_collected": 310,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T19:47:12.027966",
     "entry_volume": 117536.253032
   },
   "ZEN": {
@@ -279,13 +279,13 @@
     "entry_volume": 421586.312396
   },
   "DYDX": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T22:31:27.828806",
-    "exit_time": "2026-01-07T02:23:14.416018",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T19:47:12.027966",
+    "exit_time": null,
     "last_bar_collected": 394,
-    "tracking_until": "2026-01-17T02:23:14.416018",
-    "entry_volume": 373462.753917
+    "tracking_until": null,
+    "entry_volume": 360152.258369
   },
   "ZETA": {
     "current_run": 4,

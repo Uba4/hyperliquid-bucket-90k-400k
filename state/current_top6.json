@@ -4,17 +4,17 @@
     "BOME",
     "MERL",
     "CHILLGUY",
-    "WCT",
-    "USUAL"
+    "USUAL",
+    "DYDX"
   ],
   "scores": [
+    164,
     162,
     160,
     158,
     156,
-    154,
     152
   ],
-  "timestamp": "2026-01-07T19:32:41.088429",
+  "timestamp": "2026-01-07T19:47:12.028159",
   "bucket": "90k-400k"
 }
