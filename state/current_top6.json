@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MEGA",
+    "USUAL",
     "MERL",
     "BOME",
-    "CHILLGUY",
-    "USUAL",
-    "DYDX"
+    "DYDX",
+    "LINEA"
   ],
   "scores": [
     164,
@@ -13,8 +13,8 @@
     160,
     158,
     156,
-    152
+    154
   ],
-  "timestamp": "2026-01-07T19:58:43.250313",
+  "timestamp": "2026-01-07T20:35:29.546585",
   "bucket": "90k-400k"
 }
