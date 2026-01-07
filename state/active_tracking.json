@@ -280,11 +280,11 @@
   },
   "DYDX": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T21:52:09.481179",
-    "exit_time": null,
+    "exit_time": "2026-01-07T22:14:02.223417",
     "last_bar_collected": 397,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T22:14:02.223417",
     "entry_volume": 344594.6948110001
   },
   "ZETA": {
@@ -693,13 +693,13 @@
     "entry_volume": 138048.00693
   },
   "ALT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T19:20:23.723872",
-    "exit_time": "2026-01-05T02:03:58.310596",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T22:14:02.223417",
+    "exit_time": null,
     "last_bar_collected": 293,
-    "tracking_until": "2026-01-15T02:03:58.310596",
-    "entry_volume": 179982.653046
+    "tracking_until": null,
+    "entry_volume": 115691.022561
   },
   "PEOPLE": {
     "current_run": 3,
