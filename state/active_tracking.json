@@ -352,11 +352,11 @@
   },
   "CELO": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T07:34:35.044094",
-    "exit_time": null,
+    "exit_time": "2026-01-07T08:50:28.403473",
     "last_bar_collected": 282,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T08:50:28.403473",
     "entry_volume": 188479.4640899999
   },
   "FXS": {
@@ -612,13 +612,13 @@
     "entry_volume": 220634.72493
   },
   "kNEIRO": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T14:01:49.847062",
-    "exit_time": "2026-01-06T14:35:53.306717",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T08:50:28.403473",
+    "exit_time": null,
     "last_bar_collected": 283,
-    "tracking_until": "2026-01-16T14:35:53.306717",
-    "entry_volume": 404739.7205159999
+    "tracking_until": null,
+    "entry_volume": 316573.942464
   },
   "DOOD": {
     "current_run": 2,
