@@ -351,13 +351,13 @@
     "entry_volume": 430393.5773759999
   },
   "CELO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T23:34:24.523089",
-    "exit_time": "2026-01-07T03:50:30.431385",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T07:34:35.044094",
+    "exit_time": null,
     "last_bar_collected": 278,
-    "tracking_until": "2026-01-17T03:50:30.431385",
-    "entry_volume": 200019.6534400002
+    "tracking_until": null,
+    "entry_volume": 188479.4640899999
   },
   "FXS": {
     "current_run": 4,
@@ -406,11 +406,11 @@
   },
   "BLAST": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-06T23:47:02.361708",
-    "exit_time": null,
+    "exit_time": "2026-01-07T07:34:35.044094",
     "last_bar_collected": 343,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T07:34:35.044094",
     "entry_volume": 235096.2340380001
   },
   "LAYER": {
