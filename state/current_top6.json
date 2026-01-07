@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "ACE",
     "USUAL",
     "RSR",
-    "HYPER",
-    "ACE",
     "kNEIRO",
-    "BOME"
+    "BOME",
+    "XAI"
   ],
   "scores": [
-    141,
+    142,
     140,
-    139,
+    138,
     136,
     134,
     132
   ],
-  "timestamp": "2026-01-07T09:46:15.100240",
+  "timestamp": "2026-01-07T09:59:20.334546",
   "bucket": "90k-400k"
 }
