@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "AIXBT",
-    "USUAL",
     "HYPER",
+    "USUAL",
     "RSR",
-    "BIGTIME",
-    "kNEIRO"
+    "kNEIRO",
+    "POL",
+    "BOME"
   ],
   "scores": [
-    146,
-    144,
     142,
     140,
     138,
-    136
+    136,
+    134,
+    132
   ],
-  "timestamp": "2026-01-07T08:50:28.403659",
+  "timestamp": "2026-01-07T09:17:52.761013",
   "bucket": "90k-400k"
 }
