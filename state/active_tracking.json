@@ -207,13 +207,13 @@
     "entry_volume": 252301.80916
   },
   "GALA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T17:47:17.926408",
-    "exit_time": "2026-01-04T21:20:26.732955",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T10:35:43.907522",
+    "exit_time": null,
     "last_bar_collected": 259,
-    "tracking_until": "2026-01-14T21:20:26.732955",
-    "entry_volume": 89909.035182
+    "tracking_until": null,
+    "entry_volume": 182390.454407
   },
   "MEW": {
     "current_run": 8,
@@ -973,11 +973,11 @@
   },
   "XAI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T09:59:20.334344",
-    "exit_time": null,
+    "exit_time": "2026-01-07T10:35:43.907522",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T10:35:43.907522",
     "entry_volume": 241112.4787099999
   }
 }
