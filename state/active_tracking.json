@@ -208,11 +208,11 @@
   },
   "GALA": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T17:58:57.759456",
-    "exit_time": null,
+    "exit_time": "2026-01-07T18:47:03.286981",
     "last_bar_collected": 291,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T18:47:03.286981",
     "entry_volume": 188278.329057
   },
   "MEW": {
@@ -423,13 +423,13 @@
     "entry_volume": 112909.82791
   },
   "SOPH": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T13:55:16.470973",
-    "exit_time": "2026-01-07T14:25:00.071604",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T18:47:03.286981",
+    "exit_time": null,
     "last_bar_collected": 350,
-    "tracking_until": "2026-01-17T14:25:00.071604",
-    "entry_volume": 103960.229695
+    "tracking_until": null,
+    "entry_volume": 100123.51189
   },
   "MOVE": {
     "current_run": 4,
@@ -901,11 +901,11 @@
   },
   "0G": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T12:26:11.264842",
-    "exit_time": null,
+    "exit_time": "2026-01-07T18:47:03.286981",
     "last_bar_collected": 129,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T18:47:03.286981",
     "entry_volume": 419741.3077200003
   },
   "RSR": {
@@ -979,5 +979,14 @@
     "last_bar_collected": 36,
     "tracking_until": "2026-01-17T10:35:43.907522",
     "entry_volume": 241112.4787099999
+  },
+  "MERL": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T18:47:03.286981",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 346339.96368
   }
 }
