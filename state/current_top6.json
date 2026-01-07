@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ACE",
-    "kNEIRO",
     "BOME",
-    "RSR",
-    "USUAL",
-    "GALA"
+    "kNEIRO",
+    "GALA",
+    "GRIFFAIN",
+    "PURR"
   ],
   "scores": [
     144,
@@ -15,6 +15,6 @@
     136,
     134
   ],
-  "timestamp": "2026-01-07T10:35:43.907800",
+  "timestamp": "2026-01-07T10:54:47.958960",
   "bucket": "90k-400k"
 }
