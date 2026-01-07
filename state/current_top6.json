@@ -1,8 +1,8 @@
 {
   "tokens": [
     "MEGA",
-    "BOME",
     "MERL",
+    "BOME",
     "CHILLGUY",
     "USUAL",
     "DYDX"
@@ -15,6 +15,6 @@
     156,
     152
   ],
-  "timestamp": "2026-01-07T19:47:12.028159",
+  "timestamp": "2026-01-07T19:58:43.250313",
   "bucket": "90k-400k"
 }
