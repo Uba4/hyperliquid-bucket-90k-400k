@@ -424,11 +424,11 @@
   },
   "SOPH": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T18:47:03.286981",
-    "exit_time": null,
+    "exit_time": "2026-01-07T19:10:51.013133",
     "last_bar_collected": 350,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T19:10:51.013133",
     "entry_volume": 100123.51189
   },
   "MOVE": {
@@ -450,13 +450,13 @@
     "entry_volume": 417783.6174999999
   },
   "CHILLGUY": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T12:39:12.723646",
-    "exit_time": "2026-01-04T14:39:16.354830",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T19:10:51.013133",
+    "exit_time": null,
     "last_bar_collected": 313,
-    "tracking_until": "2026-01-14T14:39:16.354830",
-    "entry_volume": 373572.8214600001
+    "tracking_until": null,
+    "entry_volume": 401768.958664
   },
   "IO": {
     "current_run": 3,
