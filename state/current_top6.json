@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "ZEN",
-    "GMX",
     "MEGA",
+    "ZEN",
     "0G",
+    "GMX",
     "COMP",
-    "BIGTIME"
+    "RUNE"
   ],
   "scores": [
     156,
@@ -15,6 +15,6 @@
     148,
     146
   ],
-  "timestamp": "2026-01-07T16:44:31.317521",
+  "timestamp": "2026-01-07T17:13:08.368405",
   "bucket": "90k-400k"
 }

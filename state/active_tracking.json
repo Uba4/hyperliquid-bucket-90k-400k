@@ -739,11 +739,11 @@
   },
   "BIGTIME": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T15:44:40.810288",
-    "exit_time": null,
+    "exit_time": "2026-01-07T17:13:08.368261",
     "last_bar_collected": 246,
-    "tracking_until": null,
+    "tracking_until": "2026-01-17T17:13:08.368261",
     "entry_volume": 114782.476594
   },
   "BSV": {
@@ -765,13 +765,13 @@
     "entry_volume": 121655.2406
   },
   "RUNE": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T04:02:53.138008",
-    "exit_time": "2026-01-05T05:47:35.474672",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-07T17:13:08.368261",
+    "exit_time": null,
     "last_bar_collected": 242,
-    "tracking_until": "2026-01-15T05:47:35.474672",
-    "entry_volume": 140762.0619260001
+    "tracking_until": null,
+    "entry_volume": 104989.86371
   },
   "AIXBT": {
     "current_run": 2,
