@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SCR",
-    "PROVE",
-    "SAGA",
-    "FOGO",
     "DYM",
-    "IOTA"
+    "SAGA",
+    "IOTA",
+    "FOGO",
+    "ZEREBRO"
   ],
   "scores": [
-    156,
-    152,
-    150,
+    154,
     148,
     146,
-    146
+    146,
+    146,
+    142
   ],
-  "timestamp": "2026-01-08T23:11:49.307184",
+  "timestamp": "2026-01-08T23:34:24.740570",
   "bucket": "90k-400k"
 }

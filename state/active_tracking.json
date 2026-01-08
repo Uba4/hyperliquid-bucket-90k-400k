@@ -180,13 +180,13 @@
     "entry_volume": 343939.92055
   },
   "ZEREBRO": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T22:41:18.452440",
-    "exit_time": "2026-01-08T03:05:58.414632",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T23:34:24.740384",
+    "exit_time": null,
     "last_bar_collected": 502,
-    "tracking_until": "2026-01-18T03:05:58.414632",
-    "entry_volume": 281529.9587059998
+    "tracking_until": null,
+    "entry_volume": 248770.297638
   },
   "ZRO": {
     "current_run": 2,
@@ -631,11 +631,11 @@
   },
   "PROVE": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T19:43:51.598477",
-    "exit_time": null,
+    "exit_time": "2026-01-08T23:34:24.740384",
     "last_bar_collected": 415,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T23:34:24.740384",
     "entry_volume": 185145.01879
   },
   "VINE": {
