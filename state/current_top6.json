@@ -3,9 +3,9 @@
     "BIGTIME",
     "BLAST",
     "GRIFFAIN",
-    "VINE",
     "BLUR",
-    "GMX"
+    "GMX",
+    "VINE"
   ],
   "scores": [
     176,
@@ -15,6 +15,6 @@
     168,
     166
   ],
-  "timestamp": "2026-01-08T05:18:39.412140",
+  "timestamp": "2026-01-08T05:45:56.634792",
   "bucket": "90k-400k"
 }
