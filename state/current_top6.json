@@ -2,19 +2,19 @@
   "tokens": [
     "BLAST",
     "VINE",
-    "GRIFFAIN",
-    "GMT",
     "BIGTIME",
-    "MAVIA"
+    "GRIFFAIN",
+    "MAVIA",
+    "GMT"
   ],
   "scores": [
+    176,
     174,
     172,
     170,
     168,
-    166,
-    164
+    166
   ],
-  "timestamp": "2026-01-08T04:09:11.362944",
+  "timestamp": "2026-01-08T04:52:01.128009",
   "bucket": "90k-400k"
 }
