@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TST",
     "PROVE",
-    "VINE",
+    "TST",
+    "ZRO",
+    "MORPHO",
     "KAS",
-    "MAVIA",
-    "TURBO"
+    "MAVIA"
   ],
   "scores": [
+    164,
     162,
     160,
     158,
-    156,
-    152,
-    152
+    154,
+    154
   ],
-  "timestamp": "2026-01-08T21:00:19.164838",
+  "timestamp": "2026-01-08T21:32:06.799413",
   "bucket": "90k-400k"
 }
