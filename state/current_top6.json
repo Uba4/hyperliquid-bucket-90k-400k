@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "BLAST",
-    "VINE",
     "BIGTIME",
+    "BLAST",
     "GRIFFAIN",
-    "MAVIA",
-    "GMT"
+    "VINE",
+    "BLUR",
+    "GMX"
   ],
   "scores": [
     176,
@@ -15,6 +15,6 @@
     168,
     166
   ],
-  "timestamp": "2026-01-08T04:52:01.128009",
+  "timestamp": "2026-01-08T05:18:39.412140",
   "bucket": "90k-400k"
 }
