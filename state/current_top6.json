@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "TST",
-    "PURR",
-    "CAKE",
     "PROMPT",
-    "GRIFFAIN"
+    "BANANA",
+    "NOT",
+    "SCR"
   ],
   "scores": [
+    152,
     150,
     147,
-    144,
-    142,
-    142,
-    141
+    146,
+    143,
+    140
   ],
-  "timestamp": "2026-01-08T15:12:53.889008",
+  "timestamp": "2026-01-08T15:44:11.722990",
   "bucket": "90k-400k"
 }
