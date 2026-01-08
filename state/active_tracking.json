@@ -739,11 +739,11 @@
   },
   "BIGTIME": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T04:09:11.362742",
-    "exit_time": null,
+    "exit_time": "2026-01-08T08:56:13.249207",
     "last_bar_collected": 308,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T08:56:13.249207",
     "entry_volume": 339432.2035429999
   },
   "BSV": {
@@ -972,13 +972,13 @@
     "entry_volume": 334600.39099
   },
   "XAI": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T09:59:20.334344",
-    "exit_time": "2026-01-07T10:35:43.907522",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T08:56:13.249207",
+    "exit_time": null,
     "last_bar_collected": 91,
-    "tracking_until": "2026-01-17T10:35:43.907522",
-    "entry_volume": 241112.4787099999
+    "tracking_until": null,
+    "entry_volume": 143162.6853
   },
   "MERL": {
     "current_run": 1,

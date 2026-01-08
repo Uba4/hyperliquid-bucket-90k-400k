@@ -2,19 +2,19 @@
   "tokens": [
     "GRIFFAIN",
     "GMX",
-    "BIGTIME",
-    "HMSTR",
+    "XAI",
     "APEX",
+    "HMSTR",
     "2Z"
   ],
   "scores": [
-    164,
-    162,
     160,
     158,
     156,
-    154
+    154,
+    152,
+    150
   ],
-  "timestamp": "2026-01-08T08:26:17.173762",
+  "timestamp": "2026-01-08T08:56:13.249421",
   "bucket": "90k-400k"
 }
