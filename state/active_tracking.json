@@ -154,11 +154,11 @@
   },
   "IOTA": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T13:04:07.627209",
-    "exit_time": null,
+    "exit_time": "2026-01-08T13:50:37.989257",
     "last_bar_collected": 413,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T13:50:37.989257",
     "entry_volume": 81721.03496
   },
   "MINA": {
@@ -424,11 +424,11 @@
   },
   "SOPH": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T13:04:07.627209",
-    "exit_time": null,
+    "exit_time": "2026-01-08T13:50:37.989257",
     "last_bar_collected": 425,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T13:50:37.989257",
     "entry_volume": 123880.657167
   },
   "MOVE": {
@@ -504,13 +504,13 @@
     "entry_volume": 427062.534123
   },
   "APEX": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T08:26:17.173425",
-    "exit_time": "2026-01-08T13:04:07.627209",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T13:50:37.989257",
+    "exit_time": null,
     "last_bar_collected": 453,
-    "tracking_until": "2026-01-18T13:04:07.627209",
-    "entry_volume": 343484.9060900001
+    "tracking_until": null,
+    "entry_volume": 437985.9562500002
   },
   "USUAL": {
     "current_run": 6,
@@ -657,13 +657,13 @@
     "entry_volume": 216381.858551
   },
   "TST": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T03:50:30.431385",
-    "exit_time": "2026-01-07T05:37:21.106793",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T13:50:37.989257",
+    "exit_time": null,
     "last_bar_collected": 376,
-    "tracking_until": "2026-01-17T05:37:21.106793",
-    "entry_volume": 367899.4623810002
+    "tracking_until": null,
+    "entry_volume": 121944.390472
   },
   "BIO": {
     "current_run": 2,
@@ -892,11 +892,11 @@
   },
   "HEMI": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T11:30:48.036715",
-    "exit_time": null,
+    "exit_time": "2026-01-08T13:50:37.989257",
     "last_bar_collected": 229,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T13:50:37.989257",
     "entry_volume": 377041.151331
   },
   "0G": {
@@ -1024,5 +1024,14 @@
     "last_bar_collected": 28,
     "tracking_until": "2026-01-18T08:26:17.173425",
     "entry_volume": 291372.5203570001
+  },
+  "PROMPT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T13:50:37.989257",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 348549.5494789999
   }
 }
