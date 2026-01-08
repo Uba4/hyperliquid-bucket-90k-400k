@@ -2,19 +2,19 @@
   "tokens": [
     "APEX",
     "GRIFFAIN",
-    "XAI",
     "HEMI",
-    "GMX",
-    "TNSR"
+    "XAI",
+    "COMP",
+    "PROVE"
   ],
   "scores": [
-    154,
     152,
     150,
     148,
     146,
-    144
+    144,
+    142
   ],
-  "timestamp": "2026-01-08T11:30:48.036918",
+  "timestamp": "2026-01-08T11:47:30.976429",
   "bucket": "90k-400k"
 }
