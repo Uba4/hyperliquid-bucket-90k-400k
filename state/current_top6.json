@@ -2,19 +2,19 @@
   "tokens": [
     "RESOLV",
     "USUAL",
-    "NOT",
-    "BRETT",
     "GOAT",
-    "TST"
+    "BRETT",
+    "TST",
+    "TURBO"
   ],
   "scores": [
+    156,
     154,
     152,
     150,
     148,
-    146,
-    144
+    146
   ],
-  "timestamp": "2026-01-08T17:14:19.817381",
+  "timestamp": "2026-01-08T17:46:32.119699",
   "bucket": "90k-400k"
 }
