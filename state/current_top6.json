@@ -2,19 +2,19 @@
   "tokens": [
     "PROVE",
     "SCR",
-    "TST",
-    "MORPHO",
-    "DYDX",
-    "IOTA"
+    "FOGO",
+    "DYM",
+    "SAGA",
+    "MORPHO"
   ],
   "scores": [
-    160,
     158,
     156,
     152,
-    150,
+    148,
+    148,
     148
   ],
-  "timestamp": "2026-01-08T22:32:30.795859",
+  "timestamp": "2026-01-08T22:51:25.948158",
   "bucket": "90k-400k"
 }
