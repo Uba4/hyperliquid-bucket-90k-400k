@@ -153,13 +153,13 @@
     "entry_volume": 395855.2646600001
   },
   "IOTA": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T20:26:21.238737",
-    "exit_time": "2026-01-08T20:48:29.733137",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T22:32:30.795660",
+    "exit_time": null,
     "last_bar_collected": 448,
-    "tracking_until": "2026-01-18T20:48:29.733137",
-    "entry_volume": 249691.43954
+    "tracking_until": null,
+    "entry_volume": 251328.6521400001
   },
   "MINA": {
     "current_run": 2,
@@ -595,11 +595,11 @@
   },
   "KAS": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T19:28:49.737986",
-    "exit_time": null,
+    "exit_time": "2026-01-08T22:32:30.795660",
     "last_bar_collected": 449,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T22:32:30.795660",
     "entry_volume": 340404.545168
   },
   "ALGO": {
