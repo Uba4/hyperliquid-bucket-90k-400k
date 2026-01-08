@@ -54,13 +54,13 @@
     "entry_volume": 914380.991075
   },
   "MAVIA": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T23:44:36.917825",
-    "exit_time": "2026-01-04T23:56:10.973580",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T01:11:05.474604",
+    "exit_time": null,
     "last_bar_collected": 332,
-    "tracking_until": "2026-01-14T23:56:10.973580",
-    "entry_volume": 362486.104404
+    "tracking_until": null,
+    "entry_volume": 316043.914676
   },
   "NIL": {
     "current_run": 2,
@@ -451,11 +451,11 @@
   },
   "CHILLGUY": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T23:22:47.546152",
-    "exit_time": null,
+    "exit_time": "2026-01-08T01:11:05.474604",
     "last_bar_collected": 331,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T01:11:05.474604",
     "entry_volume": 419107.8605389999
   },
   "IO": {
@@ -486,13 +486,13 @@
     "entry_volume": 304214.505251
   },
   "GRIFFAIN": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T10:54:47.958658",
-    "exit_time": "2026-01-07T11:51:33.850168",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T01:11:05.474604",
+    "exit_time": null,
     "last_bar_collected": 403,
-    "tracking_until": "2026-01-17T11:51:33.850168",
-    "entry_volume": 406568.5111320003
+    "tracking_until": null,
+    "entry_volume": 275089.4329890001
   },
   "POLYX": {
     "current_run": 4,
@@ -991,11 +991,11 @@
   },
   "CAKE": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T22:41:18.452440",
-    "exit_time": null,
+    "exit_time": "2026-01-08T01:11:05.474604",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T01:11:05.474604",
     "entry_volume": 316008.1519999999
   }
 }
