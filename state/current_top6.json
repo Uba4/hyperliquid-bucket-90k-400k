@@ -2,19 +2,19 @@
   "tokens": [
     "PROVE",
     "TST",
-    "ZRO",
     "MORPHO",
-    "KAS",
-    "MAVIA"
+    "SCR",
+    "DYDX",
+    "KAS"
   ],
   "scores": [
-    164,
     162,
     160,
     158,
+    156,
     154,
-    154
+    152
   ],
-  "timestamp": "2026-01-08T21:32:06.799413",
+  "timestamp": "2026-01-08T21:48:30.469692",
   "bucket": "90k-400k"
 }
