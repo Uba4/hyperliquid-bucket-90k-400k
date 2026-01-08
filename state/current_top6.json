@@ -1,20 +1,20 @@
 {
   "tokens": [
     "GOAT",
-    "USUAL",
     "BRETT",
+    "USUAL",
     "TURBO",
     "TST",
-    "RESOLV"
+    "MAV"
   ],
   "scores": [
     154,
-    152,
+    150,
     150,
     148,
-    146,
+    148,
     144
   ],
-  "timestamp": "2026-01-08T18:41:21.125033",
+  "timestamp": "2026-01-08T19:00:33.802480",
   "bucket": "90k-400k"
 }
