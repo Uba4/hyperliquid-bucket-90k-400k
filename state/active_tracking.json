@@ -145,11 +145,11 @@
   },
   "FOGO": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T22:51:25.947769",
-    "exit_time": null,
+    "exit_time": "2026-01-08T23:45:46.052899",
     "last_bar_collected": 436,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T23:45:46.052899",
     "entry_volume": 311809.53112
   },
   "IOTA": {
@@ -1035,12 +1035,12 @@
     "entry_volume": 355380.24677
   },
   "MORPHO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T21:32:06.799082",
-    "exit_time": "2026-01-08T23:11:49.306977",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T23:45:46.052899",
+    "exit_time": null,
     "last_bar_collected": 8,
-    "tracking_until": "2026-01-18T23:11:49.306977",
-    "entry_volume": 397552.5788300001
+    "tracking_until": null,
+    "entry_volume": 410199.1603700001
   }
 }

@@ -4,17 +4,17 @@
     "DYM",
     "SAGA",
     "IOTA",
-    "FOGO",
-    "ZEREBRO"
+    "ZEREBRO",
+    "MORPHO"
   ],
   "scores": [
     154,
+    150,
     148,
     146,
-    146,
-    146,
+    144,
     142
   ],
-  "timestamp": "2026-01-08T23:34:24.740570",
+  "timestamp": "2026-01-08T23:45:46.053099",
   "bucket": "90k-400k"
 }
