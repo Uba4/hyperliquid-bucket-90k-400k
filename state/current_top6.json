@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TST",
-    "TURBO",
     "VINE",
+    "TURBO",
+    "KAS",
     "GOAT",
-    "MAV",
-    "KAS"
+    "PROVE"
   ],
   "scores": [
     162,
     160,
     158,
     156,
-    154,
+    152,
     152
   ],
-  "timestamp": "2026-01-08T19:28:49.738283",
+  "timestamp": "2026-01-08T19:43:51.598695",
   "bucket": "90k-400k"
 }
