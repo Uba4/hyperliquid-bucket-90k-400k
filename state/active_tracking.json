@@ -406,11 +406,11 @@
   },
   "BLAST": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-07T22:41:18.452440",
-    "exit_time": null,
+    "exit_time": "2026-01-08T06:48:15.107396",
     "last_bar_collected": 437,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T06:48:15.107396",
     "entry_volume": 108189.65853
   },
   "LAYER": {
@@ -640,11 +640,11 @@
   },
   "VINE": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T03:05:58.414632",
-    "exit_time": null,
+    "exit_time": "2026-01-08T06:48:15.107396",
     "last_bar_collected": 346,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T06:48:15.107396",
     "entry_volume": 369707.8102709998
   },
   "SAGA": {
@@ -1006,5 +1006,23 @@
     "last_bar_collected": 15,
     "tracking_until": "2026-01-18T05:18:39.411791",
     "entry_volume": 159518.8942889999
+  },
+  "HMSTR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T06:48:15.107396",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 110675.9315
+  },
+  "kLUNC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T06:48:15.107396",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 291372.5203570001
   }
 }

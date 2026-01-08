@@ -2,19 +2,19 @@
   "tokens": [
     "BIGTIME",
     "GRIFFAIN",
-    "BLUR",
     "GMX",
-    "BLAST",
-    "VINE"
+    "BLUR",
+    "HMSTR",
+    "kLUNC"
   ],
   "scores": [
-    176,
-    174,
-    172,
     170,
     168,
-    165
+    166,
+    164,
+    162,
+    160
   ],
-  "timestamp": "2026-01-08T05:58:45.297732",
+  "timestamp": "2026-01-08T06:48:15.107730",
   "bucket": "90k-400k"
 }
