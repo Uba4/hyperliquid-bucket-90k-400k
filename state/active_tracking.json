@@ -1036,11 +1036,20 @@
   },
   "MORPHO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T23:45:46.052899",
-    "exit_time": null,
+    "exit_time": "2026-01-08T23:57:16.680020",
     "last_bar_collected": 8,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T23:57:16.680020",
     "entry_volume": 410199.1603700001
+  },
+  "YZY": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T23:57:16.680020",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 323335.7036199999
   }
 }
