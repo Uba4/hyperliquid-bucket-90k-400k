@@ -145,11 +145,11 @@
   },
   "FOGO": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T03:05:58.414632",
-    "exit_time": null,
+    "exit_time": "2026-01-08T04:09:11.362742",
     "last_bar_collected": 359,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T04:09:11.362742",
     "entry_volume": 395855.2646600001
   },
   "IOTA": {
@@ -738,13 +738,13 @@
     "entry_volume": 315766.413228
   },
   "BIGTIME": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T15:44:40.810288",
-    "exit_time": "2026-01-07T17:13:08.368261",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T04:09:11.362742",
+    "exit_time": null,
     "last_bar_collected": 290,
-    "tracking_until": "2026-01-17T17:13:08.368261",
-    "entry_volume": 114782.476594
+    "tracking_until": null,
+    "entry_volume": 339432.2035429999
   },
   "BSV": {
     "current_run": 2,

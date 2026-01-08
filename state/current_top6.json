@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "GRIFFAIN",
-    "FOGO",
     "BLAST",
     "VINE",
-    "MAVIA",
-    "GMT"
+    "GRIFFAIN",
+    "GMT",
+    "BIGTIME",
+    "MAVIA"
   ],
   "scores": [
     174,
@@ -15,6 +15,6 @@
     166,
     164
   ],
-  "timestamp": "2026-01-08T03:05:58.415151",
+  "timestamp": "2026-01-08T04:09:11.362944",
   "bucket": "90k-400k"
 }
