@@ -333,22 +333,22 @@
     "entry_volume": 351833.7057829999
   },
   "PURR": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T10:54:47.958658",
-    "exit_time": "2026-01-07T12:26:11.264842",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T14:47:52.818248",
+    "exit_time": null,
     "last_bar_collected": 469,
-    "tracking_until": "2026-01-17T12:26:11.264842",
-    "entry_volume": 392019.9271289999
+    "tracking_until": null,
+    "entry_volume": 434358.419066
   },
   "RESOLV": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T05:37:21.106793",
-    "exit_time": "2026-01-07T06:32:19.155408",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T14:47:52.818248",
+    "exit_time": null,
     "last_bar_collected": 452,
-    "tracking_until": "2026-01-17T06:32:19.155408",
-    "entry_volume": 430393.5773759999
+    "tracking_until": null,
+    "entry_volume": 377289.861199
   },
   "CELO": {
     "current_run": 6,
@@ -388,11 +388,11 @@
   },
   "COMP": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T11:47:30.976098",
-    "exit_time": null,
+    "exit_time": "2026-01-08T14:47:52.818248",
     "last_bar_collected": 466,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T14:47:52.818248",
     "entry_volume": 217217.44172
   },
   "ACE": {
@@ -486,13 +486,13 @@
     "entry_volume": 304214.505251
   },
   "GRIFFAIN": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T01:11:05.474604",
-    "exit_time": "2026-01-08T13:04:07.627209",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T14:47:52.818248",
+    "exit_time": null,
     "last_bar_collected": 457,
-    "tracking_until": "2026-01-18T13:04:07.627209",
-    "entry_volume": 275089.4329890001
+    "tracking_until": null,
+    "entry_volume": 410351.4280219999
   },
   "POLYX": {
     "current_run": 4,
@@ -505,11 +505,11 @@
   },
   "APEX": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T13:50:37.989257",
-    "exit_time": null,
+    "exit_time": "2026-01-08T14:47:52.818248",
     "last_bar_collected": 456,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T14:47:52.818248",
     "entry_volume": 437985.9562500002
   },
   "USUAL": {
@@ -1027,11 +1027,11 @@
   },
   "PROMPT": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T13:50:37.989257",
-    "exit_time": null,
+    "exit_time": "2026-01-08T14:47:52.818248",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T14:47:52.818248",
     "entry_volume": 348549.5494789999
   }
 }
