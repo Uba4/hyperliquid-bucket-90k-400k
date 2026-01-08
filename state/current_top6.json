@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "APEX",
-    "GRIFFAIN",
-    "HEMI",
-    "XAI",
+    "SOPH",
+    "PROVE",
+    "CAKE",
     "COMP",
-    "CAKE"
+    "HEMI",
+    "IOTA"
   ],
   "scores": [
+    152,
     150,
     148,
     146,
     144,
-    142,
-    138
+    142
   ],
-  "timestamp": "2026-01-08T11:58:14.643746",
+  "timestamp": "2026-01-08T13:04:07.627704",
   "bucket": "90k-400k"
 }
