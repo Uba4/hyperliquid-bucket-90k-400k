@@ -153,13 +153,13 @@
     "entry_volume": 311809.53112
   },
   "IOTA": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T22:32:30.795660",
-    "exit_time": "2026-01-08T22:51:25.947769",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T23:11:49.306977",
+    "exit_time": null,
     "last_bar_collected": 448,
-    "tracking_until": "2026-01-18T22:51:25.947769",
-    "entry_volume": 251328.6521400001
+    "tracking_until": null,
+    "entry_volume": 251760.9271700001
   },
   "MINA": {
     "current_run": 2,
@@ -1036,11 +1036,11 @@
   },
   "MORPHO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T21:32:06.799082",
-    "exit_time": null,
+    "exit_time": "2026-01-08T23:11:49.306977",
     "last_bar_collected": 4,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T23:11:49.306977",
     "entry_volume": 397552.5788300001
   }
 }
