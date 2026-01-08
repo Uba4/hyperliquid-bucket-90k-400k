@@ -711,13 +711,13 @@
     "entry_volume": 169386.906675
   },
   "TNSR": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T11:37:05.329801",
-    "exit_time": "2026-01-06T13:03:55.318698",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T10:22:35.064165",
+    "exit_time": null,
     "last_bar_collected": 339,
-    "tracking_until": "2026-01-16T13:03:55.318698",
-    "entry_volume": 185770.2099589999
+    "tracking_until": null,
+    "entry_volume": 220904.3868889999
   },
   "SKY": {
     "current_run": 3,
@@ -1009,11 +1009,11 @@
   },
   "HMSTR": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T06:48:15.107396",
-    "exit_time": null,
+    "exit_time": "2026-01-08T10:22:35.064165",
     "last_bar_collected": 11,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T10:22:35.064165",
     "entry_volume": 110675.9315
   },
   "kLUNC": {
