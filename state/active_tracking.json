@@ -54,13 +54,13 @@
     "entry_volume": 914380.991075
   },
   "MAVIA": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T01:11:05.474604",
-    "exit_time": "2026-01-08T05:18:39.411791",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T20:48:29.733137",
+    "exit_time": null,
     "last_bar_collected": 410,
-    "tracking_until": "2026-01-18T05:18:39.411791",
-    "entry_volume": 316043.914676
+    "tracking_until": null,
+    "entry_volume": 323142.0711460001
   },
   "NIL": {
     "current_run": 2,
@@ -154,11 +154,11 @@
   },
   "IOTA": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T20:26:21.238737",
-    "exit_time": null,
+    "exit_time": "2026-01-08T20:48:29.733137",
     "last_bar_collected": 440,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T20:48:29.733137",
     "entry_volume": 249691.43954
   },
   "MINA": {
