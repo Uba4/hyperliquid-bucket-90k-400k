@@ -631,11 +631,11 @@
   },
   "PROVE": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T13:04:07.627209",
-    "exit_time": null,
+    "exit_time": "2026-01-08T15:12:53.888788",
     "last_bar_collected": 379,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T15:12:53.888788",
     "entry_volume": 126685.66742
   },
   "VINE": {
@@ -1026,12 +1026,12 @@
     "entry_volume": 291372.5203570001
   },
   "PROMPT": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T13:50:37.989257",
-    "exit_time": "2026-01-08T14:47:52.818248",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T15:12:53.888788",
+    "exit_time": null,
     "last_bar_collected": 3,
-    "tracking_until": "2026-01-18T14:47:52.818248",
-    "entry_volume": 348549.5494789999
+    "tracking_until": null,
+    "entry_volume": 355380.24677
   }
 }

@@ -1,20 +1,20 @@
 {
   "tokens": [
     "RESOLV",
-    "CAKE",
     "TST",
-    "GRIFFAIN",
     "PURR",
-    "PROVE"
+    "CAKE",
+    "PROMPT",
+    "GRIFFAIN"
   ],
   "scores": [
     150,
-    148,
-    148,
     147,
     144,
-    144
+    142,
+    142,
+    141
   ],
-  "timestamp": "2026-01-08T14:47:52.818589",
+  "timestamp": "2026-01-08T15:12:53.889008",
   "bucket": "90k-400k"
 }
