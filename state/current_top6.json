@@ -2,19 +2,19 @@
   "tokens": [
     "TST",
     "VINE",
-    "TURBO",
-    "KAS",
     "PROVE",
-    "GOAT"
+    "KAS",
+    "TURBO",
+    "IOTA"
   ],
   "scores": [
     160,
-    158,
     156,
+    156,
+    154,
     152,
-    152,
-    148
+    150
   ],
-  "timestamp": "2026-01-08T19:55:25.612033",
+  "timestamp": "2026-01-08T20:26:21.238923",
   "bucket": "90k-400k"
 }

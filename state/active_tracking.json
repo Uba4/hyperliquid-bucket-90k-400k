@@ -153,13 +153,13 @@
     "entry_volume": 395855.2646600001
   },
   "IOTA": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T13:04:07.627209",
-    "exit_time": "2026-01-08T13:50:37.989257",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-08T20:26:21.238737",
+    "exit_time": null,
     "last_bar_collected": 440,
-    "tracking_until": "2026-01-18T13:50:37.989257",
-    "entry_volume": 81721.03496
+    "tracking_until": null,
+    "entry_volume": 249691.43954
   },
   "MINA": {
     "current_run": 2,
@@ -325,11 +325,11 @@
   },
   "GOAT": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-08T17:14:19.817185",
-    "exit_time": null,
+    "exit_time": "2026-01-08T20:26:21.238737",
     "last_bar_collected": 422,
-    "tracking_until": null,
+    "tracking_until": "2026-01-18T20:26:21.238737",
     "entry_volume": 181750.1758630001
   },
   "PURR": {
