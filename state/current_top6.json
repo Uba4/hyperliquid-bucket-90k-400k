@@ -4,17 +4,17 @@
     "BIGTIME",
     "GMX",
     "HMSTR",
-    "BLUR",
-    "kLUNC"
+    "kLUNC",
+    "BLUR"
   ],
   "scores": [
-    168,
     166,
     164,
     162,
     160,
-    158
+    158,
+    156
   ],
-  "timestamp": "2026-01-08T07:14:30.980947",
+  "timestamp": "2026-01-08T07:40:32.286991",
   "bucket": "90k-400k"
 }
