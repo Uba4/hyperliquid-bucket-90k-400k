@@ -82,11 +82,11 @@
   },
   "SYRUP": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T03:47:24.709907",
-    "exit_time": null,
+    "exit_time": "2026-01-09T04:29:37.646277",
     "last_bar_collected": 522,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T04:29:37.646277",
     "entry_volume": 431362.1589699999
   },
   "FIL": {
@@ -495,13 +495,13 @@
     "entry_volume": 410351.4280219999
   },
   "POLYX": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T07:35:33.964611",
-    "exit_time": "2026-01-06T07:51:43.355399",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T04:29:37.646277",
+    "exit_time": null,
     "last_bar_collected": 508,
-    "tracking_until": "2026-01-16T07:51:43.355399",
-    "entry_volume": 427062.534123
+    "tracking_until": null,
+    "entry_volume": 157174.243369
   },
   "APEX": {
     "current_run": 3,
