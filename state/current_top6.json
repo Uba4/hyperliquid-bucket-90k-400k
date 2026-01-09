@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BABY",
-    "PROVE",
-    "ICP",
     "IO",
+    "BLAST",
     "IOTA",
-    "BLAST"
+    "PROVE",
+    "ICP"
   ],
   "scores": [
-    174,
-    172,
     170,
     168,
     166,
-    164
+    164,
+    162,
+    160
   ],
-  "timestamp": "2026-01-09T17:15:59.297510",
+  "timestamp": "2026-01-09T17:42:49.620759",
   "bucket": "90k-400k"
 }
