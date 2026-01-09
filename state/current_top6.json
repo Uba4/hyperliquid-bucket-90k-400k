@@ -3,9 +3,9 @@
     "GMT",
     "NIL",
     "BLAST",
+    "SYRUP",
     "VINE",
-    "RESOLV",
-    "SYRUP"
+    "USUAL"
   ],
   "scores": [
     176,
@@ -13,8 +13,8 @@
     172,
     170,
     168,
-    166
+    164
   ],
-  "timestamp": "2026-01-09T06:33:31.335801",
+  "timestamp": "2026-01-09T07:01:00.207191",
   "bucket": "90k-400k"
 }
