@@ -28,11 +28,11 @@
   },
   "ICP": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T14:44:38.467214",
-    "exit_time": null,
+    "exit_time": "2026-01-09T17:56:36.300981",
     "last_bar_collected": 578,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T17:56:36.300981",
     "entry_volume": 273767.7038700001
   },
   "MOODENG": {
@@ -279,13 +279,13 @@
     "entry_volume": 204848.1141250001
   },
   "DYDX": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T15:53:05.613831",
-    "exit_time": "2026-01-09T17:15:59.297316",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T17:56:36.300981",
+    "exit_time": null,
     "last_bar_collected": 570,
-    "tracking_until": "2026-01-19T17:15:59.297316",
-    "entry_volume": 241027.0922630001
+    "tracking_until": null,
+    "entry_volume": 256354.5483920001
   },
   "ZETA": {
     "current_run": 4,
@@ -450,13 +450,13 @@
     "entry_volume": 417783.6174999999
   },
   "CHILLGUY": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T23:22:47.546152",
-    "exit_time": "2026-01-08T01:11:05.474604",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T17:56:36.300981",
+    "exit_time": null,
     "last_bar_collected": 500,
-    "tracking_until": "2026-01-18T01:11:05.474604",
-    "entry_volume": 419107.8605389999
+    "tracking_until": null,
+    "entry_volume": 348436.1722539999
   },
   "IO": {
     "current_run": 4,
@@ -631,11 +631,11 @@
   },
   "PROVE": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T13:50:18.953460",
-    "exit_time": null,
+    "exit_time": "2026-01-09T17:56:36.300981",
     "last_bar_collected": 487,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T17:56:36.300981",
     "entry_volume": 205886.1610199999
   },
   "VINE": {
