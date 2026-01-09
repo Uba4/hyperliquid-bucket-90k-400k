@@ -3,18 +3,18 @@
     "MERL",
     "TNSR",
     "CELO",
-    "MEGA",
-    "ZEREBRO",
-    "PROVE"
+    "MORPHO",
+    "PROVE",
+    "ZEREBRO"
   ],
   "scores": [
+    176,
     174,
     172,
     168,
     168,
-    165,
-    165
+    166
   ],
-  "timestamp": "2026-01-09T22:58:08.627966",
+  "timestamp": "2026-01-09T23:28:17.677785",
   "bucket": "90k-400k"
 }
