@@ -315,13 +315,13 @@
     "entry_volume": 104989.131329
   },
   "FTT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T04:04:50.213570",
-    "exit_time": "2026-01-04T05:51:10.183934",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T13:50:18.953460",
+    "exit_time": null,
     "last_bar_collected": 518,
-    "tracking_until": "2026-01-14T05:51:10.183934",
-    "entry_volume": 143152.4410399999
+    "tracking_until": null,
+    "entry_volume": 159131.9497450002
   },
   "GOAT": {
     "current_run": 5,
@@ -630,13 +630,13 @@
     "entry_volume": 174687.377716
   },
   "PROVE": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T19:43:51.598477",
-    "exit_time": "2026-01-08T23:34:24.740384",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T13:50:18.953460",
+    "exit_time": null,
     "last_bar_collected": 472,
-    "tracking_until": "2026-01-18T23:34:24.740384",
-    "entry_volume": 185145.01879
+    "tracking_until": null,
+    "entry_volume": 205886.1610199999
   },
   "VINE": {
     "current_run": 5,
@@ -1027,11 +1027,11 @@
   },
   "PROMPT": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T13:10:42.520194",
-    "exit_time": null,
+    "exit_time": "2026-01-09T13:50:18.953460",
     "last_bar_collected": 93,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T13:50:18.953460",
     "entry_volume": 191673.37038
   },
   "MORPHO": {
@@ -1045,11 +1045,11 @@
   },
   "YZY": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T11:18:56.149131",
-    "exit_time": null,
+    "exit_time": "2026-01-09T13:50:18.953460",
     "last_bar_collected": 53,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T13:50:18.953460",
     "entry_volume": 343631.5487200001
   },
   "GRASS": {
