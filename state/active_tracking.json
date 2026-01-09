@@ -775,11 +775,11 @@
   },
   "AIXBT": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T12:20:11.980434",
-    "exit_time": null,
+    "exit_time": "2026-01-09T13:10:42.520194",
     "last_bar_collected": 404,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T13:10:42.520194",
     "entry_volume": 354163.530613
   },
   "BABY": {
@@ -1026,13 +1026,13 @@
     "entry_volume": 291372.5203570001
   },
   "PROMPT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T15:12:53.888788",
-    "exit_time": "2026-01-08T16:43:52.877047",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T13:10:42.520194",
+    "exit_time": null,
     "last_bar_collected": 90,
-    "tracking_until": "2026-01-18T16:43:52.877047",
-    "entry_volume": 355380.24677
+    "tracking_until": null,
+    "entry_volume": 191673.37038
   },
   "MORPHO": {
     "current_run": 2,
