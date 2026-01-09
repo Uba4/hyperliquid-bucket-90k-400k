@@ -712,11 +712,11 @@
   },
   "TNSR": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T09:59:48.408855",
-    "exit_time": null,
+    "exit_time": "2026-01-09T12:20:11.980434",
     "last_bar_collected": 435,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T12:20:11.980434",
     "entry_volume": 266368.1332519999
   },
   "SKY": {
@@ -774,13 +774,13 @@
     "entry_volume": 104989.86371
   },
   "AIXBT": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T06:32:19.155408",
-    "exit_time": "2026-01-07T09:17:52.760678",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T12:20:11.980434",
+    "exit_time": null,
     "last_bar_collected": 402,
-    "tracking_until": "2026-01-17T09:17:52.760678",
-    "entry_volume": 428604.2720620001
+    "tracking_until": null,
+    "entry_volume": 354163.530613
   },
   "BABY": {
     "current_run": 2,
