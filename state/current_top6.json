@@ -2,19 +2,19 @@
   "tokens": [
     "GRASS",
     "GMT",
-    "BLAST",
     "UMA",
-    "HEMI",
-    "TNSR"
+    "TNSR",
+    "BLAST",
+    "2Z"
   ],
   "scores": [
     170,
     168,
     166,
-    164,
-    162,
+    163,
+    163,
     160
   ],
-  "timestamp": "2026-01-09T09:59:48.409051",
+  "timestamp": "2026-01-09T10:35:06.101678",
   "bucket": "90k-400k"
 }
