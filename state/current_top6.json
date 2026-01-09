@@ -1,20 +1,20 @@
 {
   "tokens": [
     "GMT",
-    "NIL",
     "BLAST",
-    "SYRUP",
+    "GRASS",
+    "HEMI",
     "2Z",
-    "MAVIA"
+    "BRETT"
   ],
   "scores": [
-    174,
     172,
     170,
     166,
     166,
-    164
+    164,
+    162
   ],
-  "timestamp": "2026-01-09T08:16:10.087010",
+  "timestamp": "2026-01-09T08:49:51.721024",
   "bucket": "90k-400k"
 }
