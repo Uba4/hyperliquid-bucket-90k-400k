@@ -3,8 +3,8 @@
     "MERL",
     "CELO",
     "ZEREBRO",
-    "CAKE",
     "TNSR",
+    "CAKE",
     "BSV"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     160,
     158
   ],
-  "timestamp": "2026-01-09T21:29:24.558430",
+  "timestamp": "2026-01-09T21:45:43.690118",
   "bucket": "90k-400k"
 }
