@@ -406,11 +406,11 @@
   },
   "BLAST": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T17:15:59.297316",
-    "exit_time": null,
+    "exit_time": "2026-01-09T20:23:10.711208",
     "last_bar_collected": 580,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T20:23:10.711208",
     "entry_volume": 233458.8221910001
   },
   "LAYER": {
@@ -990,13 +990,13 @@
     "entry_volume": 303624.0735699999
   },
   "CAKE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T11:58:14.643564",
-    "exit_time": "2026-01-08T15:44:11.722513",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T20:23:10.711208",
+    "exit_time": null,
     "last_bar_collected": 179,
-    "tracking_until": "2026-01-18T15:44:11.722513",
-    "entry_volume": 405243.0596400001
+    "tracking_until": null,
+    "entry_volume": 336448.4327599999
   },
   "GMT": {
     "current_run": 2,
