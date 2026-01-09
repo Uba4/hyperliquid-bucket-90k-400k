@@ -2,19 +2,19 @@
   "tokens": [
     "MERL",
     "TNSR",
-    "CELO",
     "MORPHO",
     "PROVE",
-    "ZEREBRO"
+    "CELO",
+    "HMSTR"
   ],
   "scores": [
     176,
     174,
-    172,
+    170,
+    170,
     168,
-    168,
-    166
+    164
   ],
-  "timestamp": "2026-01-09T23:28:17.677785",
+  "timestamp": "2026-01-09T23:45:03.033253",
   "bucket": "90k-400k"
 }
