@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "BIGTIME",
+    "GMT",
+    "NIL",
     "BLAST",
     "VINE",
     "RESOLV",
-    "FOGO",
-    "NIL"
+    "SYRUP"
   ],
   "scores": [
     176,
@@ -15,6 +15,6 @@
     168,
     166
   ],
-  "timestamp": "2026-01-09T05:54:52.441514",
+  "timestamp": "2026-01-09T06:33:31.335801",
   "bucket": "90k-400k"
 }
