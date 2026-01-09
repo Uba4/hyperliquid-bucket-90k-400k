@@ -2,19 +2,19 @@
   "tokens": [
     "FOGO",
     "CHILLGUY",
-    "IO",
-    "BLAST",
     "MERL",
-    "CELO"
+    "CELO",
+    "IO",
+    "BLAST"
   ],
   "scores": [
+    172,
     170,
     168,
     166,
     164,
-    162,
-    160
+    162
   ],
-  "timestamp": "2026-01-09T19:28:37.218919",
+  "timestamp": "2026-01-09T19:43:42.388645",
   "bucket": "90k-400k"
 }
