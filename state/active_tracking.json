@@ -549,13 +549,13 @@
     "entry_volume": 339378.215175
   },
   "UMA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T15:48:32.578476",
-    "exit_time": "2026-01-06T18:52:57.655423",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T09:16:41.112228",
+    "exit_time": null,
     "last_bar_collected": 520,
-    "tracking_until": "2026-01-16T18:52:57.655423",
-    "entry_volume": 196688.973867
+    "tracking_until": null,
+    "entry_volume": 113060.650911
   },
   "MANTA": {
     "current_run": 2,
@@ -577,11 +577,11 @@
   },
   "BRETT": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T08:49:51.720571",
-    "exit_time": null,
+    "exit_time": "2026-01-09T09:16:41.112228",
     "last_bar_collected": 486,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T09:16:41.112228",
     "entry_volume": 300240.838267
   },
   "TURBO": {
