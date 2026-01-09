@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SCR",
-    "HEMI",
     "BIGTIME",
-    "HMSTR",
+    "BLAST",
+    "RESOLV",
+    "FOGO",
     "MINA",
-    "ALT"
+    "SYRUP"
   ],
   "scores": [
+    170,
+    166,
+    164,
     164,
     162,
-    160,
-    158,
-    156,
-    154
+    162
   ],
-  "timestamp": "2026-01-09T02:08:06.761210",
+  "timestamp": "2026-01-09T03:47:24.710497",
   "bucket": "90k-400k"
 }
