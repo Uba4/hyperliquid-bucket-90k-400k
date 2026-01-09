@@ -630,13 +630,13 @@
     "entry_volume": 174687.377716
   },
   "PROVE": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T13:50:18.953460",
-    "exit_time": "2026-01-09T17:56:36.300981",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T22:47:04.752293",
+    "exit_time": null,
     "last_bar_collected": 507,
-    "tracking_until": "2026-01-19T17:56:36.300981",
-    "entry_volume": 205886.1610199999
+    "tracking_until": null,
+    "entry_volume": 205030.7700500001
   },
   "VINE": {
     "current_run": 5,
@@ -991,11 +991,11 @@
   },
   "CAKE": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T20:23:10.711208",
-    "exit_time": null,
+    "exit_time": "2026-01-09T22:47:04.752293",
     "last_bar_collected": 188,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T22:47:04.752293",
     "entry_volume": 336448.4327599999
   },
   "GMT": {

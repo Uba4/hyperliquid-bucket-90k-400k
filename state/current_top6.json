@@ -2,19 +2,19 @@
   "tokens": [
     "MERL",
     "TNSR",
-    "ZEREBRO",
     "CELO",
-    "CAKE",
-    "MEGA"
+    "MEGA",
+    "PROVE",
+    "ZEREBRO"
   ],
   "scores": [
     172,
     170,
-    168,
     166,
-    162,
+    166,
+    164,
     162
   ],
-  "timestamp": "2026-01-09T22:26:30.169794",
+  "timestamp": "2026-01-09T22:47:04.752505",
   "bucket": "90k-400k"
 }
