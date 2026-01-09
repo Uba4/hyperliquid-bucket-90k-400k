@@ -2,8 +2,8 @@
   "tokens": [
     "BIGTIME",
     "BLAST",
-    "RESOLV",
     "VINE",
+    "RESOLV",
     "FOGO",
     "NIL"
   ],
@@ -15,6 +15,6 @@
     168,
     166
   ],
-  "timestamp": "2026-01-09T05:36:57.983834",
+  "timestamp": "2026-01-09T05:54:52.441514",
   "bucket": "90k-400k"
 }
