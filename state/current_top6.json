@@ -2,19 +2,19 @@
   "tokens": [
     "GRASS",
     "UMA",
-    "TNSR",
     "COMP",
-    "YZY",
-    "BLUR"
+    "TNSR",
+    "BLUR",
+    "YZY"
   ],
   "scores": [
+    176,
     174,
     172,
     170,
     168,
-    166,
-    164
+    166
   ],
-  "timestamp": "2026-01-09T11:37:51.566871",
+  "timestamp": "2026-01-09T11:50:43.974422",
   "bucket": "90k-400k"
 }
