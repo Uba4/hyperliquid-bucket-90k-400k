@@ -496,11 +496,11 @@
   },
   "POLYX": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T04:29:37.646277",
-    "exit_time": null,
+    "exit_time": "2026-01-09T05:00:55.036132",
     "last_bar_collected": 510,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T05:00:55.036132",
     "entry_volume": 157174.243369
   },
   "APEX": {
@@ -639,13 +639,13 @@
     "entry_volume": 185145.01879
   },
   "VINE": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T19:28:49.737986",
-    "exit_time": "2026-01-08T21:32:06.799082",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T05:00:55.036132",
+    "exit_time": null,
     "last_bar_collected": 434,
-    "tracking_until": "2026-01-18T21:32:06.799082",
-    "entry_volume": 246708.5155950001
+    "tracking_until": null,
+    "entry_volume": 148239.794538
   },
   "SAGA": {
     "current_run": 4,
