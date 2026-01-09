@@ -460,11 +460,11 @@
   },
   "IO": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T15:35:14.074312",
-    "exit_time": null,
+    "exit_time": "2026-01-09T19:54:44.235753",
     "last_bar_collected": 559,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T19:54:44.235753",
     "entry_volume": 231011.824615
   },
   "RENDER": {
@@ -1069,5 +1069,14 @@
     "last_bar_collected": 4,
     "tracking_until": "2026-01-19T19:28:37.218315",
     "entry_volume": 239099.764585
+  },
+  "NXPC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T19:54:44.235753",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 94864.22781
   }
 }
