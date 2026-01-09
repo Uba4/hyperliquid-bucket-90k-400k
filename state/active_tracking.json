@@ -180,13 +180,13 @@
     "entry_volume": 343939.92055
   },
   "ZEREBRO": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T23:34:24.740384",
-    "exit_time": "2026-01-09T02:08:06.760640",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T20:58:11.508911",
+    "exit_time": null,
     "last_bar_collected": 582,
-    "tracking_until": "2026-01-19T02:08:06.760640",
-    "entry_volume": 248770.297638
+    "tracking_until": null,
+    "entry_volume": 217978.691151
   },
   "ZRO": {
     "current_run": 2,
@@ -451,11 +451,11 @@
   },
   "CHILLGUY": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T17:56:36.300981",
-    "exit_time": null,
+    "exit_time": "2026-01-09T20:58:11.508911",
     "last_bar_collected": 507,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T20:58:11.508911",
     "entry_volume": 348436.1722539999
   },
   "IO": {
