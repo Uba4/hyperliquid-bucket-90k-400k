@@ -784,11 +784,11 @@
   },
   "BABY": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T15:35:14.074312",
-    "exit_time": null,
+    "exit_time": "2026-01-09T18:38:15.858490",
     "last_bar_collected": 427,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T18:38:15.858490",
     "entry_volume": 347921.2843070001
   },
   "ETC": {
@@ -1060,5 +1060,14 @@
     "last_bar_collected": 40,
     "tracking_until": "2026-01-19T14:44:38.467214",
     "entry_volume": 266782.4802429999
+  },
+  "IMX": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T18:38:15.858490",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 239099.764585
   }
 }

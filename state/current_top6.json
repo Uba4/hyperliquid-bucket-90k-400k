@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BLAST",
-    "BABY",
     "IO",
-    "IOTA",
     "DYDX",
-    "CHILLGUY"
+    "IMX",
+    "CHILLGUY",
+    "IOTA"
   ],
   "scores": [
+    170,
+    168,
     166,
-    164,
     162,
-    160,
-    156,
-    156
+    162,
+    162
   ],
-  "timestamp": "2026-01-09T17:56:36.301341",
+  "timestamp": "2026-01-09T18:38:15.858678",
   "bucket": "90k-400k"
 }
