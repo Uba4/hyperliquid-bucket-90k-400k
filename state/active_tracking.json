@@ -711,13 +711,13 @@
     "entry_volume": 169386.906675
   },
   "TNSR": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T10:22:35.064165",
-    "exit_time": "2026-01-08T11:47:30.976098",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-09T09:59:48.408855",
+    "exit_time": null,
     "last_bar_collected": 432,
-    "tracking_until": "2026-01-18T11:47:30.976098",
-    "entry_volume": 220904.3868889999
+    "tracking_until": null,
+    "entry_volume": 266368.1332519999
   },
   "SKY": {
     "current_run": 3,
@@ -865,11 +865,11 @@
   },
   "2Z": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T07:34:47.376272",
-    "exit_time": null,
+    "exit_time": "2026-01-09T09:59:48.408855",
     "last_bar_collected": 342,
-    "tracking_until": null,
+    "tracking_until": "2026-01-19T09:59:48.408855",
     "entry_volume": 172020.5907099999
   },
   "SCR": {
