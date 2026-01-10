@@ -1,10 +1,10 @@
 {
   "tokens": [
     "POLYX",
-    "ZK",
     "USTC",
-    "SCR",
+    "ZK",
     "DYDX",
+    "SCR",
     "MERL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-10T07:28:14.981337",
+  "timestamp": "2026-01-10T07:42:52.404332",
   "bucket": "90k-400k"
 }
