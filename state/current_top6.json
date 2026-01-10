@@ -4,8 +4,8 @@
     "CHILLGUY",
     "ZK",
     "MORPHO",
-    "BABY",
-    "MERL"
+    "MERL",
+    "VINE"
   ],
   "scores": [
     164,
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-10T05:01:59.747961",
+  "timestamp": "2026-01-10T05:33:17.220292",
   "bucket": "90k-400k"
 }
