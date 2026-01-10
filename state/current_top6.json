@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MORPHO",
     "DYDX",
+    "PYTH",
+    "USTC",
+    "ZETA",
     "SCR",
-    "BLUR",
-    "ZK",
-    "PYTH"
+    "BLUR"
   ],
   "scores": [
     158,
     156,
+    156,
+    156,
     154,
-    150,
-    150,
-    148
+    150
   ],
-  "timestamp": "2026-01-10T08:59:55.749298",
+  "timestamp": "2026-01-10T09:30:19.227600",
   "bucket": "90k-400k"
 }
