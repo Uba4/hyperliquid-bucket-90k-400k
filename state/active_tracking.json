@@ -28,11 +28,11 @@
   },
   "ICP": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T21:15:42.207562",
-    "exit_time": null,
+    "exit_time": "2026-01-10T21:33:21.707781",
     "last_bar_collected": 686,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T21:33:21.707781",
     "entry_volume": 155167.8734100001
   },
   "MOODENG": {
@@ -945,13 +945,13 @@
     "entry_volume": 151548.175099
   },
   "YGG": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T22:31:27.828806",
-    "exit_time": "2026-01-06T23:47:02.361708",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T21:33:21.707781",
+    "exit_time": null,
     "last_bar_collected": 380,
-    "tracking_until": "2026-01-16T23:47:02.361708",
-    "entry_volume": 136467.271698
+    "tracking_until": null,
+    "entry_volume": 86921.862099
   },
   "ETHFI": {
     "current_run": 1,
