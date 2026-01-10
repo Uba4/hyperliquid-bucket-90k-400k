@@ -981,21 +981,21 @@
     "entry_volume": 143162.6853
   },
   "MERL": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T19:28:37.218315",
-    "exit_time": "2026-01-10T04:08:02.968646",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T05:01:59.747812",
+    "exit_time": null,
     "last_bar_collected": 233,
-    "tracking_until": "2026-01-20T04:08:02.968646",
-    "entry_volume": 303624.0735699999
+    "tracking_until": null,
+    "entry_volume": 407098.30288
   },
   "CAKE": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T03:22:24.955137",
-    "exit_time": null,
+    "exit_time": "2026-01-10T05:01:59.747812",
     "last_bar_collected": 206,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T05:01:59.747812",
     "entry_volume": 330511.6024899999
   },
   "GMT": {
