@@ -316,11 +316,11 @@
   },
   "FTT": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T15:27:47.030395",
-    "exit_time": null,
+    "exit_time": "2026-01-10T15:55:01.489153",
     "last_bar_collected": 621,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T15:55:01.489153",
     "entry_volume": 85344.606296
   },
   "GOAT": {
@@ -891,13 +891,13 @@
     "entry_volume": 327744.5474569999
   },
   "HEMI": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T01:54:09.318273",
-    "exit_time": "2026-01-10T03:22:24.955137",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T15:55:01.489153",
+    "exit_time": null,
     "last_bar_collected": 425,
-    "tracking_until": "2026-01-20T03:22:24.955137",
-    "entry_volume": 377078.754316
+    "tracking_until": null,
+    "entry_volume": 308196.6548900001
   },
   "0G": {
     "current_run": 2,
