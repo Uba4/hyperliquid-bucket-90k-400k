@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "KAITO",
     "REZ",
-    "ME",
+    "KAITO",
     "HEMI",
+    "MERL",
     "SYRUP",
-    "DYDX"
+    "ME"
   ],
   "scores": [
-    166,
     164,
     162,
     160,
     158,
+    156,
     154
   ],
-  "timestamp": "2026-01-10T16:59:37.669161",
+  "timestamp": "2026-01-10T17:26:32.383369",
   "bucket": "90k-400k"
 }

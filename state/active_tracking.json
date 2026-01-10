@@ -280,11 +280,11 @@
   },
   "DYDX": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T14:29:34.475072",
-    "exit_time": null,
+    "exit_time": "2026-01-10T17:26:32.383160",
     "last_bar_collected": 664,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T17:26:32.383160",
     "entry_volume": 397418.2929639999
   },
   "ZETA": {
@@ -981,13 +981,13 @@
     "entry_volume": 143162.6853
   },
   "MERL": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T05:01:59.747812",
-    "exit_time": "2026-01-10T08:47:46.193025",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T17:26:32.383160",
+    "exit_time": null,
     "last_bar_collected": 283,
-    "tracking_until": "2026-01-20T08:47:46.193025",
-    "entry_volume": 407098.30288
+    "tracking_until": null,
+    "entry_volume": 391078.5164999999
   },
   "CAKE": {
     "current_run": 4,
