@@ -2,19 +2,19 @@
   "tokens": [
     "ZETA",
     "PROVE",
-    "PYTH",
+    "USTC",
     "ME",
-    "BLUR",
-    "SKY"
+    "SKY",
+    "BLUR"
   ],
   "scores": [
+    166,
     164,
     162,
     160,
     158,
-    156,
-    154
+    156
   ],
-  "timestamp": "2026-01-10T11:21:31.056901",
+  "timestamp": "2026-01-10T11:35:51.247263",
   "bucket": "90k-400k"
 }
