@@ -2,19 +2,19 @@
   "tokens": [
     "REZ",
     "KAITO",
-    "HEMI",
     "MERL",
     "SYRUP",
+    "ZEREBRO",
     "ME"
   ],
   "scores": [
+    166,
     164,
     162,
     160,
     158,
-    156,
-    154
+    156
   ],
-  "timestamp": "2026-01-10T17:26:32.383369",
+  "timestamp": "2026-01-10T17:43:15.630116",
   "bucket": "90k-400k"
 }
