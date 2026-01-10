@@ -315,13 +315,13 @@
     "entry_volume": 104989.131329
   },
   "FTT": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T13:32:54.572447",
-    "exit_time": "2026-01-10T14:29:34.475072",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T15:27:47.030395",
+    "exit_time": null,
     "last_bar_collected": 621,
-    "tracking_until": "2026-01-20T14:29:34.475072",
-    "entry_volume": 85326.111199
+    "tracking_until": null,
+    "entry_volume": 85344.606296
   },
   "GOAT": {
     "current_run": 5,
@@ -721,11 +721,11 @@
   },
   "SKY": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T10:46:11.425914",
-    "exit_time": null,
+    "exit_time": "2026-01-10T15:27:47.030395",
     "last_bar_collected": 540,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T15:27:47.030395",
     "entry_volume": 164704.889236
   },
   "APE": {
