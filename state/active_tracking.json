@@ -577,11 +577,11 @@
   },
   "BRETT": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T08:22:47.188353",
-    "exit_time": null,
+    "exit_time": "2026-01-10T08:59:55.749094",
     "last_bar_collected": 574,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T08:59:55.749094",
     "entry_volume": 387842.8354230002
   },
   "TURBO": {
@@ -1035,13 +1035,13 @@
     "entry_volume": 191673.37038
   },
   "MORPHO": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T23:28:17.677597",
-    "exit_time": "2026-01-10T07:28:14.981026",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T08:59:55.749094",
+    "exit_time": null,
     "last_bar_collected": 140,
-    "tracking_until": "2026-01-20T07:28:14.981026",
-    "entry_volume": 407930.5483900001
+    "tracking_until": null,
+    "entry_volume": 432255.2808499999
   },
   "YZY": {
     "current_run": 2,
