@@ -280,11 +280,11 @@
   },
   "DYDX": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T06:00:45.598894",
-    "exit_time": null,
+    "exit_time": "2026-01-10T10:26:22.509049",
     "last_bar_collected": 635,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T10:26:22.509049",
     "entry_volume": 291679.26961
   },
   "ZETA": {
@@ -630,13 +630,13 @@
     "entry_volume": 174687.377716
   },
   "PROVE": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T22:47:04.752293",
-    "exit_time": "2026-01-10T01:54:09.318273",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T10:26:22.509049",
+    "exit_time": null,
     "last_bar_collected": 554,
-    "tracking_until": "2026-01-20T01:54:09.318273",
-    "entry_volume": 205030.7700500001
+    "tracking_until": null,
+    "entry_volume": 185749.0432099999
   },
   "VINE": {
     "current_run": 6,
