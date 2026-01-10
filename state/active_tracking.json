@@ -783,13 +783,13 @@
     "entry_volume": 354163.530613
   },
   "BABY": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T15:35:14.074312",
-    "exit_time": "2026-01-09T18:38:15.858490",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T04:08:02.968646",
+    "exit_time": null,
     "last_bar_collected": 462,
-    "tracking_until": "2026-01-19T18:38:15.858490",
-    "entry_volume": 347921.2843070001
+    "tracking_until": null,
+    "entry_volume": 295706.9816250001
   },
   "ETC": {
     "current_run": 1,
@@ -982,11 +982,11 @@
   },
   "MERL": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-09T19:28:37.218315",
-    "exit_time": null,
+    "exit_time": "2026-01-10T04:08:02.968646",
     "last_bar_collected": 228,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T04:08:02.968646",
     "entry_volume": 303624.0735699999
   },
   "CAKE": {
