@@ -1,20 +1,20 @@
 {
   "tokens": [
     "POLYX",
-    "CHILLGUY",
-    "ZK",
     "MORPHO",
+    "ZK",
     "DYDX",
+    "CHILLGUY",
     "MERL"
   ],
   "scores": [
     160,
     158,
     156,
-    154,
-    152,
+    153,
+    153,
     150
   ],
-  "timestamp": "2026-01-10T06:43:18.047745",
+  "timestamp": "2026-01-10T06:59:46.989442",
   "bucket": "90k-400k"
 }
