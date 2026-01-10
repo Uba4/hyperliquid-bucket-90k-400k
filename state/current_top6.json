@@ -1,11 +1,11 @@
 {
   "tokens": [
     "ZETA",
-    "PROVE",
-    "USTC",
-    "ME",
     "SKY",
-    "BLUR"
+    "PROVE",
+    "kLUNC",
+    "ME",
+    "W"
   ],
   "scores": [
     166,
@@ -15,6 +15,6 @@
     158,
     156
   ],
-  "timestamp": "2026-01-10T11:58:32.451540",
+  "timestamp": "2026-01-10T12:56:53.068124",
   "bucket": "90k-400k"
 }
