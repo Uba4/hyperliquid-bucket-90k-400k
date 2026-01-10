@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ZEREBRO",
-    "DYDX",
     "kLUNC",
-    "YGG",
     "SKY",
-    "ICP"
+    "MERL",
+    "USTC",
+    "MORPHO"
   ],
   "scores": [
+    160,
     158,
     156,
     154,
     152,
-    150,
-    148
+    150
   ],
-  "timestamp": "2026-01-10T22:56:28.175633",
+  "timestamp": "2026-01-10T23:23:06.860503",
   "bucket": "90k-400k"
 }
