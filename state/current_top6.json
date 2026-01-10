@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MERL",
-    "TNSR",
     "MORPHO",
-    "PROVE",
-    "CELO",
-    "HMSTR"
+    "MERL",
+    "CHILLGUY",
+    "POLYX",
+    "TST",
+    "HEMI"
   ],
   "scores": [
-    174,
-    172,
-    168,
-    168,
-    166,
-    162
+    162,
+    160,
+    158,
+    156,
+    154,
+    152
   ],
-  "timestamp": "2026-01-09T23:56:25.370939",
+  "timestamp": "2026-01-10T01:54:09.318841",
   "bucket": "90k-400k"
 }
