@@ -1,20 +1,20 @@
 {
   "tokens": [
     "REZ",
-    "ZEREBRO",
     "ACE",
+    "ZEREBRO",
     "APEX",
     "W",
     "KAITO"
   ],
   "scores": [
+    164,
     162,
     160,
     158,
     156,
-    154,
-    152
+    154
   ],
-  "timestamp": "2026-01-10T19:42:40.559652",
+  "timestamp": "2026-01-10T19:54:06.692594",
   "bucket": "90k-400k"
 }
