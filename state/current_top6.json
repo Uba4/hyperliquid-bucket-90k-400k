@@ -2,19 +2,19 @@
   "tokens": [
     "POLYX",
     "CHILLGUY",
-    "MORPHO",
+    "ZK",
     "BABY",
-    "IO",
+    "MORPHO",
     "CAKE"
   ],
   "scores": [
+    164,
     162,
     160,
     158,
     156,
-    154,
-    152
+    154
   ],
-  "timestamp": "2026-01-10T04:08:02.968860",
+  "timestamp": "2026-01-10T04:46:57.065820",
   "bucket": "90k-400k"
 }
