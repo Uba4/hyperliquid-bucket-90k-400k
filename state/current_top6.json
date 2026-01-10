@@ -3,9 +3,9 @@
     "ZEREBRO",
     "DYDX",
     "YGG",
+    "kLUNC",
     "ICP",
-    "TIA",
-    "kLUNC"
+    "TIA"
   ],
   "scores": [
     162,
@@ -15,6 +15,6 @@
     154,
     152
   ],
-  "timestamp": "2026-01-10T22:26:49.539488",
+  "timestamp": "2026-01-10T22:45:31.475415",
   "bucket": "90k-400k"
 }
