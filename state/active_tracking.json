@@ -279,13 +279,13 @@
     "entry_volume": 204848.1141250001
   },
   "DYDX": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T14:29:34.475072",
-    "exit_time": "2026-01-10T17:26:32.383160",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-10T20:40:25.810626",
+    "exit_time": null,
     "last_bar_collected": 676,
-    "tracking_until": "2026-01-20T17:26:32.383160",
-    "entry_volume": 397418.2929639999
+    "tracking_until": null,
+    "entry_volume": 347755.375923
   },
   "ZETA": {
     "current_run": 5,
@@ -1081,11 +1081,11 @@
   },
   "KAITO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-10T14:29:34.475072",
-    "exit_time": null,
+    "exit_time": "2026-01-10T20:40:25.810626",
     "last_bar_collected": 25,
-    "tracking_until": null,
+    "tracking_until": "2026-01-20T20:40:25.810626",
     "entry_volume": 424996.5526600001
   }
 }
