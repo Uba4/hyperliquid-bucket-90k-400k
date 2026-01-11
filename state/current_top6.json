@@ -2,10 +2,10 @@
   "tokens": [
     "MAVIA",
     "MET",
-    "CHILLGUY",
     "CC",
-    "GRIFFAIN",
-    "ZEREBRO"
+    "CHILLGUY",
+    "ZEN",
+    "GRIFFAIN"
   ],
   "scores": [
     172,
@@ -15,6 +15,6 @@
     164,
     162
   ],
-  "timestamp": "2026-01-11T11:00:07.266617",
+  "timestamp": "2026-01-11T11:26:04.702492",
   "bucket": "90k-400k"
 }
