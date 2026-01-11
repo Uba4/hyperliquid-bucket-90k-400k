@@ -3,18 +3,18 @@
     "MAVIA",
     "MET",
     "CHILLGUY",
+    "ZEN",
     "CC",
-    "kNEIRO",
-    "ZEN"
+    "kNEIRO"
   ],
   "scores": [
-    176,
     174,
     172,
     170,
     168,
-    166
+    166,
+    164
   ],
-  "timestamp": "2026-01-11T11:51:38.684504",
+  "timestamp": "2026-01-11T12:22:30.250543",
   "bucket": "90k-400k"
 }
