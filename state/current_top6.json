@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MAVIA",
-    "0G",
     "MET",
+    "0G",
     "GRIFFAIN",
     "CHILLGUY",
-    "POPCAT"
+    "CC"
   ],
   "scores": [
     170,
-    170,
-    170,
+    168,
     166,
     164,
-    161
+    162,
+    160
   ],
-  "timestamp": "2026-01-11T09:47:15.366086",
+  "timestamp": "2026-01-11T09:58:06.189591",
   "bucket": "90k-400k"
 }

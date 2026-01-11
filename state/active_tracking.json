@@ -1108,11 +1108,20 @@
   },
   "POPCAT": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T09:47:15.365832",
+    "exit_time": "2026-01-11T09:58:06.189391",
+    "last_bar_collected": 0,
+    "tracking_until": "2026-01-21T09:58:06.189391",
+    "entry_volume": 423099.3907549999
+  },
+  "CC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T09:58:06.189391",
     "exit_time": null,
     "last_bar_collected": 0,
     "tracking_until": null,
-    "entry_volume": 423099.3907549999
+    "entry_volume": 291050.8501199999
   }
 }
