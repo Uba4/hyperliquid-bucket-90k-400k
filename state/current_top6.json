@@ -3,18 +3,18 @@
     "ZEREBRO",
     "STBL",
     "ZETA",
-    "MOVE",
     "LINEA",
-    "CHILLGUY"
+    "MOVE",
+    "KAITO"
   ],
   "scores": [
+    160,
     158,
-    156,
+    154,
     154,
     152,
-    150,
-    148
+    152
   ],
-  "timestamp": "2026-01-11T05:03:13.418417",
+  "timestamp": "2026-01-11T05:37:46.494398",
   "bucket": "90k-400k"
 }

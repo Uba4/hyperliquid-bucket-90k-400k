@@ -451,11 +451,11 @@
   },
   "CHILLGUY": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T05:03:13.418102",
-    "exit_time": null,
+    "exit_time": "2026-01-11T05:37:46.494171",
     "last_bar_collected": 642,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T05:37:46.494171",
     "entry_volume": 137411.270401
   },
   "IO": {
@@ -1080,13 +1080,13 @@
     "entry_volume": 94864.22781
   },
   "KAITO": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T14:29:34.475072",
-    "exit_time": "2026-01-10T20:40:25.810626",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T05:37:46.494171",
+    "exit_time": null,
     "last_bar_collected": 61,
-    "tracking_until": "2026-01-20T20:40:25.810626",
-    "entry_volume": 424996.5526600001
+    "tracking_until": null,
+    "entry_volume": 303309.0980199999
   },
   "STBL": {
     "current_run": 1,
