@@ -1,20 +1,20 @@
 {
   "tokens": [
     "GRIFFAIN",
-    "CHILLGUY",
     "VINE",
+    "CHILLGUY",
     "REZ",
     "RESOLV",
     "APEX"
   ],
   "scores": [
+    170,
     168,
     166,
     164,
     162,
-    160,
-    158
+    160
   ],
-  "timestamp": "2026-01-11T19:55:14.054000",
+  "timestamp": "2026-01-11T20:23:44.572286",
   "bucket": "90k-400k"
 }
