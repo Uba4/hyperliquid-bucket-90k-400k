@@ -234,13 +234,13 @@
     "entry_volume": 155005.430471
   },
   "REZ": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T07:26:22.091980",
-    "exit_time": "2026-01-11T09:31:14.691597",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T14:40:05.327730",
+    "exit_time": null,
     "last_bar_collected": 676,
-    "tracking_until": "2026-01-21T09:31:14.691597",
-    "entry_volume": 187991.138625
+    "tracking_until": null,
+    "entry_volume": 218286.268719
   },
   "USTC": {
     "current_run": 13,
@@ -423,21 +423,21 @@
     "entry_volume": 165858.3555060001
   },
   "MEGA": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T22:26:30.169628",
-    "exit_time": "2026-01-09T23:28:17.677597",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T14:40:05.327730",
+    "exit_time": null,
     "last_bar_collected": 755,
-    "tracking_until": "2026-01-19T23:28:17.677597",
-    "entry_volume": 293647.69299
+    "tracking_until": null,
+    "entry_volume": 203006.5190400001
   },
   "CHILLGUY": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T09:47:15.365832",
-    "exit_time": null,
+    "exit_time": "2026-01-11T14:40:05.327730",
     "last_bar_collected": 677,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T14:40:05.327730",
     "entry_volume": 134209.113066
   },
   "IO": {
@@ -487,11 +487,11 @@
   },
   "APEX": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T13:41:32.522987",
-    "exit_time": null,
+    "exit_time": "2026-01-11T14:40:05.327730",
     "last_bar_collected": 739,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T14:40:05.327730",
     "entry_volume": 385545.6543299999
   },
   "USUAL": {
@@ -595,11 +595,11 @@
   },
   "kNEIRO": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T11:40:27.952926",
-    "exit_time": null,
+    "exit_time": "2026-01-11T14:40:05.327730",
     "last_bar_collected": 690,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T14:40:05.327730",
     "entry_volume": 87848.326886
   },
   "DOOD": {
@@ -783,13 +783,13 @@
     "entry_volume": 341918.5496700002
   },
   "W": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T19:29:42.658022",
-    "exit_time": "2026-01-10T22:26:49.539129",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T14:40:05.327730",
+    "exit_time": null,
     "last_bar_collected": 588,
-    "tracking_until": "2026-01-20T22:26:49.539129",
-    "entry_volume": 167053.50132
+    "tracking_until": null,
+    "entry_volume": 304818.7431130001
   },
   "OM": {
     "current_run": 2,

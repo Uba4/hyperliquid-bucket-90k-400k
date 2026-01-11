@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZEN",
     "CC",
+    "ZEN",
     "MET",
-    "APEX",
-    "CHILLGUY",
-    "kNEIRO"
+    "REZ",
+    "MEGA",
+    "W"
   ],
   "scores": [
-    175,
-    175,
+    176,
+    174,
     172,
     170,
     168,
     166
   ],
-  "timestamp": "2026-01-11T13:54:57.992675",
+  "timestamp": "2026-01-11T14:40:05.328260",
   "bucket": "90k-400k"
 }
