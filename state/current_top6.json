@@ -2,19 +2,19 @@
   "tokens": [
     "ZEREBRO",
     "0G",
-    "STBL",
     "GRASS",
+    "STBL",
     "SYRUP",
     "REZ"
   ],
   "scores": [
+    170,
     168,
     166,
     164,
     162,
-    160,
-    158
+    160
   ],
-  "timestamp": "2026-01-11T07:26:22.092198",
+  "timestamp": "2026-01-11T07:42:34.352822",
   "bucket": "90k-400k"
 }
