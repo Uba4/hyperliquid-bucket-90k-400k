@@ -1,7 +1,7 @@
 {
   "tokens": [
-    "REZ",
     "VINE",
+    "REZ",
     "GRIFFAIN",
     "ZEN",
     "CHILLGUY",
@@ -15,6 +15,6 @@
     168,
     166
   ],
-  "timestamp": "2026-01-11T18:40:23.356225",
+  "timestamp": "2026-01-11T18:57:09.527518",
   "bucket": "90k-400k"
 }
