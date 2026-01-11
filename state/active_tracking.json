@@ -36,13 +36,13 @@
     "entry_volume": 149151.0897
   },
   "MAVIA": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T09:31:14.691597",
-    "exit_time": "2026-01-11T13:07:02.500350",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T21:59:18.926869",
+    "exit_time": null,
     "last_bar_collected": 701,
-    "tracking_until": "2026-01-21T13:07:02.500350",
-    "entry_volume": 143131.204236
+    "tracking_until": null,
+    "entry_volume": 187490.804641
   },
   "NIL": {
     "current_run": 3,
@@ -415,11 +415,11 @@
   },
   "MEGA": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T21:36:14.430761",
-    "exit_time": null,
+    "exit_time": "2026-01-11T21:59:18.926869",
     "last_bar_collected": 783,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T21:59:18.926869",
     "entry_volume": 435019.7447300001
   },
   "CHILLGUY": {

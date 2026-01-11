@@ -2,10 +2,10 @@
   "tokens": [
     "GRIFFAIN",
     "RESOLV",
-    "MEGA",
     "MERL",
     "CHILLGUY",
-    "PURR"
+    "PURR",
+    "MAVIA"
   ],
   "scores": [
     172,
@@ -15,6 +15,6 @@
     164,
     162
   ],
-  "timestamp": "2026-01-11T21:48:02.791259",
+  "timestamp": "2026-01-11T21:59:18.927079",
   "bucket": "90k-400k"
 }
