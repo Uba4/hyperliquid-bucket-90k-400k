@@ -432,13 +432,13 @@
     "entry_volume": 247646.548046
   },
   "IO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T03:22:24.955137",
-    "exit_time": "2026-01-10T04:46:57.065626",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T22:47:15.361832",
+    "exit_time": null,
     "last_bar_collected": 756,
-    "tracking_until": "2026-01-20T04:46:57.065626",
-    "entry_volume": 347014.4664660001
+    "tracking_until": null,
+    "entry_volume": 204330.151243
   },
   "RENDER": {
     "current_run": 1,
@@ -694,11 +694,11 @@
   },
   "SKY": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T22:29:26.965463",
-    "exit_time": null,
+    "exit_time": "2026-01-11T22:47:15.361832",
     "last_bar_collected": 663,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T22:47:15.361832",
     "entry_volume": 206867.830706
   },
   "APE": {
