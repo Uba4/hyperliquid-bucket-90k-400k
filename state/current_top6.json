@@ -2,19 +2,19 @@
   "tokens": [
     "GRIFFAIN",
     "RESOLV",
-    "REZ",
+    "MEGA",
+    "MERL",
     "CHILLGUY",
-    "VINE",
     "PURR"
   ],
   "scores": [
-    174,
     172,
     170,
+    168,
     166,
-    166,
-    164
+    164,
+    162
   ],
-  "timestamp": "2026-01-11T21:20:02.157716",
+  "timestamp": "2026-01-11T21:36:14.431088",
   "bucket": "90k-400k"
 }
