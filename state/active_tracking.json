@@ -433,11 +433,11 @@
   },
   "MOVE": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T03:18:15.057024",
-    "exit_time": null,
+    "exit_time": "2026-01-11T06:29:59.892499",
     "last_bar_collected": 716,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T06:29:59.892499",
     "entry_volume": 165858.3555060001
   },
   "MEGA": {
@@ -1071,13 +1071,13 @@
     "entry_volume": 239099.764585
   },
   "NXPC": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T19:54:44.235753",
-    "exit_time": "2026-01-09T21:29:24.558220",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T06:29:59.892499",
+    "exit_time": null,
     "last_bar_collected": 135,
-    "tracking_until": "2026-01-19T21:29:24.558220",
-    "entry_volume": 94864.22781
+    "tracking_until": null,
+    "entry_volume": 137085.98963
   },
   "KAITO": {
     "current_run": 2,
