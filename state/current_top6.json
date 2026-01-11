@@ -2,19 +2,19 @@
   "tokens": [
     "ZETA",
     "STBL",
-    "ACE",
-    "SKY",
+    "ZEREBRO",
+    "RESOLV",
     "MOVE",
-    "PYTH"
+    "SKY"
   ],
   "scores": [
+    162,
     160,
     158,
     156,
     154,
-    152,
-    148
+    152
   ],
-  "timestamp": "2026-01-11T03:18:15.057614",
+  "timestamp": "2026-01-11T04:30:23.932018",
   "bucket": "90k-400k"
 }
