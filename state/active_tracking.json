@@ -37,11 +37,11 @@
   },
   "MAVIA": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T21:59:18.926869",
-    "exit_time": null,
+    "exit_time": "2026-01-11T23:27:43.517361",
     "last_bar_collected": 708,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T23:27:43.517361",
     "entry_volume": 187490.804641
   },
   "NIL": {
@@ -459,13 +459,13 @@
     "entry_volume": 304214.505251
   },
   "GRIFFAIN": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T18:40:23.355906",
-    "exit_time": "2026-01-11T22:29:26.965463",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T23:27:43.517361",
+    "exit_time": null,
     "last_bar_collected": 777,
-    "tracking_until": "2026-01-21T22:29:26.965463",
-    "entry_volume": 414696.294484
+    "tracking_until": null,
+    "entry_volume": 438594.898177
   },
   "POLYX": {
     "current_run": 6,
