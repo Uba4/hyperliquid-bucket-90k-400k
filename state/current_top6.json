@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MAVIA",
     "MET",
-    "CHILLGUY",
     "ZEN",
     "CC",
-    "kNEIRO"
+    "CHILLGUY",
+    "kNEIRO",
+    "2Z"
   ],
   "scores": [
     174,
@@ -15,6 +15,6 @@
     166,
     164
   ],
-  "timestamp": "2026-01-11T12:22:30.250543",
+  "timestamp": "2026-01-11T13:07:02.500674",
   "bucket": "90k-400k"
 }
