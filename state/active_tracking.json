@@ -10,11 +10,11 @@
   },
   "ZEN": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T11:26:04.702281",
-    "exit_time": null,
+    "exit_time": "2026-01-11T19:43:56.255499",
     "last_bar_collected": 773,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T19:43:56.255499",
     "entry_volume": 353178.1830379998
   },
   "BERA": {
@@ -477,13 +477,13 @@
     "entry_volume": 140324.134336
   },
   "APEX": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T13:41:32.522987",
-    "exit_time": "2026-01-11T14:40:05.327730",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T19:43:56.255499",
+    "exit_time": null,
     "last_bar_collected": 758,
-    "tracking_until": "2026-01-21T14:40:05.327730",
-    "entry_volume": 385545.6543299999
+    "tracking_until": null,
+    "entry_volume": 366251.1122300001
   },
   "USUAL": {
     "current_run": 9,
