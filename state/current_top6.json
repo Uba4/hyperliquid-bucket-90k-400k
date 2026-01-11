@@ -1,20 +1,20 @@
 {
   "tokens": [
     "0G",
-    "REZ",
+    "GRIFFAIN",
     "USUAL",
-    "ETHFI",
+    "REZ",
     "MERL",
-    "GRIFFAIN"
+    "ETHFI"
   ],
   "scores": [
-    170,
-    168,
     166,
+    164,
     162,
-    162,
-    162
+    160,
+    158,
+    156
   ],
-  "timestamp": "2026-01-11T08:22:37.677863",
+  "timestamp": "2026-01-11T08:47:23.263654",
   "bucket": "90k-400k"
 }
