@@ -1036,11 +1036,11 @@
   },
   "IMX": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T15:48:31.743397",
-    "exit_time": null,
+    "exit_time": "2026-01-11T17:14:16.155859",
     "last_bar_collected": 182,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T17:14:16.155859",
     "entry_volume": 84793.634021
   },
   "NXPC": {
@@ -1071,13 +1071,13 @@
     "entry_volume": 246555.004676
   },
   "MET": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T09:31:14.691597",
-    "exit_time": "2026-01-11T15:48:31.743397",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T17:14:16.155859",
+    "exit_time": null,
     "last_bar_collected": 28,
-    "tracking_until": "2026-01-21T15:48:31.743397",
-    "entry_volume": 237761.41537
+    "tracking_until": null,
+    "entry_volume": 333899.2584200001
   },
   "POPCAT": {
     "current_run": 2,
