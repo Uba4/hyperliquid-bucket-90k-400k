@@ -3,18 +3,18 @@
     "MAVIA",
     "MET",
     "CHILLGUY",
-    "ZEREBRO",
+    "CC",
     "GRIFFAIN",
-    "CC"
+    "POPCAT"
   ],
   "scores": [
+    176,
+    174,
     172,
     170,
     168,
-    166,
-    164,
-    162
+    166
   ],
-  "timestamp": "2026-01-11T10:29:40.819320",
+  "timestamp": "2026-01-11T10:48:41.799012",
   "bucket": "90k-400k"
 }
