@@ -82,11 +82,11 @@
   },
   "SYRUP": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T06:57:08.973399",
-    "exit_time": null,
+    "exit_time": "2026-01-11T07:53:47.608793",
     "last_bar_collected": 725,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T07:53:47.608793",
     "entry_volume": 425287.2140199999
   },
   "FIL": {
@@ -181,11 +181,11 @@
   },
   "ZEREBRO": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T04:30:23.931733",
-    "exit_time": null,
+    "exit_time": "2026-01-11T07:53:47.608793",
     "last_bar_collected": 719,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T07:53:47.608793",
     "entry_volume": 322640.6035739999
   },
   "ZRO": {
@@ -513,13 +513,13 @@
     "entry_volume": 273297.26517
   },
   "USUAL": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T07:01:00.206980",
-    "exit_time": "2026-01-09T07:34:47.376272",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T07:53:47.608793",
+    "exit_time": null,
     "last_bar_collected": 707,
-    "tracking_until": "2026-01-19T07:34:47.376272",
-    "entry_volume": 119436.600783
+    "tracking_until": null,
+    "entry_volume": 89125.203556
   },
   "INIT": {
     "current_run": 1,
@@ -954,13 +954,13 @@
     "entry_volume": 86921.862099
   },
   "ETHFI": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T23:34:24.523089",
-    "exit_time": "2026-01-07T02:23:14.416018",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T07:53:47.608793",
+    "exit_time": null,
     "last_bar_collected": 416,
-    "tracking_until": "2026-01-17T02:23:14.416018",
-    "entry_volume": 428067.191221
+    "tracking_until": null,
+    "entry_volume": 145876.441095
   },
   "HYPER": {
     "current_run": 1,
