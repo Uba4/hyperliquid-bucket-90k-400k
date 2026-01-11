@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VINE",
-    "REZ",
     "GRIFFAIN",
-    "ZEN",
+    "VINE",
     "CHILLGUY",
+    "REZ",
+    "ZEN",
     "JUP"
   ],
   "scores": [
-    176,
     174,
     172,
     170,
     168,
-    166
+    166,
+    164
   ],
-  "timestamp": "2026-01-11T18:57:09.527518",
+  "timestamp": "2026-01-11T19:20:20.480720",
   "bucket": "90k-400k"
 }
