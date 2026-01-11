@@ -1,11 +1,11 @@
 {
   "WCT": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T16:35:30.810231",
-    "exit_time": null,
+    "exit_time": "2026-01-11T17:34:40.606537",
     "last_bar_collected": 686,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T17:34:40.606537",
     "entry_volume": 83076.546348
   },
   "ZEN": {
@@ -423,13 +423,13 @@
     "entry_volume": 203006.5190400001
   },
   "CHILLGUY": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T09:47:15.365832",
-    "exit_time": "2026-01-11T14:40:05.327730",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T17:34:40.606537",
+    "exit_time": null,
     "last_bar_collected": 688,
-    "tracking_until": "2026-01-21T14:40:05.327730",
-    "entry_volume": 134209.113066
+    "tracking_until": null,
+    "entry_volume": 247646.548046
   },
   "IO": {
     "current_run": 5,

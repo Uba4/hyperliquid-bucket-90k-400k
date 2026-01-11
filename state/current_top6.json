@@ -3,18 +3,18 @@
     "REZ",
     "ZEN",
     "GRASS",
-    "WCT",
-    "STABLE",
-    "MET"
+    "CHILLGUY",
+    "MET",
+    "STABLE"
   ],
   "scores": [
-    174,
     172,
     170,
     168,
-    166,
+    164,
+    164,
     164
   ],
-  "timestamp": "2026-01-11T17:14:16.156084",
+  "timestamp": "2026-01-11T17:34:40.606805",
   "bucket": "90k-400k"
 }
