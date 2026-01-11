@@ -2,19 +2,19 @@
   "tokens": [
     "ZEREBRO",
     "STBL",
+    "0G",
     "BERA",
-    "LINEA",
-    "KAITO",
-    "NXPC"
+    "GRASS",
+    "SYRUP"
   ],
   "scores": [
+    168,
     166,
     164,
     162,
-    158,
-    156,
-    156
+    160,
+    158
   ],
-  "timestamp": "2026-01-11T06:29:59.892705",
+  "timestamp": "2026-01-11T06:57:08.973857",
   "bucket": "90k-400k"
 }
