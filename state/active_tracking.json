@@ -306,13 +306,13 @@
     "entry_volume": 181750.1758630001
   },
   "PURR": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T14:47:52.818248",
-    "exit_time": "2026-01-08T15:44:11.722513",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T20:55:42.422572",
+    "exit_time": null,
     "last_bar_collected": 779,
-    "tracking_until": "2026-01-18T15:44:11.722513",
-    "entry_volume": 434358.419066
+    "tracking_until": null,
+    "entry_volume": 143534.49792
   },
   "RESOLV": {
     "current_run": 8,
@@ -478,11 +478,11 @@
   },
   "APEX": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T19:43:56.255499",
-    "exit_time": null,
+    "exit_time": "2026-01-11T20:55:42.422572",
     "last_bar_collected": 762,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T20:55:42.422572",
     "entry_volume": 366251.1122300001
   },
   "USUAL": {
