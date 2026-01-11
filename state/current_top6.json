@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "CC",
     "REZ",
     "ZEN",
-    "STABLE",
     "GRASS",
-    "IMX"
+    "STABLE",
+    "IMX",
+    "WCT"
   ],
   "scores": [
-    182,
     180,
     178,
     176,
     174,
-    172
+    172,
+    170
   ],
-  "timestamp": "2026-01-11T15:59:18.955153",
+  "timestamp": "2026-01-11T16:35:30.810455",
   "bucket": "90k-400k"
 }
