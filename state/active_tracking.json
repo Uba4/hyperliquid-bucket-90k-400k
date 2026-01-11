@@ -18,13 +18,13 @@
     "entry_volume": 398103.8509090001
   },
   "BERA": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-01T11:47:18.625191",
-    "exit_time": "2026-01-01T14:51:00.917908",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-11T05:54:29.240502",
+    "exit_time": null,
     "last_bar_collected": 722,
-    "tracking_until": "2026-01-11T14:51:00.917908",
-    "entry_volume": 728180.2812549998
+    "tracking_until": null,
+    "entry_volume": 433326.4188939998
   },
   "ICP": {
     "current_run": 4,
@@ -289,11 +289,11 @@
   },
   "ZETA": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-11T03:18:15.057024",
-    "exit_time": null,
+    "exit_time": "2026-01-11T05:54:29.240502",
     "last_bar_collected": 711,
-    "tracking_until": null,
+    "tracking_until": "2026-01-21T05:54:29.240502",
     "entry_volume": 313071.537574
   },
   "DYM": {

@@ -2,19 +2,19 @@
   "tokens": [
     "ZEREBRO",
     "STBL",
-    "ZETA",
     "LINEA",
+    "KAITO",
     "MOVE",
-    "KAITO"
+    "BERA"
   ],
   "scores": [
+    162,
     160,
     158,
+    156,
     154,
-    154,
-    152,
     152
   ],
-  "timestamp": "2026-01-11T05:37:46.494398",
+  "timestamp": "2026-01-11T05:54:29.240712",
   "bucket": "90k-400k"
 }
