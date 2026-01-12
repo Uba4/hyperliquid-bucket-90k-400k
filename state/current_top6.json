@@ -2,19 +2,19 @@
   "tokens": [
     "RUNE",
     "SYRUP",
-    "POLYX",
-    "PROMPT",
     "ZETA",
-    "2Z"
+    "PROMPT",
+    "POLYX",
+    "USUAL"
   ],
   "scores": [
-    156,
     154,
-    150,
-    149,
+    152,
     148,
-    147
+    148,
+    146,
+    144
   ],
-  "timestamp": "2026-01-12T19:47:27.074566",
+  "timestamp": "2026-01-12T19:58:17.800865",
   "bucket": "90k-400k"
 }
