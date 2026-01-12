@@ -423,13 +423,13 @@
     "entry_volume": 304214.505251
   },
   "GRIFFAIN": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T17:02:13.581821",
-    "exit_time": "2026-01-12T17:35:23.157080",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T23:12:44.059732",
+    "exit_time": null,
     "last_bar_collected": 867,
-    "tracking_until": "2026-01-22T17:35:23.157080",
-    "entry_volume": 436065.158306
+    "tracking_until": null,
+    "entry_volume": 353353.353199
   },
   "POLYX": {
     "current_run": 8,
@@ -1009,11 +1009,11 @@
   },
   "NXPC": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T22:52:36.305365",
-    "exit_time": null,
+    "exit_time": "2026-01-12T23:12:44.059732",
     "last_bar_collected": 295,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T23:12:44.059732",
     "entry_volume": 190589.85311
   },
   "KAITO": {
