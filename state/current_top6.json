@@ -1,11 +1,11 @@
 {
   "tokens": [
     "PROMPT",
-    "HEMI",
     "PURR",
-    "MORPHO",
+    "HEMI",
     "NIL",
-    "2Z"
+    "MORPHO",
+    "NXPC"
   ],
   "scores": [
     154,
@@ -15,6 +15,6 @@
     146,
     144
   ],
-  "timestamp": "2026-01-12T22:38:06.980626",
+  "timestamp": "2026-01-12T22:52:36.305583",
   "bucket": "90k-400k"
 }
