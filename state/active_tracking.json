@@ -738,13 +738,13 @@
     "entry_volume": 121655.2406
   },
   "RUNE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T17:13:08.368261",
-    "exit_time": "2026-01-07T17:45:17.430637",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T06:53:47.431300",
+    "exit_time": null,
     "last_bar_collected": 681,
-    "tracking_until": "2026-01-17T17:45:17.430637",
-    "entry_volume": 104989.86371
+    "tracking_until": null,
+    "entry_volume": 123356.63751
   },
   "AIXBT": {
     "current_run": 3,
@@ -919,11 +919,11 @@
   },
   "YGG": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T05:49:34.993325",
-    "exit_time": null,
+    "exit_time": "2026-01-12T06:53:47.431300",
     "last_bar_collected": 512,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T06:53:47.431300",
     "entry_volume": 124971.882558
   },
   "ETHFI": {
@@ -1053,13 +1053,13 @@
     "entry_volume": 137085.98963
   },
   "KAITO": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T05:37:46.494171",
-    "exit_time": "2026-01-11T06:57:08.973399",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T06:53:47.431300",
+    "exit_time": null,
     "last_bar_collected": 162,
-    "tracking_until": "2026-01-21T06:57:08.973399",
-    "entry_volume": 303309.0980199999
+    "tracking_until": null,
+    "entry_volume": 275097.6045099999
   },
   "STBL": {
     "current_run": 1,
@@ -1144,11 +1144,11 @@
   },
   "OP": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T04:38:21.848951",
-    "exit_time": null,
+    "exit_time": "2026-01-12T06:53:47.431300",
     "last_bar_collected": 9,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T06:53:47.431300",
     "entry_volume": 414143.458848
   }
 }

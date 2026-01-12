@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "OP",
     "REZ",
-    "IOTA",
-    "YGG",
+    "ZETA",
     "GMX",
-    "ZETA"
+    "RUNE",
+    "IOTA",
+    "KAITO"
   ],
   "scores": [
     162,
@@ -15,6 +15,6 @@
     152,
     152
   ],
-  "timestamp": "2026-01-12T06:01:58.496099",
+  "timestamp": "2026-01-12T06:53:47.431646",
   "bucket": "90k-400k"
 }
