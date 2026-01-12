@@ -3,8 +3,8 @@
     "PROMPT",
     "PURR",
     "HEMI",
-    "NIL",
     "MORPHO",
+    "NIL",
     "GRIFFAIN"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     146,
     144
   ],
-  "timestamp": "2026-01-12T23:12:44.059932",
+  "timestamp": "2026-01-12T23:30:21.364456",
   "bucket": "90k-400k"
 }
