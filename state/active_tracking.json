@@ -262,11 +262,11 @@
   },
   "ZETA": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T06:01:58.495750",
-    "exit_time": null,
+    "exit_time": "2026-01-12T08:45:24.379429",
     "last_bar_collected": 817,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T08:45:24.379429",
     "entry_volume": 154095.713059
   },
   "DYM": {
@@ -756,13 +756,13 @@
     "entry_volume": 354163.530613
   },
   "BABY": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T04:08:02.968646",
-    "exit_time": "2026-01-10T05:33:17.220075",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T08:45:24.379429",
+    "exit_time": null,
     "last_bar_collected": 672,
-    "tracking_until": "2026-01-20T05:33:17.220075",
-    "entry_volume": 295706.9816250001
+    "tracking_until": null,
+    "entry_volume": 88250.779918
   },
   "ETC": {
     "current_run": 1,
