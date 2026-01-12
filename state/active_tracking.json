@@ -460,11 +460,11 @@
   },
   "GRIFFAIN": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T14:49:51.009187",
-    "exit_time": null,
+    "exit_time": "2026-01-12T16:40:33.919479",
     "last_bar_collected": 845,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T16:40:33.919479",
     "entry_volume": 377295.0665249999
   },
   "POLYX": {
@@ -954,13 +954,13 @@
     "entry_volume": 143162.6853
   },
   "MERL": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T10:46:52.452991",
-    "exit_time": "2026-01-12T13:02:16.755157",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T16:40:33.919479",
+    "exit_time": null,
     "last_bar_collected": 469,
-    "tracking_until": "2026-01-22T13:02:16.755157",
-    "entry_volume": 301124.25509
+    "tracking_until": null,
+    "entry_volume": 313655.05357
   },
   "CAKE": {
     "current_run": 4,
