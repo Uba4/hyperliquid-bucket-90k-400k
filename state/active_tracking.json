@@ -468,13 +468,13 @@
     "entry_volume": 438594.898177
   },
   "POLYX": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T01:54:09.318273",
-    "exit_time": "2026-01-10T08:47:46.193025",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T07:47:42.128595",
+    "exit_time": null,
     "last_bar_collected": 808,
-    "tracking_until": "2026-01-20T08:47:46.193025",
-    "entry_volume": 140324.134336
+    "tracking_until": null,
+    "entry_volume": 238101.917193
   },
   "APEX": {
     "current_run": 6,
@@ -739,11 +739,11 @@
   },
   "RUNE": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T06:53:47.431300",
-    "exit_time": null,
+    "exit_time": "2026-01-12T07:47:42.128595",
     "last_bar_collected": 684,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T07:47:42.128595",
     "entry_volume": 123356.63751
   },
   "AIXBT": {
