@@ -126,13 +126,13 @@
     "entry_volume": 129875.24018
   },
   "IOTA": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T16:51:07.295432",
-    "exit_time": "2026-01-09T19:28:37.218315",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T05:49:34.993325",
+    "exit_time": null,
     "last_bar_collected": 761,
-    "tracking_until": "2026-01-19T19:28:37.218315",
-    "entry_volume": 267469.0731400002
+    "tracking_until": null,
+    "entry_volume": 161663.8095450001
   },
   "MINA": {
     "current_run": 4,
@@ -424,11 +424,11 @@
   },
   "CHILLGUY": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T03:28:59.259926",
-    "exit_time": null,
+    "exit_time": "2026-01-12T05:49:34.993325",
     "last_bar_collected": 730,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T05:49:34.993325",
     "entry_volume": 375058.4263029999
   },
   "IO": {
@@ -550,11 +550,11 @@
   },
   "BRETT": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T03:28:59.259926",
-    "exit_time": null,
+    "exit_time": "2026-01-12T05:49:34.993325",
     "last_bar_collected": 749,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T05:49:34.993325",
     "entry_volume": 372359.315082
   },
   "TURBO": {
@@ -918,13 +918,13 @@
     "entry_volume": 94483.92363
   },
   "YGG": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T21:33:21.707781",
-    "exit_time": "2026-01-10T23:23:06.860128",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T05:49:34.993325",
+    "exit_time": null,
     "last_bar_collected": 508,
-    "tracking_until": "2026-01-20T23:23:06.860128",
-    "entry_volume": 86921.862099
+    "tracking_until": null,
+    "entry_volume": 124971.882558
   },
   "ETHFI": {
     "current_run": 2,
