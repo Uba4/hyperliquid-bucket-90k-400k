@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "NIL",
-    "GRIFFAIN",
-    "VINE",
     "RUNE",
+    "NIL",
     "MERL",
-    "IMX"
+    "VINE",
+    "kFLOKI",
+    "SNX"
   ],
   "scores": [
-    156,
     153,
-    152,
-    151,
+    153,
+    150,
     148,
-    146
+    146,
+    142
   ],
-  "timestamp": "2026-01-12T17:02:13.582192",
+  "timestamp": "2026-01-12T17:35:23.157622",
   "bucket": "90k-400k"
 }
