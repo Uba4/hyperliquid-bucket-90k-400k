@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "RUNE",
-    "SYRUP",
-    "ZETA",
     "PROMPT",
     "POLYX",
-    "USUAL"
+    "ZETA",
+    "HEMI",
+    "NXPC",
+    "2Z"
   ],
   "scores": [
     154,
@@ -15,6 +15,6 @@
     146,
     144
   ],
-  "timestamp": "2026-01-12T19:58:17.800865",
+  "timestamp": "2026-01-12T20:35:08.572546",
   "bucket": "90k-400k"
 }
