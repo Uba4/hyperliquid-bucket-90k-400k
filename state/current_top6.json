@@ -2,19 +2,19 @@
   "tokens": [
     "PROMPT",
     "HEMI",
-    "NXPC",
     "POLYX",
+    "NXPC",
     "2Z",
-    "ZETA"
+    "MORPHO"
   ],
   "scores": [
-    156,
     154,
     152,
     150,
     148,
-    146
+    146,
+    144
   ],
-  "timestamp": "2026-01-12T21:38:44.530495",
+  "timestamp": "2026-01-12T21:52:37.827033",
   "bucket": "90k-400k"
 }

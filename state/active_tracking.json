@@ -226,11 +226,11 @@
   },
   "ZETA": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T19:16:33.101709",
-    "exit_time": null,
+    "exit_time": "2026-01-12T21:52:37.826821",
     "last_bar_collected": 867,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T21:52:37.826821",
     "entry_volume": 129285.836163
   },
   "DYM": {
@@ -972,13 +972,13 @@
     "entry_volume": 290254.9049790001
   },
   "MORPHO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T23:23:06.860128",
-    "exit_time": "2026-01-11T03:18:15.057024",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T21:52:37.826821",
+    "exit_time": null,
     "last_bar_collected": 384,
-    "tracking_until": "2026-01-21T03:18:15.057024",
-    "entry_volume": 264457.7890700002
+    "tracking_until": null,
+    "entry_volume": 438697.62375
   },
   "YZY": {
     "current_run": 2,
