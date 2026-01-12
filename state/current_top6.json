@@ -2,19 +2,19 @@
   "tokens": [
     "KAITO",
     "REZ",
-    "POLYX",
+    "MERL",
     "PURR",
-    "BABY",
-    "SKY"
+    "POLYX",
+    "RESOLV"
   ],
   "scores": [
-    160,
-    158,
     156,
     154,
     152,
-    150
+    150,
+    148,
+    146
   ],
-  "timestamp": "2026-01-12T10:14:26.108063",
+  "timestamp": "2026-01-12T10:46:52.453372",
   "bucket": "90k-400k"
 }
