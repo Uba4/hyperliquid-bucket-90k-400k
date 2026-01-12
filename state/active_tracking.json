@@ -54,13 +54,13 @@
     "entry_volume": 86219.305264
   },
   "SYRUP": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T06:57:08.973399",
-    "exit_time": "2026-01-11T07:53:47.608793",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T17:50:32.124281",
+    "exit_time": null,
     "last_bar_collected": 861,
-    "tracking_until": "2026-01-21T07:53:47.608793",
-    "entry_volume": 425287.2140199999
+    "tracking_until": null,
+    "entry_volume": 424455.6550300001
   },
   "TIA": {
     "current_run": 2,
@@ -820,11 +820,11 @@
   },
   "SNX": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T17:35:23.157080",
-    "exit_time": null,
+    "exit_time": "2026-01-12T17:50:32.124281",
     "last_bar_collected": 649,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T17:50:32.124281",
     "entry_volume": 210204.862097
   },
   "HEMI": {
