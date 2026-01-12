@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "KAITO",
     "PURR",
-    "MERL",
-    "POLYX",
     "GMT",
-    "HEMI"
+    "HEMI",
+    "MERL",
+    "RESOLV",
+    "LINEA"
   ],
   "scores": [
-    156,
     154,
     152,
     150,
-    148,
-    146
+    146,
+    146,
+    144
   ],
-  "timestamp": "2026-01-12T11:30:59.290109",
+  "timestamp": "2026-01-12T11:46:50.531030",
   "bucket": "90k-400k"
 }
