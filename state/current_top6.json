@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MERL",
-    "SKY",
+    "CHILLGUY",
+    "BSV",
+    "BRETT",
     "ZORA",
-    "MAVIA",
-    "GMX",
-    "TST"
+    "PNUT",
+    "STRK"
   ],
   "scores": [
-    164,
+    166,
     162,
-    160,
+    162,
+    162,
     158,
-    156,
-    154
+    156
   ],
-  "timestamp": "2026-01-12T01:48:09.465446",
+  "timestamp": "2026-01-12T03:28:59.260671",
   "bucket": "90k-400k"
 }
