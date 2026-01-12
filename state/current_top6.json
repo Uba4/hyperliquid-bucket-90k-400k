@@ -2,19 +2,19 @@
   "tokens": [
     "GMT",
     "NIL",
+    "GRIFFAIN",
     "PURR",
     "BANANA",
-    "GRIFFAIN",
     "RESOLV"
   ],
   "scores": [
-    158,
     156,
     154,
     152,
     150,
-    148
+    148,
+    146
   ],
-  "timestamp": "2026-01-12T14:49:51.009505",
+  "timestamp": "2026-01-12T15:14:18.469091",
   "bucket": "90k-400k"
 }
