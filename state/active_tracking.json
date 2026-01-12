@@ -658,11 +658,11 @@
   },
   "BANANA": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-12T14:16:28.118452",
-    "exit_time": null,
+    "exit_time": "2026-01-12T16:01:42.658567",
     "last_bar_collected": 757,
-    "tracking_until": null,
+    "tracking_until": "2026-01-22T16:01:42.658567",
     "entry_volume": 89374.95021
   },
   "ALT": {
@@ -738,13 +738,13 @@
     "entry_volume": 121655.2406
   },
   "RUNE": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T06:53:47.431300",
-    "exit_time": "2026-01-12T07:47:42.128595",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-12T16:01:42.658567",
+    "exit_time": null,
     "last_bar_collected": 716,
-    "tracking_until": "2026-01-22T07:47:42.128595",
-    "entry_volume": 123356.63751
+    "tracking_until": null,
+    "entry_volume": 97490.82139
   },
   "AIXBT": {
     "current_run": 3,
