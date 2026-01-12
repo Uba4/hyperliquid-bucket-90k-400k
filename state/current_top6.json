@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "REZ",
     "KAITO",
-    "BABY",
+    "REZ",
     "POLYX",
+    "BABY",
     "SKY",
-    "SAGA"
+    "PURR"
   ],
   "scores": [
+    160,
     158,
     156,
     154,
     152,
-    150,
-    148
+    150
   ],
-  "timestamp": "2026-01-12T09:18:20.087102",
+  "timestamp": "2026-01-12T09:50:27.790031",
   "bucket": "90k-400k"
 }
