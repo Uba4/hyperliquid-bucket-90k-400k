@@ -46,11 +46,11 @@
   },
   "NIL": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T13:23:13.237902",
-    "exit_time": null,
+    "exit_time": "2026-01-13T15:31:51.835593",
     "last_bar_collected": 951,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T15:31:51.835593",
     "entry_volume": 203780.315387
   },
   "SYRUP": {
@@ -100,11 +100,11 @@
   },
   "MINA": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T14:31:23.036205",
-    "exit_time": null,
+    "exit_time": "2026-01-13T15:31:51.835593",
     "last_bar_collected": 950,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T15:31:51.835593",
     "entry_volume": 105150.198419
   },
   "VVV": {
@@ -331,15 +331,6 @@
     "last_bar_collected": 940,
     "tracking_until": "2026-01-23T04:14:21.859603",
     "entry_volume": 121376.820679
-  },
-  "LAYER": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T11:50:17.515775",
-    "exit_time": "2026-01-03T15:28:58.718884",
-    "last_bar_collected": 954,
-    "tracking_until": "2026-01-13T15:28:58.718884",
-    "entry_volume": 112909.82791
   },
   "SOPH": {
     "current_run": 8,
@@ -981,13 +972,13 @@
     "entry_volume": 198898.218557
   },
   "IMX": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T17:02:13.581821",
-    "exit_time": "2026-01-12T17:35:23.157080",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T15:31:51.835593",
+    "exit_time": null,
     "last_bar_collected": 368,
-    "tracking_until": "2026-01-22T17:35:23.157080",
-    "entry_volume": 114801.952703
+    "tracking_until": null,
+    "entry_volume": 125945.458288
   },
   "NXPC": {
     "current_run": 4,
@@ -1123,5 +1114,14 @@
     "last_bar_collected": 7,
     "tracking_until": null,
     "entry_volume": 119076.711444
+  },
+  "FIL": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T15:31:51.835593",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 396549.6439400001
   }
 }
