@@ -100,11 +100,11 @@
   },
   "MINA": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T07:15:44.250768",
-    "exit_time": null,
+    "exit_time": "2026-01-13T10:27:41.392993",
     "last_bar_collected": 930,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T10:27:41.392993",
     "entry_volume": 93193.703725
   },
   "VVV": {
@@ -270,13 +270,13 @@
     "entry_volume": 331507.1170299998
   },
   "CELO": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T19:28:37.218315",
-    "exit_time": "2026-01-10T01:54:09.318273",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T10:27:41.392993",
+    "exit_time": null,
     "last_bar_collected": 867,
-    "tracking_until": "2026-01-20T01:54:09.318273",
-    "entry_volume": 403605.9647600001
+    "tracking_until": null,
+    "entry_volume": 130001.96069
   },
   "FXS": {
     "current_run": 4,
