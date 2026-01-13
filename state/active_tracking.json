@@ -721,11 +721,11 @@
   },
   "TRB": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T17:56:48.785263",
-    "exit_time": null,
+    "exit_time": "2026-01-13T21:31:47.471904",
     "last_bar_collected": 791,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T21:31:47.471904",
     "entry_volume": 122235.76307
   },
   "ATOM": {
@@ -837,13 +837,13 @@
     "entry_volume": 226390.723893
   },
   "GMX": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T06:01:58.495750",
-    "exit_time": "2026-01-12T09:18:20.086793",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T21:31:47.471904",
+    "exit_time": null,
     "last_bar_collected": 679,
-    "tracking_until": "2026-01-22T09:18:20.086793",
-    "entry_volume": 144124.57279
+    "tracking_until": null,
+    "entry_volume": 108212.979915
   },
   "YGG": {
     "current_run": 5,
