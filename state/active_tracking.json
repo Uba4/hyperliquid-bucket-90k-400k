@@ -162,13 +162,13 @@
     "entry_volume": 295142.486858
   },
   "SUSHI": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T05:18:28.090617",
-    "exit_time": "2026-01-12T06:01:58.495750",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T13:57:08.813771",
+    "exit_time": null,
     "last_bar_collected": 932,
-    "tracking_until": "2026-01-22T06:01:58.495750",
-    "entry_volume": 89169.215869
+    "tracking_until": null,
+    "entry_volume": 153296.669638
   },
   "REZ": {
     "current_run": 9,
@@ -271,11 +271,11 @@
   },
   "CELO": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T10:27:41.392993",
-    "exit_time": null,
+    "exit_time": "2026-01-13T13:57:08.813771",
     "last_bar_collected": 881,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T13:57:08.813771",
     "entry_volume": 130001.96069
   },
   "FXS": {
@@ -1108,11 +1108,20 @@
   },
   "AR": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T13:23:13.237902",
-    "exit_time": null,
+    "exit_time": "2026-01-13T13:57:08.813771",
     "last_bar_collected": 960,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T13:57:08.813771",
     "entry_volume": 437094.7041909999
+  },
+  "ORDI": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T13:57:08.813771",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 119076.711444
   }
 }
