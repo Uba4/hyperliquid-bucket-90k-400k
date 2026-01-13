@@ -198,13 +198,13 @@
     "entry_volume": 190827.2559410001
   },
   "DYDX": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T20:40:25.810626",
-    "exit_time": "2026-01-10T23:23:06.860128",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T16:29:59.083450",
+    "exit_time": null,
     "last_bar_collected": 944,
-    "tracking_until": "2026-01-20T23:23:06.860128",
-    "entry_volume": 347755.375923
+    "tracking_until": null,
+    "entry_volume": 194200.8564589999
   },
   "ZETA": {
     "current_run": 9,
@@ -639,13 +639,13 @@
     "entry_volume": 203303.409699
   },
   "APE": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T11:37:48.421753",
-    "exit_time": "2026-01-13T12:24:51.221584",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T16:29:59.083450",
+    "exit_time": null,
     "last_bar_collected": 822,
-    "tracking_until": "2026-01-23T12:24:51.221584",
-    "entry_volume": 114247.097514
+    "tracking_until": null,
+    "entry_volume": 158375.9217659999
   },
   "BIGTIME": {
     "current_run": 6,
@@ -765,13 +765,13 @@
     "entry_volume": 210696.5360999999
   },
   "SAND": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T14:59:56.034351",
-    "exit_time": "2026-01-09T15:35:14.074312",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T16:29:59.083450",
+    "exit_time": null,
     "last_bar_collected": 753,
-    "tracking_until": "2026-01-19T15:35:14.074312",
-    "entry_volume": 141014.2421500001
+    "tracking_until": null,
+    "entry_volume": 127088.3108
   },
   "2Z": {
     "current_run": 8,
@@ -793,11 +793,11 @@
   },
   "SNX": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T11:51:23.333013",
-    "exit_time": null,
+    "exit_time": "2026-01-13T16:29:59.083450",
     "last_bar_collected": 733,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T16:29:59.083450",
     "entry_volume": 224723.1871529999
   },
   "HEMI": {
@@ -856,11 +856,11 @@
   },
   "YGG": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T14:56:55.139232",
-    "exit_time": null,
+    "exit_time": "2026-01-13T16:29:59.083450",
     "last_bar_collected": 641,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T16:29:59.083450",
     "entry_volume": 174641.3787029999
   },
   "ETHFI": {
@@ -1117,11 +1117,11 @@
   },
   "FIL": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T15:31:51.835593",
-    "exit_time": null,
+    "exit_time": "2026-01-13T16:29:59.083450",
     "last_bar_collected": 0,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T16:29:59.083450",
     "entry_volume": 396549.6439400001
   }
 }
