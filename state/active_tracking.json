@@ -163,11 +163,11 @@
   },
   "SUSHI": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T13:57:08.813771",
-    "exit_time": null,
+    "exit_time": "2026-01-13T17:56:48.785263",
     "last_bar_collected": 947,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T17:56:48.785263",
     "entry_volume": 153296.669638
   },
   "REZ": {
@@ -729,13 +729,13 @@
     "entry_volume": 336806.6820649999
   },
   "TRB": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T17:00:44.477849",
-    "exit_time": "2026-01-13T17:37:24.779762",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T17:56:48.785263",
+    "exit_time": null,
     "last_bar_collected": 777,
-    "tracking_until": "2026-01-23T17:37:24.779762",
-    "entry_volume": 109012.99397
+    "tracking_until": null,
+    "entry_volume": 122235.76307
   },
   "ATOM": {
     "current_run": 4,
