@@ -838,11 +838,11 @@
   },
   "GMX": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T21:31:47.471904",
-    "exit_time": null,
+    "exit_time": "2026-01-13T23:16:26.561896",
     "last_bar_collected": 683,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T23:16:26.561896",
     "entry_volume": 108212.979915
   },
   "YGG": {
@@ -1080,13 +1080,13 @@
     "entry_volume": 414143.458848
   },
   "kFLOKI": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T22:33:56.318333",
-    "exit_time": "2026-01-13T22:53:09.666002",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T23:16:26.561896",
+    "exit_time": null,
     "last_bar_collected": 116,
-    "tracking_until": "2026-01-23T22:53:09.666002",
-    "entry_volume": 411628.7499799999
+    "tracking_until": null,
+    "entry_volume": 424677.0399629999
   },
   "AR": {
     "current_run": 2,
