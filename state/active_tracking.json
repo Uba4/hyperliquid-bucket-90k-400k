@@ -603,13 +603,13 @@
     "entry_volume": 173750.532773
   },
   "PEOPLE": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T17:37:24.779762",
-    "exit_time": "2026-01-13T20:47:39.786743",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T22:53:09.666002",
+    "exit_time": null,
     "last_bar_collected": 872,
-    "tracking_until": "2026-01-23T20:47:39.786743",
-    "entry_volume": 82273.772118
+    "tracking_until": null,
+    "entry_volume": 141175.225545
   },
   "TNSR": {
     "current_run": 5,
@@ -1081,11 +1081,11 @@
   },
   "kFLOKI": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T22:33:56.318333",
-    "exit_time": null,
+    "exit_time": "2026-01-13T22:53:09.666002",
     "last_bar_collected": 116,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T22:53:09.666002",
     "entry_volume": 411628.7499799999
   },
   "AR": {
