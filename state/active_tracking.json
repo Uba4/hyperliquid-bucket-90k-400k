@@ -170,15 +170,6 @@
     "tracking_until": "2026-01-13T09:50:06.466064",
     "entry_volume": 272810.2237769999
   },
-  "FET": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T06:54:02.134444",
-    "exit_time": "2026-01-03T08:54:13.085012",
-    "last_bar_collected": 922,
-    "tracking_until": "2026-01-13T08:54:13.085012",
-    "entry_volume": 341503.4999999999
-  },
   "SUSHI": {
     "current_run": 4,
     "status": "post_exit",
