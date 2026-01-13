@@ -27,13 +27,13 @@
     "entry_volume": 433326.4188939998
   },
   "ICP": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T21:46:10.678359",
-    "exit_time": "2026-01-10T23:23:06.860128",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T10:52:47.695929",
+    "exit_time": null,
     "last_bar_collected": 929,
-    "tracking_until": "2026-01-20T23:23:06.860128",
-    "entry_volume": 149151.0897
+    "tracking_until": null,
+    "entry_volume": 277065.65152
   },
   "MAVIA": {
     "current_run": 11,
@@ -1108,11 +1108,11 @@
   },
   "AR": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T09:37:40.799462",
-    "exit_time": null,
+    "exit_time": "2026-01-13T10:52:47.695929",
     "last_bar_collected": 870,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T10:52:47.695929",
     "entry_volume": 322388.2707549997
   }
 }
