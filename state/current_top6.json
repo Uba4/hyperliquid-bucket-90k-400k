@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROMPT",
     "PURR",
     "HEMI",
-    "MORPHO",
-    "NIL",
-    "GRIFFAIN"
+    "ZEN",
+    "GMT",
+    "MAVIA",
+    "BABY"
   ],
   "scores": [
+    156,
     154,
-    152,
+    150,
     150,
     148,
-    146,
-    144
+    148
   ],
-  "timestamp": "2026-01-12T23:56:03.258012",
+  "timestamp": "2026-01-13T01:52:26.972671",
   "bucket": "90k-400k"
 }
