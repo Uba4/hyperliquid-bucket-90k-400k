@@ -161,15 +161,6 @@
     "tracking_until": "2026-01-16T05:00:25.824516",
     "entry_volume": 295142.486858
   },
-  "STX": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-03T04:20:38.783936",
-    "exit_time": "2026-01-03T09:50:06.466064",
-    "last_bar_collected": 930,
-    "tracking_until": "2026-01-13T09:50:06.466064",
-    "entry_volume": 272810.2237769999
-  },
   "SUSHI": {
     "current_run": 4,
     "status": "post_exit",
