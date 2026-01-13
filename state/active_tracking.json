@@ -648,13 +648,13 @@
     "entry_volume": 203303.409699
   },
   "APE": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T02:03:58.310596",
-    "exit_time": "2026-01-05T05:03:13.776401",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T11:37:48.421753",
+    "exit_time": null,
     "last_bar_collected": 806,
-    "tracking_until": "2026-01-15T05:03:13.776401",
-    "entry_volume": 315766.413228
+    "tracking_until": null,
+    "entry_volume": 114247.097514
   },
   "BIGTIME": {
     "current_run": 6,
@@ -1018,11 +1018,11 @@
   },
   "MET": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T09:37:40.799462",
-    "exit_time": null,
+    "exit_time": "2026-01-13T11:37:48.421753",
     "last_bar_collected": 197,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T11:37:48.421753",
     "entry_volume": 385849.5867699999
   },
   "POPCAT": {
