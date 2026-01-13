@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "POLYX",
     "ZETA",
-    "RUNE",
-    "kNEIRO",
     "ZK",
-    "YGG"
+    "POLYX",
+    "USUAL",
+    "kNEIRO",
+    "IO"
   ],
   "scores": [
     150,
@@ -15,6 +15,6 @@
     142,
     140
   ],
-  "timestamp": "2026-01-13T06:00:36.500526",
+  "timestamp": "2026-01-13T06:49:46.792048",
   "bucket": "90k-400k"
 }

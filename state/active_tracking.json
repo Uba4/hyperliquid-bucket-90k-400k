@@ -396,13 +396,13 @@
     "entry_volume": 375058.4263029999
   },
   "IO": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T04:55:19.948635",
-    "exit_time": "2026-01-13T05:49:59.503283",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T06:49:46.791783",
+    "exit_time": null,
     "last_bar_collected": 884,
-    "tracking_until": "2026-01-23T05:49:59.503283",
-    "entry_volume": 413650.9262869999
+    "tracking_until": null,
+    "entry_volume": 404687.9906799999
   },
   "RENDER": {
     "current_run": 1,
@@ -450,13 +450,13 @@
     "entry_volume": 310518.5851300001
   },
   "USUAL": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T19:58:17.800631",
-    "exit_time": "2026-01-12T20:35:08.572246",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T06:49:46.791783",
+    "exit_time": null,
     "last_bar_collected": 890,
-    "tracking_until": "2026-01-22T20:35:08.572246",
-    "entry_volume": 148628.653194
+    "tracking_until": null,
+    "entry_volume": 194415.358738
   },
   "INIT": {
     "current_run": 1,
@@ -703,11 +703,11 @@
   },
   "RUNE": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T04:55:19.948635",
-    "exit_time": null,
+    "exit_time": "2026-01-13T06:49:46.791783",
     "last_bar_collected": 775,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T06:49:46.791783",
     "entry_volume": 352795.714407
   },
   "AIXBT": {
@@ -883,11 +883,11 @@
   },
   "YGG": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T05:49:59.503283",
-    "exit_time": null,
+    "exit_time": "2026-01-13T06:49:46.791783",
     "last_bar_collected": 607,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T06:49:46.791783",
     "entry_volume": 183821.6675129999
   },
   "ETHFI": {
