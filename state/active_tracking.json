@@ -135,13 +135,13 @@
     "entry_volume": 433532.9200100001
   },
   "JTO": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T04:04:50.213570",
-    "exit_time": "2026-01-04T06:51:24.755396",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-13T04:14:21.859603",
+    "exit_time": null,
     "last_bar_collected": 862,
-    "tracking_until": "2026-01-14T06:51:24.755396",
-    "entry_volume": 252301.80916
+    "tracking_until": null,
+    "entry_volume": 192293.5254500001
   },
   "GALA": {
     "current_run": 5,
@@ -343,11 +343,11 @@
   },
   "BLAST": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-13T03:22:57.724840",
-    "exit_time": null,
+    "exit_time": "2026-01-13T04:14:21.859603",
     "last_bar_collected": 891,
-    "tracking_until": null,
+    "tracking_until": "2026-01-23T04:14:21.859603",
     "entry_volume": 121376.820679
   },
   "LAYER": {
