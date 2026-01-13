@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PURR",
     "HEMI",
-    "ZEN",
     "GMT",
-    "MAVIA",
-    "BABY"
+    "PURR",
+    "ZEN",
+    "POLYX",
+    "BLAST"
   ],
   "scores": [
-    156,
     154,
-    150,
+    152,
     150,
     148,
-    148
+    146,
+    144
   ],
-  "timestamp": "2026-01-13T01:52:26.972671",
+  "timestamp": "2026-01-13T03:22:57.725233",
   "bucket": "90k-400k"
 }
