@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MINA",
     "ZK",
-    "ZETA",
     "USUAL",
-    "POLYX",
-    "kNEIRO"
+    "MINA",
+    "ZETA",
+    "kNEIRO",
+    "W"
   ],
   "scores": [
-    154,
     152,
     150,
     148,
     146,
-    144
+    144,
+    142
   ],
-  "timestamp": "2026-01-13T07:15:44.251001",
+  "timestamp": "2026-01-13T07:41:10.664055",
   "bucket": "90k-400k"
 }
