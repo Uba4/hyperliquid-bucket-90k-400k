@@ -190,11 +190,11 @@
   },
   "LINEA": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T19:27:28.655500",
-    "exit_time": null,
+    "exit_time": "2026-01-14T20:22:27.475021",
     "last_bar_collected": 1066,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T20:22:27.475021",
     "entry_volume": 384893.5615989999
   },
   "DYDX": {
@@ -369,13 +369,13 @@
     "entry_volume": 375058.4263029999
   },
   "IO": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T06:49:46.791783",
-    "exit_time": "2026-01-13T07:15:44.250768",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T20:22:27.475021",
+    "exit_time": null,
     "last_bar_collected": 1035,
-    "tracking_until": "2026-01-23T07:15:44.250768",
-    "entry_volume": 404687.9906799999
+    "tracking_until": null,
+    "entry_volume": 387053.868291
   },
   "MEME": {
     "current_run": 3,
