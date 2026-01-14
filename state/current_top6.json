@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BIGTIME",
     "2Z",
+    "BIGTIME",
     "STBL",
+    "MEGA",
     "USUAL",
-    "WCT",
-    "ENS"
+    "WCT"
   ],
   "scores": [
+    152,
     150,
     148,
     146,
     144,
-    142,
-    138
+    142
   ],
-  "timestamp": "2026-01-14T07:15:32.117028",
+  "timestamp": "2026-01-14T07:42:19.090191",
   "bucket": "90k-400k"
 }
