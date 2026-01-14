@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "ANIME",
-    "SOPH",
-    "BANANA",
     "WCT",
-    "INIT"
+    "SOPH",
+    "INIT",
+    "BIGTIME"
   ],
   "scores": [
+    150,
+    148,
     146,
     144,
     142,
-    140,
-    138,
-    136
+    139
   ],
-  "timestamp": "2026-01-14T23:14:12.112711",
+  "timestamp": "2026-01-14T23:31:47.788215",
   "bucket": "90k-400k"
 }
