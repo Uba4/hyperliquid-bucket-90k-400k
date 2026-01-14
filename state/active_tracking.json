@@ -550,11 +550,11 @@
   },
   "TST": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T05:21:08.824577",
-    "exit_time": null,
+    "exit_time": "2026-01-14T07:15:32.116813",
     "last_bar_collected": 921,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T07:15:32.116813",
     "entry_volume": 86777.783781
   },
   "BIO": {
@@ -648,13 +648,13 @@
     "entry_volume": 176239.85914
   },
   "ENS": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T02:03:58.310596",
-    "exit_time": "2026-01-05T13:31:02.472527",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T07:15:32.116813",
+    "exit_time": null,
     "last_bar_collected": 882,
-    "tracking_until": "2026-01-15T13:31:02.472527",
-    "entry_volume": 121655.2406
+    "tracking_until": null,
+    "entry_volume": 109953.71545
   },
   "RUNE": {
     "current_run": 5,
