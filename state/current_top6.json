@@ -1,20 +1,20 @@
 {
   "tokens": [
     "WCT",
-    "GRASS",
     "ME",
     "RUNE",
     "BLAST",
-    "MANTA"
+    "MANTA",
+    "GRASS"
   ],
   "scores": [
     150,
-    146,
+    148,
     146,
     144,
-    144,
+    142,
     140
   ],
-  "timestamp": "2026-01-14T14:01:49.990974",
+  "timestamp": "2026-01-14T14:38:19.068841",
   "bucket": "90k-400k"
 }
