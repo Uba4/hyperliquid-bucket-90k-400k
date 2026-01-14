@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MEGA",
-    "HEMI",
+    "REZ",
     "SOPH",
+    "HEMI",
     "INIT",
-    "RUNE",
-    "LINEA"
+    "RUNE"
   ],
   "scores": [
     146,
@@ -15,6 +15,6 @@
     138,
     136
   ],
-  "timestamp": "2026-01-14T18:28:15.758340",
+  "timestamp": "2026-01-14T18:58:40.041998",
   "bucket": "90k-400k"
 }
