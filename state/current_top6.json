@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MEGA",
+    "ANIME",
     "SOPH",
     "BANANA",
-    "ANIME",
-    "GRASS",
-    "WCT"
+    "WCT",
+    "INIT"
   ],
   "scores": [
+    146,
+    144,
     142,
     140,
-    137,
-    137,
-    134,
-    132
+    138,
+    136
   ],
-  "timestamp": "2026-01-14T22:52:40.414622",
+  "timestamp": "2026-01-14T23:14:12.112711",
   "bucket": "90k-400k"
 }
