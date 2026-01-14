@@ -1,11 +1,11 @@
 {
   "tokens": [
     "REZ",
-    "BIGTIME",
     "MINA",
+    "BIGTIME",
     "RUNE",
-    "BIO",
-    "WCT"
+    "MANTA",
+    "BIO"
   ],
   "scores": [
     152,
@@ -15,6 +15,6 @@
     144,
     142
   ],
-  "timestamp": "2026-01-14T10:33:35.952994",
+  "timestamp": "2026-01-14T10:56:28.181520",
   "bucket": "90k-400k"
 }
