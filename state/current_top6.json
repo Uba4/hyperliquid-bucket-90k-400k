@@ -2,19 +2,19 @@
   "tokens": [
     "MINA",
     "MANTA",
+    "NOT",
+    "GRASS",
     "RUNE",
-    "REZ",
-    "BIGTIME",
-    "BIO"
+    "WCT"
   ],
   "scores": [
     148,
     146,
     144,
-    141,
+    142,
     140,
     138
   ],
-  "timestamp": "2026-01-14T11:55:51.561145",
+  "timestamp": "2026-01-14T12:52:57.060337",
   "bucket": "90k-400k"
 }
