@@ -549,13 +549,13 @@
     "entry_volume": 364504.7314290002
   },
   "TST": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T01:48:09.464799",
-    "exit_time": "2026-01-12T03:28:59.259926",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T05:21:08.824577",
+    "exit_time": null,
     "last_bar_collected": 915,
-    "tracking_until": "2026-01-22T03:28:59.259926",
-    "entry_volume": 125906.229554
+    "tracking_until": null,
+    "entry_volume": 86777.783781
   },
   "BIO": {
     "current_run": 2,
@@ -784,11 +784,11 @@
   },
   "HEMI": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T04:53:25.769887",
-    "exit_time": null,
+    "exit_time": "2026-01-14T05:21:08.824577",
     "last_bar_collected": 766,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T05:21:08.824577",
     "entry_volume": 263625.685255
   },
   "0G": {

@@ -2,19 +2,19 @@
   "tokens": [
     "BIGTIME",
     "DYM",
+    "TST",
     "MET",
-    "BLAST",
     "MEGA",
-    "HEMI"
+    "BLAST"
   ],
   "scores": [
+    156,
     154,
     152,
     150,
     148,
-    146,
-    144
+    146
   ],
-  "timestamp": "2026-01-14T04:53:25.770350",
+  "timestamp": "2026-01-14T05:21:08.824817",
   "bucket": "90k-400k"
 }
