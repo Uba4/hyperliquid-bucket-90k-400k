@@ -2,8 +2,8 @@
   "tokens": [
     "MINA",
     "REZ",
-    "BIGTIME",
     "MANTA",
+    "BIGTIME",
     "RUNE",
     "BIO"
   ],
@@ -15,6 +15,6 @@
     140,
     138
   ],
-  "timestamp": "2026-01-14T11:25:18.948748",
+  "timestamp": "2026-01-14T11:44:29.904724",
   "bucket": "90k-400k"
 }
