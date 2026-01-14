@@ -370,11 +370,11 @@
   },
   "IO": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T20:22:27.475021",
-    "exit_time": null,
+    "exit_time": "2026-01-14T21:28:40.660987",
     "last_bar_collected": 1040,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T21:28:40.660987",
     "entry_volume": 387053.868291
   },
   "MEME": {
@@ -567,13 +567,13 @@
     "entry_volume": 134541.229173
   },
   "BANANA": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T14:16:28.118452",
-    "exit_time": "2026-01-12T16:01:42.658567",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T21:28:40.660987",
+    "exit_time": null,
     "last_bar_collected": 973,
-    "tracking_until": "2026-01-22T16:01:42.658567",
-    "entry_volume": 89374.95021
+    "tracking_until": null,
+    "entry_volume": 148561.5933599999
   },
   "ALT": {
     "current_run": 3,
