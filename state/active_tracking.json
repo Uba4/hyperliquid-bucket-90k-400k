@@ -99,13 +99,13 @@
     "entry_volume": 161663.8095450001
   },
   "MINA": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T14:31:23.036205",
-    "exit_time": "2026-01-13T15:31:51.835593",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T09:00:26.097651",
+    "exit_time": null,
     "last_bar_collected": 1018,
-    "tracking_until": "2026-01-23T15:31:51.835593",
-    "entry_volume": 105150.198419
+    "tracking_until": null,
+    "entry_volume": 207058.565135
   },
   "VVV": {
     "current_run": 5,
@@ -415,11 +415,11 @@
   },
   "USUAL": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T06:49:36.438837",
-    "exit_time": null,
+    "exit_time": "2026-01-14T09:00:26.097651",
     "last_bar_collected": 993,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T09:00:26.097651",
     "entry_volume": 194838.032828
   },
   "CFX": {
