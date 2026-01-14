@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "REZ",
     "GRASS",
+    "REZ",
     "MEGA",
     "SOPH",
     "LINEA",
     "ANIME"
   ],
   "scores": [
+    146,
     144,
     142,
     140,
     138,
-    136,
-    134
+    136
   ],
-  "timestamp": "2026-01-14T19:43:31.420837",
+  "timestamp": "2026-01-14T19:55:13.811267",
   "bucket": "90k-400k"
 }
