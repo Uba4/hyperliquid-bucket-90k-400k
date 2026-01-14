@@ -1,11 +1,11 @@
 {
   "tokens": [
     "BIGTIME",
-    "HYPER",
+    "REZ",
+    "MINA",
     "2Z",
-    "WCT",
     "STBL",
-    "MINA"
+    "WCT"
   ],
   "scores": [
     150,
@@ -15,6 +15,6 @@
     142,
     140
   ],
-  "timestamp": "2026-01-14T09:00:26.097860",
+  "timestamp": "2026-01-14T09:39:17.175283",
   "bucket": "90k-400k"
 }
