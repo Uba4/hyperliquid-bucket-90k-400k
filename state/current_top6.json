@@ -1,20 +1,20 @@
 {
   "tokens": [
     "NOT",
-    "PURR",
     "DYM",
-    "kFLOKI",
     "SNX",
-    "PEOPLE"
+    "SAGA",
+    "AIXBT",
+    "BLUR"
   ],
   "scores": [
+    154,
+    152,
     150,
     148,
     146,
-    144,
-    142,
-    140
+    144
   ],
-  "timestamp": "2026-01-13T23:59:22.953436",
+  "timestamp": "2026-01-14T02:29:44.192366",
   "bucket": "90k-400k"
 }
