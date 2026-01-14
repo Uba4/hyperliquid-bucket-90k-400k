@@ -2,19 +2,19 @@
   "tokens": [
     "GRASS",
     "MEGA",
-    "REZ",
+    "BANANA",
     "SOPH",
     "ANIME",
-    "BANANA"
+    "2Z"
   ],
   "scores": [
+    144,
     142,
     140,
     138,
     136,
-    134,
-    132
+    134
   ],
-  "timestamp": "2026-01-14T21:59:05.272444",
+  "timestamp": "2026-01-14T22:32:59.198700",
   "bucket": "90k-400k"
 }

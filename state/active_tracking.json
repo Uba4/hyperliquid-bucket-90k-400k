@@ -172,11 +172,11 @@
   },
   "REZ": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T18:58:40.041762",
-    "exit_time": null,
+    "exit_time": "2026-01-14T22:32:59.198469",
     "last_bar_collected": 994,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T22:32:59.198469",
     "entry_volume": 146536.1018180001
   },
   "USTC": {
@@ -747,13 +747,13 @@
     "entry_volume": 127088.3108
   },
   "2Z": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T05:59:07.166448",
-    "exit_time": "2026-01-14T10:33:35.952516",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T22:32:59.198469",
+    "exit_time": null,
     "last_bar_collected": 867,
-    "tracking_until": "2026-01-24T10:33:35.952516",
-    "entry_volume": 194199.5434499999
+    "tracking_until": null,
+    "entry_volume": 215481.98117
   },
   "SCR": {
     "current_run": 8,
