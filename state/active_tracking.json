@@ -422,15 +422,6 @@
     "tracking_until": "2026-01-24T09:00:26.097651",
     "entry_volume": 194838.032828
   },
-  "CFX": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-04T09:23:18.333498",
-    "exit_time": "2026-01-04T10:12:36.017009",
-    "last_bar_collected": 965,
-    "tracking_until": "2026-01-14T10:12:36.017009",
-    "entry_volume": 229755.1812820001
-  },
   "ANIME": {
     "current_run": 3,
     "status": "post_exit",
@@ -532,11 +523,11 @@
   },
   "VINE": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T09:57:35.985675",
-    "exit_time": null,
+    "exit_time": "2026-01-14T10:33:35.952516",
     "last_bar_collected": 932,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T10:33:35.952516",
     "entry_volume": 179212.764785
   },
   "SAGA": {
@@ -558,13 +549,13 @@
     "entry_volume": 86777.783781
   },
   "BIO": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-05T15:51:32.378108",
-    "exit_time": "2026-01-05T21:01:05.391201",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T10:33:35.952516",
+    "exit_time": null,
     "last_bar_collected": 939,
-    "tracking_until": "2026-01-15T21:01:05.391201",
-    "entry_volume": 171110.8096299999
+    "tracking_until": null,
+    "entry_volume": 147680.537947
   },
   "ME": {
     "current_run": 3,
@@ -657,13 +648,13 @@
     "entry_volume": 109953.71545
   },
   "RUNE": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T04:55:19.948635",
-    "exit_time": "2026-01-13T06:49:46.791783",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T10:33:35.952516",
+    "exit_time": null,
     "last_bar_collected": 886,
-    "tracking_until": "2026-01-23T06:49:46.791783",
-    "entry_volume": 352795.714407
+    "tracking_until": null,
+    "entry_volume": 157269.493247
   },
   "AIXBT": {
     "current_run": 4,
@@ -757,11 +748,11 @@
   },
   "2Z": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T05:59:07.166448",
-    "exit_time": null,
+    "exit_time": "2026-01-14T10:33:35.952516",
     "last_bar_collected": 819,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T10:33:35.952516",
     "entry_volume": 194199.5434499999
   },
   "SCR": {
