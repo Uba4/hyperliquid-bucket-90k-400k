@@ -352,11 +352,11 @@
   },
   "MEGA": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-14T07:42:19.089960",
-    "exit_time": null,
+    "exit_time": "2026-01-14T08:33:40.646125",
     "last_bar_collected": 1019,
-    "tracking_until": null,
+    "tracking_until": "2026-01-24T08:33:40.646125",
     "entry_volume": 212107.60556
   },
   "CHILLGUY": {
@@ -855,13 +855,13 @@
     "entry_volume": 145876.441095
   },
   "HYPER": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T06:32:19.155408",
-    "exit_time": "2026-01-07T09:59:20.334344",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-14T08:33:40.646125",
+    "exit_time": null,
     "last_bar_collected": 680,
-    "tracking_until": "2026-01-17T09:59:20.334344",
-    "entry_volume": 334600.39099
+    "tracking_until": null,
+    "entry_volume": 180298.9069799999
   },
   "XAI": {
     "current_run": 2,
