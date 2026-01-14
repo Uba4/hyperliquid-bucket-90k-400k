@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "REZ",
+    "GRASS",
     "SOPH",
-    "HEMI",
-    "INIT",
-    "RUNE"
+    "LINEA",
+    "INIT"
   ],
   "scores": [
-    146,
     144,
     142,
     140,
     138,
-    136
+    136,
+    134
   ],
-  "timestamp": "2026-01-14T18:58:40.041998",
+  "timestamp": "2026-01-14T19:27:28.655853",
   "bucket": "90k-400k"
 }
