@@ -334,11 +334,11 @@
   },
   "SOPH": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T08:17:55.081543",
-    "exit_time": null,
+    "exit_time": "2026-01-15T10:55:20.360384",
     "last_bar_collected": 1082,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T10:55:20.360384",
     "entry_volume": 201458.9817059999
   },
   "MOVE": {
@@ -963,13 +963,13 @@
     "entry_volume": 275097.6045099999
   },
   "STBL": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T07:51:14.833839",
-    "exit_time": "2026-01-15T10:35:45.965550",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T10:55:20.360384",
+    "exit_time": null,
     "last_bar_collected": 409,
-    "tracking_until": "2026-01-25T10:35:45.965550",
-    "entry_volume": 292613.748787
+    "tracking_until": null,
+    "entry_volume": 205434.7500290001
   },
   "MET": {
     "current_run": 5,
