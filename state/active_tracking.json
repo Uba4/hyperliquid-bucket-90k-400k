@@ -226,11 +226,11 @@
   },
   "BOME": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T20:18:11.852286",
-    "exit_time": null,
+    "exit_time": "2026-01-15T20:59:59.810089",
     "last_bar_collected": 1069,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T20:59:59.810089",
     "entry_volume": 169248.5167560001
   },
   "FTT": {
@@ -1008,13 +1008,13 @@
     "entry_volume": 416644.81184
   },
   "ZORA": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T19:52:35.305100",
-    "exit_time": "2026-01-15T20:44:54.921380",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T20:59:59.810089",
+    "exit_time": null,
     "last_bar_collected": 362,
-    "tracking_until": "2026-01-25T20:44:54.921380",
-    "entry_volume": 306901.9215699999
+    "tracking_until": null,
+    "entry_volume": 303174.3895770001
   },
   "PNUT": {
     "current_run": 1,
