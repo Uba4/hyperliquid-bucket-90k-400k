@@ -603,13 +603,13 @@
     "entry_volume": 258688.255166
   },
   "SKY": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T04:31:57.041544",
-    "exit_time": "2026-01-15T07:51:14.833839",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T17:54:34.362913",
+    "exit_time": null,
     "last_bar_collected": 1021,
-    "tracking_until": "2026-01-25T07:51:14.833839",
-    "entry_volume": 378518.5560780002
+    "tracking_until": null,
+    "entry_volume": 126040.969273
   },
   "APE": {
     "current_run": 4,
@@ -946,11 +946,11 @@
   },
   "NXPC": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T15:56:55.431757",
-    "exit_time": null,
+    "exit_time": "2026-01-15T17:54:34.362913",
     "last_bar_collected": 561,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T17:54:34.362913",
     "entry_volume": 143321.28006
   },
   "KAITO": {
