@@ -1108,11 +1108,20 @@
   },
   "STX": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T05:37:47.294037",
+    "exit_time": "2026-01-15T05:54:57.676586",
+    "last_bar_collected": 0,
+    "tracking_until": "2026-01-25T05:54:57.676586",
+    "entry_volume": 439833.2213599999
+  },
+  "NEO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T05:54:57.676586",
     "exit_time": null,
     "last_bar_collected": 0,
     "tracking_until": null,
-    "entry_volume": 439833.2213599999
+    "entry_volume": 137326.071141
   }
 }
