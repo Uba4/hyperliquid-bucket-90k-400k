@@ -270,13 +270,13 @@
     "entry_volume": 331507.1170299998
   },
   "CELO": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T14:31:23.036205",
-    "exit_time": "2026-01-13T14:56:55.139232",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T14:33:12.805060",
+    "exit_time": null,
     "last_bar_collected": 1076,
-    "tracking_until": "2026-01-23T14:56:55.139232",
-    "entry_volume": 127285.63063
+    "tracking_until": null,
+    "entry_volume": 165866.62698
   },
   "FXS": {
     "current_run": 4,
@@ -883,11 +883,11 @@
   },
   "HMSTR": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T12:33:06.699551",
-    "exit_time": null,
+    "exit_time": "2026-01-15T14:33:12.805060",
     "last_bar_collected": 696,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T14:33:12.805060",
     "entry_volume": 91968.740792
   },
   "kLUNC": {
