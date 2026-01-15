@@ -658,11 +658,11 @@
   },
   "BABY": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T22:32:25.435551",
-    "exit_time": null,
+    "exit_time": "2026-01-15T22:51:06.167711",
     "last_bar_collected": 1014,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T22:51:06.167711",
     "entry_volume": 221131.0139240001
   },
   "W": {
@@ -1105,5 +1105,14 @@
     "last_bar_collected": 67,
     "tracking_until": "2026-01-25T06:34:12.054170",
     "entry_volume": 137326.071141
+  },
+  "LAYER": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T22:51:06.167711",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 129054.29765
   }
 }
