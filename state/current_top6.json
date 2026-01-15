@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "POLYX",
-    "USUAL",
-    "SKY",
     "MEGA",
-    "DOOD"
+    "SKY",
+    "DOOD",
+    "ZORA"
   ],
   "scores": [
     156,
     154,
+    152,
     150,
-    150,
-    150,
+    148,
     146
   ],
-  "timestamp": "2026-01-15T19:35:39.233411",
+  "timestamp": "2026-01-15T19:52:35.305308",
   "bucket": "90k-400k"
 }
