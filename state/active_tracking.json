@@ -172,11 +172,11 @@
   },
   "REZ": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T08:17:55.081543",
-    "exit_time": null,
+    "exit_time": "2026-01-15T08:50:29.388881",
     "last_bar_collected": 1030,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T08:50:29.388881",
     "entry_volume": 199935.579428
   },
   "USTC": {
@@ -369,13 +369,13 @@
     "entry_volume": 375058.4263029999
   },
   "IO": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T20:22:27.475021",
-    "exit_time": "2026-01-14T21:28:40.660987",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T08:50:29.388881",
+    "exit_time": null,
     "last_bar_collected": 1084,
-    "tracking_until": "2026-01-24T21:28:40.660987",
-    "entry_volume": 387053.868291
+    "tracking_until": null,
+    "entry_volume": 416544.9232989998
   },
   "MEME": {
     "current_run": 3,
