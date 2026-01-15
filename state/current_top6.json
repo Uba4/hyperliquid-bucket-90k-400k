@@ -2,19 +2,19 @@
   "tokens": [
     "0G",
     "LAYER",
-    "SYRUP",
     "SKY",
-    "DOOD",
-    "TRB"
+    "SYRUP",
+    "TRB",
+    "BRETT"
   ],
   "scores": [
     152,
     150,
     148,
     146,
-    144,
-    142
+    142,
+    140
   ],
-  "timestamp": "2026-01-15T23:34:45.104523",
+  "timestamp": "2026-01-15T23:49:26.039840",
   "bucket": "90k-400k"
 }
