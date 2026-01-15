@@ -504,13 +504,13 @@
     "entry_volume": 119460.781829
   },
   "DOOD": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T03:47:39.447088",
-    "exit_time": "2026-01-06T05:36:06.527133",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T06:34:12.054170",
+    "exit_time": null,
     "last_bar_collected": 1040,
-    "tracking_until": "2026-01-16T05:36:06.527133",
-    "entry_volume": 174687.377716
+    "tracking_until": null,
+    "entry_volume": 134407.041122
   },
   "PROVE": {
     "current_run": 10,
@@ -1117,11 +1117,11 @@
   },
   "NEO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T05:54:57.676586",
-    "exit_time": null,
+    "exit_time": "2026-01-15T06:34:12.054170",
     "last_bar_collected": 3,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T06:34:12.054170",
     "entry_volume": 137326.071141
   }
 }
