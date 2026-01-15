@@ -271,11 +271,11 @@
   },
   "CELO": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T14:33:12.805060",
-    "exit_time": null,
+    "exit_time": "2026-01-15T15:27:48.701422",
     "last_bar_collected": 1080,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T15:27:48.701422",
     "entry_volume": 165866.62698
   },
   "FXS": {
@@ -531,13 +531,13 @@
     "entry_volume": 179212.764785
   },
   "SAGA": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T02:29:44.191934",
-    "exit_time": "2026-01-14T04:01:02.340466",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T15:27:48.701422",
+    "exit_time": null,
     "last_bar_collected": 1045,
-    "tracking_until": "2026-01-24T04:01:02.340466",
-    "entry_volume": 364504.7314290002
+    "tracking_until": null,
+    "entry_volume": 277408.3222369998
   },
   "TST": {
     "current_run": 10,
@@ -594,13 +594,13 @@
     "entry_volume": 141175.225545
   },
   "TNSR": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T02:07:56.947140",
-    "exit_time": "2026-01-15T03:49:20.372600",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-15T15:27:48.701422",
+    "exit_time": null,
     "last_bar_collected": 1030,
-    "tracking_until": "2026-01-25T03:49:20.372600",
-    "entry_volume": 200196.279978
+    "tracking_until": null,
+    "entry_volume": 258688.255166
   },
   "SKY": {
     "current_run": 9,
@@ -820,11 +820,11 @@
   },
   "YGG": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-15T12:33:06.699551",
-    "exit_time": null,
+    "exit_time": "2026-01-15T15:27:48.701422",
     "last_bar_collected": 829,
-    "tracking_until": null,
+    "tracking_until": "2026-01-25T15:27:48.701422",
     "entry_volume": 238009.0122609999
   },
   "ETHFI": {
