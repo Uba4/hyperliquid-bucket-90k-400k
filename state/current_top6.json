@@ -2,10 +2,10 @@
   "tokens": [
     "XAI",
     "PROMPT",
-    "PURR",
     "SOPH",
+    "PURR",
     "YGG",
-    "CHILLGUY"
+    "CELO"
   ],
   "scores": [
     158,
@@ -15,6 +15,6 @@
     150,
     148
   ],
-  "timestamp": "2026-01-16T06:59:13.197289",
+  "timestamp": "2026-01-16T07:33:25.549701",
   "bucket": "90k-400k"
 }
