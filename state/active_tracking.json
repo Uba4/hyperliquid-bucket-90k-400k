@@ -342,13 +342,13 @@
     "entry_volume": 165858.3555060001
   },
   "MEGA": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T17:19:28.346460",
-    "exit_time": "2026-01-15T20:18:11.852286",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T13:03:10.809785",
+    "exit_time": null,
     "last_bar_collected": 1225,
-    "tracking_until": "2026-01-25T20:18:11.852286",
-    "entry_volume": 170522.36233
+    "tracking_until": null,
+    "entry_volume": 303152.1545199999
   },
   "CHILLGUY": {
     "current_run": 13,
@@ -577,11 +577,11 @@
   },
   "TNSR": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T08:42:16.594587",
-    "exit_time": null,
+    "exit_time": "2026-01-16T13:03:10.809785",
     "last_bar_collected": 1114,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T13:03:10.809785",
     "entry_volume": 152033.026542
   },
   "SKY": {
@@ -973,11 +973,11 @@
   },
   "STABLE": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T11:02:30.363010",
-    "exit_time": null,
+    "exit_time": "2026-01-16T13:03:10.809785",
     "last_bar_collected": 468,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T13:03:10.809785",
     "entry_volume": 391070.4853150001
   },
   "JUP": {
@@ -1105,5 +1105,14 @@
     "last_bar_collected": 1142,
     "tracking_until": "2026-01-26T04:31:18.390023",
     "entry_volume": 397610.106853
+  },
+  "OM": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T13:03:10.809785",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 119276.667689
   }
 }
