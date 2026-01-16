@@ -522,13 +522,13 @@
     "entry_volume": 277408.3222369998
   },
   "TST": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T05:21:08.824577",
-    "exit_time": "2026-01-14T07:15:32.116813",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T09:01:51.627765",
+    "exit_time": null,
     "last_bar_collected": 1120,
-    "tracking_until": "2026-01-24T07:15:32.116813",
-    "entry_volume": 86777.783781
+    "tracking_until": null,
+    "entry_volume": 85429.378071
   },
   "BIO": {
     "current_run": 3,
@@ -665,15 +665,6 @@
     "tracking_until": "2026-01-25T05:01:42.416355",
     "entry_volume": 225562.7274709999
   },
-  "OM": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-06T07:51:43.355399",
-    "exit_time": "2026-01-06T08:50:25.081999",
-    "last_bar_collected": 1035,
-    "tracking_until": "2026-01-16T08:50:25.081999",
-    "entry_volume": 336806.6820649999
-  },
   "TRB": {
     "current_run": 4,
     "status": "post_exit",
@@ -802,11 +793,11 @@
   },
   "YGG": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T03:50:49.361637",
-    "exit_time": null,
+    "exit_time": "2026-01-16T09:01:51.627765",
     "last_bar_collected": 896,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T09:01:51.627765",
     "entry_volume": 251312.277391
   },
   "ETHFI": {
