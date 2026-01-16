@@ -541,11 +541,11 @@
   },
   "ME": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T14:57:06.808809",
-    "exit_time": null,
+    "exit_time": "2026-01-16T16:48:56.486643",
     "last_bar_collected": 1152,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T16:48:56.486643",
     "entry_volume": 223341.6189460001
   },
   "BANANA": {
@@ -873,13 +873,13 @@
     "entry_volume": 361810.0454029999
   },
   "PROMPT": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T02:26:01.673891",
-    "exit_time": "2026-01-16T10:25:15.625824",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T16:48:56.486643",
+    "exit_time": null,
     "last_bar_collected": 773,
-    "tracking_until": "2026-01-26T10:25:15.625824",
-    "entry_volume": 320704.8492000002
+    "tracking_until": null,
+    "entry_volume": 413240.194228
   },
   "MORPHO": {
     "current_run": 6,
