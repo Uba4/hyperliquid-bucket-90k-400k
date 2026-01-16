@@ -2,19 +2,19 @@
   "tokens": [
     "SOPH",
     "PROMPT",
-    "SCR",
-    "CHILLGUY",
     "YGG",
-    "BOME"
+    "XAI",
+    "SCR",
+    "CHILLGUY"
   ],
   "scores": [
+    154,
     152,
-    150,
+    148,
     148,
     146,
-    144,
-    142
+    146
   ],
-  "timestamp": "2026-01-16T04:31:18.390240",
+  "timestamp": "2026-01-16T05:00:42.083030",
   "bucket": "90k-400k"
 }
