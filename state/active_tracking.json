@@ -585,13 +585,13 @@
     "entry_volume": 152033.026542
   },
   "SKY": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T17:54:34.362913",
-    "exit_time": "2026-01-16T02:26:01.673891",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T10:50:24.372890",
+    "exit_time": null,
     "last_bar_collected": 1088,
-    "tracking_until": "2026-01-26T02:26:01.673891",
-    "entry_volume": 126040.969273
+    "tracking_until": null,
+    "entry_volume": 245729.310735
   },
   "APE": {
     "current_run": 4,
@@ -793,11 +793,11 @@
   },
   "YGG": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T09:55:18.827950",
-    "exit_time": null,
+    "exit_time": "2026-01-16T10:50:24.372890",
     "last_bar_collected": 903,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T10:50:24.372890",
     "entry_volume": 375618.4403310001
   },
   "ETHFI": {
