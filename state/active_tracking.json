@@ -711,13 +711,13 @@
     "entry_volume": 127088.3108
   },
   "2Z": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T12:33:06.699551",
-    "exit_time": "2026-01-15T19:35:39.233189",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T13:47:54.356199",
+    "exit_time": null,
     "last_bar_collected": 1020,
-    "tracking_until": "2026-01-25T19:35:39.233189",
-    "entry_volume": 245241.65308
+    "tracking_until": null,
+    "entry_volume": 363618.0266000002
   },
   "SCR": {
     "current_run": 10,
@@ -910,11 +910,11 @@
   },
   "IMX": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T11:47:25.774058",
-    "exit_time": null,
+    "exit_time": "2026-01-16T13:47:54.356199",
     "last_bar_collected": 648,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T13:47:54.356199",
     "entry_volume": 174097.9538
   },
   "NXPC": {
