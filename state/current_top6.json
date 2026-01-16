@@ -2,10 +2,10 @@
   "tokens": [
     "BIO",
     "2Z",
-    "kLUNC",
-    "SAGA",
     "IMX",
-    "SAND"
+    "SAGA",
+    "kLUNC",
+    "ALGO"
   ],
   "scores": [
     162,
@@ -15,6 +15,6 @@
     154,
     152
   ],
-  "timestamp": "2026-01-16T22:40:08.816417",
+  "timestamp": "2026-01-16T22:54:20.467605",
   "bucket": "90k-400k"
 }
