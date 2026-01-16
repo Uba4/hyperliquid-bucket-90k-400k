@@ -369,13 +369,13 @@
     "entry_volume": 416544.9232989998
   },
   "GRIFFAIN": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T23:12:44.059732",
-    "exit_time": "2026-01-13T01:52:26.972061",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T23:18:38.678037",
+    "exit_time": null,
     "last_bar_collected": 1249,
-    "tracking_until": "2026-01-23T01:52:26.972061",
-    "entry_volume": 353353.353199
+    "tracking_until": null,
+    "entry_volume": 271235.801902
   },
   "POLYX": {
     "current_run": 11,
@@ -865,11 +865,11 @@
   },
   "kLUNC": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T21:16:19.373428",
-    "exit_time": null,
+    "exit_time": "2026-01-16T23:18:38.678037",
     "last_bar_collected": 829,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T23:18:38.678037",
     "entry_volume": 161252.920675
   },
   "PROMPT": {
