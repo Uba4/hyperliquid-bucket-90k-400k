@@ -397,11 +397,11 @@
   },
   "USUAL": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T19:40:42.825443",
-    "exit_time": null,
+    "exit_time": "2026-01-16T21:16:19.373428",
     "last_bar_collected": 1234,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T21:16:19.373428",
     "entry_volume": 438486.6774740001
   },
   "ANIME": {
@@ -864,13 +864,13 @@
     "entry_volume": 91968.740792
   },
   "kLUNC": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T22:26:49.539129",
-    "exit_time": "2026-01-11T03:18:15.057024",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T21:16:19.373428",
+    "exit_time": null,
     "last_bar_collected": 824,
-    "tracking_until": "2026-01-21T03:18:15.057024",
-    "entry_volume": 361810.0454029999
+    "tracking_until": null,
+    "entry_volume": 161252.920675
   },
   "PROMPT": {
     "current_run": 6,
