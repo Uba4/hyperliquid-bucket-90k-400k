@@ -262,11 +262,11 @@
   },
   "CELO": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T20:53:13.808700",
-    "exit_time": null,
+    "exit_time": "2026-01-16T21:51:25.351496",
     "last_bar_collected": 1200,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T21:51:25.351496",
     "entry_volume": 187661.9697699999
   },
   "FXS": {
@@ -909,13 +909,13 @@
     "entry_volume": 285653.628695
   },
   "IMX": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T11:47:25.774058",
-    "exit_time": "2026-01-16T13:47:54.356199",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T21:51:25.351496",
+    "exit_time": null,
     "last_bar_collected": 679,
-    "tracking_until": "2026-01-26T13:47:54.356199",
-    "entry_volume": 174097.9538
+    "tracking_until": null,
+    "entry_volume": 248038.670467
   },
   "NXPC": {
     "current_run": 5,
