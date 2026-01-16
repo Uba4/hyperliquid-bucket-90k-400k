@@ -55,11 +55,11 @@
   },
   "SYRUP": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T17:57:34.301097",
-    "exit_time": null,
+    "exit_time": "2026-01-16T19:52:08.202675",
     "last_bar_collected": 1251,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T19:52:08.202675",
     "entry_volume": 436485.8058499998
   },
   "TIA": {
@@ -207,13 +207,13 @@
     "entry_volume": 120364.154309
   },
   "DYM": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T20:47:39.786743",
-    "exit_time": "2026-01-14T06:49:36.438837",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T19:52:08.202675",
+    "exit_time": null,
     "last_bar_collected": 1256,
-    "tracking_until": "2026-01-24T06:49:36.438837",
-    "entry_volume": 106224.774905
+    "tracking_until": null,
+    "entry_volume": 81145.735551
   },
   "BOME": {
     "current_run": 15,
