@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MEGA",
     "APEX",
-    "PROMPT",
-    "BIGTIME",
+    "MEGA",
+    "MERL",
     "2Z",
-    "NIL"
+    "BIGTIME",
+    "ACE"
   ],
   "scores": [
+    162,
     160,
     158,
     156,
-    154,
     152,
-    150
+    152
   ],
-  "timestamp": "2026-01-16T17:14:54.231614",
+  "timestamp": "2026-01-16T17:43:19.948027",
   "bucket": "90k-400k"
 }
