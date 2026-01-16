@@ -2,10 +2,10 @@
   "tokens": [
     "XAI",
     "ALT",
-    "PROMPT",
     "TNSR",
     "TST",
-    "CELO"
+    "PROMPT",
+    "YGG"
   ],
   "scores": [
     160,
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-16T09:37:53.492610",
+  "timestamp": "2026-01-16T09:55:18.828155",
   "bucket": "90k-400k"
 }

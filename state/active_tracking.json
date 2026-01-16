@@ -262,11 +262,11 @@
   },
   "CELO": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T07:33:25.549511",
-    "exit_time": null,
+    "exit_time": "2026-01-16T09:55:18.827950",
     "last_bar_collected": 1152,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T09:55:18.827950",
     "entry_volume": 202173.46289
   },
   "FXS": {
@@ -792,13 +792,13 @@
     "entry_volume": 146889.948774
   },
   "YGG": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T03:50:49.361637",
-    "exit_time": "2026-01-16T09:01:51.627765",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T09:55:18.827950",
+    "exit_time": null,
     "last_bar_collected": 900,
-    "tracking_until": "2026-01-26T09:01:51.627765",
-    "entry_volume": 251312.277391
+    "tracking_until": null,
+    "entry_volume": 375618.4403310001
   },
   "ETHFI": {
     "current_run": 2,
