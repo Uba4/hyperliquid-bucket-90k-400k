@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "0G",
-    "LAYER",
-    "SKY",
-    "SYRUP",
-    "TRB",
-    "BRETT"
+    "PROMPT",
+    "SOPH",
+    "STBL",
+    "MEME",
+    "MAVIA",
+    "SCR"
   ],
   "scores": [
-    152,
-    150,
     148,
     146,
+    144,
+    140,
     140,
     140
   ],
-  "timestamp": "2026-01-16T00:00:03.798293",
+  "timestamp": "2026-01-16T02:26:01.674721",
   "bucket": "90k-400k"
 }
