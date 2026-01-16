@@ -261,13 +261,13 @@
     "entry_volume": 432809.9597599999
   },
   "CELO": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T07:33:25.549511",
-    "exit_time": "2026-01-16T09:55:18.827950",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T10:25:15.625824",
+    "exit_time": null,
     "last_bar_collected": 1156,
-    "tracking_until": "2026-01-26T09:55:18.827950",
-    "entry_volume": 202173.46289
+    "tracking_until": null,
+    "entry_volume": 217716.07849
   },
   "FXS": {
     "current_run": 4,
@@ -874,11 +874,11 @@
   },
   "PROMPT": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T02:26:01.673891",
-    "exit_time": null,
+    "exit_time": "2026-01-16T10:25:15.625824",
     "last_bar_collected": 749,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T10:25:15.625824",
     "entry_volume": 320704.8492000002
   },
   "MORPHO": {
