@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROMPT",
     "SOPH",
-    "STBL",
+    "PROMPT",
+    "SCR",
+    "CHILLGUY",
     "MEME",
-    "MAVIA",
-    "SCR"
+    "YGG"
   ],
   "scores": [
+    152,
+    150,
     148,
     146,
     144,
-    140,
-    140,
-    140
+    142
   ],
-  "timestamp": "2026-01-16T02:26:01.674721",
+  "timestamp": "2026-01-16T03:50:49.361966",
   "bucket": "90k-400k"
 }
