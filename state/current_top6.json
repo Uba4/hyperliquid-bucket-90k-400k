@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SKY",
-    "ALT",
-    "TNSR",
-    "STBL",
     "STABLE",
-    "NIL"
+    "SKY",
+    "STBL",
+    "TNSR",
+    "NIL",
+    "IMX"
   ],
   "scores": [
     158,
+    154,
+    154,
     152,
     152,
-    152,
-    152,
-    150
+    148
   ],
-  "timestamp": "2026-01-16T11:30:08.960392",
+  "timestamp": "2026-01-16T11:47:25.774273",
   "bucket": "90k-400k"
 }

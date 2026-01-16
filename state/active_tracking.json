@@ -559,11 +559,11 @@
   },
   "ALT": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-16T08:42:16.594587",
-    "exit_time": null,
+    "exit_time": "2026-01-16T11:47:25.774058",
     "last_bar_collected": 1114,
-    "tracking_until": null,
+    "tracking_until": "2026-01-26T11:47:25.774058",
     "entry_volume": 184063.124977
   },
   "PEOPLE": {
@@ -909,13 +909,13 @@
     "entry_volume": 285653.628695
   },
   "IMX": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T15:31:51.835593",
-    "exit_time": "2026-01-13T18:37:41.521254",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-16T11:47:25.774058",
+    "exit_time": null,
     "last_bar_collected": 640,
-    "tracking_until": "2026-01-23T18:37:41.521254",
-    "entry_volume": 125945.458288
+    "tracking_until": null,
+    "entry_volume": 174097.9538
   },
   "NXPC": {
     "current_run": 5,
