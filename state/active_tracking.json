@@ -523,11 +523,11 @@
   },
   "ME": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T15:54:28.719752",
-    "exit_time": null,
+    "exit_time": "2026-01-17T18:40:18.822373",
     "last_bar_collected": 1255,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T18:40:18.822373",
     "entry_volume": 93659.773233
   },
   "BANANA": {
@@ -828,13 +828,13 @@
     "entry_volume": 119118.223327
   },
   "HMSTR": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T12:33:06.699551",
-    "exit_time": "2026-01-15T14:33:12.805060",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T18:40:18.822373",
+    "exit_time": null,
     "last_bar_collected": 903,
-    "tracking_until": "2026-01-25T14:33:12.805060",
-    "entry_volume": 91968.740792
+    "tracking_until": null,
+    "entry_volume": 140819.5562669999
   },
   "kLUNC": {
     "current_run": 4,
