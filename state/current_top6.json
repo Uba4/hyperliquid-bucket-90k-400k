@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "GRASS",
     "SUPER",
     "RESOLV",
     "PURR",
-    "MEW",
+    "WCT",
+    "0G",
     "BIGTIME"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-17T22:55:00.151958",
+  "timestamp": "2026-01-17T23:19:22.599683",
   "bucket": "90k-400k"
 }
