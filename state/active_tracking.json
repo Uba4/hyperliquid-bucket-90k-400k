@@ -737,15 +737,6 @@
     "tracking_until": "2026-01-26T02:26:01.673891",
     "entry_volume": 308242.3959300001
   },
-  "RSR": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-07T08:17:58.925852",
-    "exit_time": "2026-01-07T10:54:47.958658",
-    "last_bar_collected": 1043,
-    "tracking_until": "2026-01-17T10:54:47.958658",
-    "entry_volume": 89808.494713
-  },
   "POL": {
     "current_run": 5,
     "status": "post_exit",
