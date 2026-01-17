@@ -577,11 +577,11 @@
   },
   "APE": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T15:26:39.558057",
-    "exit_time": null,
+    "exit_time": "2026-01-17T19:19:46.352257",
     "last_bar_collected": 1213,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T19:19:46.352257",
     "entry_volume": 224968.616505
   },
   "BIGTIME": {
@@ -873,13 +873,13 @@
     "entry_volume": 343631.5487200001
   },
   "GRASS": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T19:27:28.655500",
-    "exit_time": "2026-01-14T23:14:12.112481",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T19:19:46.352257",
+    "exit_time": null,
     "last_bar_collected": 799,
-    "tracking_until": "2026-01-24T23:14:12.112481",
-    "entry_volume": 285653.628695
+    "tracking_until": null,
+    "entry_volume": 143306.101239
   },
   "IMX": {
     "current_run": 10,
