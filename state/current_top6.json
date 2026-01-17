@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "NXPC",
     "BIGTIME",
     "YGG",
     "GMT",
-    "NIL",
-    "REZ",
-    "USTC"
+    "USTC",
+    "BLAST"
   ],
   "scores": [
-    172,
     170,
     168,
     166,
     164,
-    162
+    160,
+    160
   ],
-  "timestamp": "2026-01-17T14:29:45.699748",
+  "timestamp": "2026-01-17T14:46:46.077204",
   "bucket": "90k-400k"
 }
