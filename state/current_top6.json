@@ -2,19 +2,19 @@
   "tokens": [
     "SAND",
     "MEW",
-    "IMX",
-    "NEO",
     "APE",
-    "MANTA"
+    "IMX",
+    "BIGTIME",
+    "CELO"
   ],
   "scores": [
+    174,
     172,
     170,
     168,
     166,
-    164,
-    162
+    164
   ],
-  "timestamp": "2026-01-17T06:26:27.227672",
+  "timestamp": "2026-01-17T06:53:47.605764",
   "bucket": "90k-400k"
 }
