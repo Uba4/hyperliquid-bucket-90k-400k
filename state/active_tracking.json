@@ -46,11 +46,11 @@
   },
   "NIL": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T10:02:47.402100",
-    "exit_time": null,
+    "exit_time": "2026-01-17T10:31:31.161153",
     "last_bar_collected": 1311,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T10:31:31.161153",
     "entry_volume": 203019.647074
   },
   "SYRUP": {
@@ -891,13 +891,13 @@
     "entry_volume": 285653.628695
   },
   "IMX": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T04:29:41.613596",
-    "exit_time": "2026-01-17T07:16:50.872606",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T10:31:31.161153",
+    "exit_time": null,
     "last_bar_collected": 727,
-    "tracking_until": "2026-01-27T07:16:50.872606",
-    "entry_volume": 257074.477033
+    "tracking_until": null,
+    "entry_volume": 329921.254007
   },
   "NXPC": {
     "current_run": 5,
