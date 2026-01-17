@@ -2,10 +2,10 @@
   "tokens": [
     "SAND",
     "MEW",
-    "APE",
-    "IMX",
     "BIGTIME",
-    "CELO"
+    "CELO",
+    "APE",
+    "ZETA"
   ],
   "scores": [
     174,
@@ -15,6 +15,6 @@
     166,
     164
   ],
-  "timestamp": "2026-01-17T06:53:47.605764",
+  "timestamp": "2026-01-17T07:16:50.872775",
   "bucket": "90k-400k"
 }

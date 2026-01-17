@@ -198,13 +198,13 @@
     "entry_volume": 194200.8564589999
   },
   "ZETA": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T10:35:45.965550",
-    "exit_time": "2026-01-15T16:40:49.594710",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T07:16:50.872606",
+    "exit_time": null,
     "last_bar_collected": 1288,
-    "tracking_until": "2026-01-25T16:40:49.594710",
-    "entry_volume": 120364.154309
+    "tracking_until": null,
+    "entry_volume": 89169.794216
   },
   "DYM": {
     "current_run": 5,
@@ -892,11 +892,11 @@
   },
   "IMX": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T04:29:41.613596",
-    "exit_time": null,
+    "exit_time": "2026-01-17T07:16:50.872606",
     "last_bar_collected": 711,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T07:16:50.872606",
     "entry_volume": 257074.477033
   },
   "NXPC": {
