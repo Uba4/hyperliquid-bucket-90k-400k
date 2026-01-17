@@ -45,13 +45,13 @@
     "entry_volume": 126384.943498
   },
   "NIL": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T11:30:08.960102",
-    "exit_time": "2026-01-16T17:43:19.947674",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T10:02:47.402100",
+    "exit_time": null,
     "last_bar_collected": 1309,
-    "tracking_until": "2026-01-26T17:43:19.947674",
-    "entry_volume": 121929.665704
+    "tracking_until": null,
+    "entry_volume": 203019.647074
   },
   "SYRUP": {
     "current_run": 11,
@@ -289,11 +289,11 @@
   },
   "ACE": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T09:16:49.302982",
-    "exit_time": null,
+    "exit_time": "2026-01-17T10:02:47.402100",
     "last_bar_collected": 1296,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T10:02:47.402100",
     "entry_volume": 388870.674028
   },
   "BLAST": {

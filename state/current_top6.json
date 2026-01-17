@@ -1,20 +1,20 @@
 {
   "tokens": [
     "YGG",
-    "ACE",
-    "BIGTIME",
     "SNX",
+    "BIGTIME",
+    "GALA",
     "CELO",
-    "GALA"
+    "NIL"
   ],
   "scores": [
-    168,
     166,
     164,
     162,
     160,
-    158
+    158,
+    156
   ],
-  "timestamp": "2026-01-17T09:49:32.420924",
+  "timestamp": "2026-01-17T10:02:47.402310",
   "bucket": "90k-400k"
 }
