@@ -3,18 +3,18 @@
     "GRASS",
     "SUPER",
     "MEW",
-    "CFX",
     "RESOLV",
-    "PURR"
+    "PURR",
+    "BIGTIME"
   ],
   "scores": [
     164,
     162,
     160,
-    156,
+    158,
     156,
     154
   ],
-  "timestamp": "2026-01-17T22:24:37.278246",
+  "timestamp": "2026-01-17T22:43:40.193242",
   "bucket": "90k-400k"
 }
