@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "YGG",
     "BIGTIME",
+    "YGG",
+    "GMT",
     "NIL",
-    "MAVIA",
     "REZ",
-    "GMT"
+    "USTC"
   ],
   "scores": [
+    172,
     170,
     168,
     166,
     164,
-    162,
-    160
+    162
   ],
-  "timestamp": "2026-01-17T14:00:44.160045",
+  "timestamp": "2026-01-17T14:29:45.699748",
   "bucket": "90k-400k"
 }
