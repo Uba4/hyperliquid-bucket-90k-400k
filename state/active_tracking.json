@@ -298,11 +298,11 @@
   },
   "BLAST": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T16:43:53.554819",
-    "exit_time": null,
+    "exit_time": "2026-01-17T16:56:31.653589",
     "last_bar_collected": 1321,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T16:56:31.653589",
     "entry_volume": 180105.7881829999
   },
   "SOPH": {
@@ -1089,13 +1089,13 @@
     "entry_volume": 119276.667689
   },
   "MEW": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T03:53:35.806186",
-    "exit_time": "2026-01-17T07:46:24.899242",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T16:56:31.653589",
+    "exit_time": null,
     "last_bar_collected": 1145,
-    "tracking_until": "2026-01-27T07:46:24.899242",
-    "entry_volume": 94399.413823
+    "tracking_until": null,
+    "entry_volume": 138615.597109
   },
   "RENDER": {
     "current_run": 1,
