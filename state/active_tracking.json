@@ -298,11 +298,11 @@
   },
   "BLAST": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T18:56:47.061065",
-    "exit_time": null,
+    "exit_time": "2026-01-17T19:31:35.990063",
     "last_bar_collected": 1331,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T19:31:35.990063",
     "entry_volume": 178278.0886569999
   },
   "SOPH": {
@@ -1105,5 +1105,14 @@
     "last_bar_collected": 1127,
     "tracking_until": "2026-01-27T06:26:27.227462",
     "entry_volume": 403632.94151
+  },
+  "CFX": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T19:31:35.990063",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 211959.223439
   }
 }
