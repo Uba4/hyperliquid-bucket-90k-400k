@@ -144,13 +144,13 @@
     "entry_volume": 192293.5254500001
   },
   "GALA": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T00:56:57.943016",
-    "exit_time": "2026-01-17T02:52:54.598734",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T08:53:32.832149",
+    "exit_time": null,
     "last_bar_collected": 1205,
-    "tracking_until": "2026-01-27T02:52:54.598734",
-    "entry_volume": 151300.26757
+    "tracking_until": null,
+    "entry_volume": 143190.893209
   },
   "SUSHI": {
     "current_run": 6,
@@ -685,11 +685,11 @@
   },
   "SAND": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T02:52:54.598734",
-    "exit_time": null,
+    "exit_time": "2026-01-17T08:53:32.832149",
     "last_bar_collected": 1101,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T08:53:32.832149",
     "entry_volume": 218231.79453
   },
   "2Z": {
