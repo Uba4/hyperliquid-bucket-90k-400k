@@ -36,13 +36,13 @@
     "entry_volume": 277065.65152
   },
   "MAVIA": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T02:26:01.673891",
-    "exit_time": "2026-01-16T03:50:49.361637",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T11:25:05.052800",
+    "exit_time": null,
     "last_bar_collected": 1233,
-    "tracking_until": "2026-01-26T03:50:49.361637",
-    "entry_volume": 126384.943498
+    "tracking_until": null,
+    "entry_volume": 153893.325332
   },
   "NIL": {
     "current_run": 11,
@@ -145,11 +145,11 @@
   },
   "GALA": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T08:53:32.832149",
-    "exit_time": null,
+    "exit_time": "2026-01-17T11:25:05.052800",
     "last_bar_collected": 1216,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T11:25:05.052800",
     "entry_volume": 143190.893209
   },
   "SUSHI": {
