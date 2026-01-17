@@ -154,11 +154,11 @@
   },
   "SUSHI": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T03:53:35.806186",
-    "exit_time": null,
+    "exit_time": "2026-01-17T04:29:41.613596",
     "last_bar_collected": 1275,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T04:29:41.613596",
     "entry_volume": 88415.794994
   },
   "REZ": {
@@ -585,13 +585,13 @@
     "entry_volume": 245729.310735
   },
   "APE": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T22:33:56.318333",
-    "exit_time": "2026-01-13T23:47:53.903144",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T04:29:41.613596",
+    "exit_time": null,
     "last_bar_collected": 1155,
-    "tracking_until": "2026-01-23T23:47:53.903144",
-    "entry_volume": 273805.819235
+    "tracking_until": null,
+    "entry_volume": 169106.0527679999
   },
   "BIGTIME": {
     "current_run": 9,
@@ -829,11 +829,11 @@
   },
   "CAKE": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T02:52:54.598734",
-    "exit_time": null,
+    "exit_time": "2026-01-17T04:29:41.613596",
     "last_bar_collected": 867,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T04:29:41.613596",
     "entry_volume": 377027.09669
   },
   "GMT": {
@@ -900,13 +900,13 @@
     "entry_volume": 285653.628695
   },
   "IMX": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T21:51:25.351496",
-    "exit_time": "2026-01-17T02:52:54.598734",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T04:29:41.613596",
+    "exit_time": null,
     "last_bar_collected": 702,
-    "tracking_until": "2026-01-27T02:52:54.598734",
-    "entry_volume": 248038.670467
+    "tracking_until": null,
+    "entry_volume": 257074.477033
   },
   "NXPC": {
     "current_run": 5,
