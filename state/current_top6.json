@@ -3,9 +3,9 @@
     "MEW",
     "HMSTR",
     "GMT",
-    "SUSHI",
     "GRASS",
-    "APEX"
+    "APEX",
+    "SUSHI"
   ],
   "scores": [
     170,
@@ -15,6 +15,6 @@
     162,
     160
   ],
-  "timestamp": "2026-01-17T19:43:16.687139",
+  "timestamp": "2026-01-17T19:54:38.376758",
   "bucket": "90k-400k"
 }
