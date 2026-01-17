@@ -45,13 +45,13 @@
     "entry_volume": 126384.943498
   },
   "NIL": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T10:02:47.402100",
-    "exit_time": "2026-01-17T10:31:31.161153",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T10:48:06.681853",
+    "exit_time": null,
     "last_bar_collected": 1311,
-    "tracking_until": "2026-01-27T10:31:31.161153",
-    "entry_volume": 203019.647074
+    "tracking_until": null,
+    "entry_volume": 206477.347564
   },
   "SYRUP": {
     "current_run": 11,
@@ -262,11 +262,11 @@
   },
   "CELO": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T06:53:47.605371",
-    "exit_time": null,
+    "exit_time": "2026-01-17T10:48:06.681853",
     "last_bar_collected": 1251,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T10:48:06.681853",
     "entry_volume": 202247.48705
   },
   "PYTH": {
