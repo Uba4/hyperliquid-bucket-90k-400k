@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "CELO",
-    "BIGTIME",
-    "ZETA",
-    "APE",
+    "YGG",
     "SNX",
-    "SAND"
+    "CELO",
+    "SAND",
+    "BIGTIME",
+    "ZETA"
   ],
   "scores": [
-    174,
-    172,
+    170,
     168,
     166,
-    166,
-    166
+    164,
+    162,
+    160
   ],
-  "timestamp": "2026-01-17T07:57:15.512720",
+  "timestamp": "2026-01-17T08:33:07.101915",
   "bucket": "90k-400k"
 }
