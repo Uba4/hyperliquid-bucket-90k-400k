@@ -2,9 +2,9 @@
   "tokens": [
     "GRASS",
     "SUPER",
-    "MEW",
     "RESOLV",
     "PURR",
+    "MEW",
     "BIGTIME"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-17T22:43:40.193242",
+  "timestamp": "2026-01-17T22:55:00.151958",
   "bucket": "90k-400k"
 }
