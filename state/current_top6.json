@@ -1,11 +1,11 @@
 {
   "tokens": [
     "SAND",
-    "MANTA",
     "MEW",
     "NEO",
+    "MANTA",
     "IMX",
-    "APE"
+    "RENDER"
   ],
   "scores": [
     170,
@@ -15,6 +15,6 @@
     162,
     160
   ],
-  "timestamp": "2026-01-17T04:55:48.294716",
+  "timestamp": "2026-01-17T05:22:21.557589",
   "bucket": "90k-400k"
 }
