@@ -1,20 +1,20 @@
 {
   "tokens": [
     "NXPC",
-    "BIGTIME",
     "APE",
-    "GMT",
     "GALA",
+    "BIGTIME",
+    "GMT",
     "YGG"
   ],
   "scores": [
-    178,
-    176,
     174,
     172,
     170,
-    168
+    168,
+    166,
+    164
   ],
-  "timestamp": "2026-01-17T15:26:39.558398",
+  "timestamp": "2026-01-17T15:42:52.726625",
   "bucket": "90k-400k"
 }
