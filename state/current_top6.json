@@ -2,19 +2,19 @@
   "tokens": [
     "MEW",
     "HMSTR",
-    "GMT",
     "GRASS",
-    "APEX",
+    "CFX",
+    "GMT",
     "SUSHI"
   ],
   "scores": [
-    170,
     168,
     166,
     164,
     162,
-    160
+    160,
+    158
   ],
-  "timestamp": "2026-01-17T19:54:38.376758",
+  "timestamp": "2026-01-17T20:41:01.801343",
   "bucket": "90k-400k"
 }
