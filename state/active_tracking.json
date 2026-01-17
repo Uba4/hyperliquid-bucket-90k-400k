@@ -810,13 +810,13 @@
     "entry_volume": 409215.40072
   },
   "CAKE": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T02:52:54.598734",
-    "exit_time": "2026-01-17T04:29:41.613596",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T12:57:48.691738",
+    "exit_time": null,
     "last_bar_collected": 904,
-    "tracking_until": "2026-01-27T04:29:41.613596",
-    "entry_volume": 377027.09669
+    "tracking_until": null,
+    "entry_volume": 432845.6626
   },
   "GMT": {
     "current_run": 6,
@@ -883,11 +883,11 @@
   },
   "IMX": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T10:31:31.161153",
-    "exit_time": null,
+    "exit_time": "2026-01-17T12:57:48.691738",
     "last_bar_collected": 736,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T12:57:48.691738",
     "entry_volume": 329921.254007
   },
   "NXPC": {
