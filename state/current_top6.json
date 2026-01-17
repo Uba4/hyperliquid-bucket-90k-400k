@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SAND",
-    "MEW",
-    "BIGTIME",
     "CELO",
+    "SAND",
+    "BIGTIME",
+    "MEW",
     "APE",
     "ZETA"
   ],
   "scores": [
+    176,
     174,
     172,
     170,
     168,
-    166,
-    164
+    166
   ],
-  "timestamp": "2026-01-17T07:16:50.872775",
+  "timestamp": "2026-01-17T07:34:31.646469",
   "bucket": "90k-400k"
 }
