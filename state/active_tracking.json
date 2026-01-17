@@ -199,11 +199,11 @@
   },
   "ZETA": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T07:16:50.872606",
-    "exit_time": null,
+    "exit_time": "2026-01-17T09:16:49.302982",
     "last_bar_collected": 1293,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T09:16:49.302982",
     "entry_volume": 89169.794216
   },
   "DYM": {
@@ -288,13 +288,13 @@
     "entry_volume": 99491.73074
   },
   "ACE": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T17:43:19.947674",
-    "exit_time": "2026-01-16T19:40:42.825443",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T09:16:49.302982",
+    "exit_time": null,
     "last_bar_collected": 1296,
-    "tracking_until": "2026-01-26T19:40:42.825443",
-    "entry_volume": 435222.7412430001
+    "tracking_until": null,
+    "entry_volume": 388870.674028
   },
   "BLAST": {
     "current_run": 11,
