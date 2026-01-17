@@ -162,13 +162,13 @@
     "entry_volume": 88415.794994
   },
   "REZ": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T08:17:55.081543",
-    "exit_time": "2026-01-15T08:50:29.388881",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T13:34:16.065468",
+    "exit_time": null,
     "last_bar_collected": 1243,
-    "tracking_until": "2026-01-25T08:50:29.388881",
-    "entry_volume": 199935.579428
+    "tracking_until": null,
+    "entry_volume": 110545.028945
   },
   "USTC": {
     "current_run": 13,
@@ -261,13 +261,13 @@
     "entry_volume": 432809.9597599999
   },
   "CELO": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T06:53:47.605371",
-    "exit_time": "2026-01-17T10:48:06.681853",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T13:34:16.065468",
+    "exit_time": null,
     "last_bar_collected": 1263,
-    "tracking_until": "2026-01-27T10:48:06.681853",
-    "entry_volume": 202247.48705
+    "tracking_until": null,
+    "entry_volume": 365504.7102000001
   },
   "PYTH": {
     "current_run": 7,
@@ -811,11 +811,11 @@
   },
   "CAKE": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T12:57:48.691738",
-    "exit_time": null,
+    "exit_time": "2026-01-17T13:34:16.065468",
     "last_bar_collected": 907,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T13:34:16.065468",
     "entry_volume": 432845.6626
   },
   "GMT": {
@@ -1027,11 +1027,11 @@
   },
   "FIL": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T12:01:10.621508",
-    "exit_time": null,
+    "exit_time": "2026-01-17T13:34:16.065468",
     "last_bar_collected": 1324,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T13:34:16.065468",
     "entry_volume": 320850.8645400002
   },
   "INIT": {
