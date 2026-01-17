@@ -829,11 +829,11 @@
   },
   "HMSTR": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T18:40:18.822373",
-    "exit_time": null,
+    "exit_time": "2026-01-17T21:32:50.994599",
     "last_bar_collected": 915,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T21:32:50.994599",
     "entry_volume": 140819.5562669999
   },
   "kLUNC": {
@@ -1123,5 +1123,14 @@
     "last_bar_collected": 3,
     "tracking_until": "2026-01-27T21:15:28.937636",
     "entry_volume": 368904.1053099999
+  },
+  "SUPER": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T21:32:50.994599",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 247483.35176
   }
 }
