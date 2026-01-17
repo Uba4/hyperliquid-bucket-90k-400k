@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MEW",
     "GRASS",
-    "HMSTR",
+    "MEW",
     "CFX",
     "GMT",
-    "HBAR"
+    "HMSTR",
+    "PURR"
   ],
   "scores": [
     170,
@@ -15,6 +15,6 @@
     162,
     160
   ],
-  "timestamp": "2026-01-17T20:53:42.851702",
+  "timestamp": "2026-01-17T21:15:28.937843",
   "bucket": "90k-400k"
 }
