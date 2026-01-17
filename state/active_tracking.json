@@ -262,11 +262,11 @@
   },
   "CELO": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T13:34:16.065468",
-    "exit_time": null,
+    "exit_time": "2026-01-17T13:50:01.140464",
     "last_bar_collected": 1263,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T13:50:01.140464",
     "entry_volume": 365504.7102000001
   },
   "PYTH": {
@@ -819,13 +819,13 @@
     "entry_volume": 432845.6626
   },
   "GMT": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T20:37:48.224068",
-    "exit_time": "2026-01-16T20:53:13.808700",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T13:50:01.140464",
+    "exit_time": null,
     "last_bar_collected": 907,
-    "tracking_until": "2026-01-26T20:53:13.808700",
-    "entry_volume": 271813.776018
+    "tracking_until": null,
+    "entry_volume": 119118.223327
   },
   "HMSTR": {
     "current_run": 4,
