@@ -1,20 +1,20 @@
 {
   "tokens": [
     "GRASS",
+    "SUPER",
     "MEW",
     "CFX",
-    "SUPER",
-    "GMT",
+    "RESOLV",
     "PURR"
   ],
   "scores": [
-    168,
-    166,
     164,
     162,
     160,
-    158
+    156,
+    156,
+    154
   ],
-  "timestamp": "2026-01-17T21:56:51.074141",
+  "timestamp": "2026-01-17T22:24:37.278246",
   "bucket": "90k-400k"
 }
