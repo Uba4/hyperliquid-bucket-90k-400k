@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SUPER",
-    "RESOLV",
     "PURR",
     "WCT",
     "0G",
-    "BIGTIME"
+    "RESOLV",
+    "REZ"
   ],
   "scores": [
-    164,
     162,
     160,
     158,
     156,
-    154
+    154,
+    152
   ],
-  "timestamp": "2026-01-17T23:19:22.599683",
+  "timestamp": "2026-01-17T23:37:00.585245",
   "bucket": "90k-400k"
 }
