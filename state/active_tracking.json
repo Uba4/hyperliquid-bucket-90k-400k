@@ -253,11 +253,11 @@
   },
   "RESOLV": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-17T22:24:37.278009",
-    "exit_time": null,
+    "exit_time": "2026-01-17T23:49:06.625128",
     "last_bar_collected": 1344,
-    "tracking_until": null,
+    "tracking_until": "2026-01-27T23:49:06.625128",
     "entry_volume": 309155.1576620001
   },
   "CELO": {
@@ -1017,13 +1017,13 @@
     "entry_volume": 437094.7041909999
   },
   "ORDI": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T13:57:08.813771",
-    "exit_time": "2026-01-13T22:33:56.318333",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-17T23:49:06.625128",
+    "exit_time": null,
     "last_bar_collected": 423,
-    "tracking_until": "2026-01-23T22:33:56.318333",
-    "entry_volume": 119076.711444
+    "tracking_until": null,
+    "entry_volume": 166624.367351
   },
   "FIL": {
     "current_run": 2,
