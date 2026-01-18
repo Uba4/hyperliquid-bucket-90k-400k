@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TNSR",
     "GRIFFAIN",
+    "MANTA",
+    "TNSR",
     "WCT",
     "SAGA",
-    "MANTA",
-    "PURR"
+    "S"
   ],
   "scores": [
     164,
-    162,
     160,
-    158,
+    160,
+    160,
     156,
     154
   ],
-  "timestamp": "2026-01-18T16:34:03.615105",
+  "timestamp": "2026-01-18T16:52:49.655273",
   "bucket": "90k-400k"
 }
