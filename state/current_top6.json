@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "BIO",
     "USUAL",
     "BIGTIME",
     "APEX",
-    "BLAST",
     "PROMPT",
-    "MANTA"
+    "BLAST"
   ],
   "scores": [
     160,
-    157,
+    158,
     156,
-    155,
+    154,
     152,
     150
   ],
-  "timestamp": "2026-01-18T11:43:52.814988",
+  "timestamp": "2026-01-18T11:55:08.503634",
   "bucket": "90k-400k"
 }

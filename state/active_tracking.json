@@ -397,11 +397,11 @@
   },
   "MANTA": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T10:54:08.433155",
-    "exit_time": null,
+    "exit_time": "2026-01-18T11:55:08.503411",
     "last_bar_collected": 1389,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T11:55:08.503411",
     "entry_volume": 154387.758531
   },
   "NOT": {
@@ -504,13 +504,13 @@
     "entry_volume": 85429.378071
   },
   "BIO": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T20:15:28.444859",
-    "exit_time": "2026-01-17T02:52:54.598734",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T11:55:08.503411",
+    "exit_time": null,
     "last_bar_collected": 1324,
-    "tracking_until": "2026-01-27T02:52:54.598734",
-    "entry_volume": 101807.594046
+    "tracking_until": null,
+    "entry_volume": 118268.463708
   },
   "ME": {
     "current_run": 9,
