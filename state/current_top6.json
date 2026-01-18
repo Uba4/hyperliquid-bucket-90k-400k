@@ -2,19 +2,19 @@
   "tokens": [
     "BIO",
     "USUAL",
-    "BIGTIME",
-    "APEX",
     "PROMPT",
-    "BLAST"
+    "MANTA",
+    "ANIME",
+    "BRETT"
   ],
   "scores": [
+    164,
+    162,
     160,
     158,
     156,
-    154,
-    152,
-    150
+    154
   ],
-  "timestamp": "2026-01-18T11:55:08.503634",
+  "timestamp": "2026-01-18T12:40:09.401569",
   "bucket": "90k-400k"
 }
