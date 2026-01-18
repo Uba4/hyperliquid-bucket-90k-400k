@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "GRIFFAIN",
+    "SAGA",
     "IO",
     "ZK",
-    "SAGA",
+    "GRIFFAIN",
     "CFX",
-    "MINA"
+    "INIT"
   ],
   "scores": [
-    168,
+    170,
     166,
-    164,
+    166,
+    166,
     162,
-    160,
-    158
+    160
   ],
-  "timestamp": "2026-01-18T19:54:21.811838",
+  "timestamp": "2026-01-18T20:20:58.011446",
   "bucket": "90k-400k"
 }
