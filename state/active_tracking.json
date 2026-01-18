@@ -415,11 +415,11 @@
   },
   "BRETT": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T12:40:09.401119",
-    "exit_time": null,
+    "exit_time": "2026-01-18T13:19:05.969280",
     "last_bar_collected": 1353,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T13:19:05.969280",
     "entry_volume": 170583.3872559999
   },
   "TURBO": {
@@ -549,13 +549,13 @@
     "entry_volume": 141175.225545
   },
   "TNSR": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T08:42:16.594587",
-    "exit_time": "2026-01-16T13:03:10.809785",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T13:19:05.969280",
+    "exit_time": null,
     "last_bar_collected": 1308,
-    "tracking_until": "2026-01-26T13:03:10.809785",
-    "entry_volume": 152033.026542
+    "tracking_until": null,
+    "entry_volume": 142371.863257
   },
   "SKY": {
     "current_run": 11,

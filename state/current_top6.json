@@ -1,11 +1,11 @@
 {
   "tokens": [
     "BIO",
+    "TNSR",
     "USUAL",
     "PROMPT",
-    "MANTA",
     "ANIME",
-    "BRETT"
+    "MANTA"
   ],
   "scores": [
     164,
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-18T12:40:09.401569",
+  "timestamp": "2026-01-18T13:19:05.969477",
   "bucket": "90k-400k"
 }
