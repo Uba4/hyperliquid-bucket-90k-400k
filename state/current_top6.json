@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ME",
-    "PURR",
     "APEX",
-    "ZEREBRO",
+    "PURR",
     "USUAL",
-    "GRIFFAIN"
+    "ZEREBRO",
+    "GRIFFAIN",
+    "MOVE"
   ],
   "scores": [
-    162,
     160,
     158,
     156,
     154,
-    152
+    152,
+    150
   ],
-  "timestamp": "2026-01-18T10:15:46.421743",
+  "timestamp": "2026-01-18T10:41:25.655969",
   "bucket": "90k-400k"
 }
