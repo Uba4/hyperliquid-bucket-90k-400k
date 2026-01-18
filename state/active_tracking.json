@@ -116,15 +116,6 @@
     "tracking_until": "2026-01-28T11:31:12.830957",
     "entry_volume": 276096.6914349999
   },
-  "ZRO": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T21:32:06.799082",
-    "exit_time": "2026-01-08T21:48:30.469327",
-    "last_bar_collected": 1458,
-    "tracking_until": "2026-01-18T21:48:30.469327",
-    "entry_volume": 433532.9200100001
-  },
   "JTO": {
     "current_run": 3,
     "status": "post_exit",
