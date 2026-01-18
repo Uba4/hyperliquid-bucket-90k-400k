@@ -1,11 +1,11 @@
 {
   "WCT": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T04:49:22.240276",
-    "exit_time": null,
+    "exit_time": "2026-01-18T07:22:59.118174",
     "last_bar_collected": 1318,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T07:22:59.118174",
     "entry_volume": 97212.015618
   },
   "ZEN": {
@@ -243,13 +243,13 @@
     "entry_volume": 345942.3628780002
   },
   "RESOLV": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T22:24:37.278009",
-    "exit_time": "2026-01-17T23:49:06.625128",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T07:22:59.118174",
+    "exit_time": null,
     "last_bar_collected": 1376,
-    "tracking_until": "2026-01-27T23:49:06.625128",
-    "entry_volume": 309155.1576620001
+    "tracking_until": null,
+    "entry_volume": 337429.8965670002
   },
   "CELO": {
     "current_run": 15,
