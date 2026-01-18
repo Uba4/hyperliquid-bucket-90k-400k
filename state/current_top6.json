@@ -2,8 +2,8 @@
   "tokens": [
     "PURR",
     "APEX",
-    "2Z",
     "RESOLV",
+    "2Z",
     "ZEREBRO",
     "MELANIA"
   ],
@@ -15,6 +15,6 @@
     150,
     148
   ],
-  "timestamp": "2026-01-18T08:38:05.757036",
+  "timestamp": "2026-01-18T08:55:33.662286",
   "bucket": "90k-400k"
 }
