@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "APEX",
-    "ME",
     "ZEREBRO",
+    "ME",
     "RESOLV",
     "USUAL"
   ],
   "scores": [
+    162,
     160,
     158,
     156,
     154,
-    152,
-    150
+    152
   ],
-  "timestamp": "2026-01-18T09:23:01.907663",
+  "timestamp": "2026-01-18T09:41:00.696592",
   "bucket": "90k-400k"
 }
