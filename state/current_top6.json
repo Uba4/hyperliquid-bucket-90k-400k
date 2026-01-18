@@ -2,19 +2,19 @@
   "tokens": [
     "APEX",
     "USUAL",
-    "MOVE",
     "PURR",
-    "ZEREBRO",
-    "MANTA"
+    "BLAST",
+    "MANTA",
+    "ZEREBRO"
   ],
   "scores": [
-    162,
     160,
     158,
     156,
     154,
-    152
+    152,
+    150
   ],
-  "timestamp": "2026-01-18T10:54:08.433375",
+  "timestamp": "2026-01-18T11:15:13.703271",
   "bucket": "90k-400k"
 }
