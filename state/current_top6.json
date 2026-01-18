@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "APEX",
-    "RESOLV",
-    "2Z",
+    "ME",
     "ZEREBRO",
-    "MELANIA"
+    "RESOLV",
+    "USUAL"
   ],
   "scores": [
+    160,
     158,
     156,
     154,
     152,
-    150,
-    148
+    150
   ],
-  "timestamp": "2026-01-18T08:55:33.662286",
+  "timestamp": "2026-01-18T09:23:01.907663",
   "bucket": "90k-400k"
 }
