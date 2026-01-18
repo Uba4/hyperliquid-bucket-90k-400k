@@ -99,13 +99,13 @@
     "entry_volume": 161663.8095450001
   },
   "MINA": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T09:00:26.097651",
-    "exit_time": "2026-01-14T14:01:49.990654",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T17:48:02.396199",
+    "exit_time": null,
     "last_bar_collected": 1435,
-    "tracking_until": "2026-01-24T14:01:49.990654",
-    "entry_volume": 207058.565135
+    "tracking_until": null,
+    "entry_volume": 81142.607916
   },
   "ZEREBRO": {
     "current_run": 16,
@@ -802,11 +802,11 @@
   },
   "GMT": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T17:34:31.039977",
-    "exit_time": null,
+    "exit_time": "2026-01-18T17:48:02.396199",
     "last_bar_collected": 1017,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T17:48:02.396199",
     "entry_volume": 162890.655041
   },
   "HMSTR": {

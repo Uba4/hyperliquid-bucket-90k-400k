@@ -2,19 +2,19 @@
   "tokens": [
     "S",
     "GRIFFAIN",
-    "MANTA",
+    "MINA",
     "WCT",
-    "AIXBT",
-    "GMT"
+    "MANTA",
+    "AIXBT"
   ],
   "scores": [
+    174,
+    172,
     170,
     168,
     166,
-    164,
-    162,
-    160
+    164
   ],
-  "timestamp": "2026-01-18T17:34:31.040192",
+  "timestamp": "2026-01-18T17:48:02.396419",
   "bucket": "90k-400k"
 }
