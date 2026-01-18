@@ -1054,11 +1054,11 @@
   },
   "RENDER": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T22:57:31.488569",
-    "exit_time": null,
+    "exit_time": "2026-01-18T23:53:32.223136",
     "last_bar_collected": 1238,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T23:53:32.223136",
     "entry_volume": 202544.65854
   },
   "CFX": {
@@ -1105,5 +1105,14 @@
     "last_bar_collected": 27,
     "tracking_until": "2026-01-28T17:59:07.258576",
     "entry_volume": 295231.94824
+  },
+  "MNT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T23:53:32.223136",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 279369.136247
   }
 }

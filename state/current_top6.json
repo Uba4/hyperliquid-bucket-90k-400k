@@ -2,10 +2,10 @@
   "tokens": [
     "GRIFFAIN",
     "2Z",
-    "INIT",
-    "RENDER",
     "DYM",
-    "MEGA"
+    "MEGA",
+    "MNT",
+    "INIT"
   ],
   "scores": [
     176,
@@ -15,6 +15,6 @@
     168,
     166
   ],
-  "timestamp": "2026-01-18T23:42:11.413330",
+  "timestamp": "2026-01-18T23:53:32.223333",
   "bucket": "90k-400k"
 }
