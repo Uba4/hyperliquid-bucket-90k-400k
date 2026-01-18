@@ -316,11 +316,11 @@
   },
   "IO": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T18:39:07.545576",
-    "exit_time": null,
+    "exit_time": "2026-01-18T22:27:31.806687",
     "last_bar_collected": 1427,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T22:27:31.806687",
     "entry_volume": 393550.7255049999
   },
   "GRIFFAIN": {
@@ -666,13 +666,13 @@
     "entry_volume": 218231.79453
   },
   "2Z": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T06:56:09.963862",
-    "exit_time": "2026-01-18T09:23:01.907281",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T22:27:31.806687",
+    "exit_time": null,
     "last_bar_collected": 1246,
-    "tracking_until": "2026-01-28T09:23:01.907281",
-    "entry_volume": 192172.4638
+    "tracking_until": null,
+    "entry_volume": 131193.50731
   },
   "SCR": {
     "current_run": 10,
