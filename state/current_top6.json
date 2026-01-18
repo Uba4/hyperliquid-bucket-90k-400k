@@ -1,11 +1,11 @@
 {
   "tokens": [
     "PURR",
-    "MELANIA",
-    "MEGA",
     "APEX",
     "2Z",
-    "RESOLV"
+    "RESOLV",
+    "ZEREBRO",
+    "MELANIA"
   ],
   "scores": [
     158,
@@ -15,6 +15,6 @@
     150,
     148
   ],
-  "timestamp": "2026-01-18T08:01:09.447676",
+  "timestamp": "2026-01-18T08:38:05.757036",
   "bucket": "90k-400k"
 }
