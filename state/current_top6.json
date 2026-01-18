@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ME",
-    "BLAST",
     "WCT",
-    "MELANIA",
     "MEW",
-    "PURR"
+    "MELANIA",
+    "PURR",
+    "MORPHO"
   ],
   "scores": [
-    160,
-    157,
+    158,
     156,
     154,
-    153,
-    150
+    152,
+    148,
+    148
   ],
-  "timestamp": "2026-01-18T05:14:06.931197",
+  "timestamp": "2026-01-18T05:41:51.373610",
   "bucket": "90k-400k"
 }
