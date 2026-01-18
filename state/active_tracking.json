@@ -1,12 +1,12 @@
 {
   "WCT": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T23:19:22.599328",
-    "exit_time": "2026-01-18T02:34:25.960727",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T04:49:22.240276",
+    "exit_time": null,
     "last_bar_collected": 1307,
-    "tracking_until": "2026-01-28T02:34:25.960727",
-    "entry_volume": 82427.233053
+    "tracking_until": null,
+    "entry_volume": 97212.015618
   },
   "ZEN": {
     "current_run": 6,
@@ -577,11 +577,11 @@
   },
   "BIGTIME": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T03:59:14.250468",
-    "exit_time": null,
+    "exit_time": "2026-01-18T04:49:22.240276",
     "last_bar_collected": 1251,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T04:49:22.240276",
     "entry_volume": 431473.8581450001
   },
   "BSV": {
@@ -793,11 +793,11 @@
   },
   "CAKE": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-18T02:34:25.960727",
-    "exit_time": null,
+    "exit_time": "2026-01-18T04:49:22.240276",
     "last_bar_collected": 966,
-    "tracking_until": null,
+    "tracking_until": "2026-01-28T04:49:22.240276",
     "entry_volume": 375589.0973500002
   },
   "GMT": {
@@ -1114,5 +1114,14 @@
     "last_bar_collected": 29,
     "tracking_until": "2026-01-28T02:34:25.960727",
     "entry_volume": 247483.35176
+  },
+  "MELANIA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-18T04:49:22.240276",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 429465.6063590001
   }
 }

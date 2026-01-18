@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BLAST",
     "ME",
-    "BIGTIME",
+    "BLAST",
+    "WCT",
+    "MELANIA",
     "PURR",
-    "OM",
-    "CAKE"
+    "OM"
   ],
   "scores": [
+    156,
     154,
     152,
     150,
     148,
-    146,
-    144
+    146
   ],
-  "timestamp": "2026-01-18T03:59:14.250738",
+  "timestamp": "2026-01-18T04:49:22.240636",
   "bucket": "90k-400k"
 }
