@@ -2,19 +2,19 @@
   "tokens": [
     "APEX",
     "USUAL",
-    "PURR",
     "BLAST",
-    "MANTA",
-    "ZEREBRO"
+    "BIGTIME",
+    "PROMPT",
+    "MANTA"
   ],
   "scores": [
-    160,
     158,
     156,
     154,
-    152,
-    150
+    150,
+    150,
+    148
   ],
-  "timestamp": "2026-01-18T11:15:13.703271",
+  "timestamp": "2026-01-18T11:31:12.831282",
   "bucket": "90k-400k"
 }
