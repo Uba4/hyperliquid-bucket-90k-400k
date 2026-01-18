@@ -2,19 +2,19 @@
   "tokens": [
     "GRIFFAIN",
     "MINA",
-    "WCT",
     "IO",
+    "ZK",
     "AR",
-    "SAGA"
+    "ETHFI"
   ],
   "scores": [
+    170,
     168,
     166,
     164,
-    162,
     160,
-    158
+    160
   ],
-  "timestamp": "2026-01-18T18:39:07.546041",
+  "timestamp": "2026-01-18T18:55:50.997008",
   "bucket": "90k-400k"
 }
