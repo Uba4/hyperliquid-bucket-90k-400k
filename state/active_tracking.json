@@ -728,15 +728,6 @@
     "tracking_until": "2026-01-28T03:59:14.250468",
     "entry_volume": 126800.97157
   },
-  "MAV": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T19:00:33.802281",
-    "exit_time": "2026-01-08T19:43:51.598477",
-    "last_bar_collected": 1155,
-    "tracking_until": "2026-01-18T19:43:51.598477",
-    "entry_volume": 226390.723893
-  },
   "GMX": {
     "current_run": 8,
     "status": "post_exit",
