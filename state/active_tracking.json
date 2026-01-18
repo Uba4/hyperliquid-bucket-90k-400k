@@ -224,15 +224,6 @@
     "tracking_until": "2026-01-20T15:55:01.489153",
     "entry_volume": 85344.606296
   },
-  "GOAT": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-08T17:14:19.817185",
-    "exit_time": "2026-01-08T20:26:21.238737",
-    "last_bar_collected": 1377,
-    "tracking_until": "2026-01-18T20:26:21.238737",
-    "entry_volume": 181750.1758630001
-  },
   "PURR": {
     "current_run": 16,
     "status": "post_exit",
