@@ -1,20 +1,20 @@
 {
   "tokens": [
     "TNSR",
-    "BIO",
-    "INIT",
     "SAGA",
+    "INIT",
     "PURR",
-    "USUAL"
+    "WCT",
+    "MANTA"
   ],
   "scores": [
     164,
     162,
     160,
+    158,
     156,
-    156,
-    156
+    152
   ],
-  "timestamp": "2026-01-18T15:11:59.344398",
+  "timestamp": "2026-01-18T15:33:57.111278",
   "bucket": "90k-400k"
 }
