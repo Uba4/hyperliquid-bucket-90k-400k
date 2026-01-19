@@ -2,19 +2,19 @@
   "tokens": [
     "SOPH",
     "SYRUP",
-    "MEGA",
-    "KAS",
     "RENDER",
-    "kNEIRO"
+    "MEGA",
+    "kNEIRO",
+    "KAS"
   ],
   "scores": [
+    154,
     152,
-    152,
-    150,
     148,
-    144,
+    148,
+    146,
     144
   ],
-  "timestamp": "2026-01-19T04:35:42.317560",
+  "timestamp": "2026-01-19T05:09:10.744169",
   "bucket": "90k-400k"
 }
