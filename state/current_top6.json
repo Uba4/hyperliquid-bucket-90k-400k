@@ -3,18 +3,18 @@
     "POLYX",
     "NIL",
     "MAV",
-    "CHILLGUY",
-    "MINA",
-    "MAVIA"
+    "BRETT",
+    "USUAL",
+    "BSV"
   ],
   "scores": [
-    148,
     146,
     144,
     142,
-    137,
-    137
+    140,
+    136,
+    134
   ],
-  "timestamp": "2026-01-19T09:48:17.778378",
+  "timestamp": "2026-01-19T10:15:06.316835",
   "bucket": "90k-400k"
 }
