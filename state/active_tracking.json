@@ -369,13 +369,13 @@
     "entry_volume": 275643.5852819999
   },
   "NOT": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T12:52:57.059856",
-    "exit_time": "2026-01-14T14:01:49.990654",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T18:55:20.201261",
+    "exit_time": null,
     "last_bar_collected": 1514,
-    "tracking_until": "2026-01-24T14:01:49.990654",
-    "entry_volume": 376260.4064759999
+    "tracking_until": null,
+    "entry_volume": 155686.998611
   },
   "BRETT": {
     "current_run": 11,
@@ -586,11 +586,11 @@
   },
   "BABY": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T17:33:25.959339",
-    "exit_time": null,
+    "exit_time": "2026-01-19T18:55:20.201261",
     "last_bar_collected": 1382,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T18:55:20.201261",
     "entry_volume": 131776.429134
   },
   "W": {
