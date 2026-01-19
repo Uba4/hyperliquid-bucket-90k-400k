@@ -766,11 +766,11 @@
   },
   "kLUNC": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T16:36:22.619130",
-    "exit_time": null,
+    "exit_time": "2026-01-19T19:36:37.018441",
     "last_bar_collected": 1104,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T19:36:37.018441",
     "entry_volume": 210229.439439
   },
   "PROMPT": {
@@ -981,13 +981,13 @@
     "entry_volume": 111550.214572
   },
   "LAYER": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T22:51:06.167711",
-    "exit_time": "2026-01-16T02:26:01.673891",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T19:36:37.018441",
+    "exit_time": null,
     "last_bar_collected": 1423,
-    "tracking_until": "2026-01-26T02:26:01.673891",
-    "entry_volume": 129054.29765
+    "tracking_until": null,
+    "entry_volume": 143940.24636
   },
   "MEME": {
     "current_run": 1,
