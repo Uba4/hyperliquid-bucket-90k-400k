@@ -2,19 +2,19 @@
   "tokens": [
     "MAV",
     "NIL",
-    "NOT",
     "VINE",
-    "MEW",
-    "PEOPLE"
+    "PEOPLE",
+    "NOT",
+    "MEW"
   ],
   "scores": [
     146,
     144,
     142,
-    140,
     138,
-    136
+    138,
+    138
   ],
-  "timestamp": "2026-01-19T20:52:12.984586",
+  "timestamp": "2026-01-19T21:13:42.936547",
   "bucket": "90k-400k"
 }
