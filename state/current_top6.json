@@ -2,19 +2,19 @@
   "tokens": [
     "RENDER",
     "PROMPT",
-    "MINA",
     "CHILLGUY",
     "kLUNC",
-    "kNEIRO"
+    "MINA",
+    "MAVIA"
   ],
   "scores": [
     150,
     148,
-    144,
+    146,
     144,
     142,
-    141
+    140
   ],
-  "timestamp": "2026-01-19T07:01:30.130654",
+  "timestamp": "2026-01-19T07:39:01.528123",
   "bucket": "90k-400k"
 }

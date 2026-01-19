@@ -36,13 +36,13 @@
     "entry_volume": 277065.65152
   },
   "MAVIA": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T11:25:05.052800",
-    "exit_time": "2026-01-17T14:29:45.699556",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T07:39:01.527898",
+    "exit_time": null,
     "last_bar_collected": 1410,
-    "tracking_until": "2026-01-27T14:29:45.699556",
-    "entry_volume": 153893.325332
+    "tracking_until": null,
+    "entry_volume": 156979.260362
   },
   "NIL": {
     "current_run": 11,
@@ -433,11 +433,11 @@
   },
   "kNEIRO": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T04:35:42.317111",
-    "exit_time": null,
+    "exit_time": "2026-01-19T07:39:01.527898",
     "last_bar_collected": 1429,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T07:39:01.527898",
     "entry_volume": 184338.588132
   },
   "DOOD": {
