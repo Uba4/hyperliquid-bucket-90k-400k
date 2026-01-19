@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "RENDER",
     "PROMPT",
+    "RENDER",
     "CHILLGUY",
     "kLUNC",
     "MINA",
-    "MAVIA"
+    "POLYX"
   ],
   "scores": [
     150,
@@ -13,8 +13,8 @@
     146,
     144,
     142,
-    140
+    138
   ],
-  "timestamp": "2026-01-19T07:39:01.528123",
+  "timestamp": "2026-01-19T07:55:55.090037",
   "bucket": "90k-400k"
 }

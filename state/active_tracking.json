@@ -37,11 +37,11 @@
   },
   "MAVIA": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T07:39:01.527898",
-    "exit_time": null,
+    "exit_time": "2026-01-19T07:55:55.089799",
     "last_bar_collected": 1410,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T07:55:55.089799",
     "entry_volume": 156979.260362
   },
   "NIL": {
@@ -333,13 +333,13 @@
     "entry_volume": 318450.1111290001
   },
   "POLYX": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T16:40:49.594710",
-    "exit_time": "2026-01-15T21:48:30.846499",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T07:55:55.089799",
+    "exit_time": null,
     "last_bar_collected": 1472,
-    "tracking_until": "2026-01-25T21:48:30.846499",
-    "entry_volume": 131469.9150069999
+    "tracking_until": null,
+    "entry_volume": 157947.914129
   },
   "APEX": {
     "current_run": 12,
