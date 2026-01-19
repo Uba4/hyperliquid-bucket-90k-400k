@@ -352,11 +352,11 @@
   },
   "ANIME": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T17:33:25.959339",
-    "exit_time": null,
+    "exit_time": "2026-01-19T20:34:51.363051",
     "last_bar_collected": 1527,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T20:34:51.363051",
     "entry_volume": 418060.5129900003
   },
   "MANTA": {
@@ -441,13 +441,13 @@
     "entry_volume": 137338.21975
   },
   "VINE": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T10:50:29.907813",
-    "exit_time": "2026-01-19T13:31:04.997045",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T20:34:51.363051",
+    "exit_time": null,
     "last_bar_collected": 1451,
-    "tracking_until": "2026-01-29T13:31:04.997045",
-    "entry_volume": 234157.846529
+    "tracking_until": null,
+    "entry_volume": 232852.2144050001
   },
   "SAGA": {
     "current_run": 11,
@@ -504,13 +504,13 @@
     "entry_volume": 199797.2155909999
   },
   "PEOPLE": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-13T22:53:09.666002",
-    "exit_time": "2026-01-14T02:29:44.191934",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T20:34:51.363051",
+    "exit_time": null,
     "last_bar_collected": 1439,
-    "tracking_until": "2026-01-24T02:29:44.191934",
-    "entry_volume": 141175.225545
+    "tracking_until": null,
+    "entry_volume": 220113.142551
   },
   "TNSR": {
     "current_run": 10,
@@ -982,11 +982,11 @@
   },
   "LAYER": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T19:36:37.018441",
-    "exit_time": null,
+    "exit_time": "2026-01-19T20:34:51.363051",
     "last_bar_collected": 1427,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T20:34:51.363051",
     "entry_volume": 143940.24636
   },
   "MEME": {
