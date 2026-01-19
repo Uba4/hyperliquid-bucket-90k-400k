@@ -2,19 +2,19 @@
   "tokens": [
     "RENDER",
     "PROMPT",
-    "kNEIRO",
-    "SYRUP",
-    "BLAST",
-    "GRASS"
+    "MINA",
+    "CHILLGUY",
+    "kLUNC",
+    "kNEIRO"
   ],
   "scores": [
     150,
     148,
-    146,
+    144,
     144,
     142,
-    140
+    141
   ],
-  "timestamp": "2026-01-19T06:20:26.919213",
+  "timestamp": "2026-01-19T07:01:30.130654",
   "bucket": "90k-400k"
 }
