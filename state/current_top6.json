@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "DOOD",
-    "USUAL",
     "BIGTIME",
     "PROVE",
-    "BANANA",
-    "TNSR"
+    "MAV",
+    "TNSR",
+    "UMA",
+    "MEGA"
   ],
   "scores": [
-    150,
-    148,
+    147,
     146,
-    144,
+    143,
     142,
-    140
+    140,
+    138
   ],
-  "timestamp": "2026-01-19T15:00:48.007417",
+  "timestamp": "2026-01-19T15:37:33.070407",
   "bucket": "90k-400k"
 }

@@ -288,13 +288,13 @@
     "entry_volume": 370547.4631829999
   },
   "MEGA": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T23:42:11.413108",
-    "exit_time": "2026-01-19T05:48:37.355620",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T15:37:33.069952",
+    "exit_time": null,
     "last_bar_collected": 1522,
-    "tracking_until": "2026-01-29T05:48:37.355620",
-    "entry_volume": 189024.46855
+    "tracking_until": null,
+    "entry_volume": 332858.13249
   },
   "CHILLGUY": {
     "current_run": 14,
@@ -343,11 +343,11 @@
   },
   "USUAL": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T10:15:06.316393",
-    "exit_time": null,
+    "exit_time": "2026-01-19T15:37:33.069952",
     "last_bar_collected": 1501,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T15:37:33.069952",
     "entry_volume": 303325.6325489999
   },
   "ANIME": {
@@ -424,11 +424,11 @@
   },
   "DOOD": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T12:33:39.292644",
-    "exit_time": null,
+    "exit_time": "2026-01-19T15:37:33.069952",
     "last_bar_collected": 1456,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T15:37:33.069952",
     "entry_volume": 140910.683367
   },
   "PROVE": {
@@ -487,11 +487,11 @@
   },
   "BANANA": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T13:31:04.997045",
-    "exit_time": null,
+    "exit_time": "2026-01-19T15:37:33.069952",
     "last_bar_collected": 1427,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T15:37:33.069952",
     "entry_volume": 332315.3661000001
   },
   "ALT": {
@@ -1089,12 +1089,21 @@
     "entry_volume": 279369.136247
   },
   "MAV": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T09:48:17.778156",
-    "exit_time": "2026-01-19T11:37:12.357615",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T15:37:33.069952",
+    "exit_time": null,
     "last_bar_collected": 1276,
-    "tracking_until": "2026-01-29T11:37:12.357615",
-    "entry_volume": 111257.7947700001
+    "tracking_until": null,
+    "entry_volume": 152902.6220810001
+  },
+  "UMA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T15:37:33.069952",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 86117.511793
   }
 }
