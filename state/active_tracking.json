@@ -80,15 +80,6 @@
     "tracking_until": "2026-01-20T16:24:58.746849",
     "entry_volume": 369954.5666
   },
-  "FOGO": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T19:28:37.218315",
-    "exit_time": "2026-01-09T20:45:13.021197",
-    "last_bar_collected": 1480,
-    "tracking_until": "2026-01-19T20:45:13.021197",
-    "entry_volume": 129875.24018
-  },
   "IOTA": {
     "current_run": 10,
     "status": "post_exit",
@@ -649,11 +640,11 @@
   },
   "SCR": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T15:56:56.088583",
-    "exit_time": null,
+    "exit_time": "2026-01-19T20:52:12.984296",
     "last_bar_collected": 1331,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T20:52:12.984296",
     "entry_volume": 400371.985658
   },
   "SNX": {
@@ -1008,13 +999,13 @@
     "entry_volume": 85382.601127
   },
   "MEW": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T14:02:20.641497",
-    "exit_time": "2026-01-19T14:40:40.780620",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T20:52:12.984296",
+    "exit_time": null,
     "last_bar_collected": 1350,
-    "tracking_until": "2026-01-29T14:40:40.780620",
-    "entry_volume": 121630.838324
+    "tracking_until": null,
+    "entry_volume": 111966.665821
   },
   "RENDER": {
     "current_run": 3,
