@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "TNSR",
+    "MAV",
     "BIGTIME",
     "PROVE",
-    "MAV",
-    "TNSR",
     "UMA",
-    "MEGA"
+    "SCR"
   ],
   "scores": [
-    147,
+    148,
     146,
-    143,
+    144,
     142,
     140,
     138
   ],
-  "timestamp": "2026-01-19T15:37:33.070407",
+  "timestamp": "2026-01-19T15:56:56.088838",
   "bucket": "90k-400k"
 }
