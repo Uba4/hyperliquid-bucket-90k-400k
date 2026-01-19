@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SUSHI",
     "MINA",
-    "MEW",
-    "USTC",
-    "PEOPLE",
-    "PROVE"
+    "PROVE",
+    "SUSHI",
+    "BABY",
+    "COMP",
+    "NEO"
   ],
   "scores": [
+    146,
+    144,
     142,
     140,
     138,
-    136,
-    132,
-    132
+    136
   ],
-  "timestamp": "2026-01-19T23:12:48.375772",
+  "timestamp": "2026-01-19T23:35:03.799242",
   "bucket": "90k-400k"
 }
