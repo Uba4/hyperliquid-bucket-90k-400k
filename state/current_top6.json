@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "USUAL",
     "DOOD",
+    "USUAL",
     "BANANA",
-    "GRIFFAIN",
-    "STABLE",
-    "BIGTIME"
+    "BIGTIME",
+    "PROVE",
+    "MEW"
   ],
   "scores": [
-    145,
-    145,
-    142,
-    138,
-    138,
-    136
+    152,
+    150,
+    148,
+    146,
+    144,
+    140
   ],
-  "timestamp": "2026-01-19T13:31:04.997508",
+  "timestamp": "2026-01-19T14:02:20.641804",
   "bucket": "90k-400k"
 }
