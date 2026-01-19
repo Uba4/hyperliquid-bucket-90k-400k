@@ -45,13 +45,13 @@
     "entry_volume": 165577.3250100001
   },
   "NIL": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T08:36:42.387295",
-    "exit_time": "2026-01-19T13:31:04.997045",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T16:36:22.619130",
+    "exit_time": null,
     "last_bar_collected": 1527,
-    "tracking_until": "2026-01-29T13:31:04.997045",
-    "entry_volume": 268697.605518
+    "tracking_until": null,
+    "entry_volume": 395352.249343
   },
   "SYRUP": {
     "current_run": 12,
@@ -433,11 +433,11 @@
   },
   "PROVE": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T14:02:20.641497",
-    "exit_time": null,
+    "exit_time": "2026-01-19T16:36:22.619130",
     "last_bar_collected": 1434,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T16:36:22.619130",
     "entry_volume": 137338.21975
   },
   "VINE": {
@@ -541,11 +541,11 @@
   },
   "BIGTIME": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T13:31:04.997045",
-    "exit_time": null,
+    "exit_time": "2026-01-19T16:36:22.619130",
     "last_bar_collected": 1391,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T16:36:22.619130",
     "entry_volume": 207552.716093
   },
   "BSV": {
@@ -610,15 +610,6 @@
     "last_bar_collected": 1347,
     "tracking_until": "2026-01-26T02:26:01.673891",
     "entry_volume": 220213.96839
-  },
-  "ATOM": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T15:53:05.613831",
-    "exit_time": "2026-01-09T16:20:54.143663",
-    "last_bar_collected": 1343,
-    "tracking_until": "2026-01-19T16:20:54.143663",
-    "entry_volume": 433633.935006
   },
   "ZK": {
     "current_run": 4,
@@ -774,13 +765,13 @@
     "entry_volume": 140819.5562669999
   },
   "kLUNC": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T07:01:30.130230",
-    "exit_time": "2026-01-19T08:36:42.387295",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T16:36:22.619130",
+    "exit_time": null,
     "last_bar_collected": 1092,
-    "tracking_until": "2026-01-29T08:36:42.387295",
-    "entry_volume": 197734.126565
+    "tracking_until": null,
+    "entry_volume": 210229.439439
   },
   "PROMPT": {
     "current_run": 8,
