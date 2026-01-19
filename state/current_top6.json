@@ -2,19 +2,19 @@
   "tokens": [
     "DOOD",
     "USUAL",
-    "BANANA",
     "BIGTIME",
+    "BANANA",
     "PROVE",
-    "MEW"
+    "TNSR"
   ],
   "scores": [
-    152,
     150,
     148,
     146,
     144,
-    140
+    142,
+    138
   ],
-  "timestamp": "2026-01-19T14:02:20.641804",
+  "timestamp": "2026-01-19T14:40:40.780841",
   "bucket": "90k-400k"
 }
