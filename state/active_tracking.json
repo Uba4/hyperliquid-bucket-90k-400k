@@ -144,13 +144,13 @@
     "entry_volume": 99490.358669
   },
   "USTC": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T14:29:45.699556",
-    "exit_time": "2026-01-17T15:26:39.558057",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T22:51:41.914312",
+    "exit_time": null,
     "last_bar_collected": 1536,
-    "tracking_until": "2026-01-27T15:26:39.558057",
-    "entry_volume": 113512.8044870001
+    "tracking_until": null,
+    "entry_volume": 109341.162549
   },
   "LINEA": {
     "current_run": 9,
@@ -406,11 +406,11 @@
   },
   "kNEIRO": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T22:00:23.905272",
-    "exit_time": null,
+    "exit_time": "2026-01-19T22:51:41.914312",
     "last_bar_collected": 1487,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T22:51:41.914312",
     "entry_volume": 247273.1332030001
   },
   "DOOD": {
