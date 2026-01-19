@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MAV",
-    "NIL",
-    "VINE",
     "PEOPLE",
-    "NOT",
-    "MEW"
+    "MEW",
+    "SUSHI",
+    "MAV",
+    "CFX",
+    "NOT"
   ],
   "scores": [
     146,
     144,
     142,
+    140,
     138,
-    138,
-    138
+    136
   ],
-  "timestamp": "2026-01-19T21:13:42.936547",
+  "timestamp": "2026-01-19T21:35:21.046877",
   "bucket": "90k-400k"
 }
