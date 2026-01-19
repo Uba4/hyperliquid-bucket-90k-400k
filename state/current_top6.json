@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MEW",
     "PEOPLE",
+    "MEW",
     "SUSHI",
     "CFX",
     "W",
-    "NOT"
+    "kNEIRO"
   ],
   "scores": [
     146,
     144,
     142,
     140,
-    136,
+    138,
     136
   ],
-  "timestamp": "2026-01-19T21:49:22.838719",
+  "timestamp": "2026-01-19T22:00:23.905494",
   "bucket": "90k-400k"
 }

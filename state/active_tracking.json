@@ -361,11 +361,11 @@
   },
   "NOT": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T18:55:20.201261",
-    "exit_time": null,
+    "exit_time": "2026-01-19T22:00:23.905272",
     "last_bar_collected": 1524,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T22:00:23.905272",
     "entry_volume": 155686.998611
   },
   "BRETT": {
@@ -405,13 +405,13 @@
     "entry_volume": 270020.2859000001
   },
   "kNEIRO": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T04:35:42.317111",
-    "exit_time": "2026-01-19T07:39:01.527898",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T22:00:23.905272",
+    "exit_time": null,
     "last_bar_collected": 1485,
-    "tracking_until": "2026-01-29T07:39:01.527898",
-    "entry_volume": 184338.588132
+    "tracking_until": null,
+    "entry_volume": 247273.1332030001
   },
   "DOOD": {
     "current_run": 5,
