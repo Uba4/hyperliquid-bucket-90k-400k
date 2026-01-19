@@ -3,8 +3,8 @@
     "MAV",
     "NIL",
     "SCR",
-    "kLUNC",
     "ANIME",
+    "kLUNC",
     "NOT"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     136,
     134
   ],
-  "timestamp": "2026-01-19T18:55:20.201466",
+  "timestamp": "2026-01-19T19:20:11.062586",
   "bucket": "90k-400k"
 }
