@@ -514,11 +514,11 @@
   },
   "ALT": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T08:36:42.387295",
-    "exit_time": null,
+    "exit_time": "2026-01-19T09:02:58.997501",
     "last_bar_collected": 1391,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T09:02:58.997501",
     "entry_volume": 199797.2155909999
   },
   "PEOPLE": {
@@ -684,13 +684,13 @@
     "entry_volume": 354343.027134
   },
   "SNX": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T07:46:24.899242",
-    "exit_time": "2026-01-17T12:01:10.621508",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T09:02:58.997501",
+    "exit_time": null,
     "last_bar_collected": 1280,
-    "tracking_until": "2026-01-27T12:01:10.621508",
-    "entry_volume": 411727.2974119998
+    "tracking_until": null,
+    "entry_volume": 411917.988271
   },
   "HEMI": {
     "current_run": 12,
