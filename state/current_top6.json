@@ -1,9 +1,9 @@
 {
   "tokens": [
     "USUAL",
-    "MANTA",
     "NIL",
     "VINE",
+    "MANTA",
     "MAVIA",
     "BRETT"
   ],
@@ -15,6 +15,6 @@
     136,
     134
   ],
-  "timestamp": "2026-01-19T11:37:12.357807",
+  "timestamp": "2026-01-19T11:52:25.838668",
   "bucket": "90k-400k"
 }
