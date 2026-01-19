@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VINE",
-    "NIL",
     "USUAL",
     "MANTA",
-    "MAV",
+    "NIL",
+    "VINE",
+    "MAVIA",
     "BRETT"
   ],
   "scores": [
+    144,
     142,
     140,
     138,
     136,
-    134,
-    132
+    134
   ],
-  "timestamp": "2026-01-19T11:13:35.767937",
+  "timestamp": "2026-01-19T11:37:12.357807",
   "bucket": "90k-400k"
 }
