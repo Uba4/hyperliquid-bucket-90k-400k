@@ -45,13 +45,13 @@
     "entry_volume": 156979.260362
   },
   "NIL": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T10:48:06.681853",
-    "exit_time": "2026-01-17T14:46:46.076880",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T08:36:42.387295",
+    "exit_time": null,
     "last_bar_collected": 1495,
-    "tracking_until": "2026-01-27T14:46:46.076880",
-    "entry_volume": 206477.347564
+    "tracking_until": null,
+    "entry_volume": 268697.605518
   },
   "SYRUP": {
     "current_run": 12,
@@ -513,13 +513,13 @@
     "entry_volume": 132528.034
   },
   "ALT": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T08:42:16.594587",
-    "exit_time": "2026-01-16T11:47:25.774058",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-19T08:36:42.387295",
+    "exit_time": null,
     "last_bar_collected": 1391,
-    "tracking_until": "2026-01-26T11:47:25.774058",
-    "entry_volume": 184063.124977
+    "tracking_until": null,
+    "entry_volume": 199797.2155909999
   },
   "PEOPLE": {
     "current_run": 5,
@@ -793,11 +793,11 @@
   },
   "kLUNC": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T07:01:30.130230",
-    "exit_time": null,
+    "exit_time": "2026-01-19T08:36:42.387295",
     "last_bar_collected": 1061,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T08:36:42.387295",
     "entry_volume": 197734.126565
   },
   "PROMPT": {
@@ -1054,11 +1054,11 @@
   },
   "RENDER": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-19T04:35:42.317111",
-    "exit_time": null,
+    "exit_time": "2026-01-19T08:36:42.387295",
     "last_bar_collected": 1273,
-    "tracking_until": null,
+    "tracking_until": "2026-01-29T08:36:42.387295",
     "entry_volume": 388796.1138100001
   },
   "CFX": {

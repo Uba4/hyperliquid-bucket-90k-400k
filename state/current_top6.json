@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PROMPT",
-    "RENDER",
     "CHILLGUY",
-    "kLUNC",
     "MINA",
-    "POLYX"
+    "POLYX",
+    "NIL",
+    "ALT"
   ],
   "scores": [
-    150,
     148,
     146,
     144,
     142,
+    140,
     138
   ],
-  "timestamp": "2026-01-19T07:55:55.090037",
+  "timestamp": "2026-01-19T08:36:42.387566",
   "bucket": "90k-400k"
 }
