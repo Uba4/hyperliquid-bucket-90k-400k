@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SOPH",
-    "SYRUP",
     "RENDER",
-    "MEGA",
     "kNEIRO",
-    "KAS"
+    "SYRUP",
+    "SOPH",
+    "PROMPT",
+    "BLAST"
   ],
   "scores": [
-    154,
     152,
-    148,
+    150,
     148,
     146,
-    144
+    144,
+    142
   ],
-  "timestamp": "2026-01-19T05:09:10.744169",
+  "timestamp": "2026-01-19T05:48:37.355927",
   "bucket": "90k-400k"
 }
