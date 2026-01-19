@@ -251,15 +251,6 @@
     "tracking_until": "2026-01-27T00:56:57.943016",
     "entry_volume": 334922.4187309998
   },
-  "COMP": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T10:54:37.612123",
-    "exit_time": "2026-01-09T14:59:56.034351",
-    "last_bar_collected": 1521,
-    "tracking_until": "2026-01-19T14:59:56.034351",
-    "entry_volume": 99491.73074
-  },
   "ACE": {
     "current_run": 10,
     "status": "post_exit",
@@ -367,15 +358,6 @@
     "last_bar_collected": 1503,
     "tracking_until": "2026-01-28T15:11:59.344174",
     "entry_volume": 213996.420294
-  },
-  "UMA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-09T09:16:41.112228",
-    "exit_time": "2026-01-09T14:44:38.467214",
-    "last_bar_collected": 1501,
-    "tracking_until": "2026-01-19T14:44:38.467214",
-    "entry_volume": 113060.650911
   },
   "MANTA": {
     "current_run": 8,
