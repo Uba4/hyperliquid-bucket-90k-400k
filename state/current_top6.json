@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "MEGA",
-    "2Z",
     "PURR",
+    "MEGA",
+    "SYRUP",
+    "KAS",
     "CAKE",
-    "TST",
-    "SYRUP"
+    "PROVE"
   ],
   "scores": [
     154,
@@ -15,6 +15,6 @@
     146,
     144
   ],
-  "timestamp": "2026-01-19T01:23:42.697582",
+  "timestamp": "2026-01-19T03:22:40.180420",
   "bucket": "90k-400k"
 }
