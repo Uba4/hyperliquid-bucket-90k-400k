@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROMPT",
-    "MINA",
     "POLYX",
-    "CHILLGUY",
     "NIL",
-    "SNX"
+    "MAV",
+    "CHILLGUY",
+    "MINA",
+    "MAVIA"
   ],
   "scores": [
+    148,
     146,
     144,
     142,
-    140,
-    138,
-    136
+    137,
+    137
   ],
-  "timestamp": "2026-01-19T09:02:58.997687",
+  "timestamp": "2026-01-19T09:48:17.778378",
   "bucket": "90k-400k"
 }
