@@ -2,19 +2,19 @@
   "tokens": [
     "USUAL",
     "DOOD",
-    "VINE",
+    "BANANA",
     "GRIFFAIN",
-    "MAVIA",
-    "NIL"
+    "STABLE",
+    "BIGTIME"
   ],
   "scores": [
-    144,
+    145,
+    145,
     142,
-    140,
     138,
-    136,
-    134
+    138,
+    136
   ],
-  "timestamp": "2026-01-19T12:33:39.292973",
+  "timestamp": "2026-01-19T13:31:04.997508",
   "bucket": "90k-400k"
 }
