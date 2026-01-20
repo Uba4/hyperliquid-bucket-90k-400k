@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MINA",
-    "PROVE",
+    "DOOD",
+    "USUAL",
+    "ALT",
     "MEME",
-    "MEGA",
-    "PURR",
-    "SUSHI"
+    "TRB",
+    "APE"
   ],
   "scores": [
+    166,
+    164,
+    162,
     160,
     158,
-    156,
-    154,
-    152,
-    148
+    156
   ],
-  "timestamp": "2026-01-20T00:46:43.068534",
+  "timestamp": "2026-01-20T02:53:17.958734",
   "bucket": "90k-400k"
 }
