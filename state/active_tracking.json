@@ -333,13 +333,13 @@
     "entry_volume": 350753.8198000002
   },
   "USUAL": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T02:53:17.958103",
-    "exit_time": "2026-01-20T07:04:54.963813",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T15:51:18.227218",
+    "exit_time": null,
     "last_bar_collected": 1592,
-    "tracking_until": "2026-01-30T07:04:54.963813",
-    "entry_volume": 243251.42405
+    "tracking_until": null,
+    "entry_volume": 281472.2719859999
   },
   "ANIME": {
     "current_run": 6,
@@ -613,11 +613,11 @@
   },
   "BLUR": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T15:18:04.945307",
-    "exit_time": null,
+    "exit_time": "2026-01-20T15:51:18.227218",
     "last_bar_collected": 1411,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T15:51:18.227218",
     "entry_volume": 372800.382764
   },
   "SAND": {
