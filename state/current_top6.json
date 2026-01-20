@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ACE",
-    "STABLE",
-    "USUAL",
-    "HMSTR",
     "NXPC",
-    "PROMPT"
+    "BANANA",
+    "HMSTR",
+    "USUAL",
+    "POLYX"
   ],
   "scores": [
-    170,
     168,
     166,
-    164,
     162,
-    160
+    162,
+    162,
+    158
   ],
-  "timestamp": "2026-01-20T16:21:56.948399",
+  "timestamp": "2026-01-20T16:58:19.446340",
   "bucket": "90k-400k"
 }

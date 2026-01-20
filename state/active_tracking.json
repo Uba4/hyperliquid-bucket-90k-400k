@@ -71,15 +71,6 @@
     "tracking_until": "2026-01-20T22:56:28.175433",
     "entry_volume": 355377.068923
   },
-  "INJ": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T13:32:54.572447",
-    "exit_time": "2026-01-10T16:24:58.746849",
-    "last_bar_collected": 1631,
-    "tracking_until": "2026-01-20T16:24:58.746849",
-    "entry_volume": 369954.5666
-  },
   "IOTA": {
     "current_run": 10,
     "status": "post_exit",
@@ -306,13 +297,13 @@
     "entry_volume": 203384.026342
   },
   "POLYX": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T07:55:55.089799",
-    "exit_time": "2026-01-19T11:13:35.767753",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T16:58:19.445905",
+    "exit_time": null,
     "last_bar_collected": 1604,
-    "tracking_until": "2026-01-29T11:13:35.767753",
-    "entry_volume": 157947.914129
+    "tracking_until": null,
+    "entry_volume": 108681.943279
   },
   "APEX": {
     "current_run": 12,
@@ -468,13 +459,13 @@
     "entry_volume": 279432.704561
   },
   "BANANA": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T09:03:30.794086",
-    "exit_time": "2026-01-20T11:33:54.472677",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T16:58:19.445905",
+    "exit_time": null,
     "last_bar_collected": 1526,
-    "tracking_until": "2026-01-30T11:33:54.472677",
-    "entry_volume": 201673.30642
+    "tracking_until": null,
+    "entry_volume": 186446.72605
   },
   "ALT": {
     "current_run": 6,
@@ -757,11 +748,11 @@
   },
   "PROMPT": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T12:25:50.456355",
-    "exit_time": null,
+    "exit_time": "2026-01-20T16:58:19.445905",
     "last_bar_collected": 1154,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T16:58:19.445905",
     "entry_volume": 242644.826337
   },
   "MORPHO": {
@@ -847,11 +838,11 @@
   },
   "STABLE": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T11:33:54.472677",
-    "exit_time": null,
+    "exit_time": "2026-01-20T16:58:19.445905",
     "last_bar_collected": 865,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T16:58:19.445905",
     "entry_volume": 247497.826595
   },
   "JUP": {
