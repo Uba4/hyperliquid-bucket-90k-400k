@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BLUR",
-    "BIGTIME",
     "YGG",
-    "MEME",
+    "BIGTIME",
     "USUAL",
-    "GMT"
+    "GMT",
+    "GRIFFAIN"
   ],
   "scores": [
-    166,
-    164,
-    162,
     160,
     158,
-    156
+    156,
+    154,
+    152,
+    150
   ],
-  "timestamp": "2026-01-20T05:29:43.436724",
+  "timestamp": "2026-01-20T05:55:31.316470",
   "bucket": "90k-400k"
 }
