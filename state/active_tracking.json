@@ -197,15 +197,6 @@
     "tracking_until": "2026-01-26T05:00:42.082810",
     "entry_volume": 137169.611271
   },
-  "FTT": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-10T15:27:47.030395",
-    "exit_time": "2026-01-10T15:55:01.489153",
-    "last_bar_collected": 1581,
-    "tracking_until": "2026-01-20T15:55:01.489153",
-    "entry_volume": 85344.606296
-  },
   "PURR": {
     "current_run": 18,
     "status": "post_exit",
@@ -415,11 +406,11 @@
   },
   "DOOD": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T10:42:59.704009",
-    "exit_time": null,
+    "exit_time": "2026-01-20T16:21:56.947958",
     "last_bar_collected": 1547,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T16:21:56.947958",
     "entry_volume": 281493.2483019999
   },
   "PROVE": {
@@ -685,11 +676,11 @@
   },
   "YGG": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T15:18:04.945307",
-    "exit_time": null,
+    "exit_time": "2026-01-20T16:21:56.947958",
     "last_bar_collected": 1303,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T16:21:56.947958",
     "entry_volume": 248069.9620869999
   },
   "ETHFI": {
@@ -747,13 +738,13 @@
     "entry_volume": 129083.791007
   },
   "HMSTR": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T08:35:36.073682",
-    "exit_time": "2026-01-20T12:25:50.456355",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T16:21:56.947958",
+    "exit_time": null,
     "last_bar_collected": 1178,
-    "tracking_until": "2026-01-30T12:25:50.456355",
-    "entry_volume": 114252.988444
+    "tracking_until": null,
+    "entry_volume": 138742.771479
   },
   "kLUNC": {
     "current_run": 6,
@@ -801,13 +792,13 @@
     "entry_volume": 374247.1435390001
   },
   "NXPC": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T10:42:59.704009",
-    "exit_time": "2026-01-20T12:25:50.456355",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T16:21:56.947958",
+    "exit_time": null,
     "last_bar_collected": 1032,
-    "tracking_until": "2026-01-30T12:25:50.456355",
-    "entry_volume": 98071.07381
+    "tracking_until": null,
+    "entry_volume": 88180.45502
   },
   "KAITO": {
     "current_run": 3,
