@@ -2,10 +2,10 @@
   "tokens": [
     "SYRUP",
     "ZEREBRO",
-    "LINEA",
-    "MEGA",
     "HMSTR",
-    "BANANA"
+    "MEGA",
+    "BANANA",
+    "LINEA"
   ],
   "scores": [
     164,
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-20T09:46:13.825872",
+  "timestamp": "2026-01-20T10:02:26.768360",
   "bucket": "90k-400k"
 }
