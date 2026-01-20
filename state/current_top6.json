@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "NXPC",
     "HEMI",
-    "PURR",
-    "LAYER",
+    "NXPC",
     "GMX",
-    "MELANIA"
+    "MELANIA",
+    "ETHFI",
+    "PURR"
   ],
   "scores": [
-    170,
     168,
     166,
     164,
     162,
-    160
+    160,
+    158
   ],
-  "timestamp": "2026-01-20T20:19:32.582667",
+  "timestamp": "2026-01-20T20:52:06.738396",
   "bucket": "90k-400k"
 }
