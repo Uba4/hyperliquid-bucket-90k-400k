@@ -334,11 +334,11 @@
   },
   "USUAL": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T02:53:17.958103",
-    "exit_time": null,
+    "exit_time": "2026-01-20T07:04:54.963813",
     "last_bar_collected": 1557,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T07:04:54.963813",
     "entry_volume": 243251.42405
   },
   "ANIME": {
@@ -495,13 +495,13 @@
     "entry_volume": 174734.198166
   },
   "PEOPLE": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T20:34:51.363051",
-    "exit_time": "2026-01-19T23:35:03.798776",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T07:04:54.963813",
+    "exit_time": null,
     "last_bar_collected": 1480,
-    "tracking_until": "2026-01-29T23:35:03.798776",
-    "entry_volume": 220113.142551
+    "tracking_until": null,
+    "entry_volume": 170078.4561320001
   },
   "TNSR": {
     "current_run": 10,
