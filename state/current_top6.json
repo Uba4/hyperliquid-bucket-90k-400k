@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "ACE",
     "NXPC",
+    "ACE",
     "BANANA",
     "STABLE",
-    "HMSTR",
+    "PURR",
     "USUAL"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     160,
     158
   ],
-  "timestamp": "2026-01-20T17:38:31.472556",
+  "timestamp": "2026-01-20T17:59:40.218600",
   "bucket": "90k-400k"
 }
