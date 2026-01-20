@@ -2,19 +2,19 @@
   "tokens": [
     "GMX",
     "HEMI",
-    "ETHFI",
     "NXPC",
     "APEX",
+    "ZEREBRO",
     "MELANIA"
   ],
   "scores": [
-    168,
     166,
     164,
     162,
     160,
-    158
+    158,
+    156
   ],
-  "timestamp": "2026-01-20T21:51:25.771861",
+  "timestamp": "2026-01-20T22:14:17.005068",
   "bucket": "90k-400k"
 }

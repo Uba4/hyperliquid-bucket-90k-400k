@@ -90,13 +90,13 @@
     "entry_volume": 172363.9732630001
   },
   "ZEREBRO": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T08:35:36.073682",
-    "exit_time": "2026-01-20T11:02:22.412427",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T22:14:17.004883",
+    "exit_time": null,
     "last_bar_collected": 1637,
-    "tracking_until": "2026-01-30T11:02:22.412427",
-    "entry_volume": 236075.1708979999
+    "tracking_until": null,
+    "entry_volume": 179143.672385
   },
   "JTO": {
     "current_run": 3,
@@ -676,11 +676,11 @@
   },
   "ETHFI": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T20:52:06.738189",
-    "exit_time": null,
+    "exit_time": "2026-01-20T22:14:17.004883",
     "last_bar_collected": 1332,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T22:14:17.004883",
     "entry_volume": 427995.525225
   },
   "HYPER": {
