@@ -2,19 +2,19 @@
   "tokens": [
     "MINA",
     "PROVE",
-    "SUSHI",
+    "MEME",
     "MEGA",
-    "BABY",
-    "COMP"
+    "PURR",
+    "SUSHI"
   ],
   "scores": [
+    160,
+    158,
+    156,
     154,
     152,
-    150,
-    148,
-    146,
-    144
+    148
   ],
-  "timestamp": "2026-01-19T23:50:41.817792",
+  "timestamp": "2026-01-20T00:46:43.068534",
   "bucket": "90k-400k"
 }
