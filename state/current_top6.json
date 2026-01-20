@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "DOOD",
     "STABLE",
-    "GMX",
     "BLUR",
-    "MINA",
+    "REZ",
+    "DOOD",
+    "GMX",
     "PROMPT"
   ],
   "scores": [
+    166,
     164,
     162,
     160,
     158,
-    156,
-    152
+    156
   ],
-  "timestamp": "2026-01-20T12:25:50.456766",
+  "timestamp": "2026-01-20T13:28:14.893288",
   "bucket": "90k-400k"
 }
