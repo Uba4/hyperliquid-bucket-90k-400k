@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "SYRUP",
     "DOOD",
+    "SYRUP",
     "NXPC",
     "HMSTR",
-    "MEGA",
-    "BANANA"
+    "STABLE",
+    "GMX"
   ],
   "scores": [
     164,
@@ -15,6 +15,6 @@
     156,
     154
   ],
-  "timestamp": "2026-01-20T11:02:22.412576",
+  "timestamp": "2026-01-20T11:33:54.473064",
   "bucket": "90k-400k"
 }
