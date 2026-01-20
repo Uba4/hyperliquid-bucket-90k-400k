@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "LINEA",
+    "SYRUP",
     "ZEREBRO",
-    "HMSTR",
+    "LINEA",
     "MEGA",
-    "BANANA",
-    "kNEIRO"
+    "HMSTR",
+    "BANANA"
   ],
   "scores": [
+    164,
     162,
     160,
     158,
     156,
-    154,
-    152
+    154
   ],
-  "timestamp": "2026-01-20T09:03:30.794460",
+  "timestamp": "2026-01-20T09:46:13.825872",
   "bucket": "90k-400k"
 }
