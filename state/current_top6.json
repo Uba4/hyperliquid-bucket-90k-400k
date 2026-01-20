@@ -3,9 +3,9 @@
     "HEMI",
     "NXPC",
     "GMX",
-    "MELANIA",
     "ETHFI",
-    "PURR"
+    "MELANIA",
+    "APEX"
   ],
   "scores": [
     168,
@@ -15,6 +15,6 @@
     160,
     158
   ],
-  "timestamp": "2026-01-20T20:52:06.738396",
+  "timestamp": "2026-01-20T21:14:55.001059",
   "bucket": "90k-400k"
 }
