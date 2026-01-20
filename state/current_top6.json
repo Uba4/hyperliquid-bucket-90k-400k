@@ -1,11 +1,11 @@
 {
   "tokens": [
     "GMX",
-    "HEMI",
-    "NXPC",
-    "APEX",
     "ZEREBRO",
-    "SUSHI"
+    "HEMI",
+    "APEX",
+    "NXPC",
+    "PEOPLE"
   ],
   "scores": [
     166,
@@ -13,8 +13,8 @@
     162,
     160,
     158,
-    154
+    156
   ],
-  "timestamp": "2026-01-20T22:39:47.378295",
+  "timestamp": "2026-01-20T22:56:04.249255",
   "bucket": "90k-400k"
 }

@@ -118,11 +118,11 @@
   },
   "SUSHI": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T22:39:47.378081",
-    "exit_time": null,
+    "exit_time": "2026-01-20T22:56:04.249057",
     "last_bar_collected": 1635,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T22:56:04.249057",
     "entry_volume": 177900.093021
   },
   "REZ": {
@@ -477,13 +477,13 @@
     "entry_volume": 174734.198166
   },
   "PEOPLE": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T07:04:54.963813",
-    "exit_time": "2026-01-20T09:03:30.794086",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T22:56:04.249057",
+    "exit_time": null,
     "last_bar_collected": 1542,
-    "tracking_until": "2026-01-30T09:03:30.794086",
-    "entry_volume": 170078.4561320001
+    "tracking_until": null,
+    "entry_volume": 149820.928577
   },
   "TNSR": {
     "current_run": 10,
