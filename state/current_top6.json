@@ -2,10 +2,10 @@
   "tokens": [
     "SYRUP",
     "LINEA",
-    "PEOPLE",
-    "ZORA",
-    "YGG",
-    "ACE"
+    "HMSTR",
+    "ZEREBRO",
+    "kNEIRO",
+    "PEOPLE"
   ],
   "scores": [
     164,
@@ -13,8 +13,8 @@
     158,
     158,
     156,
-    156
+    154
   ],
-  "timestamp": "2026-01-20T07:55:52.362838",
+  "timestamp": "2026-01-20T08:35:36.074125",
   "bucket": "90k-400k"
 }
