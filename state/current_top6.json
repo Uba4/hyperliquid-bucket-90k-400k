@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "GMX",
     "ZEREBRO",
-    "HEMI",
+    "GMX",
     "APEX",
-    "NXPC",
-    "PEOPLE"
+    "SUSHI",
+    "TNSR",
+    "VINE"
   ],
   "scores": [
     166,
     164,
     162,
     160,
-    158,
+    157,
     156
   ],
-  "timestamp": "2026-01-20T22:56:04.249255",
+  "timestamp": "2026-01-20T23:25:31.463823",
   "bucket": "90k-400k"
 }
