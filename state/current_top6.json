@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "HEMI",
     "GMX",
-    "NXPC",
+    "HEMI",
     "ETHFI",
-    "MELANIA",
-    "APEX"
+    "NXPC",
+    "APEX",
+    "MELANIA"
   ],
   "scores": [
     168,
@@ -15,6 +15,6 @@
     160,
     158
   ],
-  "timestamp": "2026-01-20T21:38:50.136636",
+  "timestamp": "2026-01-20T21:51:25.771861",
   "bucket": "90k-400k"
 }
