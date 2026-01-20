@@ -2,10 +2,10 @@
   "tokens": [
     "DOOD",
     "STABLE",
-    "SYRUP",
-    "NXPC",
     "GMX",
-    "HMSTR"
+    "BLUR",
+    "MINA",
+    "PROMPT"
   ],
   "scores": [
     164,
@@ -13,8 +13,8 @@
     160,
     158,
     156,
-    154
+    152
   ],
-  "timestamp": "2026-01-20T11:51:25.911513",
+  "timestamp": "2026-01-20T12:25:50.456766",
   "bucket": "90k-400k"
 }

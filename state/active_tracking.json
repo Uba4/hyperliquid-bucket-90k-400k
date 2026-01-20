@@ -55,11 +55,11 @@
   },
   "SYRUP": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T09:46:13.825675",
-    "exit_time": null,
+    "exit_time": "2026-01-20T12:25:50.456355",
     "last_bar_collected": 1594,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T12:25:50.456355",
     "entry_volume": 432892.15074
   },
   "TIA": {
@@ -90,13 +90,13 @@
     "entry_volume": 161663.8095450001
   },
   "MINA": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T22:32:53.608784",
-    "exit_time": "2026-01-20T02:53:17.958103",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T12:25:50.456355",
+    "exit_time": null,
     "last_bar_collected": 1601,
-    "tracking_until": "2026-01-30T02:53:17.958103",
-    "entry_volume": 121557.574259
+    "tracking_until": null,
+    "entry_volume": 172363.9732630001
   },
   "ZEREBRO": {
     "current_run": 17,
@@ -612,13 +612,13 @@
     "entry_volume": 347852.3832860001
   },
   "BLUR": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T04:55:26.621888",
-    "exit_time": "2026-01-20T07:39:49.750320",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T12:25:50.456355",
+    "exit_time": null,
     "last_bar_collected": 1402,
-    "tracking_until": "2026-01-30T07:39:49.750320",
-    "entry_volume": 382687.361848
+    "tracking_until": null,
+    "entry_volume": 359557.0977490001
   },
   "SAND": {
     "current_run": 5,
@@ -748,11 +748,11 @@
   },
   "HMSTR": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T08:35:36.073682",
-    "exit_time": null,
+    "exit_time": "2026-01-20T12:25:50.456355",
     "last_bar_collected": 1163,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T12:25:50.456355",
     "entry_volume": 114252.988444
   },
   "kLUNC": {
@@ -765,13 +765,13 @@
     "entry_volume": 210229.439439
   },
   "PROMPT": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T05:48:37.355620",
-    "exit_time": "2026-01-19T09:48:17.778156",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-20T12:25:50.456355",
+    "exit_time": null,
     "last_bar_collected": 1136,
-    "tracking_until": "2026-01-29T09:48:17.778156",
-    "entry_volume": 167984.819506
+    "tracking_until": null,
+    "entry_volume": 242644.826337
   },
   "MORPHO": {
     "current_run": 7,
@@ -802,11 +802,11 @@
   },
   "NXPC": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-20T10:42:59.704009",
-    "exit_time": null,
+    "exit_time": "2026-01-20T12:25:50.456355",
     "last_bar_collected": 1016,
-    "tracking_until": null,
+    "tracking_until": "2026-01-30T12:25:50.456355",
     "entry_volume": 98071.07381
   },
   "KAITO": {
