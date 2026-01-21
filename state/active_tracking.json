@@ -289,11 +289,11 @@
   },
   "APEX": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T06:53:22.639297",
-    "exit_time": null,
+    "exit_time": "2026-01-21T09:51:42.991681",
     "last_bar_collected": 1670,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T09:51:42.991681",
     "entry_volume": 302987.6997600001
   },
   "USUAL": {
@@ -315,13 +315,13 @@
     "entry_volume": 418060.5129900003
   },
   "MANTA": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T10:50:29.907813",
-    "exit_time": "2026-01-19T12:33:39.292644",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T09:51:42.991681",
+    "exit_time": null,
     "last_bar_collected": 1670,
-    "tracking_until": "2026-01-29T12:33:39.292644",
-    "entry_volume": 275643.5852819999
+    "tracking_until": null,
+    "entry_volume": 117410.678261
   },
   "NOT": {
     "current_run": 5,
