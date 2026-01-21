@@ -63,13 +63,13 @@
     "entry_volume": 161663.8095450001
   },
   "MINA": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T12:25:50.456355",
-    "exit_time": "2026-01-20T13:28:14.893032",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T19:59:57.025118",
+    "exit_time": null,
     "last_bar_collected": 1726,
-    "tracking_until": "2026-01-30T13:28:14.893032",
-    "entry_volume": 172363.9732630001
+    "tracking_until": null,
+    "entry_volume": 190434.366313
   },
   "ZEREBRO": {
     "current_run": 21,
@@ -289,11 +289,11 @@
   },
   "APEX": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T19:00:06.334445",
-    "exit_time": null,
+    "exit_time": "2026-01-21T19:59:57.025118",
     "last_bar_collected": 1708,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T19:59:57.025118",
     "entry_volume": 328597.8815400001
   },
   "USUAL": {
@@ -808,15 +808,6 @@
     "last_bar_collected": 972,
     "tracking_until": "2026-01-30T19:05:38.155787",
     "entry_volume": 429673.944333
-  },
-  "JUP": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-11T18:40:23.355906",
-    "exit_time": "2026-01-11T19:55:14.053766",
-    "last_bar_collected": 964,
-    "tracking_until": "2026-01-21T19:55:14.053766",
-    "entry_volume": 416644.81184
   },
   "ZORA": {
     "current_run": 5,
