@@ -73,11 +73,11 @@
   },
   "ZEREBRO": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T14:25:16.285888",
-    "exit_time": null,
+    "exit_time": "2026-01-21T14:57:57.920927",
     "last_bar_collected": 1700,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T14:57:57.920927",
     "entry_volume": 267165.432712
   },
   "JTO": {
@@ -621,13 +621,13 @@
     "entry_volume": 411917.988271
   },
   "HEMI": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T13:53:07.679219",
-    "exit_time": "2026-01-21T14:25:16.285888",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T14:57:57.920927",
+    "exit_time": null,
     "last_bar_collected": 1475,
-    "tracking_until": "2026-01-31T14:25:16.285888",
-    "entry_volume": 289516.7746179999
+    "tracking_until": null,
+    "entry_volume": 281667.9142749999
   },
   "0G": {
     "current_run": 7,
