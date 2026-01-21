@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "TNSR",
     "MAVIA",
+    "TNSR",
     "APEX",
     "ZEREBRO",
-    "STBL",
-    "2Z"
+    "2Z",
+    "STBL"
   ],
   "scores": [
     162,
     160,
+    158,
     156,
-    154,
     154,
     152
   ],
-  "timestamp": "2026-01-21T06:53:22.639905",
+  "timestamp": "2026-01-21T07:24:32.352171",
   "bucket": "90k-400k"
 }
