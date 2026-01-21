@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PURR",
-    "kNEIRO",
-    "ZORA",
-    "ANIME",
     "MINA",
-    "GMX"
+    "kNEIRO",
+    "PURR",
+    "ZORA",
+    "IMX",
+    "ANIME"
   ],
   "scores": [
-    162,
-    160,
+    164,
+    161,
+    161,
     158,
     156,
-    154,
-    150
+    154
   ],
-  "timestamp": "2026-01-21T20:42:00.462856",
+  "timestamp": "2026-01-21T21:05:07.421431",
   "bucket": "90k-400k"
 }

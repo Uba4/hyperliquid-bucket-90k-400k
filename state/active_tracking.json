@@ -640,11 +640,11 @@
   },
   "GMX": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T20:42:00.462696",
-    "exit_time": null,
+    "exit_time": "2026-01-21T21:05:07.421207",
     "last_bar_collected": 1442,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T21:05:07.421207",
     "entry_volume": 119201.270287
   },
   "YGG": {
@@ -756,13 +756,13 @@
     "entry_volume": 111911.135759
   },
   "IMX": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T15:54:28.719752",
-    "exit_time": "2026-01-17T16:43:53.554819",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T21:05:07.421207",
+    "exit_time": null,
     "last_bar_collected": 1150,
-    "tracking_until": "2026-01-27T16:43:53.554819",
-    "entry_volume": 374247.1435390001
+    "tracking_until": null,
+    "entry_volume": 240078.91284
   },
   "NXPC": {
     "current_run": 8,
