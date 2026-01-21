@@ -2,9 +2,9 @@
   "tokens": [
     "TNSR",
     "GMT",
+    "YGG",
     "WCT",
     "SUSHI",
-    "YGG",
     "MEW"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     150,
     148
   ],
-  "timestamp": "2026-01-21T04:42:16.472275",
+  "timestamp": "2026-01-21T05:17:23.954766",
   "bucket": "90k-400k"
 }
