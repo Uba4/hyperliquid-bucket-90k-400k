@@ -1,10 +1,10 @@
 {
   "tokens": [
     "MANTA",
-    "GRASS",
     "GRIFFAIN",
+    "GRASS",
+    "2Z",
     "MEW",
-    "MELANIA",
     "kNEIRO"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-21T10:52:22.701496",
+  "timestamp": "2026-01-21T11:18:12.341395",
   "bucket": "90k-400k"
 }
