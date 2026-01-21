@@ -261,13 +261,13 @@
     "entry_volume": 436806.7982220001
   },
   "IO": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T18:39:07.545576",
-    "exit_time": "2026-01-18T22:27:31.806687",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T11:57:00.878932",
+    "exit_time": null,
     "last_bar_collected": 1671,
-    "tracking_until": "2026-01-28T22:27:31.806687",
-    "entry_volume": 393550.7255049999
+    "tracking_until": null,
+    "entry_volume": 312162.2198210002
   },
   "GRIFFAIN": {
     "current_run": 18,
@@ -675,13 +675,13 @@
     "entry_volume": 97067.87194
   },
   "XAI": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T05:00:42.082810",
-    "exit_time": "2026-01-16T11:30:08.960102",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T11:57:00.878932",
+    "exit_time": null,
     "last_bar_collected": 1349,
-    "tracking_until": "2026-01-26T11:30:08.960102",
-    "entry_volume": 174842.078561
+    "tracking_until": null,
+    "entry_volume": 136801.2778200001
   },
   "MERL": {
     "current_run": 11,
@@ -748,11 +748,11 @@
   },
   "GRASS": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T09:20:20.255448",
-    "exit_time": null,
+    "exit_time": "2026-01-21T11:57:00.878932",
     "last_bar_collected": 1146,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T11:57:00.878932",
     "entry_volume": 111911.135759
   },
   "IMX": {
@@ -955,11 +955,11 @@
   },
   "MEW": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T10:52:22.701159",
-    "exit_time": null,
+    "exit_time": "2026-01-21T11:57:00.878932",
     "last_bar_collected": 1599,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T11:57:00.878932",
     "entry_volume": 138761.5765870001
   },
   "RENDER": {

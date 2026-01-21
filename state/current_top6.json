@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MANTA",
-    "GRIFFAIN",
     "2Z",
-    "MEW",
+    "GRIFFAIN",
     "kNEIRO",
-    "GRASS"
+    "XAI",
+    "IO"
   ],
   "scores": [
     158,
@@ -13,8 +13,8 @@
     154,
     152,
     150,
-    148
+    146
   ],
-  "timestamp": "2026-01-21T11:42:43.331729",
+  "timestamp": "2026-01-21T11:57:00.879279",
   "bucket": "90k-400k"
 }
