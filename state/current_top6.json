@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "GRIFFAIN",
-    "MELANIA",
-    "MAVIA",
-    "GRASS",
     "MANTA",
-    "SOPH"
+    "GRASS",
+    "GRIFFAIN",
+    "MEW",
+    "MELANIA",
+    "kNEIRO"
   ],
   "scores": [
     160,
-    160,
-    156,
+    158,
     156,
     154,
-    154
+    152,
+    150
   ],
-  "timestamp": "2026-01-21T10:18:21.257912",
+  "timestamp": "2026-01-21T10:52:22.701496",
   "bucket": "90k-400k"
 }
