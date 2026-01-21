@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZEREBRO",
-    "APEX",
-    "GMX",
     "VINE",
+    "MAVIA",
+    "MELANIA",
     "SUSHI",
-    "TNSR"
+    "kLUNC",
+    "USUAL"
   ],
   "scores": [
-    168,
-    166,
-    164,
     162,
     160,
-    158
+    158,
+    156,
+    154,
+    150
   ],
-  "timestamp": "2026-01-20T23:57:32.274942",
+  "timestamp": "2026-01-21T02:19:32.612449",
   "bucket": "90k-400k"
 }
