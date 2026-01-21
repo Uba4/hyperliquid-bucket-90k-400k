@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "VINE",
-    "MAVIA",
-    "MELANIA",
+    "WCT",
     "SUSHI",
-    "kLUNC",
-    "USUAL"
+    "VINE",
+    "GMT",
+    "TNSR",
+    "YGG"
   ],
   "scores": [
-    162,
     160,
     158,
     156,
     154,
+    152,
     150
   ],
-  "timestamp": "2026-01-21T02:19:32.612449",
+  "timestamp": "2026-01-21T03:54:13.687159",
   "bucket": "90k-400k"
 }
