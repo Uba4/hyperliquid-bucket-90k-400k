@@ -72,13 +72,13 @@
     "entry_volume": 172363.9732630001
   },
   "ZEREBRO": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T14:25:16.285888",
-    "exit_time": "2026-01-21T14:57:57.920927",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T19:37:10.131968",
+    "exit_time": null,
     "last_bar_collected": 1721,
-    "tracking_until": "2026-01-31T14:57:57.920927",
-    "entry_volume": 267165.432712
+    "tracking_until": null,
+    "entry_volume": 276061.3769840001
   },
   "JTO": {
     "current_run": 3,
@@ -306,13 +306,13 @@
     "entry_volume": 173862.801356
   },
   "ANIME": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T17:33:25.959339",
-    "exit_time": "2026-01-19T20:34:51.363051",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T19:37:10.131968",
+    "exit_time": null,
     "last_bar_collected": 1715,
-    "tracking_until": "2026-01-29T20:34:51.363051",
-    "entry_volume": 418060.5129900003
+    "tracking_until": null,
+    "entry_volume": 308653.7954860001
   },
   "MANTA": {
     "current_run": 9,
@@ -523,11 +523,11 @@
   },
   "RUNE": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T17:14:44.517354",
-    "exit_time": null,
+    "exit_time": "2026-01-21T19:37:10.131968",
     "last_bar_collected": 1590,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T19:37:10.131968",
     "entry_volume": 207019.961923
   },
   "AIXBT": {
@@ -991,11 +991,11 @@
   },
   "MELANIA": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T19:00:06.334445",
-    "exit_time": null,
+    "exit_time": "2026-01-21T19:37:10.131968",
     "last_bar_collected": 341,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T19:37:10.131968",
     "entry_volume": 388174.978696
   },
   "S": {
