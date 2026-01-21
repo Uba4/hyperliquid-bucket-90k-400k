@@ -90,13 +90,13 @@
     "entry_volume": 192293.5254500001
   },
   "GALA": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T15:26:39.558057",
-    "exit_time": "2026-01-17T18:56:47.061065",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T23:33:10.563521",
+    "exit_time": null,
     "last_bar_collected": 1649,
-    "tracking_until": "2026-01-27T18:56:47.061065",
-    "entry_volume": 250116.081126
+    "tracking_until": null,
+    "entry_volume": 228406.332126
   },
   "SUSHI": {
     "current_run": 10,
@@ -370,11 +370,11 @@
   },
   "kNEIRO": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T15:41:03.562378",
-    "exit_time": null,
+    "exit_time": "2026-01-21T23:33:10.563521",
     "last_bar_collected": 1683,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T23:33:10.563521",
     "entry_volume": 177256.689028
   },
   "DOOD": {

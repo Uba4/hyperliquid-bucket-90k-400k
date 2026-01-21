@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MINA",
-    "IMX",
-    "kNEIRO",
     "MEW",
     "MORPHO",
-    "NIL"
+    "NIL",
+    "IMX",
+    "GALA"
   ],
   "scores": [
     164,
@@ -13,8 +13,8 @@
     160,
     158,
     156,
-    154
+    152
   ],
-  "timestamp": "2026-01-21T22:58:13.747959",
+  "timestamp": "2026-01-21T23:33:10.563751",
   "bucket": "90k-400k"
 }
