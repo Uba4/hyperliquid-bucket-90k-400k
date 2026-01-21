@@ -3,18 +3,18 @@
     "MINA",
     "kNEIRO",
     "PURR",
-    "ZORA",
     "IMX",
-    "ANIME"
+    "ANIME",
+    "ZORA"
   ],
   "scores": [
     164,
-    161,
-    161,
+    162,
+    160,
     158,
     156,
     154
   ],
-  "timestamp": "2026-01-21T21:05:07.421431",
+  "timestamp": "2026-01-21T21:40:46.766440",
   "bucket": "90k-400k"
 }
