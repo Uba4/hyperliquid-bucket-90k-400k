@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MANTA",
     "2Z",
-    "GRIFFAIN",
-    "IO",
-    "kNEIRO",
-    "GOAT"
+    "WCT",
+    "CAKE",
+    "REZ",
+    "MOVE",
+    "HEMI"
   ],
   "scores": [
-    156,
     154,
     152,
     150,
     148,
-    146
+    146,
+    144
   ],
-  "timestamp": "2026-01-21T13:00:08.353684",
+  "timestamp": "2026-01-21T13:53:07.679821",
   "bucket": "90k-400k"
 }
