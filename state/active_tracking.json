@@ -748,11 +748,11 @@
   },
   "GRASS": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T07:50:20.238355",
-    "exit_time": null,
+    "exit_time": "2026-01-21T08:02:06.384349",
     "last_bar_collected": 1134,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T08:02:06.384349",
     "entry_volume": 110558.249869
   },
   "IMX": {
@@ -1008,13 +1008,13 @@
     "entry_volume": 247483.35176
   },
   "MELANIA": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T02:19:32.611851",
-    "exit_time": "2026-01-21T03:54:13.686645",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T08:02:06.384349",
+    "exit_time": null,
     "last_bar_collected": 296,
-    "tracking_until": "2026-01-31T03:54:13.686645",
-    "entry_volume": 282923.0130340001
+    "tracking_until": null,
+    "entry_volume": 296595.853415
   },
   "S": {
     "current_run": 1,
