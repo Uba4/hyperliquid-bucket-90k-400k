@@ -45,13 +45,13 @@
     "entry_volume": 365510.8414140001
   },
   "SYRUP": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T09:46:13.825675",
-    "exit_time": "2026-01-20T12:25:50.456355",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T18:07:55.128614",
+    "exit_time": null,
     "last_bar_collected": 1716,
-    "tracking_until": "2026-01-30T12:25:50.456355",
-    "entry_volume": 432892.15074
+    "tracking_until": null,
+    "entry_volume": 434631.9455299999
   },
   "IOTA": {
     "current_run": 10,
@@ -297,13 +297,13 @@
     "entry_volume": 302987.6997600001
   },
   "USUAL": {
-    "current_run": 22,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T02:19:32.611851",
-    "exit_time": "2026-01-21T03:54:13.686645",
+    "current_run": 23,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T18:07:55.128614",
+    "exit_time": null,
     "last_bar_collected": 1695,
-    "tracking_until": "2026-01-31T03:54:13.686645",
-    "entry_volume": 246377.453122
+    "tracking_until": null,
+    "entry_volume": 173862.801356
   },
   "ANIME": {
     "current_run": 6,
@@ -532,11 +532,11 @@
   },
   "AIXBT": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T15:41:03.562378",
-    "exit_time": null,
+    "exit_time": "2026-01-21T18:07:55.128614",
     "last_bar_collected": 1574,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T18:07:55.128614",
     "entry_volume": 212200.094974
   },
   "BABY": {
@@ -568,11 +568,11 @@
   },
   "ZK": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T17:14:44.517354",
-    "exit_time": null,
+    "exit_time": "2026-01-21T18:07:55.128614",
     "last_bar_collected": 1540,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T18:07:55.128614",
     "entry_volume": 226776.00724
   },
   "BLUR": {
