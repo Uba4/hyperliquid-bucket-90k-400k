@@ -2,19 +2,19 @@
   "tokens": [
     "MINA",
     "kNEIRO",
-    "PURR",
     "IMX",
     "ANIME",
-    "ZORA"
+    "CELO",
+    "MORPHO"
   ],
   "scores": [
-    164,
-    162,
     160,
     158,
     156,
-    154
+    152,
+    150,
+    150
   ],
-  "timestamp": "2026-01-21T21:40:46.766440",
+  "timestamp": "2026-01-21T21:58:55.316647",
   "bucket": "90k-400k"
 }
