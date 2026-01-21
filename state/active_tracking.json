@@ -91,11 +91,11 @@
   },
   "GALA": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T23:33:10.563521",
-    "exit_time": null,
+    "exit_time": "2026-01-21T23:53:18.726505",
     "last_bar_collected": 1649,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T23:53:18.726505",
     "entry_volume": 228406.332126
   },
   "SUSHI": {
@@ -189,13 +189,13 @@
     "entry_volume": 337429.8965670002
   },
   "CELO": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T21:58:55.316355",
-    "exit_time": "2026-01-21T22:35:38.046893",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T23:53:18.726505",
+    "exit_time": null,
     "last_bar_collected": 1686,
-    "tracking_until": "2026-01-31T22:35:38.046893",
-    "entry_volume": 304469.2166200001
+    "tracking_until": null,
+    "entry_volume": 292635.1067799999
   },
   "PYTH": {
     "current_run": 7,

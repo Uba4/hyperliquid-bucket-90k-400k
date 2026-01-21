@@ -2,19 +2,19 @@
   "tokens": [
     "MINA",
     "MEW",
-    "MORPHO",
     "NIL",
-    "IMX",
-    "GALA"
+    "MORPHO",
+    "CELO",
+    "IMX"
   ],
   "scores": [
-    164,
     162,
     160,
     158,
     156,
+    154,
     152
   ],
-  "timestamp": "2026-01-21T23:33:10.563751",
+  "timestamp": "2026-01-21T23:53:18.726777",
   "bucket": "90k-400k"
 }
