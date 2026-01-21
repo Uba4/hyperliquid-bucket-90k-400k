@@ -622,11 +622,11 @@
   },
   "HEMI": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T14:57:57.920927",
-    "exit_time": null,
+    "exit_time": "2026-01-21T16:04:11.899852",
     "last_bar_collected": 1479,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T16:04:11.899852",
     "entry_volume": 281667.9142749999
   },
   "0G": {
@@ -729,13 +729,13 @@
     "entry_volume": 156282.825261
   },
   "PROMPT": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T12:25:50.456355",
-    "exit_time": "2026-01-20T16:58:19.445905",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T16:04:11.899852",
+    "exit_time": null,
     "last_bar_collected": 1246,
-    "tracking_until": "2026-01-30T16:58:19.445905",
-    "entry_volume": 242644.826337
+    "tracking_until": null,
+    "entry_volume": 252050.9747740001
   },
   "MORPHO": {
     "current_run": 7,

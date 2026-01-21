@@ -1,20 +1,20 @@
 {
   "tokens": [
     "REZ",
-    "WCT",
-    "CAKE",
     "kNEIRO",
-    "HEMI",
-    "AIXBT"
+    "WCT",
+    "AIXBT",
+    "CAKE",
+    "PROMPT"
   ],
   "scores": [
+    164,
+    162,
+    160,
+    158,
     156,
-    154,
-    152,
-    150,
-    148,
-    146
+    154
   ],
-  "timestamp": "2026-01-21T15:41:03.562746",
+  "timestamp": "2026-01-21T16:04:11.900062",
   "bucket": "90k-400k"
 }
