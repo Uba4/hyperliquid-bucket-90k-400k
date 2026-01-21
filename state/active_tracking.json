@@ -469,11 +469,11 @@
   },
   "TNSR": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T03:54:13.686645",
-    "exit_time": null,
+    "exit_time": "2026-01-21T09:20:20.255448",
     "last_bar_collected": 1578,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T09:20:20.255448",
     "entry_volume": 123686.910396
   },
   "SKY": {
@@ -747,13 +747,13 @@
     "entry_volume": 155238.74722
   },
   "GRASS": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T07:50:20.238355",
-    "exit_time": "2026-01-21T08:02:06.384349",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T09:20:20.255448",
+    "exit_time": null,
     "last_bar_collected": 1137,
-    "tracking_until": "2026-01-31T08:02:06.384349",
-    "entry_volume": 110558.249869
+    "tracking_until": null,
+    "entry_volume": 111911.135759
   },
   "IMX": {
     "current_run": 10,

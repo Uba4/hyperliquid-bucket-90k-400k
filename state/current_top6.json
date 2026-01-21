@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MAVIA",
-    "APEX",
-    "TNSR",
     "MELANIA",
     "GRIFFAIN",
-    "SOPH"
+    "SOPH",
+    "APEX",
+    "GRASS"
   ],
   "scores": [
+    162,
     160,
     158,
     156,
     154,
-    152,
-    150
+    152
   ],
-  "timestamp": "2026-01-21T08:47:55.567456",
+  "timestamp": "2026-01-21T09:20:20.255667",
   "bucket": "90k-400k"
 }
