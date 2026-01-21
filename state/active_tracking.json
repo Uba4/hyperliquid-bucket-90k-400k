@@ -73,11 +73,11 @@
   },
   "ZEREBRO": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T06:53:22.639297",
-    "exit_time": null,
+    "exit_time": "2026-01-21T08:47:55.567081",
     "last_bar_collected": 1679,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T08:47:55.567081",
     "entry_volume": 266161.272237
   },
   "JTO": {
@@ -225,13 +225,13 @@
     "entry_volume": 280152.859923
   },
   "SOPH": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T04:35:42.317111",
-    "exit_time": "2026-01-19T06:20:26.918982",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T08:47:55.567081",
+    "exit_time": null,
     "last_bar_collected": 1646,
-    "tracking_until": "2026-01-29T06:20:26.918982",
-    "entry_volume": 126969.646413
+    "tracking_until": null,
+    "entry_volume": 153107.9931620001
   },
   "MOVE": {
     "current_run": 6,
@@ -270,13 +270,13 @@
     "entry_volume": 393550.7255049999
   },
   "GRIFFAIN": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T05:55:31.316256",
-    "exit_time": "2026-01-20T06:38:16.201921",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-21T08:47:55.567081",
+    "exit_time": null,
     "last_bar_collected": 1663,
-    "tracking_until": "2026-01-30T06:38:16.201921",
-    "entry_volume": 203384.026342
+    "tracking_until": null,
+    "entry_volume": 236779.9300169999
   },
   "POLYX": {
     "current_run": 13,
@@ -595,11 +595,11 @@
   },
   "2Z": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-21T06:53:22.639297",
-    "exit_time": null,
+    "exit_time": "2026-01-21T08:47:55.567081",
     "last_bar_collected": 1479,
-    "tracking_until": null,
+    "tracking_until": "2026-01-31T08:47:55.567081",
     "entry_volume": 132968.65684
   },
   "SCR": {

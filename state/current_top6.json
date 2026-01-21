@@ -3,18 +3,18 @@
     "MAVIA",
     "APEX",
     "TNSR",
-    "ZEREBRO",
-    "2Z",
-    "MELANIA"
+    "MELANIA",
+    "GRIFFAIN",
+    "SOPH"
   ],
   "scores": [
-    162,
     160,
     158,
     156,
     154,
-    152
+    152,
+    150
   ],
-  "timestamp": "2026-01-21T08:02:06.384617",
+  "timestamp": "2026-01-21T08:47:55.567456",
   "bucket": "90k-400k"
 }
