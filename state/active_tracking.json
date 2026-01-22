@@ -45,22 +45,13 @@
     "entry_volume": 152142.942264
   },
   "SYRUP": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T18:07:55.128614",
-    "exit_time": "2026-01-21T19:00:06.334445",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T07:45:45.288984",
+    "exit_time": null,
     "last_bar_collected": 1770,
-    "tracking_until": "2026-01-31T19:00:06.334445",
-    "entry_volume": 434631.9455299999
-  },
-  "IOTA": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T05:49:34.993325",
-    "exit_time": "2026-01-12T07:24:49.145720",
-    "last_bar_collected": 1727,
-    "tracking_until": "2026-01-22T07:24:49.145720",
-    "entry_volume": 161663.8095450001
+    "tracking_until": null,
+    "entry_volume": 352369.8876200001
   },
   "MINA": {
     "current_run": 12,
@@ -496,11 +487,11 @@
   },
   "BIGTIME": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T03:17:29.340646",
-    "exit_time": null,
+    "exit_time": "2026-01-22T07:45:45.288984",
     "last_bar_collected": 1637,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T07:45:45.288984",
     "entry_volume": 101902.915748
   },
   "BSV": {
