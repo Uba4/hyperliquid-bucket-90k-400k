@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VINE",
-    "ZEREBRO",
-    "NIL",
-    "MORPHO",
     "CAKE",
-    "PROMPT"
+    "ZEREBRO",
+    "PROMPT",
+    "ALGO",
+    "MNT"
   ],
   "scores": [
     158,
     156,
-    154,
-    152,
+    153,
+    153,
     150,
-    148
+    146
   ],
-  "timestamp": "2026-01-22T21:58:14.290323",
+  "timestamp": "2026-01-22T22:32:04.034371",
   "bucket": "90k-400k"
 }
