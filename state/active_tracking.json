@@ -757,11 +757,11 @@
   },
   "NXPC": {
     "current_run": 10,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T17:06:27.312725",
-    "exit_time": null,
+    "exit_time": "2026-01-22T18:51:14.248398",
     "last_bar_collected": 1229,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T18:51:14.248398",
     "entry_volume": 110230.57968
   },
   "STBL": {
@@ -1015,5 +1015,14 @@
     "last_bar_collected": 1767,
     "tracking_until": "2026-02-01T09:18:52.966289",
     "entry_volume": 81265.935803
+  },
+  "MOODENG": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T18:51:14.248398",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 432411.5139049999
   }
 }

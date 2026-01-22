@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "DOOD",
+    "STBL",
     "NIL",
-    "MELANIA",
-    "NXPC",
-    "STBL"
+    "MOODENG",
+    "MELANIA"
   ],
   "scores": [
+    168,
+    166,
     164,
     162,
     160,
-    158,
-    154,
-    154
+    158
   ],
-  "timestamp": "2026-01-22T18:02:07.235418",
+  "timestamp": "2026-01-22T18:51:14.248627",
   "bucket": "90k-400k"
 }
