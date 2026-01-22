@@ -3,9 +3,9 @@
     "BIGTIME",
     "BLUR",
     "IMX",
-    "YGG",
     "ME",
-    "ACE"
+    "YGG",
+    "MAVIA"
   ],
   "scores": [
     160,
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-22T06:00:53.191313",
+  "timestamp": "2026-01-22T06:51:18.655623",
   "bucket": "90k-400k"
 }
