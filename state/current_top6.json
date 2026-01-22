@@ -1,20 +1,20 @@
 {
   "tokens": [
     "VINE",
-    "CAKE",
     "PROMPT",
+    "CAKE",
     "USUAL",
     "W",
-    "ALGO"
+    "ME"
   ],
   "scores": [
     158,
     156,
     154,
+    152,
     150,
-    148,
     148
   ],
-  "timestamp": "2026-01-22T22:53:25.028675",
+  "timestamp": "2026-01-22T23:17:09.366669",
   "bucket": "90k-400k"
 }
