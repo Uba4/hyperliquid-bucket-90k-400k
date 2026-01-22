@@ -2,19 +2,19 @@
   "tokens": [
     "VINE",
     "CAKE",
-    "ZEREBRO",
     "PROMPT",
-    "ALGO",
-    "MNT"
+    "USUAL",
+    "W",
+    "ALGO"
   ],
   "scores": [
     158,
     156,
-    153,
-    153,
+    154,
     150,
-    146
+    148,
+    148
   ],
-  "timestamp": "2026-01-22T22:32:04.034371",
+  "timestamp": "2026-01-22T22:53:25.028675",
   "bucket": "90k-400k"
 }
