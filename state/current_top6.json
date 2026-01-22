@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MEGA",
-    "DOOD",
     "STBL",
+    "SOPH",
     "NIL",
     "MOODENG",
     "MELANIA"
   ],
   "scores": [
-    168,
     166,
     164,
     162,
     160,
-    158
+    158,
+    156
   ],
-  "timestamp": "2026-01-22T18:51:14.248627",
+  "timestamp": "2026-01-22T19:17:22.226767",
   "bucket": "90k-400k"
 }
