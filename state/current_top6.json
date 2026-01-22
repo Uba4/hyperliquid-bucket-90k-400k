@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "VINE",
     "MINA",
-    "MEW",
-    "NIL",
-    "MORPHO",
-    "CELO",
-    "IMX"
+    "ZETA",
+    "DOOD",
+    "CAKE",
+    "MORPHO"
   ],
   "scores": [
     162,
     160,
-    158,
-    156,
+    157,
+    157,
     154,
     152
   ],
-  "timestamp": "2026-01-21T23:53:18.726777",
+  "timestamp": "2026-01-22T01:18:41.204370",
   "bucket": "90k-400k"
 }
