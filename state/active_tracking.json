@@ -351,13 +351,13 @@
     "entry_volume": 197128.200899
   },
   "ALGO": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T22:54:20.467416",
-    "exit_time": "2026-01-16T23:51:34.377420",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T21:42:56.975704",
+    "exit_time": null,
     "last_bar_collected": 1782,
-    "tracking_until": "2026-01-26T23:51:34.377420",
-    "entry_volume": 270020.2859000001
+    "tracking_until": null,
+    "entry_volume": 125508.29365
   },
   "kNEIRO": {
     "current_run": 11,
@@ -459,13 +459,13 @@
     "entry_volume": 149820.928577
   },
   "TNSR": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T03:54:13.686645",
-    "exit_time": "2026-01-21T09:20:20.255448",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T21:42:56.975704",
+    "exit_time": null,
     "last_bar_collected": 1724,
-    "tracking_until": "2026-01-31T09:20:20.255448",
-    "entry_volume": 123686.910396
+    "tracking_until": null,
+    "entry_volume": 84877.433664
   },
   "SKY": {
     "current_run": 13,
@@ -865,11 +865,11 @@
   },
   "LAYER": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T19:41:38.230926",
-    "exit_time": null,
+    "exit_time": "2026-01-22T21:42:56.975704",
     "last_bar_collected": 1719,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T21:42:56.975704",
     "entry_volume": 101654.40978
   },
   "MEME": {
@@ -1018,11 +1018,11 @@
   },
   "MOODENG": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T18:51:14.248398",
-    "exit_time": null,
+    "exit_time": "2026-01-22T21:42:56.975704",
     "last_bar_collected": 860,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T21:42:56.975704",
     "entry_volume": 432411.5139049999
   }
 }
