@@ -4,17 +4,17 @@
     "STBL",
     "LAYER",
     "NIL",
-    "MOODENG",
-    "SOPH"
+    "ZEREBRO",
+    "MOODENG"
   ],
   "scores": [
-    164,
-    162,
     160,
     158,
     156,
-    154
+    154,
+    152,
+    150
   ],
-  "timestamp": "2026-01-22T19:55:31.436810",
+  "timestamp": "2026-01-22T20:29:04.429905",
   "bucket": "90k-400k"
 }
