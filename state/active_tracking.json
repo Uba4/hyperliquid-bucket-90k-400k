@@ -234,13 +234,13 @@
     "entry_volume": 305406.2735600001
   },
   "MEGA": {
-    "current_run": 22,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T03:17:29.340646",
-    "exit_time": "2026-01-22T05:45:51.345897",
+    "current_run": 23,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T07:58:21.996042",
+    "exit_time": null,
     "last_bar_collected": 1763,
-    "tracking_until": "2026-02-01T05:45:51.345897",
-    "entry_volume": 207561.3307
+    "tracking_until": null,
+    "entry_volume": 185061.7927300001
   },
   "CHILLGUY": {
     "current_run": 14,
@@ -424,11 +424,11 @@
   },
   "ME": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T05:05:02.035960",
-    "exit_time": null,
+    "exit_time": "2026-01-22T07:58:21.996042",
     "last_bar_collected": 1688,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T07:58:21.996042",
     "entry_volume": 231962.881869
   },
   "BANANA": {
