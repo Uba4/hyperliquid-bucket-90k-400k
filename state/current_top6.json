@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "STBL",
-    "SOPH",
-    "NIL",
     "MOODENG",
-    "MELANIA"
+    "NIL",
+    "SOPH",
+    "LAYER"
   ],
   "scores": [
-    166,
     164,
     162,
-    160,
     158,
-    156
+    158,
+    158,
+    154
   ],
-  "timestamp": "2026-01-22T19:17:22.226767",
+  "timestamp": "2026-01-22T19:41:38.231080",
   "bucket": "90k-400k"
 }
