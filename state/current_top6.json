@@ -2,10 +2,10 @@
   "tokens": [
     "IO",
     "SYRUP",
-    "MAVIA",
     "PURR",
     "MEGA",
-    "ZK"
+    "MAVIA",
+    "SKY"
   ],
   "scores": [
     160,
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-22T10:16:40.254048",
+  "timestamp": "2026-01-22T10:50:47.808505",
   "bucket": "90k-400k"
 }
