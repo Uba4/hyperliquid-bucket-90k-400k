@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MAVIA",
-    "BLUR",
-    "YGG",
     "SYRUP",
-    "IMX",
-    "MEGA"
+    "IO",
+    "IOTA",
+    "MEGA",
+    "MORPHO"
   ],
   "scores": [
+    162,
     160,
     158,
     156,
     154,
-    152,
-    149
+    152
   ],
-  "timestamp": "2026-01-22T07:58:21.996299",
+  "timestamp": "2026-01-22T08:44:21.895734",
   "bucket": "90k-400k"
 }

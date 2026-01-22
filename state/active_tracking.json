@@ -252,13 +252,13 @@
     "entry_volume": 436806.7982220001
   },
   "IO": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T11:57:00.878932",
-    "exit_time": "2026-01-21T13:53:07.679219",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T08:44:21.895253",
+    "exit_time": null,
     "last_bar_collected": 1754,
-    "tracking_until": "2026-01-31T13:53:07.679219",
-    "entry_volume": 312162.2198210002
+    "tracking_until": null,
+    "entry_volume": 369822.5588210001
   },
   "GRIFFAIN": {
     "current_run": 18,
@@ -568,11 +568,11 @@
   },
   "BLUR": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T03:17:29.340646",
-    "exit_time": null,
+    "exit_time": "2026-01-22T08:44:21.895253",
     "last_bar_collected": 1571,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T08:44:21.895253",
     "entry_volume": 193222.6446370001
   },
   "SAND": {
@@ -640,11 +640,11 @@
   },
   "YGG": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T04:30:36.812328",
-    "exit_time": null,
+    "exit_time": "2026-01-22T08:44:21.895253",
     "last_bar_collected": 1466,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T08:44:21.895253",
     "entry_volume": 322495.4473469999
   },
   "ETHFI": {
@@ -729,13 +729,13 @@
     "entry_volume": 252050.9747740001
   },
   "MORPHO": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T21:58:55.316355",
-    "exit_time": "2026-01-22T03:17:29.340646",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T08:44:21.895253",
+    "exit_time": null,
     "last_bar_collected": 1290,
-    "tracking_until": "2026-02-01T03:17:29.340646",
-    "entry_volume": 212402.18275
+    "tracking_until": null,
+    "entry_volume": 273835.4121200001
   },
   "GRASS": {
     "current_run": 11,
@@ -748,11 +748,11 @@
   },
   "IMX": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T03:17:29.340646",
-    "exit_time": null,
+    "exit_time": "2026-01-22T08:44:21.895253",
     "last_bar_collected": 1191,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T08:44:21.895253",
     "entry_volume": 225847.8840540001
   },
   "NXPC": {
@@ -1015,5 +1015,14 @@
     "last_bar_collected": 1456,
     "tracking_until": "2026-01-31T13:53:07.679219",
     "entry_volume": 142217.645681
+  },
+  "IOTA": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T08:44:21.895253",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 81265.935803
   }
 }
