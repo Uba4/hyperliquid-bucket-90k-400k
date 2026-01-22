@@ -1,20 +1,20 @@
 {
   "tokens": [
     "BIGTIME",
+    "BLUR",
     "IMX",
     "MEGA",
-    "BLUR",
-    "ZETA",
-    "USUAL"
+    "YGG",
+    "ZETA"
   ],
   "scores": [
     162,
-    158,
+    160,
     158,
     156,
-    156,
+    154,
     152
   ],
-  "timestamp": "2026-01-22T03:17:29.341353",
+  "timestamp": "2026-01-22T04:30:36.812536",
   "bucket": "90k-400k"
 }
