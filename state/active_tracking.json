@@ -818,15 +818,6 @@
     "tracking_until": "2026-01-31T21:58:55.316355",
     "entry_volume": 314679.994627
   },
-  "OP": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-12T04:38:21.848951",
-    "exit_time": "2026-01-12T06:53:47.431300",
-    "last_bar_collected": 969,
-    "tracking_until": "2026-01-22T06:53:47.431300",
-    "entry_volume": 414143.458848
-  },
   "kFLOKI": {
     "current_run": 3,
     "status": "post_exit",
