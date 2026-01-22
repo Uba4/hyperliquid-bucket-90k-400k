@@ -2,19 +2,19 @@
   "tokens": [
     "NIL",
     "MEGA",
-    "INIT",
     "APE",
-    "STBL",
-    "2Z"
+    "INIT",
+    "DOOD",
+    "MELANIA"
   ],
   "scores": [
     156,
     154,
     152,
     150,
-    146,
-    144
+    148,
+    146
   ],
-  "timestamp": "2026-01-22T14:19:55.816655",
+  "timestamp": "2026-01-22T14:53:42.553278",
   "bucket": "90k-400k"
 }
