@@ -586,11 +586,11 @@
   },
   "2Z": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T15:26:56.507223",
-    "exit_time": null,
+    "exit_time": "2026-01-22T17:06:27.312725",
     "last_bar_collected": 1599,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T17:06:27.312725",
     "entry_volume": 273045.1009999998
   },
   "SCR": {
@@ -756,13 +756,13 @@
     "entry_volume": 225847.8840540001
   },
   "NXPC": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T15:26:56.507223",
-    "exit_time": "2026-01-22T16:39:41.863836",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T17:06:27.312725",
+    "exit_time": null,
     "last_bar_collected": 1223,
-    "tracking_until": "2026-02-01T16:39:41.863836",
-    "entry_volume": 104948.2921
+    "tracking_until": null,
+    "entry_volume": 110230.57968
   },
   "STBL": {
     "current_run": 11,
