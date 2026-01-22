@@ -28,11 +28,11 @@
   },
   "MAVIA": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T06:51:18.655368",
-    "exit_time": null,
+    "exit_time": "2026-01-22T11:40:08.956613",
     "last_bar_collected": 1712,
-    "tracking_until": null,
+    "tracking_until": "2026-02-01T11:40:08.956613",
     "entry_volume": 166553.858204
   },
   "NIL": {
@@ -774,13 +774,13 @@
     "entry_volume": 275097.6045099999
   },
   "STBL": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T05:48:11.075651",
-    "exit_time": "2026-01-21T07:50:20.238355",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-22T11:40:08.956613",
+    "exit_time": null,
     "last_bar_collected": 1081,
-    "tracking_until": "2026-01-31T07:50:20.238355",
-    "entry_volume": 346894.5549280001
+    "tracking_until": null,
+    "entry_volume": 285047.677982
   },
   "MET": {
     "current_run": 5,
