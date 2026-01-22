@@ -3,9 +3,9 @@
     "BIGTIME",
     "BLUR",
     "IMX",
-    "MEGA",
     "YGG",
-    "ZETA"
+    "MEGA",
+    "ME"
   ],
   "scores": [
     162,
@@ -15,6 +15,6 @@
     154,
     152
   ],
-  "timestamp": "2026-01-22T04:30:36.812536",
+  "timestamp": "2026-01-22T05:05:02.036230",
   "bucket": "90k-400k"
 }
