@@ -1,20 +1,20 @@
 {
   "tokens": [
     "WCT",
+    "SOPH",
     "LINEA",
-    "SUPER",
-    "DOOD",
     "HEMI",
-    "W"
+    "DOOD",
+    "SUPER"
   ],
   "scores": [
-    166,
     164,
     162,
     160,
     158,
+    155,
     154
   ],
-  "timestamp": "2026-01-23T08:19:33.906474",
+  "timestamp": "2026-01-23T08:51:30.546216",
   "bucket": "90k-400k"
 }
