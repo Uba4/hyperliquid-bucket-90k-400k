@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PURR",
-    "PROMPT",
     "LINEA",
-    "MEGA",
+    "PROMPT",
     "SCR",
-    "CHILLGUY"
+    "MEGA",
+    "RSR"
   ],
   "scores": [
     160,
+    158,
     156,
-    156,
-    156,
-    152,
+    154,
+    151,
     150
   ],
-  "timestamp": "2026-01-23T20:00:16.213818",
+  "timestamp": "2026-01-23T20:37:08.331452",
   "bucket": "90k-400k"
 }

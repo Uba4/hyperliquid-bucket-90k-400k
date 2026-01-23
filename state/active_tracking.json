@@ -217,11 +217,11 @@
   },
   "CHILLGUY": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T20:00:16.213635",
-    "exit_time": null,
+    "exit_time": "2026-01-23T20:37:08.331263",
     "last_bar_collected": 1838,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T20:37:08.331263",
     "entry_volume": 87540.565786
   },
   "IO": {
@@ -1015,5 +1015,14 @@
     "last_bar_collected": 991,
     "tracking_until": "2026-02-02T16:45:40.619726",
     "entry_volume": 353538.04049
+  },
+  "RSR": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T20:37:08.331263",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 93545.255982
   }
 }
