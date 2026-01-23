@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MEGA",
-    "PROMPT",
-    "PURR",
-    "ETHFI",
     "SUPER",
-    "YGG"
+    "LINEA",
+    "ETHFI",
+    "WCT",
+    "PURR",
+    "DOOD"
   ],
   "scores": [
-    168,
+    166,
     166,
     164,
-    162,
     160,
+    158,
     158
   ],
-  "timestamp": "2026-01-23T05:54:44.510200",
+  "timestamp": "2026-01-23T07:02:28.117943",
   "bucket": "90k-400k"
 }
