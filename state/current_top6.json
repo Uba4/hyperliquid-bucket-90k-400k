@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "LINEA",
-    "PROMPT",
     "SCR",
-    "MEGA",
-    "RSR"
+    "RSR",
+    "PROMPT",
+    "APEX"
   ],
   "scores": [
-    160,
     158,
     156,
     154,
-    151,
+    150,
+    150,
     150
   ],
-  "timestamp": "2026-01-23T20:37:08.331452",
+  "timestamp": "2026-01-23T20:55:33.092711",
   "bucket": "90k-400k"
 }
