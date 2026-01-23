@@ -1,11 +1,11 @@
 {
   "tokens": [
     "PURR",
-    "LINEA",
     "APEX",
     "BABY",
-    "RSR",
-    "KAS"
+    "LINEA",
+    "NIL",
+    "MNT"
   ],
   "scores": [
     160,
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-23T21:41:37.595894",
+  "timestamp": "2026-01-23T21:53:51.747022",
   "bucket": "90k-400k"
 }
