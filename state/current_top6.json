@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "LINEA",
     "WCT",
+    "LINEA",
     "SUPER",
-    "ETHFI",
     "DOOD",
+    "ETHFI",
     "HEMI"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     160,
     158
   ],
-  "timestamp": "2026-01-23T07:36:24.779375",
+  "timestamp": "2026-01-23T07:51:59.983554",
   "bucket": "90k-400k"
 }
