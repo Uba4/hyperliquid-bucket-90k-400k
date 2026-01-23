@@ -145,11 +145,11 @@
   },
   "CELO": {
     "current_run": 18,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T21:22:43.730668",
-    "exit_time": null,
+    "exit_time": "2026-01-23T21:41:37.595684",
     "last_bar_collected": 1869,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T21:41:37.595684",
     "entry_volume": 154392.52488
   },
   "PYTH": {
@@ -306,13 +306,13 @@
     "entry_volume": 231030.0600110001
   },
   "KAS": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T03:22:40.180112",
-    "exit_time": "2026-01-19T05:48:37.355620",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T21:41:37.595684",
+    "exit_time": null,
     "last_bar_collected": 1879,
-    "tracking_until": "2026-01-29T05:48:37.355620",
-    "entry_volume": 197128.200899
+    "tracking_until": null,
+    "entry_volume": 86070.544041
   },
   "ALGO": {
     "current_run": 5,
