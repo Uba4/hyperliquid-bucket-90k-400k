@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROMPT",
+    "BLUR",
+    "BIGTIME",
     "USUAL",
     "VINE",
-    "BLUR",
-    "ME",
-    "CAKE"
+    "PROMPT",
+    "W"
   ],
   "scores": [
     164,
-    162,
-    160,
-    156,
+    161,
+    161,
+    158,
     156,
     154
   ],
-  "timestamp": "2026-01-22T23:53:29.998540",
+  "timestamp": "2026-01-23T01:18:07.993553",
   "bucket": "90k-400k"
 }
