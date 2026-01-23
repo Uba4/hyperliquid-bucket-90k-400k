@@ -2,10 +2,10 @@
   "tokens": [
     "MEGA",
     "PURR",
-    "SYRUP",
-    "APEX",
     "PROMPT",
-    "SNX"
+    "LINEA",
+    "CHILLGUY",
+    "MAVIA"
   ],
   "scores": [
     162,
@@ -13,8 +13,8 @@
     158,
     156,
     154,
-    150
+    152
   ],
-  "timestamp": "2026-01-23T18:38:47.257999",
+  "timestamp": "2026-01-23T19:03:32.284763",
   "bucket": "90k-400k"
 }
