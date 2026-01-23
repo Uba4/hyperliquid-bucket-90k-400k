@@ -217,11 +217,11 @@
   },
   "CHILLGUY": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T19:03:32.284296",
-    "exit_time": null,
+    "exit_time": "2026-01-23T19:35:57.084730",
     "last_bar_collected": 1836,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T19:35:57.084730",
     "entry_volume": 84486.532795
   },
   "IO": {
@@ -441,13 +441,13 @@
     "entry_volume": 84877.433664
   },
   "SKY": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T10:50:47.808271",
-    "exit_time": "2026-01-22T11:55:19.555523",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T19:35:57.084730",
+    "exit_time": null,
     "last_bar_collected": 1791,
-    "tracking_until": "2026-02-01T11:55:19.555523",
-    "entry_volume": 356790.0024290002
+    "tracking_until": null,
+    "entry_volume": 349938.1581890002
   },
   "APE": {
     "current_run": 9,

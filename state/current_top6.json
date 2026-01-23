@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "MEGA",
     "PURR",
+    "MEGA",
     "PROMPT",
+    "SKY",
     "LINEA",
-    "CHILLGUY",
     "MAVIA"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     154,
     152
   ],
-  "timestamp": "2026-01-23T19:03:32.284763",
+  "timestamp": "2026-01-23T19:35:57.084949",
   "bucket": "90k-400k"
 }
