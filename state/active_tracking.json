@@ -90,13 +90,13 @@
     "entry_volume": 209847.7769060001
   },
   "SUSHI": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T23:25:31.463315",
-    "exit_time": "2026-01-21T05:48:11.075651",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T04:14:25.157885",
+    "exit_time": null,
     "last_bar_collected": 1849,
-    "tracking_until": "2026-01-31T05:48:11.075651",
-    "entry_volume": 169455.197401
+    "tracking_until": null,
+    "entry_volume": 92570.510938
   },
   "REZ": {
     "current_run": 16,
@@ -289,11 +289,11 @@
   },
   "USUAL": {
     "current_run": 26,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-22T22:53:25.028336",
-    "exit_time": null,
+    "exit_time": "2026-01-23T04:14:25.157885",
     "last_bar_collected": 1821,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T04:14:25.157885",
     "entry_volume": 97257.338871
   },
   "ANIME": {
