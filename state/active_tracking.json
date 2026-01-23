@@ -1,11 +1,11 @@
 {
   "WCT": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T07:02:28.117593",
-    "exit_time": null,
+    "exit_time": "2026-01-23T11:30:19.271598",
     "last_bar_collected": 1813,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T11:30:19.271598",
     "entry_volume": 110571.648253
   },
   "ICP": {
@@ -351,13 +351,13 @@
     "entry_volume": 177256.689028
   },
   "DOOD": {
-    "current_run": 10,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T07:02:28.117593",
-    "exit_time": "2026-01-23T09:20:57.238166",
+    "current_run": 11,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T11:30:19.271598",
+    "exit_time": null,
     "last_bar_collected": 1810,
-    "tracking_until": "2026-02-02T09:20:57.238166",
-    "entry_volume": 192570.039229
+    "tracking_until": null,
+    "entry_volume": 200370.1777620001
   },
   "PROVE": {
     "current_run": 13,
