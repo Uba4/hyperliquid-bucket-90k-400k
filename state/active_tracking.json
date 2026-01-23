@@ -522,13 +522,13 @@
     "entry_volume": 105722.306572
   },
   "W": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T01:18:07.993213",
-    "exit_time": "2026-01-23T03:13:24.329875",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T08:19:33.906278",
+    "exit_time": null,
     "last_bar_collected": 1703,
-    "tracking_until": "2026-02-02T03:13:24.329875",
-    "entry_volume": 201584.666209
+    "tracking_until": null,
+    "entry_volume": 199350.9422429999
   },
   "TRB": {
     "current_run": 5,
@@ -631,11 +631,11 @@
   },
   "ETHFI": {
     "current_run": 5,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T05:34:13.424608",
-    "exit_time": null,
+    "exit_time": "2026-01-23T08:19:33.906278",
     "last_bar_collected": 1564,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T08:19:33.906278",
     "entry_volume": 198721.2784909999
   },
   "HYPER": {
