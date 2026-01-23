@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BLUR",
     "BIGTIME",
+    "MEGA",
+    "YGG",
+    "IMX",
     "USUAL",
-    "VINE",
-    "PROMPT",
-    "W"
+    "GALA"
   ],
   "scores": [
+    166,
     164,
-    161,
-    161,
+    162,
+    160,
     158,
-    156,
-    154
+    156
   ],
-  "timestamp": "2026-01-23T01:18:07.993553",
+  "timestamp": "2026-01-23T03:13:24.330265",
   "bucket": "90k-400k"
 }
