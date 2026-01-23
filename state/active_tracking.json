@@ -595,11 +595,11 @@
   },
   "HEMI": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T07:36:24.779181",
-    "exit_time": null,
+    "exit_time": "2026-01-23T09:49:42.961458",
     "last_bar_collected": 1646,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T09:49:42.961458",
     "entry_volume": 238496.170819
   },
   "0G": {
@@ -1006,5 +1006,14 @@
     "last_bar_collected": 908,
     "tracking_until": "2026-02-01T21:42:56.975704",
     "entry_volume": 432411.5139049999
+  },
+  "JTO": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T09:49:42.961458",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 173719.32955
   }
 }
