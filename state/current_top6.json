@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "PURR",
-    "APEX",
     "SYRUP",
-    "MELANIA",
+    "APEX",
+    "PROMPT",
     "SNX"
   ],
   "scores": [
-    166,
-    164,
     162,
     160,
     158,
-    156
+    156,
+    154,
+    150
   ],
-  "timestamp": "2026-01-23T17:56:21.353488",
+  "timestamp": "2026-01-23T18:38:47.257999",
   "bucket": "90k-400k"
 }
