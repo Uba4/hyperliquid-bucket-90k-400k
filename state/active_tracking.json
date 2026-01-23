@@ -27,13 +27,13 @@
     "entry_volume": 161437.732437
   },
   "SYRUP": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T07:45:45.288984",
-    "exit_time": "2026-01-22T14:19:55.816212",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T17:15:12.988070",
+    "exit_time": null,
     "last_bar_collected": 1901,
-    "tracking_until": "2026-02-01T14:19:55.816212",
-    "entry_volume": 352369.8876200001
+    "tracking_until": null,
+    "entry_volume": 219392.5404199999
   },
   "MINA": {
     "current_run": 12,
@@ -207,13 +207,13 @@
     "entry_volume": 305406.2735600001
   },
   "MEGA": {
-    "current_run": 24,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T03:13:24.329875",
-    "exit_time": "2026-01-23T07:02:28.117593",
+    "current_run": 25,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T17:15:12.988070",
+    "exit_time": null,
     "last_bar_collected": 1889,
-    "tracking_until": "2026-02-02T07:02:28.117593",
-    "entry_volume": 414683.4885
+    "tracking_until": null,
+    "entry_volume": 429364.0015499999
   },
   "CHILLGUY": {
     "current_run": 14,
@@ -252,13 +252,13 @@
     "entry_volume": 108681.943279
   },
   "APEX": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T19:00:06.334445",
-    "exit_time": "2026-01-21T19:59:57.025118",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T17:15:12.988070",
+    "exit_time": null,
     "last_bar_collected": 1888,
-    "tracking_until": "2026-01-31T19:59:57.025118",
-    "entry_volume": 328597.8815400001
+    "tracking_until": null,
+    "entry_volume": 246438.35344
   },
   "USUAL": {
     "current_run": 26,
@@ -505,11 +505,11 @@
   },
   "BABY": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T16:45:40.619726",
-    "exit_time": null,
+    "exit_time": "2026-01-23T17:15:12.988070",
     "last_bar_collected": 1757,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T17:15:12.988070",
     "entry_volume": 96890.110773
   },
   "W": {
@@ -541,11 +541,11 @@
   },
   "BLUR": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T15:44:23.933485",
-    "exit_time": null,
+    "exit_time": "2026-01-23T17:15:12.988070",
     "last_bar_collected": 1697,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T17:15:12.988070",
     "entry_volume": 155162.611423
   },
   "SAND": {
@@ -766,11 +766,11 @@
   },
   "ZORA": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T14:48:39.497813",
-    "exit_time": null,
+    "exit_time": "2026-01-23T17:15:12.988070",
     "last_bar_collected": 1111,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T17:15:12.988070",
     "entry_volume": 234151.1704959999
   },
   "kFLOKI": {
