@@ -1,11 +1,11 @@
 {
   "tokens": [
     "MEGA",
-    "BIGTIME",
-    "YGG",
     "PROMPT",
-    "GALA",
-    "SUSHI"
+    "PURR",
+    "YGG",
+    "ETHFI",
+    "SUPER"
   ],
   "scores": [
     168,
@@ -13,8 +13,8 @@
     164,
     162,
     160,
-    157
+    156
   ],
-  "timestamp": "2026-01-23T04:57:18.458368",
+  "timestamp": "2026-01-23T05:34:13.425111",
   "bucket": "90k-400k"
 }
