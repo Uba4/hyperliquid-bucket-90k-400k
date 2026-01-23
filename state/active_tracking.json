@@ -91,11 +91,11 @@
   },
   "LINEA": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T19:03:32.284296",
-    "exit_time": null,
+    "exit_time": "2026-01-23T22:40:44.733300",
     "last_bar_collected": 1931,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T22:40:44.733300",
     "entry_volume": 339083.5505629999
   },
   "ZETA": {
@@ -1015,5 +1015,14 @@
     "last_bar_collected": 1147,
     "tracking_until": "2026-02-02T21:53:51.746676",
     "entry_volume": 93545.255982
+  },
+  "ETC": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T22:40:44.733300",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 285972.47393
   }
 }
