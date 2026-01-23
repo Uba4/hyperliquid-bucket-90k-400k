@@ -2,19 +2,19 @@
   "tokens": [
     "PURR",
     "LINEA",
-    "SCR",
+    "APEX",
     "RSR",
-    "PROMPT",
-    "APEX"
+    "BABY",
+    "CELO"
   ],
   "scores": [
     158,
     156,
     154,
+    152,
     150,
-    150,
-    150
+    148
   ],
-  "timestamp": "2026-01-23T20:55:33.092711",
+  "timestamp": "2026-01-23T21:22:43.730992",
   "bucket": "90k-400k"
 }
