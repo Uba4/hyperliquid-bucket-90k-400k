@@ -442,11 +442,11 @@
   },
   "SKY": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-23T19:35:57.084730",
-    "exit_time": null,
+    "exit_time": "2026-01-23T19:49:28.511948",
     "last_bar_collected": 1791,
-    "tracking_until": null,
+    "tracking_until": "2026-02-02T19:49:28.511948",
     "entry_volume": 349938.1581890002
   },
   "APE": {
@@ -567,13 +567,13 @@
     "entry_volume": 340647.6296799998
   },
   "SCR": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T15:56:56.088583",
-    "exit_time": "2026-01-19T20:52:12.984296",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-23T19:49:28.511948",
+    "exit_time": null,
     "last_bar_collected": 1711,
-    "tracking_until": "2026-01-29T20:52:12.984296",
-    "entry_volume": 400371.985658
+    "tracking_until": null,
+    "entry_volume": 266316.1589350001
   },
   "SNX": {
     "current_run": 9,
