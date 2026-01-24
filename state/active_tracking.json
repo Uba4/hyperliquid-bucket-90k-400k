@@ -424,11 +424,11 @@
   },
   "TNSR": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T14:24:37.003652",
-    "exit_time": null,
+    "exit_time": "2026-01-24T15:51:28.281499",
     "last_bar_collected": 1892,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T15:51:28.281499",
     "entry_volume": 87241.530853
   },
   "SKY": {
@@ -612,13 +612,13 @@
     "entry_volume": 198721.2784909999
   },
   "HYPER": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T14:24:37.003652",
-    "exit_time": "2026-01-24T15:39:37.820680",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T15:51:28.281499",
+    "exit_time": null,
     "last_bar_collected": 1666,
-    "tracking_until": "2026-02-03T15:39:37.820680",
-    "entry_volume": 159506.03827
+    "tracking_until": null,
+    "entry_volume": 145845.96215
   },
   "XAI": {
     "current_run": 4,
