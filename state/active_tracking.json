@@ -477,13 +477,13 @@
     "entry_volume": 207019.961923
   },
   "AIXBT": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T09:20:57.238166",
-    "exit_time": "2026-01-23T13:52:29.659886",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T07:55:31.083280",
+    "exit_time": null,
     "last_bar_collected": 1817,
-    "tracking_until": "2026-02-02T13:52:29.659886",
-    "entry_volume": 266998.875058
+    "tracking_until": null,
+    "entry_volume": 343783.408406
   },
   "BABY": {
     "current_run": 15,
@@ -568,11 +568,11 @@
   },
   "HEMI": {
     "current_run": 18,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T07:44:15.810668",
-    "exit_time": null,
+    "exit_time": "2026-01-24T07:55:31.083280",
     "last_bar_collected": 1732,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T07:55:31.083280",
     "entry_volume": 281235.758557
   },
   "0G": {
