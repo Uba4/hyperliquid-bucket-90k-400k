@@ -604,11 +604,11 @@
   },
   "HYPER": {
     "current_run": 7,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T21:57:54.068228",
-    "exit_time": null,
+    "exit_time": "2026-01-24T22:27:25.672961",
     "last_bar_collected": 1692,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T22:27:25.672961",
     "entry_volume": 148161.6936199999
   },
   "XAI": {
@@ -666,13 +666,13 @@
     "entry_volume": 106782.8016380001
   },
   "PROMPT": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T01:12:10.084896",
-    "exit_time": "2026-01-24T03:02:58.989209",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T22:27:25.672961",
+    "exit_time": null,
     "last_bar_collected": 1550,
-    "tracking_until": "2026-02-03T03:02:58.989209",
-    "entry_volume": 181709.9747019999
+    "tracking_until": null,
+    "entry_volume": 151705.766984
   },
   "MORPHO": {
     "current_run": 10,
