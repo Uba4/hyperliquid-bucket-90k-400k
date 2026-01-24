@@ -4,17 +4,17 @@
     "PROMPT",
     "ACE",
     "MEME",
-    "BLAST",
-    "MET"
+    "MOODENG",
+    "LAYER"
   ],
   "scores": [
+    162,
     160,
     158,
     156,
     154,
-    152,
-    150
+    152
   ],
-  "timestamp": "2026-01-24T23:40:57.431626",
+  "timestamp": "2026-01-24T23:52:26.130302",
   "bucket": "90k-400k"
 }
