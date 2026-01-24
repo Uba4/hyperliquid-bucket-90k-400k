@@ -2,19 +2,19 @@
   "tokens": [
     "WCT",
     "AIXBT",
-    "HYPER",
     "TNSR",
+    "MINA",
     "SUPER",
-    "MINA"
+    "HYPER"
   ],
   "scores": [
+    140,
     138,
     136,
     134,
-    132,
     130,
-    128
+    130
   ],
-  "timestamp": "2026-01-24T14:55:13.290958",
+  "timestamp": "2026-01-24T15:20:54.664831",
   "bucket": "90k-400k"
 }
