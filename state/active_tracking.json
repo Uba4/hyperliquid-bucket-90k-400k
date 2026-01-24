@@ -296,23 +296,14 @@
     "tracking_until": "2026-01-29T12:33:39.292644",
     "entry_volume": 415318.2222199999
   },
-  "TURBO": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T17:29:15.466495",
-    "exit_time": "2026-01-14T18:28:15.758142",
-    "last_bar_collected": 1942,
-    "tracking_until": "2026-01-24T18:28:15.758142",
-    "entry_volume": 231030.0600110001
-  },
   "KAS": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T21:41:37.595684",
-    "exit_time": "2026-01-23T21:53:51.746676",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T18:29:46.615985",
+    "exit_time": null,
     "last_bar_collected": 1963,
-    "tracking_until": "2026-02-02T21:53:51.746676",
-    "entry_volume": 86070.544041
+    "tracking_until": null,
+    "entry_volume": 161684.27484
   },
   "ALGO": {
     "current_run": 5,
@@ -667,11 +658,11 @@
   },
   "kLUNC": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T15:39:37.820680",
-    "exit_time": null,
+    "exit_time": "2026-01-24T18:29:46.615985",
     "last_bar_collected": 1578,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T18:29:46.615985",
     "entry_volume": 106782.8016380001
   },
   "PROMPT": {

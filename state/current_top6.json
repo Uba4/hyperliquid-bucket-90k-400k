@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROVE",
     "BLAST",
+    "PROVE",
     "SAGA",
-    "kLUNC",
     "MNT",
-    "DOOD"
+    "DOOD",
+    "KAS"
   ],
   "scores": [
+    158,
     156,
     154,
     152,
-    148,
-    148,
+    150,
     148
   ],
-  "timestamp": "2026-01-24T17:55:12.870288",
+  "timestamp": "2026-01-24T18:29:46.616131",
   "bucket": "90k-400k"
 }
