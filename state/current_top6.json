@@ -2,19 +2,19 @@
   "tokens": [
     "WCT",
     "HEMI",
-    "DOOD",
-    "SYRUP",
     "ACE",
-    "SOPH"
+    "SYRUP",
+    "SOPH",
+    "DOOD"
   ],
   "scores": [
     154,
-    151,
+    152,
     150,
-    149,
+    147,
     146,
-    144
+    145
   ],
-  "timestamp": "2026-01-24T04:45:45.855521",
+  "timestamp": "2026-01-24T05:02:17.970821",
   "bucket": "90k-400k"
 }
