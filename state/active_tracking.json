@@ -28,11 +28,11 @@
   },
   "SYRUP": {
     "current_run": 18,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T04:04:50.580082",
-    "exit_time": null,
+    "exit_time": "2026-01-24T05:50:09.668954",
     "last_bar_collected": 1948,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T05:50:09.668954",
     "entry_volume": 283170.89807
   },
   "MINA": {
@@ -882,13 +882,13 @@
     "entry_volume": 368904.1053099999
   },
   "SUPER": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T05:34:13.424608",
-    "exit_time": "2026-01-23T09:20:57.238166",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T05:50:09.668954",
+    "exit_time": null,
     "last_bar_collected": 608,
-    "tracking_until": "2026-02-02T09:20:57.238166",
-    "entry_volume": 137970.6005700001
+    "tracking_until": null,
+    "entry_volume": 336123.42112
   },
   "MELANIA": {
     "current_run": 8,
