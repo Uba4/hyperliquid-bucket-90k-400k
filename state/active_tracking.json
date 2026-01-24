@@ -90,13 +90,13 @@
     "entry_volume": 109341.162549
   },
   "LINEA": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T05:33:42.778073",
-    "exit_time": "2026-01-24T11:26:28.068517",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T13:56:54.169368",
+    "exit_time": null,
     "last_bar_collected": 1991,
-    "tracking_until": "2026-02-03T11:26:28.068517",
-    "entry_volume": 297303.211997
+    "tracking_until": null,
+    "entry_volume": 382536.8301779999
   },
   "ZETA": {
     "current_run": 14,
@@ -388,11 +388,11 @@
   },
   "ME": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T11:41:37.172367",
-    "exit_time": null,
+    "exit_time": "2026-01-24T13:56:54.169368",
     "last_bar_collected": 1902,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T13:56:54.169368",
     "entry_volume": 100809.116835
   },
   "BANANA": {
