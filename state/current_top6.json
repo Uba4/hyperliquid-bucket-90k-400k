@@ -2,19 +2,19 @@
   "tokens": [
     "PROVE",
     "BLAST",
-    "TNSR",
     "kLUNC",
-    "SUPER",
-    "HEMI"
+    "TNSR",
+    "SAGA",
+    "SUPER"
   ],
   "scores": [
+    158,
+    156,
     154,
     152,
     150,
-    148,
-    146,
-    144
+    148
   ],
-  "timestamp": "2026-01-24T16:44:04.031528",
+  "timestamp": "2026-01-24T16:58:26.711076",
   "bucket": "90k-400k"
 }

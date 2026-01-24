@@ -360,13 +360,13 @@
     "entry_volume": 138610.546273
   },
   "SAGA": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T10:32:52.667395",
-    "exit_time": "2026-01-24T13:44:15.473197",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T16:58:26.710891",
+    "exit_time": null,
     "last_bar_collected": 1914,
-    "tracking_until": "2026-02-03T13:44:15.473197",
-    "entry_volume": 261883.686923
+    "tracking_until": null,
+    "entry_volume": 249740.3368050001
   },
   "TST": {
     "current_run": 12,
@@ -568,11 +568,11 @@
   },
   "HEMI": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T15:39:37.820680",
-    "exit_time": null,
+    "exit_time": "2026-01-24T16:58:26.710891",
     "last_bar_collected": 1768,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T16:58:26.710891",
     "entry_volume": 297859.7472519999
   },
   "0G": {
