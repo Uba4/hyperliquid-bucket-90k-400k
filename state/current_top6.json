@@ -2,19 +2,19 @@
   "tokens": [
     "CHILLGUY",
     "PROMPT",
+    "ACE",
     "MEME",
-    "MET",
-    "MEGA",
-    "ACE"
+    "BLAST",
+    "MET"
   ],
   "scores": [
     156,
     154,
-    150,
+    152,
     150,
     148,
     146
   ],
-  "timestamp": "2026-01-24T22:56:52.187774",
+  "timestamp": "2026-01-24T23:24:17.598912",
   "bucket": "90k-400k"
 }
