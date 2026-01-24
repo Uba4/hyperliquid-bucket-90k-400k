@@ -180,13 +180,13 @@
     "entry_volume": 81994.629328
   },
   "SOPH": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T04:45:45.855284",
-    "exit_time": "2026-01-24T06:45:54.254164",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T09:15:03.027417",
+    "exit_time": null,
     "last_bar_collected": 1925,
-    "tracking_until": "2026-02-03T06:45:54.254164",
-    "entry_volume": 143337.09075
+    "tracking_until": null,
+    "entry_volume": 143738.202394
   },
   "MOVE": {
     "current_run": 7,
@@ -865,11 +865,11 @@
   },
   "SUPER": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T05:50:09.668954",
-    "exit_time": null,
+    "exit_time": "2026-01-24T09:15:03.027417",
     "last_bar_collected": 619,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T09:15:03.027417",
     "entry_volume": 336123.42112
   },
   "MELANIA": {
