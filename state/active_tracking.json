@@ -244,11 +244,11 @@
   },
   "APEX": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T20:41:31.934681",
-    "exit_time": null,
+    "exit_time": "2026-01-24T22:46:05.746288",
     "last_bar_collected": 2005,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T22:46:05.746288",
     "entry_volume": 157605.4761199999
   },
   "USUAL": {
@@ -801,13 +801,13 @@
     "entry_volume": 101654.40978
   },
   "MEME": {
-    "current_run": 2,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T00:46:43.068103",
-    "exit_time": "2026-01-20T05:55:31.316256",
+    "current_run": 3,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T22:46:05.746288",
+    "exit_time": null,
     "last_bar_collected": 2042,
-    "tracking_until": "2026-01-30T05:55:31.316256",
-    "entry_volume": 245973.7256889999
+    "tracking_until": null,
+    "entry_volume": 126080.916726
   },
   "OM": {
     "current_run": 2,
