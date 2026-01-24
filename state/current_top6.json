@@ -2,19 +2,19 @@
   "tokens": [
     "DOOD",
     "WCT",
-    "PURR",
-    "SOPH",
     "ACE",
-    "ZEREBRO"
+    "SYRUP",
+    "PURR",
+    "HEMI"
   ],
   "scores": [
-    158,
     156,
-    152,
+    154,
     152,
     150,
+    147,
     146
   ],
-  "timestamp": "2026-01-24T03:02:58.989638",
+  "timestamp": "2026-01-24T04:04:50.580354",
   "bucket": "90k-400k"
 }
