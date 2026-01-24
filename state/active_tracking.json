@@ -883,11 +883,11 @@
   },
   "MNT": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T17:43:43.102450",
-    "exit_time": null,
+    "exit_time": "2026-01-24T21:16:01.834457",
     "last_bar_collected": 561,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T21:16:01.834457",
     "entry_volume": 244384.73894
   },
   "MAV": {
@@ -997,5 +997,14 @@
     "last_bar_collected": 1098,
     "tracking_until": "2026-02-03T14:55:13.290739",
     "entry_volume": 298200.997682
+  },
+  "MET": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T21:16:01.834457",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 399534.22192
   }
 }
