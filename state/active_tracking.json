@@ -243,13 +243,13 @@
     "entry_volume": 108681.943279
   },
   "APEX": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T20:55:33.092456",
-    "exit_time": "2026-01-24T01:12:10.084896",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T07:29:46.233138",
+    "exit_time": null,
     "last_bar_collected": 1944,
-    "tracking_until": "2026-02-03T01:12:10.084896",
-    "entry_volume": 259471.66826
+    "tracking_until": null,
+    "entry_volume": 174909.3493599999
   },
   "USUAL": {
     "current_run": 26,
@@ -577,11 +577,11 @@
   },
   "HEMI": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T04:04:50.580082",
-    "exit_time": null,
+    "exit_time": "2026-01-24T07:29:46.233138",
     "last_bar_collected": 1732,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T07:29:46.233138",
     "entry_volume": 226344.314813
   },
   "0G": {

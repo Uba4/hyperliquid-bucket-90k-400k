@@ -2,19 +2,19 @@
   "tokens": [
     "LINEA",
     "SUPER",
-    "WCT",
-    "HEMI",
+    "INIT",
+    "APEX",
     "ACE",
-    "INIT"
+    "WCT"
   ],
   "scores": [
+    148,
     146,
     144,
     142,
     140,
-    138,
-    136
+    138
   ],
-  "timestamp": "2026-01-24T07:01:31.305392",
+  "timestamp": "2026-01-24T07:29:46.233297",
   "bucket": "90k-400k"
 }
