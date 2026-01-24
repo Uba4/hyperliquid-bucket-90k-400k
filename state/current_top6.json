@@ -1,20 +1,20 @@
 {
   "tokens": [
     "WCT",
-    "AIXBT",
     "TNSR",
     "MINA",
     "SUPER",
-    "HYPER"
+    "kLUNC",
+    "HEMI"
   ],
   "scores": [
     140,
     138,
-    136,
     134,
-    130,
+    134,
+    134,
     130
   ],
-  "timestamp": "2026-01-24T15:20:54.664831",
+  "timestamp": "2026-01-24T15:39:37.820958",
   "bucket": "90k-400k"
 }
