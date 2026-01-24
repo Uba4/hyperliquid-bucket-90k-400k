@@ -45,13 +45,13 @@
     "entry_volume": 190434.366313
   },
   "ZEREBRO": {
-    "current_run": 22,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T20:29:04.429697",
-    "exit_time": "2026-01-22T22:53:25.028336",
+    "current_run": 23,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T03:02:58.989209",
+    "exit_time": null,
     "last_bar_collected": 1938,
-    "tracking_until": "2026-02-01T22:53:25.028336",
-    "entry_volume": 221249.8292010001
+    "tracking_until": null,
+    "entry_volume": 92374.014312
   },
   "GALA": {
     "current_run": 10,
@@ -162,13 +162,13 @@
     "entry_volume": 334922.4187309998
   },
   "ACE": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T05:45:51.345897",
-    "exit_time": "2026-01-22T06:51:18.655368",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T03:02:58.989209",
+    "exit_time": null,
     "last_bar_collected": 1935,
-    "tracking_until": "2026-02-01T06:51:18.655368",
-    "entry_volume": 354201.523426
+    "tracking_until": null,
+    "entry_volume": 287583.2111230001
   },
   "BLAST": {
     "current_run": 18,
@@ -685,11 +685,11 @@
   },
   "PROMPT": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T01:12:10.084896",
-    "exit_time": null,
+    "exit_time": "2026-01-24T03:02:58.989209",
     "last_bar_collected": 1466,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T03:02:58.989209",
     "entry_volume": 181709.9747019999
   },
   "MORPHO": {
@@ -757,21 +757,12 @@
   },
   "ZORA": {
     "current_run": 7,
-    "status": "in_top6",
-    "entry_time": "2026-01-24T01:12:10.084896",
-    "exit_time": null,
-    "last_bar_collected": 1137,
-    "tracking_until": null,
-    "entry_volume": 287540.556289
-  },
-  "kFLOKI": {
-    "current_run": 3,
     "status": "post_exit",
-    "entry_time": "2026-01-13T23:16:26.561896",
-    "exit_time": "2026-01-14T02:29:44.191934",
-    "last_bar_collected": 1085,
-    "tracking_until": "2026-01-24T02:29:44.191934",
-    "entry_volume": 424677.0399629999
+    "entry_time": "2026-01-24T01:12:10.084896",
+    "exit_time": "2026-01-24T03:02:58.989209",
+    "last_bar_collected": 1137,
+    "tracking_until": "2026-02-03T03:02:58.989209",
+    "entry_volume": 287540.556289
   },
   "AR": {
     "current_run": 3,
