@@ -333,13 +333,13 @@
     "entry_volume": 177256.689028
   },
   "DOOD": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T23:39:57.978646",
-    "exit_time": "2026-01-24T05:33:42.778073",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T17:26:41.484167",
+    "exit_time": null,
     "last_bar_collected": 1926,
-    "tracking_until": "2026-02-03T05:33:42.778073",
-    "entry_volume": 140538.909834
+    "tracking_until": null,
+    "entry_volume": 242450.388563
   },
   "PROVE": {
     "current_run": 14,
@@ -865,11 +865,11 @@
   },
   "SUPER": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T14:24:37.003652",
-    "exit_time": null,
+    "exit_time": "2026-01-24T17:26:41.484167",
     "last_bar_collected": 656,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T17:26:41.484167",
     "entry_volume": 280695.4091500002
   },
   "MELANIA": {
