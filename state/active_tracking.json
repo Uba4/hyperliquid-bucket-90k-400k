@@ -207,13 +207,13 @@
     "entry_volume": 368229.9568799999
   },
   "CHILLGUY": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T20:00:16.213635",
-    "exit_time": "2026-01-23T20:37:08.331263",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T19:55:13.231218",
+    "exit_time": null,
     "last_bar_collected": 1930,
-    "tracking_until": "2026-02-02T20:37:08.331263",
-    "entry_volume": 87540.565786
+    "tracking_until": null,
+    "entry_volume": 135567.539972
   },
   "IO": {
     "current_run": 13,
@@ -334,11 +334,11 @@
   },
   "PROVE": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T19:43:53.224080",
-    "exit_time": null,
+    "exit_time": "2026-01-24T19:55:13.231218",
     "last_bar_collected": 1923,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T19:55:13.231218",
     "entry_volume": 121268.47074
   },
   "VINE": {
