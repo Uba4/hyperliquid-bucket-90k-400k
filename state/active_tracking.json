@@ -361,11 +361,11 @@
   },
   "SAGA": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T10:32:52.667395",
-    "exit_time": null,
+    "exit_time": "2026-01-24T13:44:15.473197",
     "last_bar_collected": 1902,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T13:44:15.473197",
     "entry_volume": 261883.686923
   },
   "TST": {
@@ -997,5 +997,14 @@
     "last_bar_collected": 1109,
     "tracking_until": "2026-02-02T23:19:44.183098",
     "entry_volume": 285972.47393
+  },
+  "PNUT": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T13:44:15.473197",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 295098.0957150001
   }
 }
