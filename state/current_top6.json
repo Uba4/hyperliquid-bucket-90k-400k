@@ -1,10 +1,10 @@
 {
   "tokens": [
     "MEGA",
-    "KAS",
     "CHILLGUY",
+    "KAS",
     "SAGA",
-    "INIT",
+    "BIO",
     "MNT"
   ],
   "scores": [
@@ -13,8 +13,8 @@
     158,
     156,
     154,
-    152
+    150
   ],
-  "timestamp": "2026-01-24T19:55:13.231359",
+  "timestamp": "2026-01-24T20:22:20.420360",
   "bucket": "90k-400k"
 }
