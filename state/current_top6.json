@@ -4,8 +4,8 @@
     "AIXBT",
     "LINEA",
     "BANANA",
-    "SOPH",
-    "HYPER"
+    "SAGA",
+    "SOPH"
   ],
   "scores": [
     154,
@@ -15,6 +15,6 @@
     146,
     144
   ],
-  "timestamp": "2026-01-24T10:00:39.933533",
+  "timestamp": "2026-01-24T10:32:52.667618",
   "bucket": "90k-400k"
 }

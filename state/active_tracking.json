@@ -360,13 +360,13 @@
     "entry_volume": 138610.546273
   },
   "SAGA": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T19:17:40.565254",
-    "exit_time": "2026-01-18T22:57:31.488569",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T10:32:52.667395",
+    "exit_time": null,
     "last_bar_collected": 1890,
-    "tracking_until": "2026-01-28T22:57:31.488569",
-    "entry_volume": 203438.623661
+    "tracking_until": null,
+    "entry_volume": 261883.686923
   },
   "TST": {
     "current_run": 12,
@@ -613,11 +613,11 @@
   },
   "HYPER": {
     "current_run": 4,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T08:52:38.588568",
-    "exit_time": null,
+    "exit_time": "2026-01-24T10:32:52.667395",
     "last_bar_collected": 1645,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T10:32:52.667395",
     "entry_volume": 130337.04109
   },
   "XAI": {
