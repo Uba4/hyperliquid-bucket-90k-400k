@@ -298,11 +298,11 @@
   },
   "KAS": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T18:29:46.615985",
-    "exit_time": null,
+    "exit_time": "2026-01-24T21:57:54.068228",
     "last_bar_collected": 1976,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T21:57:54.068228",
     "entry_volume": 161684.27484
   },
   "ALGO": {
@@ -603,13 +603,13 @@
     "entry_volume": 198721.2784909999
   },
   "HYPER": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T15:51:28.281499",
-    "exit_time": "2026-01-24T16:14:01.487122",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T21:57:54.068228",
+    "exit_time": null,
     "last_bar_collected": 1689,
-    "tracking_until": "2026-02-03T16:14:01.487122",
-    "entry_volume": 145845.96215
+    "tracking_until": null,
+    "entry_volume": 148161.6936199999
   },
   "XAI": {
     "current_run": 4,
