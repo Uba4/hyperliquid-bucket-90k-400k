@@ -737,15 +737,6 @@
     "tracking_until": "2026-02-01T21:19:09.996258",
     "entry_volume": 246519.6122660001
   },
-  "MET": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-14T04:53:25.769887",
-    "exit_time": "2026-01-14T06:49:36.438837",
-    "last_bar_collected": 1234,
-    "tracking_until": "2026-01-24T06:49:36.438837",
-    "entry_volume": 432584.2913199998
-  },
   "STABLE": {
     "current_run": 6,
     "status": "post_exit",
