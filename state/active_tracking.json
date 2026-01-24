@@ -244,11 +244,11 @@
   },
   "APEX": {
     "current_run": 18,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T07:29:46.233138",
-    "exit_time": null,
+    "exit_time": "2026-01-24T08:52:38.588568",
     "last_bar_collected": 1949,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T08:52:38.588568",
     "entry_volume": 174909.3493599999
   },
   "USUAL": {
@@ -612,13 +612,13 @@
     "entry_volume": 198721.2784909999
   },
   "HYPER": {
-    "current_run": 3,
-    "status": "post_exit",
-    "entry_time": "2026-01-15T02:07:56.947140",
-    "exit_time": "2026-01-15T04:31:57.041544",
+    "current_run": 4,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T08:52:38.588568",
+    "exit_time": null,
     "last_bar_collected": 1638,
-    "tracking_until": "2026-01-25T04:31:57.041544",
-    "entry_volume": 97067.87194
+    "tracking_until": null,
+    "entry_volume": 130337.04109
   },
   "XAI": {
     "current_run": 4,
