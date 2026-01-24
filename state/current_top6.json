@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PURR",
     "DOOD",
-    "APEX",
+    "PURR",
     "SOPH",
-    "BABY",
-    "BSV"
+    "PROMPT",
+    "ZORA",
+    "WCT"
   ],
   "scores": [
-    156,
-    154,
-    152,
     150,
     148,
-    146
+    146,
+    144,
+    142,
+    140
   ],
-  "timestamp": "2026-01-23T23:53:09.016332",
+  "timestamp": "2026-01-24T01:12:10.085341",
   "bucket": "90k-400k"
 }
