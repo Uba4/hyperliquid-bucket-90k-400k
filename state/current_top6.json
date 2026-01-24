@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "INIT",
     "WCT",
+    "INIT",
     "AIXBT",
+    "ME",
     "SAGA",
-    "BANANA",
-    "ME"
+    "PURR"
   ],
   "scores": [
     148,
@@ -15,6 +15,6 @@
     140,
     138
   ],
-  "timestamp": "2026-01-24T11:52:42.223707",
+  "timestamp": "2026-01-24T12:28:27.153060",
   "bucket": "90k-400k"
 }
