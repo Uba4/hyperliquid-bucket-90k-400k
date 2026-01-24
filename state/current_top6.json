@@ -2,19 +2,19 @@
   "tokens": [
     "INIT",
     "AIXBT",
+    "WCT",
     "BANANA",
     "SAGA",
-    "LINEA",
     "SOPH"
   ],
   "scores": [
-    156,
-    154,
     152,
     150,
     148,
-    146
+    146,
+    144,
+    142
   ],
-  "timestamp": "2026-01-24T11:01:11.456077",
+  "timestamp": "2026-01-24T11:26:28.068732",
   "bucket": "90k-400k"
 }

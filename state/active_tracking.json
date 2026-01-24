@@ -1,12 +1,12 @@
 {
   "WCT": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T01:12:10.084896",
-    "exit_time": "2026-01-24T07:44:15.810668",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-24T11:26:28.068517",
+    "exit_time": null,
     "last_bar_collected": 1899,
-    "tracking_until": "2026-02-03T07:44:15.810668",
-    "entry_volume": 188035.056094
+    "tracking_until": null,
+    "entry_volume": 239798.97528
   },
   "MAVIA": {
     "current_run": 20,
@@ -91,11 +91,11 @@
   },
   "LINEA": {
     "current_run": 13,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-24T05:33:42.778073",
-    "exit_time": null,
+    "exit_time": "2026-01-24T11:26:28.068517",
     "last_bar_collected": 1983,
-    "tracking_until": null,
+    "tracking_until": "2026-02-03T11:26:28.068517",
     "entry_volume": 297303.211997
   },
   "ZETA": {
