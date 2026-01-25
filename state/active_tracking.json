@@ -262,11 +262,11 @@
   },
   "ANIME": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T08:35:15.607195",
-    "exit_time": null,
+    "exit_time": "2026-01-25T10:43:34.312060",
     "last_bar_collected": 2063,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T10:43:34.312060",
     "entry_volume": 263113.441632
   },
   "MANTA": {
@@ -603,13 +603,13 @@
     "entry_volume": 198721.2784909999
   },
   "HYPER": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T21:57:54.068228",
-    "exit_time": "2026-01-24T22:27:25.672961",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T10:43:34.312060",
+    "exit_time": null,
     "last_bar_collected": 1740,
-    "tracking_until": "2026-02-03T22:27:25.672961",
-    "entry_volume": 148161.6936199999
+    "tracking_until": null,
+    "entry_volume": 209493.8446200001
   },
   "XAI": {
     "current_run": 4,
