@@ -244,11 +244,11 @@
   },
   "APEX": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T13:00:32.086207",
-    "exit_time": null,
+    "exit_time": "2026-01-25T14:40:42.367481",
     "last_bar_collected": 2068,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T14:40:42.367481",
     "entry_volume": 293116.3743899999
   },
   "USUAL": {
@@ -720,13 +720,13 @@
     "entry_volume": 279894.6446080001
   },
   "STABLE": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-20T17:38:31.472309",
-    "exit_time": "2026-01-20T19:05:38.155787",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T14:40:42.367481",
+    "exit_time": null,
     "last_bar_collected": 1336,
-    "tracking_until": "2026-01-30T19:05:38.155787",
-    "entry_volume": 429673.944333
+    "tracking_until": null,
+    "entry_volume": 321635.160753
   },
   "ZORA": {
     "current_run": 9,
