@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SOPH",
-    "PROMPT",
-    "SUPER",
-    "CHILLGUY",
     "BLAST",
-    "STBL"
+    "INIT",
+    "ZORA",
+    "NIL",
+    "ALT"
   ],
   "scores": [
-    168,
     166,
     164,
     162,
     160,
-    158
+    158,
+    156
   ],
-  "timestamp": "2026-01-25T01:14:08.075760",
+  "timestamp": "2026-01-25T03:23:09.592836",
   "bucket": "90k-400k"
 }
