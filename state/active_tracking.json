@@ -459,13 +459,13 @@
     "entry_volume": 89285.91364
   },
   "RUNE": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T17:14:44.517354",
-    "exit_time": "2026-01-21T19:37:10.131968",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T16:45:19.092950",
+    "exit_time": null,
     "last_bar_collected": 1962,
-    "tracking_until": "2026-01-31T19:37:10.131968",
-    "entry_volume": 207019.961923
+    "tracking_until": null,
+    "entry_volume": 86959.029899
   },
   "AIXBT": {
     "current_run": 9,
@@ -721,11 +721,11 @@
   },
   "STABLE": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T15:38:10.046876",
-    "exit_time": null,
+    "exit_time": "2026-01-25T16:45:19.092950",
     "last_bar_collected": 1344,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T16:45:19.092950",
     "entry_volume": 319559.3146980001
   },
   "ZORA": {
