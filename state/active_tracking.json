@@ -325,11 +325,11 @@
   },
   "DOOD": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T19:57:52.899341",
-    "exit_time": null,
+    "exit_time": "2026-01-25T20:32:26.608351",
     "last_bar_collected": 2034,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T20:32:26.608351",
     "entry_volume": 104638.460041
   },
   "PROVE": {
@@ -477,13 +477,13 @@
     "entry_volume": 343783.408406
   },
   "BABY": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T17:56:14.922839",
-    "exit_time": "2026-01-25T18:56:53.720303",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T20:32:26.608351",
+    "exit_time": null,
     "last_bar_collected": 1958,
-    "tracking_until": "2026-02-04T18:56:53.720303",
-    "entry_volume": 81308.472226
+    "tracking_until": null,
+    "entry_volume": 81631.534572
   },
   "W": {
     "current_run": 11,
