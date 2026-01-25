@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "CHILLGUY",
+    "SOPH",
     "PROMPT",
-    "ACE",
-    "MEME",
-    "MOODENG",
-    "LAYER"
+    "SUPER",
+    "CHILLGUY",
+    "BLAST",
+    "STBL"
   ],
   "scores": [
+    168,
+    166,
+    164,
     162,
     160,
-    158,
-    156,
-    154,
-    152
+    158
   ],
-  "timestamp": "2026-01-24T23:52:26.130302",
+  "timestamp": "2026-01-25T01:14:08.075760",
   "bucket": "90k-400k"
 }
