@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MEGA",
     "APEX",
+    "MEGA",
     "YZY",
-    "BABY",
+    "PURR",
     "ALGO",
-    "PURR"
+    "BABY"
   ],
   "scores": [
     148,
     146,
     144,
-    142,
     140,
-    138
+    140,
+    140
   ],
-  "timestamp": "2026-01-25T22:44:24.196468",
+  "timestamp": "2026-01-25T22:56:20.938524",
   "bucket": "90k-400k"
 }
