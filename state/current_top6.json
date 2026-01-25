@@ -1,8 +1,8 @@
 {
   "tokens": [
     "MOVE",
-    "JTO",
     "SKY",
+    "JTO",
     "BIGTIME",
     "CAKE",
     "RUNE"
@@ -15,6 +15,6 @@
     152,
     150
   ],
-  "timestamp": "2026-01-25T16:45:19.093157",
+  "timestamp": "2026-01-25T16:59:44.894153",
   "bucket": "90k-400k"
 }
