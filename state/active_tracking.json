@@ -306,13 +306,13 @@
     "entry_volume": 161684.27484
   },
   "ALGO": {
-    "current_run": 5,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T22:32:04.034029",
-    "exit_time": "2026-01-22T23:17:09.366469",
+    "current_run": 6,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T21:56:06.584215",
+    "exit_time": null,
     "last_bar_collected": 2070,
-    "tracking_until": "2026-02-01T23:17:09.366469",
-    "entry_volume": 124960.62747
+    "tracking_until": null,
+    "entry_volume": 178068.26014
   },
   "kNEIRO": {
     "current_run": 11,
@@ -640,11 +640,11 @@
   },
   "GMT": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T19:21:39.883720",
-    "exit_time": null,
+    "exit_time": "2026-01-25T21:56:06.584215",
     "last_bar_collected": 1706,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T21:56:06.584215",
     "entry_volume": 98014.521383
   },
   "HMSTR": {
