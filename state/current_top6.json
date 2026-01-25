@@ -3,9 +3,9 @@
     "INIT",
     "BLAST",
     "MINA",
-    "YZY",
     "SAGA",
-    "ANIME"
+    "ANIME",
+    "ZORA"
   ],
   "scores": [
     166,
@@ -15,6 +15,6 @@
     158,
     156
   ],
-  "timestamp": "2026-01-25T08:35:15.607498",
+  "timestamp": "2026-01-25T08:55:19.078149",
   "bucket": "90k-400k"
 }

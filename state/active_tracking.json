@@ -729,13 +729,13 @@
     "entry_volume": 429673.944333
   },
   "ZORA": {
-    "current_run": 8,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T03:23:09.592346",
-    "exit_time": "2026-01-25T04:36:32.153744",
+    "current_run": 9,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T08:55:19.077938",
+    "exit_time": null,
     "last_bar_collected": 1256,
-    "tracking_until": "2026-02-04T04:36:32.153744",
-    "entry_volume": 239114.676548
+    "tracking_until": null,
+    "entry_volume": 320225.7632110001
   },
   "AR": {
     "current_run": 5,
@@ -1000,11 +1000,11 @@
   },
   "YZY": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T05:08:01.851480",
-    "exit_time": null,
+    "exit_time": "2026-01-25T08:55:19.077938",
     "last_bar_collected": 1124,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T08:55:19.077938",
     "entry_volume": 224775.3067
   }
 }
