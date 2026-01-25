@@ -1,20 +1,20 @@
 {
   "tokens": [
     "SKY",
+    "BABY",
     "YZY",
     "CAKE",
-    "BIGTIME",
-    "MET",
+    "PROMPT",
     "RUNE"
   ],
   "scores": [
+    166,
     164,
     162,
     160,
     158,
-    156,
-    154
+    156
   ],
-  "timestamp": "2026-01-25T17:45:32.651784",
+  "timestamp": "2026-01-25T17:56:14.923156",
   "bucket": "90k-400k"
 }
