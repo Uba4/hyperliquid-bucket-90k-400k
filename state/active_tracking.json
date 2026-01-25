@@ -478,11 +478,11 @@
   },
   "BABY": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T20:32:26.608351",
-    "exit_time": null,
+    "exit_time": "2026-01-25T23:41:27.190434",
     "last_bar_collected": 1970,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T23:41:27.190434",
     "entry_volume": 81631.534572
   },
   "W": {
@@ -639,13 +639,13 @@
     "entry_volume": 231198.7916800001
   },
   "GMT": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T19:21:39.883720",
-    "exit_time": "2026-01-25T21:56:06.584215",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T23:41:27.190434",
+    "exit_time": null,
     "last_bar_collected": 1714,
-    "tracking_until": "2026-02-04T21:56:06.584215",
-    "entry_volume": 98014.521383
+    "tracking_until": null,
+    "entry_volume": 90794.32481
   },
   "HMSTR": {
     "current_run": 7,
