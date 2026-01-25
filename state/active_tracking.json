@@ -199,11 +199,11 @@
   },
   "MEGA": {
     "current_run": 27,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T07:02:16.012917",
-    "exit_time": null,
+    "exit_time": "2026-01-25T07:31:35.126728",
     "last_bar_collected": 2039,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T07:31:35.126728",
     "entry_volume": 120494.2457900001
   },
   "CHILLGUY": {
@@ -738,13 +738,13 @@
     "entry_volume": 239114.676548
   },
   "AR": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T06:45:08.557605",
-    "exit_time": "2026-01-25T07:02:16.012917",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T07:31:35.126728",
+    "exit_time": null,
     "last_bar_collected": 2086,
-    "tracking_until": "2026-02-04T07:02:16.012917",
-    "entry_volume": 221636.034972
+    "tracking_until": null,
+    "entry_volume": 223149.344705
   },
   "ORDI": {
     "current_run": 2,
