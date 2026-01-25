@@ -388,11 +388,11 @@
   },
   "BANANA": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T15:17:09.866359",
-    "exit_time": null,
+    "exit_time": "2026-01-25T16:14:40.529408",
     "last_bar_collected": 1997,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T16:14:40.529408",
     "entry_volume": 137248.90584
   },
   "ALT": {
@@ -630,13 +630,13 @@
     "entry_volume": 409215.40072
   },
   "CAKE": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T21:58:14.290011",
-    "exit_time": "2026-01-23T01:18:07.993213",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T16:14:40.529408",
+    "exit_time": null,
     "last_bar_collected": 1665,
-    "tracking_until": "2026-02-02T01:18:07.993213",
-    "entry_volume": 321332.6628100001
+    "tracking_until": null,
+    "entry_volume": 231198.7916800001
   },
   "GMT": {
     "current_run": 11,

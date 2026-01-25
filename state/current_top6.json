@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BANANA",
     "JTO",
     "MOVE",
-    "SKY",
     "STABLE",
-    "BIGTIME"
+    "SKY",
+    "BIGTIME",
+    "CAKE"
   ],
   "scores": [
-    168,
     166,
     164,
     162,
     160,
-    158
+    158,
+    156
   ],
-  "timestamp": "2026-01-25T15:51:46.456241",
+  "timestamp": "2026-01-25T16:14:40.529634",
   "bucket": "90k-400k"
 }
