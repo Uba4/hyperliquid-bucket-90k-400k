@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "INIT",
     "BLAST",
-    "ANIME",
+    "LAYER",
+    "ZETA",
     "ZORA",
-    "MINA",
-    "ZETA"
+    "ANIME",
+    "NIL"
   ],
   "scores": [
-    172,
-    170,
-    168,
     166,
     164,
-    162
+    162,
+    160,
+    158,
+    156
   ],
-  "timestamp": "2026-01-25T09:53:53.963510",
+  "timestamp": "2026-01-25T10:18:34.302477",
   "bucket": "90k-400k"
 }
