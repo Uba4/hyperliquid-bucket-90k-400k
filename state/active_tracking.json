@@ -712,11 +712,11 @@
   },
   "STBL": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T04:36:32.153744",
-    "exit_time": null,
+    "exit_time": "2026-01-25T05:08:01.851480",
     "last_bar_collected": 1332,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T05:08:01.851480",
     "entry_volume": 263498.397382
   },
   "STABLE": {
@@ -1006,5 +1006,14 @@
     "last_bar_collected": 1365,
     "tracking_until": "2026-02-03T23:52:26.130021",
     "entry_volume": 399534.22192
+  },
+  "YZY": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T05:08:01.851480",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 224775.3067
   }
 }
