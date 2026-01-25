@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "LAYER",
     "HYPER",
     "ZETA",
     "NIL",
     "CELO",
-    "ANIME"
+    "ANIME",
+    "BIGTIME"
   ],
   "scores": [
-    166,
     164,
     162,
     160,
     158,
-    156
+    156,
+    152
   ],
-  "timestamp": "2026-01-25T11:21:16.263879",
+  "timestamp": "2026-01-25T11:36:40.926798",
   "bucket": "90k-400k"
 }

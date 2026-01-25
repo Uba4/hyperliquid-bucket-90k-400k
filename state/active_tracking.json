@@ -441,13 +441,13 @@
     "entry_volume": 117571.002303
   },
   "BIGTIME": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T10:56:35.294685",
-    "exit_time": "2026-01-25T11:21:16.263604",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T11:36:40.926595",
+    "exit_time": null,
     "last_bar_collected": 1932,
-    "tracking_until": "2026-02-04T11:21:16.263604",
-    "entry_volume": 184936.3572530001
+    "tracking_until": null,
+    "entry_volume": 185400.949672
   },
   "BSV": {
     "current_run": 7,
@@ -784,11 +784,11 @@
   },
   "LAYER": {
     "current_run": 6,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T10:18:34.302172",
-    "exit_time": null,
+    "exit_time": "2026-01-25T11:36:40.926595",
     "last_bar_collected": 1963,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T11:36:40.926595",
     "entry_volume": 263533.34017
   },
   "MEME": {
