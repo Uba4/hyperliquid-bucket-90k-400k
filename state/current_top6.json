@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "INIT",
+    "BLAST",
+    "MINA",
     "YZY",
     "SAGA",
-    "BLAST",
-    "GRIFFAIN",
-    "MINA",
-    "BIGTIME"
+    "ANIME"
   ],
   "scores": [
+    166,
     164,
     162,
     160,
     158,
-    156,
-    152
+    156
   ],
-  "timestamp": "2026-01-25T07:57:36.379088",
+  "timestamp": "2026-01-25T08:35:15.607498",
   "bucket": "90k-400k"
 }
