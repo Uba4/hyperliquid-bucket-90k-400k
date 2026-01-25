@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BLAST",
     "LAYER",
+    "HYPER",
     "ZETA",
     "NIL",
-    "ZORA",
-    "HYPER"
+    "BIGTIME",
+    "ZORA"
   ],
   "scores": [
     164,
     162,
     160,
     158,
-    156,
+    154,
     154
   ],
-  "timestamp": "2026-01-25T10:43:34.312274",
+  "timestamp": "2026-01-25T10:56:35.294884",
   "bucket": "90k-400k"
 }
