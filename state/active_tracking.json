@@ -450,13 +450,13 @@
     "entry_volume": 107804.022337
   },
   "BSV": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-23T22:16:07.579315",
-    "exit_time": "2026-01-24T01:12:10.084896",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T18:56:53.720303",
+    "exit_time": null,
     "last_bar_collected": 1970,
-    "tracking_until": "2026-02-03T01:12:10.084896",
-    "entry_volume": 89285.91364
+    "tracking_until": null,
+    "entry_volume": 84527.78763
   },
   "RUNE": {
     "current_run": 9,
@@ -478,11 +478,11 @@
   },
   "BABY": {
     "current_run": 16,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T17:56:14.922839",
-    "exit_time": null,
+    "exit_time": "2026-01-25T18:56:53.720303",
     "last_bar_collected": 1950,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T18:56:53.720303",
     "entry_volume": 81308.472226
   },
   "W": {
