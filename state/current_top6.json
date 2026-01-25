@@ -2,19 +2,19 @@
   "tokens": [
     "BLAST",
     "INIT",
-    "ZETA",
     "YZY",
+    "ZETA",
     "NIL",
-    "SOPH"
+    "STBL"
   ],
   "scores": [
-    166,
     164,
     162,
     160,
     158,
-    156
+    156,
+    154
   ],
-  "timestamp": "2026-01-25T05:08:01.851707",
+  "timestamp": "2026-01-25T05:44:13.857952",
   "bucket": "90k-400k"
 }
