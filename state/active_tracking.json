@@ -423,13 +423,13 @@
     "entry_volume": 81660.030706
   },
   "SKY": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T05:58:48.945859",
-    "exit_time": "2026-01-25T06:45:08.557605",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-01-25T14:53:42.292258",
+    "exit_time": null,
     "last_bar_collected": 1962,
-    "tracking_until": "2026-02-04T06:45:08.557605",
-    "entry_volume": 256920.2955009999
+    "tracking_until": null,
+    "entry_volume": 243743.029379
   },
   "APE": {
     "current_run": 9,
@@ -442,11 +442,11 @@
   },
   "BIGTIME": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-25T13:54:47.922628",
-    "exit_time": null,
+    "exit_time": "2026-01-25T14:53:42.292258",
     "last_bar_collected": 1944,
-    "tracking_until": null,
+    "tracking_until": "2026-02-04T14:53:42.292258",
     "entry_volume": 190790.3550900001
   },
   "BSV": {
