@@ -2,19 +2,19 @@
   "tokens": [
     "MANTA",
     "CELO",
-    "SYRUP",
-    "SAGA",
     "PROVE",
+    "SAGA",
+    "SYRUP",
     "ETHFI"
   ],
   "scores": [
-    154,
-    152,
     150,
-    148,
     146,
-    144
+    146,
+    144,
+    144,
+    140
   ],
-  "timestamp": "2026-01-26T09:47:31.664932",
+  "timestamp": "2026-01-26T10:03:25.310409",
   "bucket": "90k-400k"
 }
