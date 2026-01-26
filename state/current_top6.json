@@ -1,11 +1,11 @@
 {
   "tokens": [
     "APEX",
-    "MEGA",
-    "PURR",
+    "PEOPLE",
+    "ZETA",
     "ALGO",
-    "YZY",
-    "GMT"
+    "PROMPT",
+    "HYPER"
   ],
   "scores": [
     148,
@@ -13,8 +13,8 @@
     144,
     142,
     140,
-    138
+    136
   ],
-  "timestamp": "2026-01-25T23:53:56.324541",
+  "timestamp": "2026-01-26T01:29:42.198956",
   "bucket": "90k-400k"
 }
