@@ -1,10 +1,10 @@
 {
   "tokens": [
     "MANTA",
-    "ZETA",
     "CELO",
     "SYRUP",
     "STX",
+    "BIO",
     "SOPH"
   ],
   "scores": [
@@ -15,6 +15,6 @@
     140,
     138
   ],
-  "timestamp": "2026-01-26T07:04:38.544902",
+  "timestamp": "2026-01-26T07:39:04.040105",
   "bucket": "90k-400k"
 }
