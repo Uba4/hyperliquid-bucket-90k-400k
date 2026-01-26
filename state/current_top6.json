@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "PROVE",
-    "MANTA",
     "ZETA",
+    "PROVE",
     "PROMPT",
+    "MANTA",
     "ACE",
-    "SAGA"
+    "MEGA"
   ],
   "scores": [
     152,
@@ -15,6 +15,6 @@
     144,
     142
   ],
-  "timestamp": "2026-01-26T11:31:16.220839",
+  "timestamp": "2026-01-26T11:47:38.275519",
   "bucket": "90k-400k"
 }
