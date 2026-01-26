@@ -2,19 +2,19 @@
   "tokens": [
     "ALGO",
     "WCT",
-    "PROMPT",
     "NXPC",
     "W",
-    "PROVE"
+    "DYM",
+    "SUSHI"
   ],
   "scores": [
-    154,
     152,
     150,
     148,
     146,
-    144
+    144,
+    142
   ],
-  "timestamp": "2026-01-26T14:25:56.412064",
+  "timestamp": "2026-01-26T14:56:38.402872",
   "bucket": "90k-400k"
 }
