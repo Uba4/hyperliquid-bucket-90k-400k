@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "APEX",
-    "PEOPLE",
+    "MINA",
     "ZETA",
-    "ALGO",
-    "PROMPT",
-    "HYPER"
+    "ALT",
+    "ACE",
+    "CELO",
+    "MAVIA"
   ],
   "scores": [
-    148,
     146,
     144,
     142,
     140,
+    138,
     136
   ],
-  "timestamp": "2026-01-26T01:29:42.198956",
+  "timestamp": "2026-01-26T03:34:51.297957",
   "bucket": "90k-400k"
 }
