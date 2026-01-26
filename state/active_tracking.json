@@ -19,11 +19,11 @@
   },
   "NIL": {
     "current_run": 22,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T20:29:12.460142",
-    "exit_time": null,
+    "exit_time": "2026-01-26T22:32:59.277219",
     "last_bar_collected": 2211,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T22:32:59.277219",
     "entry_volume": 182890.440711
   },
   "SYRUP": {
@@ -162,13 +162,13 @@
     "entry_volume": 284604.1568990001
   },
   "BLAST": {
-    "current_run": 22,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T01:14:08.075199",
-    "exit_time": "2026-01-25T10:56:35.294685",
+    "current_run": 23,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T22:32:59.277219",
+    "exit_time": null,
     "last_bar_collected": 2194,
-    "tracking_until": "2026-02-04T10:56:35.294685",
-    "entry_volume": 165211.800815
+    "tracking_until": null,
+    "entry_volume": 365185.027211
   },
   "SOPH": {
     "current_run": 21,
@@ -549,13 +549,13 @@
     "entry_volume": 138212.7541810001
   },
   "HEMI": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T15:39:37.820680",
-    "exit_time": "2026-01-24T16:58:26.710891",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T22:32:59.277219",
+    "exit_time": null,
     "last_bar_collected": 1984,
-    "tracking_until": "2026-02-03T16:58:26.710891",
-    "entry_volume": 297859.7472519999
+    "tracking_until": null,
+    "entry_volume": 281589.797388
   },
   "0G": {
     "current_run": 7,
@@ -964,11 +964,11 @@
   },
   "PNUT": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T21:20:10.029633",
-    "exit_time": null,
+    "exit_time": "2026-01-26T22:32:59.277219",
     "last_bar_collected": 1296,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T22:32:59.277219",
     "entry_volume": 296377.037965
   },
   "MET": {
