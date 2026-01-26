@@ -532,11 +532,11 @@
   },
   "SCR": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T23:18:00.140596",
-    "exit_time": null,
+    "exit_time": "2026-01-26T23:41:36.056925",
     "last_bar_collected": 2007,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T23:41:36.056925",
     "entry_volume": 408706.8760549999
   },
   "SNX": {
@@ -648,13 +648,13 @@
     "entry_volume": 197049.983881
   },
   "PROMPT": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T18:52:57.410610",
-    "exit_time": "2026-01-26T19:20:25.424178",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T23:41:36.056925",
+    "exit_time": null,
     "last_bar_collected": 1739,
-    "tracking_until": "2026-02-05T19:20:25.424178",
-    "entry_volume": 199381.432875
+    "tracking_until": null,
+    "entry_volume": 193489.1194060001
   },
   "MORPHO": {
     "current_run": 10,
