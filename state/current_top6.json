@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "PURR",
     "PROVE",
+    "PURR",
     "SYRUP",
     "SOPH",
-    "NIL",
-    "PNUT"
+    "PNUT",
+    "NIL"
   ],
   "scores": [
     158,
@@ -15,6 +15,6 @@
     150,
     148
   ],
-  "timestamp": "2026-01-26T21:20:10.029821",
+  "timestamp": "2026-01-26T21:44:07.614202",
   "bucket": "90k-400k"
 }
