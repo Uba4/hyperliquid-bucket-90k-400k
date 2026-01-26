@@ -2,19 +2,19 @@
   "tokens": [
     "MANTA",
     "PROVE",
+    "PROMPT",
     "SYRUP",
     "SAGA",
-    "ACE",
-    "PROMPT"
+    "ACE"
   ],
   "scores": [
+    150,
     148,
-    146,
+    144,
     144,
     142,
-    140,
-    136
+    140
   ],
-  "timestamp": "2026-01-26T10:42:41.946118",
+  "timestamp": "2026-01-26T11:01:11.746921",
   "bucket": "90k-400k"
 }
