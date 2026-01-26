@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "ZETA",
     "PROVE",
     "PROMPT",
-    "MANTA",
+    "ALGO",
     "ACE",
-    "MEGA"
+    "MEGA",
+    "kLUNC"
   ],
   "scores": [
+    154,
+    152,
     150,
     148,
     146,
-    144,
-    142,
-    140
+    142
   ],
-  "timestamp": "2026-01-26T11:59:14.454545",
+  "timestamp": "2026-01-26T13:07:47.119944",
   "bucket": "90k-400k"
 }
