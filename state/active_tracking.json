@@ -18,13 +18,13 @@
     "entry_volume": 158088.767587
   },
   "NIL": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T10:18:34.302172",
-    "exit_time": "2026-01-25T13:39:13.476113",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T19:20:25.424178",
+    "exit_time": null,
     "last_bar_collected": 2197,
-    "tracking_until": "2026-02-04T13:39:13.476113",
-    "entry_volume": 217492.228593
+    "tracking_until": null,
+    "entry_volume": 183830.385173
   },
   "SYRUP": {
     "current_run": 20,
@@ -45,13 +45,13 @@
     "entry_volume": 320300.0212600001
   },
   "ZEREBRO": {
-    "current_run": 23,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T03:02:58.989209",
-    "exit_time": "2026-01-24T04:04:50.580082",
+    "current_run": 24,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T19:20:25.424178",
+    "exit_time": null,
     "last_bar_collected": 2193,
-    "tracking_until": "2026-02-03T04:04:50.580082",
-    "entry_volume": 92374.014312
+    "tracking_until": null,
+    "entry_volume": 199690.433382
   },
   "GALA": {
     "current_run": 10,
@@ -262,11 +262,11 @@
   },
   "MANTA": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T18:52:57.410610",
-    "exit_time": null,
+    "exit_time": "2026-01-26T19:20:25.424178",
     "last_bar_collected": 2182,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T19:20:25.424178",
     "entry_volume": 182108.484159
   },
   "NOT": {
@@ -658,11 +658,11 @@
   },
   "PROMPT": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T18:52:57.410610",
-    "exit_time": null,
+    "exit_time": "2026-01-26T19:20:25.424178",
     "last_bar_collected": 1720,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T19:20:25.424178",
     "entry_volume": 199381.432875
   },
   "MORPHO": {

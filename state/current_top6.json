@@ -4,17 +4,17 @@
     "MEME",
     "SCR",
     "SYRUP",
-    "MANTA",
-    "PROMPT"
+    "ZEREBRO",
+    "NIL"
   ],
   "scores": [
-    150,
     148,
     146,
     144,
     142,
-    140
+    138,
+    136
   ],
-  "timestamp": "2026-01-26T18:52:57.410914",
+  "timestamp": "2026-01-26T19:20:25.424552",
   "bucket": "90k-400k"
 }
