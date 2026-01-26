@@ -19,11 +19,11 @@
   },
   "NIL": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T19:20:25.424178",
-    "exit_time": null,
+    "exit_time": "2026-01-26T19:55:39.948982",
     "last_bar_collected": 2197,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T19:55:39.948982",
     "entry_volume": 183830.385173
   },
   "SYRUP": {
@@ -171,13 +171,13 @@
     "entry_volume": 165211.800815
   },
   "SOPH": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T07:04:38.544724",
-    "exit_time": "2026-01-26T08:33:12.869944",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T19:55:39.948982",
+    "exit_time": null,
     "last_bar_collected": 2151,
-    "tracking_until": "2026-02-05T08:33:12.869944",
-    "entry_volume": 264524.2168739999
+    "tracking_until": null,
+    "entry_volume": 107297.1117210001
   },
   "MOVE": {
     "current_run": 8,
