@@ -1,20 +1,20 @@
 {
   "tokens": [
     "PURR",
-    "MEME",
     "SCR",
     "SYRUP",
-    "ZEREBRO",
+    "MEME",
+    "PROVE",
     "NIL"
   ],
   "scores": [
+    152,
+    150,
     148,
     146,
     144,
-    142,
-    138,
-    136
+    142
   ],
-  "timestamp": "2026-01-26T19:20:25.424552",
+  "timestamp": "2026-01-26T19:41:47.717062",
   "bucket": "90k-400k"
 }
