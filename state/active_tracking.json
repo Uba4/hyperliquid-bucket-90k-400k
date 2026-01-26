@@ -1,12 +1,12 @@
 {
   "WCT": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T11:26:28.068517",
-    "exit_time": "2026-01-24T16:44:04.031178",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T14:25:56.411796",
+    "exit_time": null,
     "last_bar_collected": 2101,
-    "tracking_until": "2026-02-03T16:44:04.031178",
-    "entry_volume": 239798.97528
+    "tracking_until": null,
+    "entry_volume": 423537.5404059999
   },
   "MAVIA": {
     "current_run": 21,
@@ -649,11 +649,11 @@
   },
   "kLUNC": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T13:07:47.119599",
-    "exit_time": null,
+    "exit_time": "2026-01-26T14:25:56.411796",
     "last_bar_collected": 1750,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T14:25:56.411796",
     "entry_volume": 197049.983881
   },
   "PROMPT": {
