@@ -10,11 +10,11 @@
   },
   "MAVIA": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T03:34:51.297253",
-    "exit_time": null,
+    "exit_time": "2026-01-26T05:54:10.310754",
     "last_bar_collected": 2065,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T05:54:10.310754",
     "entry_volume": 158088.767587
   },
   "NIL": {
@@ -27,13 +27,13 @@
     "entry_volume": 217492.228593
   },
   "SYRUP": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-01-24T04:04:50.580082",
-    "exit_time": "2026-01-24T05:50:09.668954",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T05:54:10.310754",
+    "exit_time": null,
     "last_bar_collected": 2141,
-    "tracking_until": "2026-02-03T05:50:09.668954",
-    "entry_volume": 283170.89807
+    "tracking_until": null,
+    "entry_volume": 343237.32867
   },
   "MINA": {
     "current_run": 15,

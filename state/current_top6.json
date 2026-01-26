@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MINA",
     "ZETA",
+    "MINA",
     "MANTA",
     "CELO",
-    "MAVIA",
-    "STX"
+    "STX",
+    "SYRUP"
   ],
   "scores": [
+    148,
     146,
     144,
     142,
     140,
-    138,
-    136
+    138
   ],
-  "timestamp": "2026-01-26T05:23:28.203282",
+  "timestamp": "2026-01-26T05:54:10.310878",
   "bucket": "90k-400k"
 }
