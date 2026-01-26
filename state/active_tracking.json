@@ -611,15 +611,6 @@
     "tracking_until": "2026-01-31T13:00:08.353482",
     "entry_volume": 136801.2778200001
   },
-  "MERL": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-16T17:43:19.947674",
-    "exit_time": "2026-01-16T20:37:48.224068",
-    "last_bar_collected": 1829,
-    "tracking_until": "2026-01-26T20:37:48.224068",
-    "entry_volume": 409215.40072
-  },
   "CAKE": {
     "current_run": 13,
     "status": "post_exit",
