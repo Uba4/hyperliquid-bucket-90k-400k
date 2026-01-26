@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROVE",
     "PROMPT",
     "ALGO",
-    "ACE",
-    "MEGA",
-    "kLUNC"
+    "PROVE",
+    "NXPC",
+    "kLUNC",
+    "W"
   ],
   "scores": [
-    154,
     152,
     150,
     148,
     146,
+    144,
     142
   ],
-  "timestamp": "2026-01-26T13:07:47.119944",
+  "timestamp": "2026-01-26T13:53:44.921189",
   "bucket": "90k-400k"
 }
