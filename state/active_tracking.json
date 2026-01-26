@@ -27,13 +27,13 @@
     "entry_volume": 217492.228593
   },
   "SYRUP": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T05:54:10.310754",
-    "exit_time": "2026-01-26T11:31:16.220622",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T18:02:26.295648",
+    "exit_time": null,
     "last_bar_collected": 2188,
-    "tracking_until": "2026-02-05T11:31:16.220622",
-    "entry_volume": 343237.32867
+    "tracking_until": null,
+    "entry_volume": 375963.36292
   },
   "MINA": {
     "current_run": 15,
@@ -568,11 +568,11 @@
   },
   "GMX": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T17:48:59.114108",
-    "exit_time": null,
+    "exit_time": "2026-01-26T18:02:26.295648",
     "last_bar_collected": 1907,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T18:02:26.295648",
     "entry_volume": 153782.24011
   },
   "YGG": {
