@@ -2,19 +2,19 @@
   "tokens": [
     "MINA",
     "ZETA",
-    "ACE",
-    "ALT",
+    "MANTA",
+    "CELO",
     "MAVIA",
-    "CELO"
+    "STX"
   ],
   "scores": [
-    148,
     146,
-    142,
+    144,
     142,
     140,
-    138
+    138,
+    136
   ],
-  "timestamp": "2026-01-26T04:44:03.907686",
+  "timestamp": "2026-01-26T05:23:28.203282",
   "bucket": "90k-400k"
 }
