@@ -630,13 +630,13 @@
     "entry_volume": 231198.7916800001
   },
   "GMT": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-25T23:41:27.190434",
-    "exit_time": "2026-01-26T01:29:42.198585",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T09:02:31.297703",
+    "exit_time": null,
     "last_bar_collected": 1751,
-    "tracking_until": "2026-02-05T01:29:42.198585",
-    "entry_volume": 90794.32481
+    "tracking_until": null,
+    "entry_volume": 101369.575552
   },
   "HMSTR": {
     "current_run": 7,
@@ -910,11 +910,11 @@
   },
   "GOAT": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T08:33:12.869944",
-    "exit_time": null,
+    "exit_time": "2026-01-26T09:02:31.297703",
     "last_bar_collected": 1840,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T09:02:31.297703",
     "entry_volume": 131453.648798
   },
   "IOTA": {
