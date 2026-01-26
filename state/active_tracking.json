@@ -28,11 +28,11 @@
   },
   "SYRUP": {
     "current_run": 19,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T05:54:10.310754",
-    "exit_time": null,
+    "exit_time": "2026-01-26T11:31:16.220622",
     "last_bar_collected": 2164,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T11:31:16.220622",
     "entry_volume": 343237.32867
   },
   "MINA": {
@@ -99,13 +99,13 @@
     "entry_volume": 382536.8301779999
   },
   "ZETA": {
-    "current_run": 17,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T01:29:42.198585",
-    "exit_time": "2026-01-26T07:39:04.039878",
+    "current_run": 18,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T11:31:16.220622",
+    "exit_time": null,
     "last_bar_collected": 2151,
-    "tracking_until": "2026-02-05T07:39:04.039878",
-    "entry_volume": 348577.4820969999
+    "tracking_until": null,
+    "entry_volume": 421440.032239
   },
   "DYM": {
     "current_run": 6,
