@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROVE",
     "SOPH",
-    "SYRUP",
+    "PROVE",
     "HEMI",
+    "PURR",
     "BLAST",
-    "PURR"
+    "SCR"
   ],
   "scores": [
-    152,
-    150,
-    148,
+    149,
+    149,
     146,
     144,
-    141
+    142,
+    138
   ],
-  "timestamp": "2026-01-26T22:53:16.063614",
+  "timestamp": "2026-01-26T23:18:00.140772",
   "bucket": "90k-400k"
 }

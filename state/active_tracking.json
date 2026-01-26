@@ -28,11 +28,11 @@
   },
   "SYRUP": {
     "current_run": 20,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-26T18:02:26.295648",
-    "exit_time": null,
+    "exit_time": "2026-01-26T23:18:00.140596",
     "last_bar_collected": 2206,
-    "tracking_until": null,
+    "tracking_until": "2026-02-05T23:18:00.140596",
     "entry_volume": 375963.36292
   },
   "MINA": {
@@ -531,13 +531,13 @@
     "entry_volume": 340647.6296799998
   },
   "SCR": {
-    "current_run": 13,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T17:16:03.907961",
-    "exit_time": "2026-01-26T21:20:10.029633",
+    "current_run": 14,
+    "status": "in_top6",
+    "entry_time": "2026-01-26T23:18:00.140596",
+    "exit_time": null,
     "last_bar_collected": 2007,
-    "tracking_until": "2026-02-05T21:20:10.029633",
-    "entry_volume": 362989.169654
+    "tracking_until": null,
+    "entry_volume": 408706.8760549999
   },
   "SNX": {
     "current_run": 9,
