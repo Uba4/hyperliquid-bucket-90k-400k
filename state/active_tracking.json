@@ -207,13 +207,13 @@
     "entry_volume": 229613.316888
   },
   "GRIFFAIN": {
-    "current_run": 20,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T17:16:03.907961",
-    "exit_time": "2026-01-26T18:52:57.410610",
+    "current_run": 21,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T11:17:41.618167",
+    "exit_time": null,
     "last_bar_collected": 2242,
-    "tracking_until": "2026-02-05T18:52:57.410610",
-    "entry_volume": 207188.106971
+    "tracking_until": null,
+    "entry_volume": 190870.767202
   },
   "POLYX": {
     "current_run": 15,
@@ -730,11 +730,11 @@
   },
   "INIT": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T09:51:43.066972",
-    "exit_time": null,
+    "exit_time": "2026-01-27T11:17:41.618167",
     "last_bar_collected": 2247,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T11:17:41.618167",
     "entry_volume": 224555.685021
   },
   "NEO": {
