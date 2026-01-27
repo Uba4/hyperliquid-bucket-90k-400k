@@ -567,13 +567,13 @@
     "entry_volume": 406831.3742339999
   },
   "ETHFI": {
-    "current_run": 6,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T08:33:12.869944",
-    "exit_time": "2026-01-26T10:42:41.945767",
+    "current_run": 7,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T18:54:43.344837",
+    "exit_time": null,
     "last_bar_collected": 1993,
-    "tracking_until": "2026-02-05T10:42:41.945767",
-    "entry_volume": 431903.84532
+    "tracking_until": null,
+    "entry_volume": 421689.3735679999
   },
   "HYPER": {
     "current_run": 9,
@@ -874,11 +874,11 @@
   },
   "GOAT": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T16:41:34.183555",
-    "exit_time": null,
+    "exit_time": "2026-01-27T18:54:43.344837",
     "last_bar_collected": 2074,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T18:54:43.344837",
     "entry_volume": 141438.162731
   },
   "IOTA": {

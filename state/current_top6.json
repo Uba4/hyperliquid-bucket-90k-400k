@@ -3,18 +3,18 @@
     "ZEREBRO",
     "GRIFFAIN",
     "USUAL",
-    "GOAT",
+    "DYDX",
     "ENS",
-    "DYDX"
+    "ETHFI"
   ],
   "scores": [
+    152,
+    150,
     148,
     146,
     144,
-    142,
-    140,
-    136
+    140
   ],
-  "timestamp": "2026-01-27T18:01:05.704021",
+  "timestamp": "2026-01-27T18:54:43.345008",
   "bucket": "90k-400k"
 }
