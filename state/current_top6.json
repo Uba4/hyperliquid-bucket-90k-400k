@@ -3,18 +3,18 @@
     "ZEREBRO",
     "STBL",
     "CHILLGUY",
-    "JTO",
     "DYDX",
-    "INIT"
+    "INIT",
+    "MINA"
   ],
   "scores": [
-    148,
     146,
     144,
     142,
     140,
-    138
+    138,
+    136
   ],
-  "timestamp": "2026-01-27T20:34:50.913630",
+  "timestamp": "2026-01-27T20:53:57.452011",
   "bucket": "90k-400k"
 }

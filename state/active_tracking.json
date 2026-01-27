@@ -36,13 +36,13 @@
     "entry_volume": 339799.2378699998
   },
   "MINA": {
-    "current_run": 16,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T11:57:10.082934",
-    "exit_time": "2026-01-27T16:41:34.183555",
+    "current_run": 17,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T20:53:57.451782",
+    "exit_time": null,
     "last_bar_collected": 2295,
-    "tracking_until": "2026-02-06T16:41:34.183555",
-    "entry_volume": 141549.474565
+    "tracking_until": null,
+    "entry_volume": 109744.502881
   },
   "ZEREBRO": {
     "current_run": 26,
@@ -901,11 +901,11 @@
   },
   "JTO": {
     "current_run": 3,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T19:26:07.188737",
-    "exit_time": null,
+    "exit_time": "2026-01-27T20:53:57.451782",
     "last_bar_collected": 2443,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T20:53:57.451782",
     "entry_volume": 412666.6965200001
   },
   "AERO": {
