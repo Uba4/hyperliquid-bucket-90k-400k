@@ -1,20 +1,20 @@
 {
   "tokens": [
     "CHILLGUY",
-    "STBL",
-    "DYDX",
     "BIO",
-    "BABY",
-    "CELO"
+    "MEGA",
+    "DYDX",
+    "STBL",
+    "BABY"
   ],
   "scores": [
+    148,
     146,
     144,
-    141,
-    141,
-    138,
-    134
+    142,
+    140,
+    138
   ],
-  "timestamp": "2026-01-27T21:35:57.334831",
+  "timestamp": "2026-01-27T21:51:12.056156",
   "bucket": "90k-400k"
 }
