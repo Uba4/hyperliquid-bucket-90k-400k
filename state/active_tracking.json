@@ -459,13 +459,13 @@
     "entry_volume": 363696.753475
   },
   "BABY": {
-    "current_run": 18,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T21:35:57.334524",
-    "exit_time": "2026-01-27T22:13:54.934038",
+    "current_run": 19,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T22:41:39.053224",
+    "exit_time": null,
     "last_bar_collected": 2158,
-    "tracking_until": "2026-02-06T22:13:54.934038",
-    "entry_volume": 82467.099113
+    "tracking_until": null,
+    "entry_volume": 82242.371778
   },
   "W": {
     "current_run": 12,
@@ -982,11 +982,11 @@
   },
   "DYDX": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T18:01:05.703827",
-    "exit_time": null,
+    "exit_time": "2026-01-27T22:41:39.053224",
     "last_bar_collected": 2188,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T22:41:39.053224",
     "entry_volume": 167201.639028
   },
   "kFLOKI": {
