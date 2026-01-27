@@ -1,11 +1,11 @@
 {
   "tokens": [
     "GAS",
-    "POLYX",
-    "NEO",
-    "NOT",
+    "DYDX",
     "TURBO",
-    "YZY"
+    "BANANA",
+    "S",
+    "kFLOKI"
   ],
   "scores": [
     148,
@@ -15,6 +15,6 @@
     140,
     138
   ],
-  "timestamp": "2026-01-27T03:46:10.291011",
+  "timestamp": "2026-01-27T04:38:07.405173",
   "bucket": "90k-400k"
 }
