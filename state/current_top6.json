@@ -3,18 +3,18 @@
     "MANTA",
     "IO",
     "POLYX",
-    "BANANA",
-    "MEGA",
-    "GMX"
+    "INIT",
+    "APEX",
+    "BANANA"
   ],
   "scores": [
-    146,
-    144,
     142,
     140,
     138,
-    136
+    134,
+    134,
+    132
   ],
-  "timestamp": "2026-01-27T07:59:30.419886",
+  "timestamp": "2026-01-27T08:46:59.288504",
   "bucket": "90k-400k"
 }
