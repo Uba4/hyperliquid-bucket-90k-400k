@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "YZY",
-    "MINA",
     "ZEREBRO",
-    "MEGA",
+    "GOAT",
     "CAKE",
-    "KAS"
+    "SYRUP",
+    "AERO",
+    "GRIFFAIN"
   ],
   "scores": [
-    152,
     150,
     148,
     146,
-    144,
-    142
+    142,
+    142,
+    140
   ],
-  "timestamp": "2026-01-27T15:59:27.181693",
+  "timestamp": "2026-01-27T16:41:34.184285",
   "bucket": "90k-400k"
 }
