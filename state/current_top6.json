@@ -1,20 +1,20 @@
 {
   "tokens": [
     "ZEREBRO",
-    "GOAT",
     "GRIFFAIN",
-    "AERO",
-    "CAKE",
-    "USUAL"
+    "USUAL",
+    "GOAT",
+    "ENS",
+    "AERO"
   ],
   "scores": [
-    150,
     148,
     146,
     144,
     142,
-    140
+    140,
+    138
   ],
-  "timestamp": "2026-01-27T17:05:22.318276",
+  "timestamp": "2026-01-27T17:43:42.680595",
   "bucket": "90k-400k"
 }

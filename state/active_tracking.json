@@ -595,11 +595,11 @@
   },
   "CAKE": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T15:01:16.753340",
-    "exit_time": null,
+    "exit_time": "2026-01-27T17:43:42.680383",
     "last_bar_collected": 1861,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T17:43:42.680383",
     "entry_volume": 201629.98933
   },
   "GMT": {
@@ -1042,5 +1042,14 @@
     "last_bar_collected": 930,
     "tracking_until": "2026-02-06T15:59:27.181466",
     "entry_volume": 288197.97083
+  },
+  "ENS": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T17:43:42.680383",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 128415.754943
   }
 }
