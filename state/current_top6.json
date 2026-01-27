@@ -1,11 +1,11 @@
 {
   "tokens": [
-    "CHILLGUY",
     "MEGA",
+    "CHILLGUY",
     "BIO",
     "CELO",
     "BABY",
-    "STBL"
+    "JTO"
   ],
   "scores": [
     150,
@@ -15,6 +15,6 @@
     142,
     140
   ],
-  "timestamp": "2026-01-27T22:41:39.053430",
+  "timestamp": "2026-01-27T22:56:51.435523",
   "bucket": "90k-400k"
 }
