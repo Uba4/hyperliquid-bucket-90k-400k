@@ -910,11 +910,11 @@
   },
   "AERO": {
     "current_run": 2,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T16:41:34.183555",
-    "exit_time": null,
+    "exit_time": "2026-01-27T18:01:05.703827",
     "last_bar_collected": 1363,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T18:01:05.703827",
     "entry_volume": 412673.67908
   },
   "RSR": {
@@ -990,13 +990,13 @@
     "entry_volume": 136089.573549
   },
   "DYDX": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T04:38:07.404580",
-    "exit_time": "2026-01-27T06:51:40.106329",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T18:01:05.703827",
+    "exit_time": null,
     "last_bar_collected": 2072,
-    "tracking_until": "2026-02-06T06:51:40.106329",
-    "entry_volume": 173521.0080409999
+    "tracking_until": null,
+    "entry_volume": 167201.639028
   },
   "kFLOKI": {
     "current_run": 1,
