@@ -37,11 +37,11 @@
   },
   "MINA": {
     "current_run": 17,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T20:53:57.451782",
-    "exit_time": null,
+    "exit_time": "2026-01-27T21:15:59.590712",
     "last_bar_collected": 2295,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T21:15:59.590712",
     "entry_volume": 109744.502881
   },
   "ZEREBRO": {
@@ -351,13 +351,13 @@
     "entry_volume": 118450.431921
   },
   "BIO": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T07:39:04.039878",
-    "exit_time": "2026-01-26T08:33:12.869944",
+    "current_run": 8,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T21:15:59.590712",
+    "exit_time": null,
     "last_bar_collected": 2224,
-    "tracking_until": "2026-02-05T08:33:12.869944",
-    "entry_volume": 288389.5139760001
+    "tracking_until": null,
+    "entry_volume": 249574.231687
   },
   "ME": {
     "current_run": 13,
@@ -790,15 +790,6 @@
     "last_bar_collected": 2026,
     "tracking_until": "2026-02-04T13:54:47.922628",
     "entry_volume": 104889.951419
-  },
-  "HBAR": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T20:53:42.851508",
-    "exit_time": "2026-01-17T21:15:28.937636",
-    "last_bar_collected": 959,
-    "tracking_until": "2026-01-27T21:15:28.937636",
-    "entry_volume": 368904.1053099999
   },
   "SUPER": {
     "current_run": 6,
