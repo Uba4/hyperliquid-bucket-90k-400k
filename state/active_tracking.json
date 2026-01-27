@@ -270,13 +270,13 @@
     "entry_volume": 103026.874293
   },
   "BRETT": {
-    "current_run": 11,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T11:13:35.767753",
-    "exit_time": "2026-01-19T12:33:39.292644",
+    "current_run": 12,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T05:43:19.341860",
+    "exit_time": null,
     "last_bar_collected": 2184,
-    "tracking_until": "2026-01-29T12:33:39.292644",
-    "entry_volume": 415318.2222199999
+    "tracking_until": null,
+    "entry_volume": 288686.8529149999
   },
   "KAS": {
     "current_run": 8,
@@ -1000,11 +1000,11 @@
   },
   "TURBO": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T03:46:10.290246",
-    "exit_time": null,
+    "exit_time": "2026-01-27T05:43:19.341860",
     "last_bar_collected": 1949,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T05:43:19.341860",
     "entry_volume": 136089.573549
   },
   "DYDX": {
@@ -1018,11 +1018,11 @@
   },
   "kFLOKI": {
     "current_run": 1,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T04:38:07.404580",
-    "exit_time": null,
+    "exit_time": "2026-01-27T05:43:19.341860",
     "last_bar_collected": 1188,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T05:43:19.341860",
     "entry_volume": 266485.884492
   },
   "ZEN": {
@@ -1033,5 +1033,14 @@
     "last_bar_collected": 1967,
     "tracking_until": null,
     "entry_volume": 437843.661483
+  },
+  "SEI": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T05:43:19.341860",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 402308.2604699999
   }
 }

@@ -2,19 +2,19 @@
   "tokens": [
     "GAS",
     "BANANA",
-    "DYDX",
-    "TURBO",
     "ZEN",
-    "kFLOKI"
+    "DYDX",
+    "BRETT",
+    "SEI"
   ],
   "scores": [
     148,
     146,
     144,
+    142,
     140,
-    138,
-    138
+    134
   ],
-  "timestamp": "2026-01-27T05:06:01.683504",
+  "timestamp": "2026-01-27T05:43:19.342242",
   "bucket": "90k-400k"
 }
