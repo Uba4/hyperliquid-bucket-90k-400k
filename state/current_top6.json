@@ -2,19 +2,19 @@
   "tokens": [
     "MEGA",
     "CHILLGUY",
-    "BIO",
+    "JTO",
     "CELO",
     "BABY",
-    "JTO"
+    "SAGA"
   ],
   "scores": [
+    152,
     150,
     148,
     146,
     144,
-    142,
     140
   ],
-  "timestamp": "2026-01-27T22:56:51.435523",
+  "timestamp": "2026-01-27T23:27:58.746620",
   "bucket": "90k-400k"
 }

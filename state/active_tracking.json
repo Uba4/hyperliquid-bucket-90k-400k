@@ -333,13 +333,13 @@
     "entry_volume": 138610.546273
   },
   "SAGA": {
-    "current_run": 15,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T08:33:12.869944",
-    "exit_time": "2026-01-26T11:47:38.275335",
+    "current_run": 16,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T23:27:58.746418",
+    "exit_time": null,
     "last_bar_collected": 2229,
-    "tracking_until": "2026-02-05T11:47:38.275335",
-    "entry_volume": 245173.076605
+    "tracking_until": null,
+    "entry_volume": 143153.4205839999
   },
   "TST": {
     "current_run": 12,
@@ -352,11 +352,11 @@
   },
   "BIO": {
     "current_run": 8,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T21:15:59.590712",
-    "exit_time": null,
+    "exit_time": "2026-01-27T23:27:58.746418",
     "last_bar_collected": 2233,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T23:27:58.746418",
     "entry_volume": 249574.231687
   },
   "ME": {
