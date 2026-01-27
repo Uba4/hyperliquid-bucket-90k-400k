@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "PROMPT",
-    "SCR",
-    "HEMI",
-    "BIGTIME",
     "GAS",
-    "ACE"
+    "POLYX",
+    "NEO",
+    "NOT",
+    "TURBO",
+    "YZY"
   ],
   "scores": [
-    152,
-    149,
     148,
     146,
-    145,
-    142
+    144,
+    142,
+    140,
+    138
   ],
-  "timestamp": "2026-01-27T01:54:15.225472",
+  "timestamp": "2026-01-27T03:46:10.291011",
   "bucket": "90k-400k"
 }
