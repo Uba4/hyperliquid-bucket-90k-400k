@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MANTA",
-    "MEGA",
-    "BANANA",
     "IO",
+    "BANANA",
     "POLYX",
+    "MEGA",
     "GMX"
   ],
   "scores": [
     144,
-    144,
     142,
-    142,
+    140,
     138,
-    136
+    136,
+    134
   ],
-  "timestamp": "2026-01-27T07:20:54.832001",
+  "timestamp": "2026-01-27T07:46:52.945791",
   "bucket": "90k-400k"
 }
