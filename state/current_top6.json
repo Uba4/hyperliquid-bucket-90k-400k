@@ -1,20 +1,20 @@
 {
   "tokens": [
     "MANTA",
-    "APEX",
     "HEMI",
-    "IO",
+    "STABLE",
     "ZEREBRO",
+    "IO",
     "INIT"
   ],
   "scores": [
+    150,
     148,
     146,
     144,
     142,
-    140,
-    138
+    140
   ],
-  "timestamp": "2026-01-27T10:18:23.151686",
+  "timestamp": "2026-01-27T10:52:14.344143",
   "bucket": "90k-400k"
 }
