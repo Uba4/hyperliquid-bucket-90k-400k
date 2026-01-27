@@ -180,13 +180,13 @@
     "entry_volume": 206505.4237189999
   },
   "MEGA": {
-    "current_run": 30,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T05:59:30.684451",
-    "exit_time": "2026-01-27T08:46:59.288158",
+    "current_run": 31,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T11:41:52.296370",
+    "exit_time": null,
     "last_bar_collected": 2238,
-    "tracking_until": "2026-02-06T08:46:59.288158",
-    "entry_volume": 92013.56753
+    "tracking_until": null,
+    "entry_volume": 99765.74535
   },
   "CHILLGUY": {
     "current_run": 17,
@@ -199,11 +199,11 @@
   },
   "IO": {
     "current_run": 14,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T06:51:40.106329",
-    "exit_time": null,
+    "exit_time": "2026-01-27T11:41:52.296370",
     "last_bar_collected": 2246,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T11:41:52.296370",
     "entry_volume": 229613.316888
   },
   "GRIFFAIN": {
