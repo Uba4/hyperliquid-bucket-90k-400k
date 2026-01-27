@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "SOPH",
+    "PROMPT",
+    "SCR",
     "HEMI",
-    "PURR",
-    "PROVE",
-    "BLAST",
-    "PROMPT"
+    "BIGTIME",
+    "GAS",
+    "ACE"
   ],
   "scores": [
+    152,
+    149,
     148,
     146,
-    143,
-    143,
-    140,
-    138
+    145,
+    142
   ],
-  "timestamp": "2026-01-26T23:55:26.114766",
+  "timestamp": "2026-01-27T01:54:15.225472",
   "bucket": "90k-400k"
 }
