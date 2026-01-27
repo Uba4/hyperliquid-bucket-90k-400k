@@ -2,19 +2,19 @@
   "tokens": [
     "MANTA",
     "IO",
-    "BANANA",
     "POLYX",
+    "BANANA",
     "MEGA",
     "GMX"
   ],
   "scores": [
+    146,
     144,
     142,
     140,
     138,
-    136,
-    134
+    136
   ],
-  "timestamp": "2026-01-27T07:46:52.945791",
+  "timestamp": "2026-01-27T07:59:30.419886",
   "bucket": "90k-400k"
 }
