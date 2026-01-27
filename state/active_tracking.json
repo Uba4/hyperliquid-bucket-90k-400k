@@ -28,11 +28,11 @@
   },
   "SYRUP": {
     "current_run": 21,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T16:41:34.183555",
-    "exit_time": null,
+    "exit_time": "2026-01-27T17:05:22.318072",
     "last_bar_collected": 2278,
-    "tracking_until": null,
+    "tracking_until": "2026-02-06T17:05:22.318072",
     "entry_volume": 339799.2378699998
   },
   "MINA": {
@@ -234,13 +234,13 @@
     "entry_volume": 399270.45304
   },
   "USUAL": {
-    "current_run": 26,
-    "status": "post_exit",
-    "entry_time": "2026-01-22T22:53:25.028336",
-    "exit_time": "2026-01-23T04:14:25.157885",
+    "current_run": 27,
+    "status": "in_top6",
+    "entry_time": "2026-01-27T17:05:22.318072",
+    "exit_time": null,
     "last_bar_collected": 2256,
-    "tracking_until": "2026-02-02T04:14:25.157885",
-    "entry_volume": 97257.338871
+    "tracking_until": null,
+    "entry_volume": 130148.731065
   },
   "ANIME": {
     "current_run": 10,
