@@ -45,13 +45,13 @@
     "entry_volume": 109744.502881
   },
   "ZEREBRO": {
-    "current_run": 27,
-    "status": "post_exit",
-    "entry_time": "2026-01-28T10:21:13.852374",
-    "exit_time": "2026-01-28T10:52:57.464745",
+    "current_run": 28,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T11:19:11.097532",
+    "exit_time": null,
     "last_bar_collected": 2345,
-    "tracking_until": "2026-02-07T10:52:57.464745",
-    "entry_volume": 191718.332515
+    "tracking_until": null,
+    "entry_volume": 194157.43767
   },
   "GALA": {
     "current_run": 10,
@@ -199,11 +199,11 @@
   },
   "GRIFFAIN": {
     "current_run": 23,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-27T23:47:21.931909",
-    "exit_time": null,
+    "exit_time": "2026-01-28T11:19:11.097532",
     "last_bar_collected": 2334,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T11:19:11.097532",
     "entry_volume": 186482.0844
   },
   "POLYX": {

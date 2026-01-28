@@ -4,17 +4,17 @@
     "PROVE",
     "2Z",
     "BANANA",
-    "GRIFFAIN",
-    "BRETT"
+    "BRETT",
+    "ZEREBRO"
   ],
   "scores": [
-    156,
     154,
     152,
     150,
     148,
-    146
+    146,
+    142
   ],
-  "timestamp": "2026-01-28T10:52:57.464968",
+  "timestamp": "2026-01-28T11:19:11.097718",
   "bucket": "90k-400k"
 }
