@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "BOME",
     "kLUNC",
-    "STRK",
-    "ALGO",
-    "ANIME",
     "APE",
-    "PNUT"
+    "S",
+    "SAGA",
+    "ZK"
   ],
   "scores": [
-    154,
     152,
     150,
     148,
     146,
-    144
+    144,
+    140
   ],
-  "timestamp": "2026-01-28T22:14:35.635400",
+  "timestamp": "2026-01-28T22:49:11.795483",
   "bucket": "90k-400k"
 }
