@@ -45,13 +45,13 @@
     "entry_volume": 109744.502881
   },
   "ZEREBRO": {
-    "current_run": 26,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T15:40:14.469093",
-    "exit_time": "2026-01-27T21:35:57.334524",
+    "current_run": 27,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T10:21:13.852374",
+    "exit_time": null,
     "last_bar_collected": 2345,
-    "tracking_until": "2026-02-06T21:35:57.334524",
-    "entry_volume": 155951.233387
+    "tracking_until": null,
+    "entry_volume": 191718.332515
   },
   "GALA": {
     "current_run": 10,
@@ -125,15 +125,6 @@
     "tracking_until": "2026-02-06T01:54:15.224814",
     "entry_volume": 267433.3747360001
   },
-  "RESOLV": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-18T07:22:59.118174",
-    "exit_time": "2026-01-18T10:15:46.421572",
-    "last_bar_collected": 2346,
-    "tracking_until": "2026-01-28T10:15:46.421572",
-    "entry_volume": 337429.8965670002
-  },
   "CELO": {
     "current_run": 24,
     "status": "post_exit",
@@ -181,11 +172,11 @@
   },
   "MEGA": {
     "current_run": 34,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T05:19:50.707868",
-    "exit_time": null,
+    "exit_time": "2026-01-28T10:21:13.852374",
     "last_bar_collected": 2320,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T10:21:13.852374",
     "entry_volume": 211531.83337
   },
   "CHILLGUY": {
