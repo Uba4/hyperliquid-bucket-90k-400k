@@ -2,19 +2,19 @@
   "tokens": [
     "GRIFFAIN",
     "MEGA",
+    "INIT",
     "2Z",
     "GAS",
-    "INIT",
-    "AIXBT"
+    "PROVE"
   ],
   "scores": [
+    156,
     154,
     152,
     150,
     148,
-    146,
-    144
+    146
   ],
-  "timestamp": "2026-01-28T08:44:48.414432",
+  "timestamp": "2026-01-28T09:19:55.563355",
   "bucket": "90k-400k"
 }
