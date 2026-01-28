@@ -2,10 +2,10 @@
   "tokens": [
     "kLUNC",
     "ALGO",
+    "ZK",
     "CELO",
-    "SNX",
-    "POLYX",
-    "SAGA"
+    "ANIME",
+    "SNX"
   ],
   "scores": [
     150,
@@ -13,8 +13,8 @@
     146,
     144,
     142,
-    138
+    140
   ],
-  "timestamp": "2026-01-28T20:47:31.971649",
+  "timestamp": "2026-01-28T21:17:17.652303",
   "bucket": "90k-400k"
 }
