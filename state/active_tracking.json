@@ -190,11 +190,11 @@
   },
   "IO": {
     "current_run": 15,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T13:51:58.162328",
-    "exit_time": null,
+    "exit_time": "2026-01-28T16:04:06.773661",
     "last_bar_collected": 2360,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T16:04:06.773661",
     "entry_volume": 286796.667998
   },
   "GRIFFAIN": {
@@ -450,13 +450,13 @@
     "entry_volume": 222199.335756
   },
   "BABY": {
-    "current_run": 19,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T22:41:39.053224",
-    "exit_time": "2026-01-27T23:47:21.931909",
+    "current_run": 20,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T16:04:06.773661",
+    "exit_time": null,
     "last_bar_collected": 2227,
-    "tracking_until": "2026-02-06T23:47:21.931909",
-    "entry_volume": 82242.371778
+    "tracking_until": null,
+    "entry_volume": 87869.511464
   },
   "W": {
     "current_run": 13,
