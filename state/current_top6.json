@@ -2,19 +2,19 @@
   "tokens": [
     "DOOD",
     "SKY",
-    "MEGA",
-    "ALGO",
+    "2Z",
+    "GRASS",
     "GRIFFAIN",
-    "LAYER"
+    "AIXBT"
   ],
   "scores": [
+    144,
+    142,
     140,
-    140,
-    140,
+    138,
     136,
-    134,
-    130
+    134
   ],
-  "timestamp": "2026-01-28T02:28:23.182431",
+  "timestamp": "2026-01-28T03:57:23.379952",
   "bucket": "90k-400k"
 }
