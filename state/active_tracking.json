@@ -46,11 +46,11 @@
   },
   "ZEREBRO": {
     "current_run": 28,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T11:19:11.097532",
-    "exit_time": null,
+    "exit_time": "2026-01-28T11:41:45.582974",
     "last_bar_collected": 2345,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T11:41:45.582974",
     "entry_volume": 194157.43767
   },
   "GALA": {
@@ -558,13 +558,13 @@
     "entry_volume": 421689.3735679999
   },
   "HYPER": {
-    "current_run": 9,
-    "status": "post_exit",
-    "entry_time": "2026-01-26T01:29:42.198585",
-    "exit_time": "2026-01-26T03:34:51.297253",
+    "current_run": 10,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T11:41:45.582974",
+    "exit_time": null,
     "last_bar_collected": 2025,
-    "tracking_until": "2026-02-05T03:34:51.297253",
-    "entry_volume": 419302.8902600001
+    "tracking_until": null,
+    "entry_volume": 90869.77626
   },
   "XAI": {
     "current_run": 4,
