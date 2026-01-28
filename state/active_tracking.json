@@ -451,11 +451,11 @@
   },
   "AIXBT": {
     "current_run": 11,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T03:57:23.379509",
-    "exit_time": null,
+    "exit_time": "2026-01-28T06:01:57.417010",
     "last_bar_collected": 2193,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T06:01:57.417010",
     "entry_volume": 196234.26895
   },
   "BABY": {
@@ -945,13 +945,13 @@
     "entry_volume": 409433.58798
   },
   "GAS": {
-    "current_run": 1,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T01:54:15.224814",
-    "exit_time": "2026-01-27T07:20:54.831505",
+    "current_run": 2,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T06:01:57.417010",
+    "exit_time": null,
     "last_bar_collected": 1410,
-    "tracking_until": "2026-02-06T07:20:54.831505",
-    "entry_volume": 176534.07875
+    "tracking_until": null,
+    "entry_volume": 424034.2985200001
   },
   "TURBO": {
     "current_run": 1,
