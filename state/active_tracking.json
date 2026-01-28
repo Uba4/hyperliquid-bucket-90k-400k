@@ -307,11 +307,11 @@
   },
   "PROVE": {
     "current_run": 18,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T09:19:55.563152",
-    "exit_time": null,
+    "exit_time": "2026-01-28T14:56:26.422452",
     "last_bar_collected": 2284,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T14:56:26.422452",
     "entry_volume": 97591.91524
   },
   "VINE": {
@@ -1015,5 +1015,14 @@
     "last_bar_collected": 2023,
     "tracking_until": "2026-02-06T19:26:07.188737",
     "entry_volume": 128415.754943
+  },
+  "0G": {
+    "current_run": 1,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T14:56:26.422452",
+    "exit_time": null,
+    "last_bar_collected": 0,
+    "tracking_until": null,
+    "entry_volume": 376100.64581
   }
 }
