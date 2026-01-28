@@ -2,10 +2,10 @@
   "tokens": [
     "DOOD",
     "SKY",
-    "2Z",
-    "GRASS",
     "GRIFFAIN",
-    "AIXBT"
+    "2Z",
+    "AIXBT",
+    "GRASS"
   ],
   "scores": [
     144,
@@ -15,6 +15,6 @@
     136,
     134
   ],
-  "timestamp": "2026-01-28T03:57:23.379952",
+  "timestamp": "2026-01-28T04:50:43.419256",
   "bucket": "90k-400k"
 }

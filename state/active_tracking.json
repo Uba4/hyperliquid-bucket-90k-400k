@@ -539,15 +539,6 @@
     "tracking_until": "2026-02-06T13:01:43.459031",
     "entry_volume": 342027.047324
   },
-  "0G": {
-    "current_run": 7,
-    "status": "post_exit",
-    "entry_time": "2026-01-17T23:19:22.599328",
-    "exit_time": "2026-01-18T03:59:14.250468",
-    "last_bar_collected": 2081,
-    "tracking_until": "2026-01-28T03:59:14.250468",
-    "entry_volume": 126800.97157
-  },
   "GMX": {
     "current_run": 16,
     "status": "post_exit",
