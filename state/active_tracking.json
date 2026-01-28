@@ -46,11 +46,11 @@
   },
   "ZEREBRO": {
     "current_run": 27,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T10:21:13.852374",
-    "exit_time": null,
+    "exit_time": "2026-01-28T10:52:57.464745",
     "last_bar_collected": 2345,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T10:52:57.464745",
     "entry_volume": 191718.332515
   },
   "GALA": {
@@ -261,13 +261,13 @@
     "entry_volume": 103026.874293
   },
   "BRETT": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T05:43:19.341860",
-    "exit_time": "2026-01-27T06:51:40.106329",
+    "current_run": 13,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T10:52:57.464745",
+    "exit_time": null,
     "last_bar_collected": 2300,
-    "tracking_until": "2026-02-06T06:51:40.106329",
-    "entry_volume": 288686.8529149999
+    "tracking_until": null,
+    "entry_volume": 291372.438201
   },
   "KAS": {
     "current_run": 9,
