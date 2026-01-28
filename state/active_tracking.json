@@ -424,11 +424,11 @@
   },
   "BSV": {
     "current_run": 9,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-28T16:55:10.467046",
-    "exit_time": null,
+    "exit_time": "2026-01-28T20:02:30.963754",
     "last_bar_collected": 2261,
-    "tracking_until": null,
+    "tracking_until": "2026-02-07T20:02:30.963754",
     "entry_volume": 169084.87637
   },
   "RUNE": {
@@ -567,13 +567,13 @@
     "entry_volume": 90869.77626
   },
   "XAI": {
-    "current_run": 4,
-    "status": "post_exit",
-    "entry_time": "2026-01-21T11:57:00.878932",
-    "exit_time": "2026-01-21T13:00:08.353482",
+    "current_run": 5,
+    "status": "in_top6",
+    "entry_time": "2026-01-28T20:02:30.963754",
+    "exit_time": null,
     "last_bar_collected": 2052,
-    "tracking_until": "2026-01-31T13:00:08.353482",
-    "entry_volume": 136801.2778200001
+    "tracking_until": null,
+    "entry_volume": 86056.015402
   },
   "CAKE": {
     "current_run": 14,
