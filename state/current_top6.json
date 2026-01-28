@@ -1,20 +1,20 @@
 {
   "tokens": [
     "GRIFFAIN",
-    "MEGA",
     "INIT",
     "2Z",
-    "GAS",
+    "MEGA",
+    "BANANA",
     "PROVE"
   ],
   "scores": [
     156,
     154,
-    152,
-    150,
+    151,
+    151,
     148,
     146
   ],
-  "timestamp": "2026-01-28T09:19:55.563355",
+  "timestamp": "2026-01-28T09:52:28.025520",
   "bucket": "90k-400k"
 }
