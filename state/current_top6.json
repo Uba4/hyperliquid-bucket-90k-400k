@@ -1,20 +1,20 @@
 {
   "tokens": [
+    "DOOD",
+    "SKY",
     "MEGA",
-    "CHILLGUY",
-    "JTO",
+    "ALGO",
     "GRIFFAIN",
-    "STBL",
-    "CELO"
+    "LAYER"
   ],
   "scores": [
-    152,
-    150,
-    148,
-    146,
-    144,
-    142
+    140,
+    140,
+    140,
+    136,
+    134,
+    130
   ],
-  "timestamp": "2026-01-27T23:58:56.293546",
+  "timestamp": "2026-01-28T02:28:23.182431",
   "bucket": "90k-400k"
 }
