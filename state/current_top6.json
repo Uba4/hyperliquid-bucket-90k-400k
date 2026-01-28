@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "MANTA",
     "IO",
+    "MANTA",
     "W",
-    "PROVE",
     "POLYX",
-    "INIT"
+    "INIT",
+    "PROVE"
   ],
   "scores": [
-    156,
     154,
     152,
     150,
     148,
-    146
+    146,
+    144
   ],
-  "timestamp": "2026-01-28T13:51:58.162646",
+  "timestamp": "2026-01-28T14:22:56.099153",
   "bucket": "90k-400k"
 }
