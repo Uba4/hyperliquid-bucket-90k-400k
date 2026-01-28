@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "DOOD",
     "GRIFFAIN",
-    "SKY",
+    "DOOD",
+    "MEGA",
     "2Z",
-    "AIXBT",
-    "MEGA"
+    "SKY",
+    "AIXBT"
   ],
   "scores": [
+    146,
     144,
     142,
     140,
     138,
-    136,
-    134
+    136
   ],
-  "timestamp": "2026-01-28T05:19:50.708136",
+  "timestamp": "2026-01-28T05:49:14.709110",
   "bucket": "90k-400k"
 }
