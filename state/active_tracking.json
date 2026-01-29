@@ -332,15 +332,6 @@
     "tracking_until": "2026-02-08T02:46:45.428077",
     "entry_volume": 151373.024409
   },
-  "TST": {
-    "current_run": 12,
-    "status": "post_exit",
-    "entry_time": "2026-01-19T01:23:42.696924",
-    "exit_time": "2026-01-19T03:22:40.180112",
-    "last_bar_collected": 2342,
-    "tracking_until": "2026-01-29T03:22:40.180112",
-    "entry_volume": 118450.431921
-  },
   "BIO": {
     "current_run": 8,
     "status": "post_exit",
@@ -514,11 +505,11 @@
   },
   "SNX": {
     "current_run": 12,
-    "status": "in_top6",
+    "status": "post_exit",
     "entry_time": "2026-01-29T00:00:01.706683",
-    "exit_time": null,
+    "exit_time": "2026-01-29T04:21:33.739976",
     "last_bar_collected": 2217,
-    "tracking_until": null,
+    "tracking_until": "2026-02-08T04:21:33.739976",
     "entry_volume": 238927.923875
   },
   "HEMI": {
@@ -576,13 +567,13 @@
     "entry_volume": 86056.015402
   },
   "CAKE": {
-    "current_run": 14,
-    "status": "post_exit",
-    "entry_time": "2026-01-27T15:01:16.753340",
-    "exit_time": "2026-01-27T17:43:42.680383",
+    "current_run": 15,
+    "status": "in_top6",
+    "entry_time": "2026-01-29T04:21:33.739976",
+    "exit_time": null,
     "last_bar_collected": 2000,
-    "tracking_until": "2026-02-06T17:43:42.680383",
-    "entry_volume": 201629.98933
+    "tracking_until": null,
+    "entry_volume": 246146.04322
   },
   "GMT": {
     "current_run": 14,
