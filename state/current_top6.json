@@ -1,20 +1,20 @@
 {
   "tokens": [
-    "BOME",
-    "S",
-    "APE",
-    "IO",
-    "SAGA",
+    "ALGO",
+    "MANTA",
+    "ZETA",
+    "COMP",
+    "BABY",
     "SNX"
   ],
   "scores": [
-    150,
     148,
     146,
     144,
     142,
-    140
+    140,
+    138
   ],
-  "timestamp": "2026-01-29T00:00:01.706897",
+  "timestamp": "2026-01-29T02:46:45.428824",
   "bucket": "90k-400k"
 }
